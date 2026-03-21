@@ -1,0 +1,214 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:59",
+            "game_time": "48:59",
+            "query": "What an entertaining encounter between these two teams. Let's hope there will more of the same in their other games. You have to say that the visitors have been the better side. The home team tried to find the weakness in the opposition's defence mostly using rapid counter-attacks, while the away team played possession football.",
+            "short-term": "What an entertaining encounter between these two teams. Let's hope there will more of the same in their other games. You have to say that the visitors have been the better side. The home team tried to find the weakness in the opposition's defence mostly using rapid counter-attacks, while the away team played possession football.",
+            "query_ano": "What an entertaining encounter between these two teams. Let's hope there will more of the same in their other games. You have to say that the visitors have been the better side. The home team tried to find the weakness in the opposition's defence mostly using rapid counter-attacks, while the away team played possession football."
+        },
+        {
+            "gameTime": "46:50",
+            "game_time": "46:50",
+            "query": "Granit Xhaka (Arsenal) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 30 metres out which goes into the roof of the net.",
+            "short-term": "Granit Xhaka (Arsenal) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 30 metres out which goes into the roof of the net. The shot from the left stunned the goalkeeper, leaving him no chance to react.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 30 metres out which goes into the roof of the net."
+        },
+        {
+            "gameTime": "43:03",
+            "game_time": "43:03",
+            "query": "Francis Coquelin (Arsenal) has an effort on goal, but he misses to the right of the goal.",
+            "short-term": "Francis Coquelin (Arsenal) has an effort on goal, but he misses to the right of the goal. His shot from distance lacked precision and failed to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) has an effort on goal, but he misses to the right of the goal."
+        },
+        {
+            "gameTime": "42:38",
+            "game_time": "42:38",
+            "query": "Mesut Ozil (Arsenal) works the corner short instead of sending the ball into the penalty area.",
+            "short-term": "Mesut Ozil (Arsenal) works the corner short instead of sending the ball into the penalty area. He played a quick exchange with a teammate to look for a better angle.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "42:26",
+            "game_time": "42:26",
+            "query": "Substitution. Theo Walcott will be replaced by Lucas Perez (Arsenal).",
+            "short-term": "Substitution. Theo Walcott will be replaced by Lucas Perez (Arsenal). The forward gets his chance to make an impact in the final minutes of the match.",
+            "query_ano": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "42:02",
+            "game_time": "42:02",
+            "query": "The ball is cleared after Mesut Ozil (Arsenal) attempted to dribble past an opposing player. ",
+            "short-term": "The ball is cleared after Mesut Ozil (Arsenal) attempted to dribble past an opposing player. The clearance comes off a defender's foot, giving Arsenal a corner.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. "
+        },
+        {
+            "gameTime": "39:02",
+            "game_time": "39:02",
+            "query": "A pass from Dieumerci Mbokani (Hull City) is intercepted by Petr Cech and the move breaks down.",
+            "short-term": "A pass from Dieumerci Mbokani (Hull City) is intercepted by Petr Cech and the move breaks down. The forward attempted to send a through ball, but Cech reacted quickly to collect.",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by Petr Cech and the move breaks down."
+        },
+        {
+            "gameTime": "37:47",
+            "game_time": "37:47",
+            "query": "Goal! Alexis Sanchez (Arsenal) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top right corner. It's 1:3.",
+            "short-term": "Goal! Alexis Sanchez (Arsenal) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top right corner. Annoyed at missing a penalty earlier, he redeems himself with a clinical finish.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top right corner. It's 1:3."
+        },
+        {
+            "gameTime": "37:40",
+            "game_time": "37:40",
+            "query": "Eldin Jakupovic pulls off a great save to deny Theo Walcott (Arsenal), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal.",
+            "short-term": "Eldin Jakupovic pulls off a great save to deny Theo Walcott (Arsenal), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal. His effort was powerful, but the keeper reacted brilliantly to save it.",
+            "query_ano": "Eldin Jakupovic pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "33:45",
+            "game_time": "33:45",
+            "query": "Robert Snodgrass (Hull City) fires the penalty inside the left post.",
+            "short-term": "Robert Snodgrass (Hull City) fires the penalty inside the left post. The goalkeeper guessed the right direction but couldn't reach the well-placed shot.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the penalty inside the left post."
+        },
+        {
+            "gameTime": "32:30",
+            "game_time": "32:30",
+            "query": "Robert Snodgrass (Hull City) is going to take the penalty!",
+            "short-term": "Robert Snodgrass (Hull City) is going to take the penalty! The referee awarded the spot-kick after a collision between two players in the box.",
+            "query_ano": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "gameTime": "32:25",
+            "game_time": "32:25",
+            "query": "Petr Cech (Arsenal) picks up a yellow card for a foul.",
+            "short-term": "Petr Cech (Arsenal) picks up a yellow card for a foul. The referee initially hesitated but, after consulting the linesman, decided to caution the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "32:20",
+            "game_time": "32:20",
+            "query": "Petr Cech (Arsenal) tackles a bit over-zealously and Roger East blows for a foul. The referee blows the whistle and gives a penalty to Hull!!",
+            "short-term": "Petr Cech (Arsenal) tackles a bit over-zealously and Roger East blows for a foul. The forward reached the ball first before goalkeeper collided with him. The referee blows the whistle and gives a penalty to Hull!!",
+            "query_ano": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul. The referee blows the whistle and gives a penalty to Hull!!"
+        },
+        {
+            "gameTime": "31:55",
+            "game_time": "31:55",
+            "query": "Arsene Wenger has decided to introduce fresh legs, with Mohamed Elneny (Arsenal) replacing Alex Iwobi.",
+            "short-term": "Arsene Wenger has decided to introduce fresh legs, with Mohamed Elneny (Arsenal) replacing Alex Iwobi. He enters to reinforce the midfield, providing more defensive stability.",
+            "query_ano": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing Alex Iwobi."
+        },
+        {
+            "gameTime": "31:54",
+            "game_time": "31:54",
+            "query": "That will be all from Abel Hernandez who is being replaced by the fresh legs of Dieumerci Mbokani (Hull City).",
+            "short-term": "That will be all from Abel Hernandez who is being replaced by the fresh legs of Dieumerci Mbokani (Hull City). A powerful and technical striker, comes on to give them a more physical presence in attack.",
+            "query_ano": "That will be all from Abel Hernandez who is being replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "31:13",
+            "game_time": "31:13",
+            "query": "Mesut Ozil sprays a pass out to Theo Walcott (Arsenal), but he produces a poor effort from inside the box which goes well wide of the left post.",
+            "short-term": "Mesut Ozil sprays a pass out to Theo Walcott (Arsenal), but he produces a poor effort from inside the box which goes well wide of the left post. Walcott had time and space but failed to control his shot properly.",
+            "query_ano": "[PLAYER] sprays a pass out to [PLAYER] ([TEAM]), but he produces a poor effort from inside the box which goes well wide of the left post."
+        },
+        {
+            "gameTime": "29:29",
+            "game_time": "29:29",
+            "query": "Mesut Ozil (Arsenal) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",
+            "short-term": "Mesut Ozil (Arsenal) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. A opponent stepped in quickly to deflect the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "27:44",
+            "game_time": "27:44",
+            "query": "Francis Coquelin (Arsenal) and Alexis Sanchez attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "short-term": "Francis Coquelin (Arsenal) and Alexis Sanchez attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. Hull’s defense stayed compact, preventing the Arsenal duo from breaking through.",
+            "query_ano": "[PLAYER] ([TEAM]) and Alexis Sanchez attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "26:33",
+            "game_time": "26:33",
+            "query": "Eldin Jakupovic displays his ability to read the game and clears the danger after Alexis Sanchez (Arsenal) threatened to latch onto a through ball from just outside the box.",
+            "short-term": "Eldin Jakupovic displays his ability to read the game and clears the danger after Alexis Sanchez (Arsenal) threatened to latch onto a through ball from just outside the box. The Hull goalkeeper reacted swiftly, coming off his line to clear before Sanchez could take a touch.",
+            "query_ano": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "gameTime": "25:25",
+            "game_time": "25:25",
+            "query": "Francis Coquelin (Arsenal) and Nacho Monreal matched up again to find some space for an unmarked teammate.",
+            "short-term": "Francis Coquelin (Arsenal) and Nacho Monreal matched up again to find some space for an unmarked teammate. Arsenal looked to build patiently, but Hull's defensive shape remained solid.",
+            "query_ano": "[PLAYER] ([TEAM]) and Nacho Monreal matched up again to find some space for an unmarked teammate."
+        },
+        {
+            "gameTime": "21:36",
+            "game_time": "21:36",
+            "query": "Here comes a substitution. Granit Xhaka (Arsenal) is brought on as a substitute for Santi Cazorla.",
+            "short-term": "Here comes a substitution. Granit Xhaka (Arsenal) is brought on as a substitute for Santi Cazorla. Xhaka’s physical presence and long-range passing could help Arsenal control the midfield.",
+            "query_ano": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "gameTime": "21:07",
+            "game_time": "21:07",
+            "query": "Flag up against Abel Hernandez (Hull City). He had space to move into behind the defence, but he went too soon.",
+            "short-term": "Flag up against Abel Hernandez (Hull City). He had space to move into behind the defence, but he went too soon. The assistant referee correctly raised the flag as he mistimed his run.",
+            "query_ano": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "19:52",
+            "game_time": "19:52",
+            "query": "Robert Snodgrass (Hull City) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "short-term": "Robert Snodgrass (Hull City) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The ball was aimed towards the far post, but Arsenal's defense reacted well.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "18:46",
+            "game_time": "18:46",
+            "query": "Alex Iwobi (Arsenal) finds Santi Cazorla with a nice pass so he can go on towards the goal.",
+            "short-term": "Alex Iwobi (Arsenal) finds Santi Cazorla with a nice pass so he can go on towards the goal. He took a quick glance at his options before pushing forward.",
+            "query_ano": "[PLAYER] ([TEAM]) finds Santi Cazorla with a nice pass so he can go on towards the goal."
+        },
+        {
+            "gameTime": "14:31",
+            "game_time": "14:31",
+            "query": "Theo Walcott (Arsenal) smashes the ball towards goal from the edge of the penalty box, but it goes well wide of the right post.",
+            "short-term": "Theo Walcott (Arsenal) smashes the ball towards goal from the edge of the penalty box, but it goes well wide of the right post. The shot lacked precision as Hull’s defenders quickly closed him down.",
+            "query_ano": "[PLAYER] ([TEAM]) smashes the ball towards goal from the edge of the penalty box, but it goes well wide of the right post."
+        },
+        {
+            "gameTime": "12:12",
+            "game_time": "12:12",
+            "query": "Substitution. Ryan Mason (Hull City) replaces Tom Huddlestone.",
+            "short-term": "Substitution. Ryan Mason (Hull City) replaces Tom Huddlestone. Mason, known for his ability to distribute the ball well, will look to add stability in midfield.",
+            "query_ano": "Substitution. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "09:07",
+            "game_time": "9:07",
+            "query": "Goal! Alex Iwobi gets to the ball, slips Theo Walcott (Arsenal) into the area and he scores with a delightful chipped finish to make it 0:2.",
+            "short-term": "Goal! Alex Iwobi gets to the ball, slips Theo Walcott (Arsenal) into the area and he scores with a delightful chipped finish to make it 0:2. Very technical, neat, no chance for the goalkeeper.",
+            "query_ano": "Goal! [PLAYER] gets to the ball, slips [PLAYER] ([TEAM]) into the area and he scores with a delightful chipped finish to make it 0:2."
+        },
+        {
+            "gameTime": "07:57",
+            "game_time": "7:57",
+            "query": "The Hull players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break.",
+            "short-term": "The Hull players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break. The defense forcing them knock the ball out of the outfield.",
+            "query_ano": "The [TEAM] players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "04:51",
+            "game_time": "4:51",
+            "query": "Theo Walcott (Arsenal) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "short-term": "Theo Walcott (Arsenal) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. Hull’s defenders stood firm and cleared the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "03:53",
+            "game_time": "3:53",
+            "query": "David Meyler (Hull City) sends a chip pass into the box, but Petr Cech is quickest to intercept the ball.",
+            "short-term": "David Meyler (Hull City) sends a chip pass into the box, but Petr Cech is quickest to intercept the ball. The goalkeeper read the danger well and gathered it safely.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a chip pass into the box, but Petr Cech is quickest to intercept the ball."
+        }
+    ]
+}

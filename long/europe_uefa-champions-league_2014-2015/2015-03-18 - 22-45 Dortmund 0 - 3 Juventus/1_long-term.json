@@ -1,0 +1,482 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:28",
+            "game_time": "44:28",
+            "query": "Decent spell from Dortmund here and they keep the pressure on until one of the defending players steps in.",
+            "short-term": "Decent spell from Dortmund here and they keep the pressure on until one of the defending players steps in. They pushed forward aggressively, but their opposent defense held firm.",
+            "query_ano": "Decent spell from [TEAM] here and they keep the pressure on until one of the defending players steps in.",
+            "history": [
+                {
+                    "short-term": "Some patient build-up play from Dortmund as they look to unlock the defence. They move the ball from flank to flank, trying to stretch Juventus’ defensive line, but the final pass is still missing.",
+                    "history_time": "34:20",
+                    "long-term": "They have been maintaining possession and building up attacking opportunities, but struggling to break down the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:45",
+            "game_time": "42:45",
+            "query": "Sven Bender (Dortmund) commits a foul after unfairly battling his opponent for the ball.",
+            "short-term": "Sven Bender commits a foul after unfairly battling his opponent for the ball. Juventus players call for a quick restart as they attempt to transition into attack before Dortmund can regroup.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+            "history": [
+                {
+                    "short-term": "Sven Bender sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball. The goalkeeper came off his line confidently, catching the ball in midair before any Dortmund attackers could get a touch.",
+                    "history_time": "32:42",
+                    "long-term": "He has shown a mix of aggression and creativity, being involved in both defensive and attacking plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:01",
+            "game_time": "40:01",
+            "query": "Sokratis (Dortmund) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and Juventus will take a throw-in.",
+            "short-term": "Sokratis slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and Juventus will take a throw-in. Dortmund's attacking momentum stalls as their passing sequence breaks down near the final third.",
+            "query_ano": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Roberto Pereyra attempted to dribble past an opposing player. The linesman signals a throw-in for Dortmund. He had tried to cut inside but was quickly closed down, forcing him to lose control before the ball was cleared out of play.",
+                    "history_time": "37:12",
+                    "long-term": "They have struggled to maintain possession in the final third, with multiple attacks breaking down due to imprecise passing and swift opposition defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:12",
+            "game_time": "37:12",
+            "query": "The ball is cleared after Roberto Pereyra (Juventus) attempted to dribble past an opposing player. The linesman signals a throw-in for Dortmund.",
+            "short-term": "The ball is cleared after Roberto Pereyra attempted to dribble past an opposing player. The linesman signals a throw-in for Dortmund. He had tried to cut inside but was quickly closed down, forcing him to lose control before the ball was cleared out of play.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The linesman signals a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Ilkay Gundogan sends a cross into the box, but the opposition's defence clears the ball to safety. The ball was aimed towards the back post, but Juventus’ defenders anticipated it well and managed to head it away.",
+                    "history_time": "34:33",
+                    "long-term": "They have been consistently testing the opposition's defense with skillful moves, but have been unable to break through so far."
+                },
+                {
+                    "short-term": "Sven Bender sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball. The goalkeeper came off his line confidently, catching the ball in midair before any Dortmund attackers could get a touch.",
+                    "history_time": "32:42",
+                    "long-term": "They have been struggling to create clear scoring opportunities, with their attempts consistently being intercepted or cleared by the opposing team's defense."
+                },
+                {
+                    "short-term": "Marco Reus puts a cross into the box from the free kick, but the defender gets there first. The ball deflected off a Juventus defender and went behind, leading to another corner for Dortmund.",
+                    "history_time": "30:38",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities through set pieces and individual efforts."
+                },
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "They have been consistently testing the opponent's defense with agile movements and crosses, but so far, the defense has managed to hold its ground."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:33",
+            "game_time": "34:33",
+            "query": "Ilkay Gundogan (Dortmund) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Ilkay Gundogan sends a cross into the box, but the opposition's defence clears the ball to safety. The ball was aimed towards the back post, but Juventus’ defenders anticipated it well and managed to head it away.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Sven Bender sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball. The goalkeeper came off his line confidently, catching the ball in midair before any Dortmund attackers could get a touch.",
+                    "history_time": "32:42",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opposing team's defense has been effective in neutralizing these attempts."
+                },
+                {
+                    "short-term": "Marco Reus puts a cross into the box from the free kick, but the defender gets there first. The ball deflected off a Juventus defender and went behind, leading to another corner for Dortmund.",
+                    "history_time": "30:38",
+                    "long-term": "They have been consistently posing threats through crosses, although the opposition's defense has managed to neutralize these efforts so far."
+                },
+                {
+                    "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+                    "history_time": "28:57",
+                    "long-term": "They have consistently threatened through crosses, but the opposition's defense has shown solidity in dealing with these aerial threats."
+                },
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opposing team's defense has been effective in clearing these attempts."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have consistently threatened the opposition's goal with precise set-pieces, but the defense has been up to the task so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:20",
+            "game_time": "34:20",
+            "query": "Some patient build-up play from Dortmund as they look to unlock the defence.",
+            "short-term": "Some patient build-up play from Dortmund as they look to unlock the defence. They move the ball from flank to flank, trying to stretch Juventus’ defensive line, but the final pass is still missing.",
+            "query_ano": "Some patient build-up play from [TEAM] as they look to unlock the defence.",
+            "history": [
+                {
+                    "short-term": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. one of the player starts the movement on the left, looking for an opening as Juventus remains compact in defense.",
+                    "history_time": "17:53",
+                    "long-term": "They have been maintaining possession and trying to break down the opponent's defense with patient build-up play, but the final breakthrough remains elusive."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:42",
+            "game_time": "32:42",
+            "query": "Sven Bender (Dortmund) sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball.",
+            "short-term": "Sven Bender sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball. The goalkeeper came off his line confidently, catching the ball in midair before any Dortmund attackers could get a touch.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Marco Reus puts a cross into the box from the free kick, but the defender gets there first. The ball deflected off a Juventus defender and went behind, leading to another corner for Dortmund.",
+                    "history_time": "30:38",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposing goalkeeper and defense have been up to the task so far."
+                },
+                {
+                    "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+                    "history_time": "28:57",
+                    "long-term": "The goalkeeper has been a commanding presence, consistently cutting out crosses and alleviating pressure on the defense."
+                },
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "They have been consistently using crosses to threaten the opposition's goal, but the defence has been equally effective in neutralizing these attempts."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been consistently testing the opposition's defense with precise crosses and set-pieces, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+                    "history_time": "14:07",
+                    "long-term": "They have consistently tested Gianluigi Buffon with quality deliveries, but the goalkeeper has been equal to the task, intercepting and gathering the ball with confidence."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:57",
+            "query": "Kevin Kampl (Dortmund) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "short-term": "Kevin Kampl swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery had good pace, but Juventus’ defenders stood firm, winning the aerial duel.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "history": [
+                {
+                    "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+                    "history_time": "28:57",
+                    "long-term": "The player's set pieces have been effectively neutralized by the opposing team's defense, who have consistently won the aerial battles and prevented any real scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:38",
+            "game_time": "30:38",
+            "query": "Marco Reus (Dortmund) puts a cross into the box from the free kick, but the defender gets there first. The referee and one of his assistants signal for a corner kick to Dortmund.",
+            "short-term": "Marco Reus puts a cross into the box from the free kick, but the defender gets there first. The ball deflected off a Juventus defender and went behind, leading to another corner for Dortmund.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+                    "history_time": "28:57",
+                    "long-term": "They have been consistently pressuring Juventus' defense with set pieces, but have yet to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "They have been consistently using crosses and set pieces to threaten the opponent's goal, but the defense has been effective in neutralizing these attacks."
+                },
+                {
+                    "short-term": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The ball was floated in dangerously, but Buffon timed his jump well to catch it securely.",
+                    "history_time": "22:33",
+                    "long-term": "They have been utilizing free kicks to create scoring opportunities, consistently testing the opposing team's defense with well-placed crosses."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been consistently using set pieces to create scoring opportunities, putting pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+                    "history_time": "11:44",
+                    "long-term": "They have been utilizing set pieces and long passes to create scoring opportunities, but the execution has been inconsistent."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:28",
+            "game_time": "29:28",
+            "query": "Milorad Mazic blows his whistle for a foul after Alvaro Morata (Juventus) hacks down one of his opponents. Dortmund get a free kick.",
+            "short-term": "Milorad Mazic blows his whistle for a foul after Alvaro Morata hacks down one of his opponents. Morata mistimed his challenge as he tried to win back possession, conceding a free kick just inside Dortmund’s half.",
+            "query_ano": "[PLAYER] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] get a free kick.",
+            "history": [
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "The player's aggression has led to a few tactical mistakes, while the team's attacks have been consistently cleared by the opposing defense."
+                },
+                {
+                    "short-term": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Vidal went in hard for the tackle, but mistimed his challenge, leaving the referee with little choice.",
+                    "history_time": "21:21",
+                    "long-term": "They have been struggling with discipline, committing multiple fouls and giving away free kicks in dangerous areas."
+                },
+                {
+                    "short-term": "Milorad Mazic blows his whistle after Arturo Vidal kicks an opponent's legs instead of the ball. Dortmund have a free kick from a promising distance.",
+                    "history_time": "19:30",
+                    "long-term": "The team's aggressive defending has led to multiple fouls, providing the opponent with set-piece opportunities that could prove costly."
+                },
+                {
+                    "short-term": "Alvaro Morata gives away a foul during an attacking move and the referee blows his whistle. Morata attempted to shield the ball but leaned too aggressively into his marker, drawing the referee's attention.",
+                    "history_time": "13:05",
+                    "long-term": "He has been struggling with discipline, committing multiple fouls and conceding free kicks in key areas of the pitch."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:57",
+            "game_time": "28:57",
+            "query": "Kevin Kampl (Dortmund) whips in a cross from the corner, but Gianluigi Buffon is well positioned and punches the ball away.",
+            "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+            "query_ano": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away.",
+            "history": [
+                {
+                    "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+                    "history_time": "28:36",
+                    "long-term": "This corner kick comes after a low, driven cross was cut out by the defense, who cleared the ball out of play to prevent any danger."
+                },
+                {
+                    "short-term": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The ball was floated in dangerously, but Buffon timed his jump well to catch it securely.",
+                    "history_time": "22:33",
+                    "long-term": "The goalkeeper has been a commanding presence, consistently making key interventions to neutralize threats from set pieces and crosses."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense has been solid in clearing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:36",
+            "game_time": "28:36",
+            "query": "A cross from Marcel Schmelzer (Dortmund) fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick.",
+            "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Vidal went in hard for the tackle, but mistimed his challenge, leaving the referee with little choice.",
+                    "history_time": "21:21",
+                    "long-term": "The Juventus defence has been solid so far, clearing the danger on multiple occasions, but their aggressive approach is also giving away free kicks, which could be costly."
+                },
+                {
+                    "short-term": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders. The shot had power, but Juventus' defensive line held firm, making a crucial block just inside the box.",
+                    "history_time": "20:57",
+                    "long-term": "They have been consistently testing Juventus' defense with crosses and long-range shots, but the opposition's backline has held firm so far."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and set pieces, but have yet to break through due to solid defensive plays."
+                },
+                {
+                    "short-term": "Dortmund quickly take the free kick with a short pass. They attempt to catch Juventus off guard, but the Italian side stays disciplined and well-positioned.",
+                    "history_time": "11:04",
+                    "long-term": "The team has been utilizing set pieces to create scoring opportunities, but the opposing defense has been solid in thwarting their efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:33",
+            "game_time": "22:33",
+            "query": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "short-term": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The ball was floated in dangerously, but Buffon timed his jump well to catch it securely.",
+            "query_ano": "[PLAYER] attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "history": [
+                {
+                    "short-term": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders. The shot had power, but Juventus' defensive line held firm, making a crucial block just inside the box.",
+                    "history_time": "20:57",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and long-range shots, but the opposing team's defense and goalkeeper have been equally effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been utilizing free kicks to create scoring opportunities, but the opposition's defense and goalkeeper have been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Claudio Marchisio takes the corner, but the goalkeeper jumps and gathers the ball. The ball was too close to the goal and too slow, making it easy for the goalkeeper to catch it.",
+                    "history_time": "15:31",
+                    "long-term": "The goalkeeper has been solid in the air, neutralizing multiple set-piece threats with his impressive aerial abilities."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:21",
+            "game_time": "21:21",
+            "query": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Let's see what they create from this.",
+            "short-term": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Vidal went in hard for the tackle, but mistimed his challenge, leaving the referee with little choice.",
+            "query_ano": "[PLAYER] makes an overly-aggressive challenge and [PLAYER] blows his whistle for a foul. [TEAM] are awarded a free kick. Let's see what they create from this.",
+            "history": [
+                {
+                    "short-term": "Milorad Mazic blows his whistle after Arturo Vidal kicks an opponent's legs instead of the ball. Dortmund have a free kick from a promising distance.",
+                    "history_time": "19:30",
+                    "long-term": "He has shown a pattern of aggressive play, resulting in multiple fouls and free kick opportunities for the opposing team."
+                },
+                {
+                    "short-term": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. one of the player starts the movement on the left, looking for an opening as Juventus remains compact in defense.",
+                    "history_time": "17:53",
+                    "long-term": "The player's aggressive style of play has been tempered by Dortmund's patient and calculated build-up, which may lead to scoring opportunities if they can find openings in the defense."
+                },
+                {
+                    "short-term": "Dortmund quickly take the free kick with a short pass. They attempt to catch Juventus off guard, but the Italian side stays disciplined and well-positioned.",
+                    "history_time": "11:04",
+                    "long-term": "The aggressive play has led to a crucial free kick opportunity, but the opposition's defensive discipline has so far neutralized the attacking threat."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:57",
+            "game_time": "20:57",
+            "query": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders.",
+            "short-term": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders. The shot had power, but Juventus' defensive line held firm, making a crucial block just inside the box.",
+            "query_ano": "[PLAYER] pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+                    "history_time": "20:37",
+                    "long-term": "They have been consistently testing Juventus' defense with long-range shots and set-pieces, but the opposition's backline has held strong so far."
+                },
+                {
+                    "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+                    "history_time": "14:07",
+                    "long-term": "He has been trying to make an impact with long-range efforts and deliveries into the box, but the opposing team's defense has been solid in thwarting his attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:37",
+            "game_time": "20:37",
+            "query": "Marco Reus (Dortmund) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Claudio Marchisio takes the corner, but the goalkeeper jumps and gathers the ball. The ball was too close to the goal and too slow, making it easy for the goalkeeper to catch it.",
+                    "history_time": "15:31",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but the opposition's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+                    "history_time": "14:07",
+                    "long-term": "They have been utilizing set pieces and long balls to create scoring opportunities, but the opposition's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+                    "history_time": "11:44",
+                    "long-term": "They have been utilizing set pieces and long passes to try and break down the opposition's defens."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:53",
+            "game_time": "17:53",
+            "query": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. one of the player starts the movement on the left, looking for an opening as Juventus remains compact in defense.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "history": [
+                {
+                    "short-term": "Dortmund quickly take the free kick with a short pass. They attempt to catch Juventus off guard, but the Italian side stays disciplined and well-positioned.",
+                    "history_time": "11:04",
+                    "long-term": "They have been maintaining possession and trying to break down the opponent's defense with strategic passing, but the opposition's compact defense has prevented a breakthrough so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:48",
+            "game_time": "15:48",
+            "query": "Arturo Vidal (Juventus) clearly handles the ball, but he is surprised when the referee blows his whistle.",
+            "short-term": "Arturo Vidal clearly handles the ball, but he is surprised when the referee blows his whistle. Vidal looked around in disbelief, but the referee had a clear view and immediately awarded the free kick to Dortmund.",
+            "query_ano": "[PLAYER] ([TEAM]) clearly handles the ball, but he is surprised when the referee blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Claudio Marchisio takes the corner, but the goalkeeper jumps and gathers the ball. The ball was too close to the goal and too slow, making it easy for the goalkeeper to catch it.",
+                    "history_time": "15:31",
+                    "long-term": "They have shown inconsistencies in their attacking strategy, resorting to illicit means once and later failing to create a challenging set-piece opportunity."
+                },
+                {
+                    "short-term": "Alvaro Morata gives away a foul during an attacking move and the referee blows his whistle. Morata attempted to shield the ball but leaned too aggressively into his marker, drawing the referee's attention.",
+                    "history_time": "13:05",
+                    "long-term": "They have been making some reckless decisions, committing unnecessary fouls that are giving away free kicks to their opponents."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:31",
+            "game_time": "15:31",
+            "query": "Claudio Marchisio (Juventus) takes the corner, but the goalkeeper jumps and gathers the ball.",
+            "short-term": "Claudio Marchisio takes the corner, but the goalkeeper jumps and gathers the ball. The ball was too close to the goal and too slow, making it easy for the goalkeeper to catch it.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the goalkeeper jumps and gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Roman Weidenfeller gets a well deserved ovation! He pulls off a remarkable save to block a long-range effort from Stephan Lichtsteiner towards the left side of the target. Nice goalkeeping skills! The diving stop from Weidenfeller was crucial, stretching out fully to deflect the powerful strike past the post.",
+                    "history_time": "14:58",
+                    "long-term": "The goalkeepers have been the standout performers, producing crucial saves to keep the scores level."
+                },
+                {
+                    "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+                    "history_time": "14:07",
+                    "long-term": "The opposition's goalkeepers have been effective in reading and handling set pieces, limiting potential scoring opportunities."
+                },
+                {
+                    "short-term": "Alvaro Morata gives away a foul during an attacking move and the referee blows his whistle. Morata attempted to shield the ball but leaned too aggressively into his marker, drawing the referee's attention.",
+                    "history_time": "13:05",
+                    "long-term": "They have been struggling to create effective attacking opportunities, with their set pieces being easily dealt with and their aggression sometimes working against them."
+                },
+                {
+                    "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+                    "history_time": "11:44",
+                    "long-term": "They have been struggling to create effective set pieces and long-range passes, giving away possession too easily."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:07",
+            "game_time": "14:07",
+            "query": "Marcel Schmelzer (Dortmund) sends a long ball in, but Gianluigi Buffon comfortably gathers the ball.",
+            "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+                    "history_time": "11:44",
+                    "long-term": "They have been trying to utilize long balls to create scoring opportunities, but the execution has been lacking precision so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:05",
+            "game_time": "13:05",
+            "query": "Alvaro Morata (Juventus) gives away a foul during an attacking move and the referee blows his whistle.",
+            "short-term": "Alvaro Morata gives away a foul during an attacking move and the referee blows his whistle. Morata attempted to shield the ball but leaned too aggressively into his marker, drawing the referee's attention.",
+            "query_ano": "[PLAYER] ([TEAM]) gives away a foul during an attacking move and the referee blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+                    "history_time": "11:44",
+                    "long-term": "They have struggled to maintain possession and create scoring opportunities, with questionable decision-making and execution hampering their attacking efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:44",
+            "game_time": "11:44",
+            "query": "Mats Hummels (Dortmund) fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick.",
+            "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "The game is interrupted, a clear handball by Arturo Vidal. Vidal tried to control the ball under pressure but miscalculated.",
+                    "history_time": "10:54",
+                    "long-term": "They have struggled with precision in their long passes and ball control under pressure."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "annotations": [
+        {
+            "game_time": "14:40",
+            "query": "James Rodriguez (Real Madrid) takes the corner, but it's intercepted by the defender.",
+            "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently applying pressure through set pieces and precise passing, testing the opponent's defense with strategic movements."
+                },
+                {
+                    "short-term": "Toni Kroos goes on a mazy run and tries his luck with a mid-range strike, but a defending player steps in and makes a crucial block. The goalkeeper positioned himself well, ensuring there was no immediate danger from any rebound.",
+                    "history_time": "12:55",
+                    "long-term": "They have been consistently testing the opposition's defense with creative set pieces and runs, but the defending team's solid blocks and clearances have neutralized the threats so far."
+                },
+                {
+                    "short-term": "An attempted cross from Marcelo is cleared. The defender was well positioned to deal with the danger before any attacker could connect.",
+                    "history_time": "10:26",
+                    "long-term": "The team has been consistently applying pressure through set pieces and crosses, but the opposing defense has shown effectiveness in nullifying these threats."
+                }
+            ]
+        },
+        {
+            "game_time": "14:23",
+            "query": "Cristiano Ronaldo (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. Real Madrid can continue in their attacking effort.",
+            "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "history": [
+                {
+                    "short-term": "Toni Kroos goes on a mazy run and tries his luck with a mid-range strike, but a defending player steps in and makes a crucial block. The goalkeeper positioned himself well, ensuring there was no immediate danger from any rebound.",
+                    "history_time": "12:55",
+                    "long-term": "They have been consistently testing the defense with creative passing and movement, but the opposition's solid blocks and positioning have prevented clear scoring opportunities."
+                },
+                {
+                    "short-term": "An attempted cross from Marcelo is cleared. The defender was well positioned to deal with the danger before any attacker could connect.",
+                    "history_time": "10:26",
+                    "long-term": "They have been consistently testing the defense with clever movements and crosses, forcing the opposition to make crucial blocks and clearances."
+                }
+            ]
+        },
+        {
+            "game_time": "15:25",
+            "query": "Luka Modric (Real Madrid) attempts to find Karim Benzema with a delicate little through ball from inside the box, but one of the defending players makes a timely intervention.",
+            "short-term": "Luka Modrić attempts to find Karim Benzema with a delicate little through ball from inside the box, but a defender makes a timely intervention, cutting it out just before it could reach the target. The forward had positioned himself well, anticipating a deep delivery.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find [PLAYER] with a delicate little through ball from inside the box, but one of the defending players makes a timely intervention.",
+            "history": [
+                {
+                    "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+                    "history_time": "14:40",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and set pieces, but the opposition's defense has been equally effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently probing the defense with clever through balls and strategic movement, searching for openings to create scoring chances."
+                },
+                {
+                    "short-term": "Toni Kroos goes on a mazy run and tries his luck with a mid-range strike, but a defending player steps in and makes a crucial block. The goalkeeper positioned himself well, ensuring there was no immediate danger from any rebound.",
+                    "history_time": "12:55",
+                    "long-term": "They have been consistently creating scoring opportunities with clever passes and individual efforts, but the opposing team's defense has been equally impressive in neutralizing these threats."
+                },
+                {
+                    "short-term": "An attempted cross from Marcelo is cleared. The defender was well positioned to deal with the danger before any attacker could connect.",
+                    "history_time": "10:26",
+                    "long-term": "The attacking side has been consistently probing the defense with clever passes. They have been able to cut out several promising attacking opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "17:33",
+            "query": "What an amazing save by Simon Mignolet! Cristiano Ronaldo (Real Madrid) swirls around the defenders and attempts to beat the keeper with a close-range shot towards the bottom left corner, but fails.",
+            "short-term": "What an amazing save by Simon Mignolet! Cristiano Ronaldo swirls around the defenders and fires a close-range shot toward the bottom left corner. The goalkeeper reacted quickly, staying balanced and using his reach to keep the effort out.",
+            "label": "shoot",
+            "query_ano": "What an amazing save by [PLAYER]! [PLAYER] ([TEAM]) swirls around the defenders and attempts to beat the keeper with a close-range shot towards the bottom left corner, but fails.",
+            "history": [
+                {
+                    "short-term": "Luka Modrić attempts to find Karim Benzema with a delicate little through ball from inside the box, but a defender makes a timely intervention, cutting it out just before it could reach the target. The forward had positioned himself well, anticipating a deep delivery.",
+                    "history_time": "15:25",
+                    "long-term": "They have consistently threatened the goal with precise passing and movements."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "He has been posing a significant threat in the attacking third, consistently testing the goalkeeper and the defensive line with his skillful movements and shots."
+                }
+            ]
+        },
+        {
+            "game_time": "18:10",
+            "query": "Marcelo (Real Madrid) sends a teasing cross into the area, but Simon Mignolet intercepts the ball.",
+            "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "What an amazing save by Simon Mignolet! Cristiano Ronaldo swirls around the defenders and fires a close-range shot toward the bottom left corner. The goalkeeper reacted quickly, staying balanced and using his reach to keep the effort out.",
+                    "history_time": "17:33",
+                    "long-term": "The goalkeeper has been a commanding presence, showcasing his ability to assert control in the box and making key saves to deny quality scoring chances."
+                },
+                {
+                    "short-term": "Luka Modrić attempts to find Karim Benzema with a delicate little through ball from inside the box, but a defender makes a timely intervention, cutting it out just before it could reach the target. The forward had positioned himself well, anticipating a deep delivery.",
+                    "history_time": "15:25",
+                    "long-term": "They have been consistently testing the opponent's defense with precise crosses and through balls, creating opportunities but struggling to capitalize on them."
+                },
+                {
+                    "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+                    "history_time": "14:40",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses and corners, but the goalkeeper and defenders have been up to the task so far."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently testing the opponent's defense with precise crosses and swift passes, forcing the goalkeeper to make confident saves and the defenders to be constantly alert."
+                }
+            ]
+        },
+        {
+            "game_time": "22:30",
+            "query": "Alvaro Arbeloa (Real Madrid) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "history": [
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities."
+                },
+                {
+                    "short-term": "What an amazing save by Simon Mignolet! Cristiano Ronaldo swirls around the defenders and fires a close-range shot toward the bottom left corner. The goalkeeper reacted quickly, staying balanced and using his reach to keep the effort out.",
+                    "history_time": "17:33",
+                    "long-term": "They have been creating scoring opportunities with well-placed crosses and quick movements in the penalty area, but the opposing goalkeeper has made crucial saves to deny them."
+                },
+                {
+                    "short-term": "Luka Modrić attempts to find Karim Benzema with a delicate little through ball from inside the box, but a defender makes a timely intervention, cutting it out just before it could reach the target. The forward had positioned himself well, anticipating a deep delivery.",
+                    "history_time": "15:25",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and through balls, but the defense has been equally effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+                    "history_time": "14:40",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses and corners, but the defense has held firm so far."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently testing the defense with precise crosses and quick movements, trying to find an opening."
+                },
+                {
+                    "short-term": "An attempted cross from Marcelo is cleared. The defender was well positioned to deal with the danger before any attacker could connect.",
+                    "history_time": "10:26",
+                    "long-term": "The defense has been solid in dealing with crosses, consistently clearing the danger before the attackers can capitalize on the opportunities. This trend suggests a well-organized defensive setup."
+                }
+            ]
+        },
+        {
+            "game_time": "22:59",
+            "query": "This shall not pass! Cristiano Ronaldo (Real Madrid) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "Cristiano Ronaldo lines up a shot from the edge of the box and goes for goal, deciding to take a more direct approach. A defender steps in bravely to make an important block.",
+            "label": "chance",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "The team has been consistently testing the opponent's defense with varied attacks, but the defensive line has held firm so far. They are struggling to find an opening in the defensive setup."
+                },
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "They have been putting pressure on the opposing team's defense with back-to-back scoring opportunities."
+                },
+                {
+                    "short-term": "What an amazing save by Simon Mignolet! Cristiano Ronaldo swirls around the defenders and fires a close-range shot toward the bottom left corner. The goalkeeper reacted quickly, staying balanced and using his reach to keep the effort out.",
+                    "history_time": "17:33",
+                    "long-term": "He has been consistently aggressive in his attempts on goal, forcing the defense and goalkeeper to make critical interventions to deny him."
+                },
+                {
+                    "short-term": "Luka Modrić attempts to find Karim Benzema with a delicate little through ball from inside the box, but a defender makes a timely intervention, cutting it out just before it could reach the target. The forward had positioned himself well, anticipating a deep delivery.",
+                    "history_time": "15:25",
+                    "long-term": "The attacking team has been consistently creating scoring opportunities, but the opposing defense has been equally effective in shutting them down with crucial blocks and interceptions."
+                },
+                {
+                    "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+                    "history_time": "14:40",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, making crucial blocks and clearances to prevent them from finding the back of the net."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently testing the defense with creative attacking moves, looking to exploit any gaps with both individual efforts and combination plays."
+                },
+                {
+                    "short-term": "Toni Kroos goes on a mazy run and tries his luck with a mid-range strike, but a defending player steps in and makes a crucial block. The goalkeeper positioned himself well, ensuring there was no immediate danger from any rebound.",
+                    "history_time": "12:55",
+                    "long-term": "The opposition's defense has been solid, consistently making crucial blocks to deny The player's goal-scoring opportunities, showcasing their defensive resilience."
+                }
+            ]
+        },
+        {
+            "game_time": "26:47",
+            "query": "Goal!  Marcelo passes the ball to the feet of Karim Benzema (Real Madrid), who has an empty net in front of him and has no problems in tapping the ball in. 1:0.",
+            "short-term": "Goal! Marcelo passes the ball to Karim Benzema, who has an empty net in front of him and easily taps the ball in. The defense was caught ball-watching, allowing Benzema to drift into space unmarked at the far post.",
+            "label": "goal",
+            "query_ano": "Goal!  [PLAYER] passes the ball to the feet of [PLAYER] ([TEAM]), who has an empty net in front of him and has no problems in tapping the ball in. 1:0.",
+            "history": [
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "After a few minutes of crosses from both sides, their efforts finally paid off."
+                },
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "The left flank has been a productive avenue for their attack, with Marcelo consistently providing quality service into the box."
+                },
+                {
+                    "short-term": "An attempted cross from Marcelo is cleared. The defender was well positioned to deal with the danger before any attacker could connect.",
+                    "history_time": "10:26",
+                    "long-term": "Marcelo has been a key figure in creating attacking opportunities, continually testing the defense with his deliveries then providing a crucial assist for the goal and "
+                }
+            ]
+        },
+        {
+            "game_time": "29:34",
+            "query": "Good clearance! Karim Benzema (Real Madrid) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "short-term": "Good clearance! Karim Benzema received a low pass, but he didn't have time to do anything as one of the defenders quickly stepped in to win the ball cleanly.",
+            "label": "chance",
+            "query_ano": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "history": [
+                {
+                    "short-term": "Goal! Marcelo passes the ball to Karim Benzema, who has an empty net in front of him and easily taps the ball in. The defense was caught ball-watching, allowing Benzema to drift into space unmarked at the far post.",
+                    "history_time": "26:47",
+                    "long-term": "He has been making his presence known in the box, initially capitalizing on a later opportunity to score before seeing a chance cut out by a defender."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "The defense has been solid, consistently thwarting attacking opportunities with swift interventions and precise clearances."
+                }
+            ]
+        },
+        {
+            "game_time": "30:08",
+            "query": "Fabio Borini (Liverpool) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "short-term": "Fabio Borini whips the ball in from the long-range free kick, but the first man gets it clear. The delivery lacked height and was easily dealt with by the defense.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear.",
+            "history": [
+                {
+                    "short-term": "Good clearance! Karim Benzema received a low pass, but he didn't have time to do anything as one of the defenders quickly stepped in to win the ball cleanly.",
+                    "history_time": "29:34",
+                    "long-term": "The defense has been solid, consistently thwarting the opposition's attacking efforts with effective clearances."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo lines up a shot from the edge of the box and goes for goal, deciding to take a more direct approach. A defender steps in bravely to make an important block.",
+                    "history_time": "22:59",
+                    "long-term": "They have been pushing forward with set pieces and counterattacks, but the defensive line has shown strength in critical moments."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "They have been utilizing set pieces and crosses to threaten the opponent's goal, but the defense has been effective in neutralizing these attempts so far."
+                },
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "The team's set pieces have been unable to break down the opposing defense so far, with goalkeepers and defenders handling the deliveries with ease."
+                }
+            ]
+        },
+        {
+            "game_time": "30:10",
+            "query": "Alvaro Arbeloa (Real Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle. There is a free kick near the sideline to Liverpool.",
+            "short-term": "Alvaro Arbeloa commits an ugly challenge. The referee sees it and immediately blows his whistle. The challenge was reckless, giving Liverpool a free kick in a useful position near the sideline.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle. There is a free kick near the sideline to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo lines up a shot from the edge of the box and goes for goal, deciding to take a more direct approach. A defender steps in bravely to make an important block.",
+                    "history_time": "22:59",
+                    "long-term": "They have displayed a mix of aggression and creativity in their play, but their execution has been hindered by reckless decisions and timely defensive interventions."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "He has shown a mix of aggression and creativity in his play, creating a scoring opportunity with a well-placed cross but also committing a reckless challenge  ."
+                }
+            ]
+        },
+        {
+            "game_time": "32:52",
+            "query": "Lucas Leiva (Liverpool) pulls the jersey of one of the opposition players and Viktor Kassai blows his whistle for a foul. Real Madrid get a free kick.",
+            "short-term": "Lucas Leiva pulls the jersey of one of the opposition players and Viktor Kassai blows his whistle for a foul. The infringement stopped a potential attacking move, leading to a free kick for Real Madrid.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [PLAYER] blows his whistle for a foul. [TEAM] get a free kick.",
+            "history": [
+                {
+                    "short-term": "Alvaro Arbeloa commits an ugly challenge. The referee sees it and immediately blows his whistle. The challenge was reckless, giving Liverpool a free kick in a useful position near the sideline.",
+                    "history_time": "30:10",
+                    "long-term": "The match is seeing an increase in intense and aggressive challenges, with both teams committing fouls that are disrupting the flow of the game."
+                }
+            ]
+        },
+        {
+            "game_time": "34:20",
+            "query": "A cross by Isco (Real Madrid) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball goes out of play and Liverpool will have a goal kick.",
+            "short-term": "A cross by Isco from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The delivery was overhit, drifting out for a goal kick.",
+            "label": "chance",
+            "query_ano": "A cross by [PLAYER] ([TEAM]) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo takes the resulting free kick from 33 meters out. He attempts to send his effort into the middle of the goal, but the goalkeeper is alert and reacts quickly to make the save.",
+                    "history_time": "34:02",
+                    "long-term": "They have been creating scoring opportunities through set pieces and crosses, but the accuracy and finish have been lacking."
+                },
+                {
+                    "short-term": "Lucas Leiva pulls the jersey of one of the opposition players and Viktor Kassai blows his whistle for a foul. The infringement stopped a potential attacking move, leading to a free kick for Real Madrid.",
+                    "history_time": "32:52",
+                    "long-term": "They have struggled with precision in their attacking plays, and some defensive mistakes have led to the opposition being awarded free kicks."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa commits an ugly challenge. The referee sees it and immediately blows his whistle. The challenge was reckless, giving Liverpool a free kick in a useful position near the sideline.",
+                    "history_time": "30:10",
+                    "long-term": "They have shown inconsistency in their attacking and defensive plays, struggling to find the right target in the box and giving away free kicks with reckless tackles. This inconsistency might impact their overall performance in the game."
+                },
+                {
+                    "short-term": "Fabio Borini whips the ball in from the long-range free kick, but the first man gets it clear. The delivery lacked height and was easily dealt with by the defense.",
+                    "history_time": "30:08",
+                    "long-term": "They have been struggling with set pieces and crosses into the box, consistently failing to find their intended targets and create scoring opportunities."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, although the deliveries have been inconsistent and often repelled by the defense."
+                },
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but so far, the delivery has been inaccurate or effectively dealt with by the opposing goalkeeper."
+                }
+            ]
+        },
+        {
+            "game_time": "34:02",
+            "query": "Cristiano Ronaldo (Real Madrid) takes the resulting free kick from 33 metres out. He attempts to send his effort into the middle of the goal, but Simon Mignolet is alert and keeps the ball out.",
+            "short-term": "Cristiano Ronaldo takes the resulting free kick from 33 meters out. He attempts to send his effort into the middle of the goal, but the goalkeeper is alert and reacts quickly to make the save.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting free kick from 33 metres out. He attempts to send his effort into the middle of the goal, but [PLAYER] is alert and keeps the ball out.",
+            "history": [
+                {
+                    "short-term": "Alvaro Arbeloa commits an ugly challenge. The referee sees it and immediately blows his whistle. The challenge was reckless, giving Liverpool a free kick in a useful position near the sideline.",
+                    "history_time": "30:10",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but also giving away free kicks with reckless challenges."
+                },
+                {
+                    "short-term": "Fabio Borini whips the ball in from the long-range free kick, but the first man gets it clear. The delivery lacked height and was easily dealt with by the defense.",
+                    "history_time": "30:08",
+                    "long-term": "They have been creating scoring opportunities from set pieces."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo lines up a shot from the edge of the box and goes for goal, deciding to take a more direct approach. A defender steps in bravely to make an important block.",
+                    "history_time": "22:59",
+                    "long-term": "He has been posing a significant threat from distance, with two attempts that forced impressive defensive interventions."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposition's defense has been solid in blocking their chances."
+                },
+                {
+                    "short-term": "Marcelo sends a teasing cross into the area, but the goalkeeper comes off his line confidently and punches it away, showing good authority in his box.",
+                    "history_time": "18:10",
+                    "long-term": "The opposition's goalkeeper has been impressive, making crucial saves and showcasing their dominance in the box to keep their team in the game. They've consistently responded well to threatening set pieces and crosses."
+                },
+                {
+                    "short-term": "What an amazing save by Simon Mignolet! Cristiano Ronaldo swirls around the defenders and fires a close-range shot toward the bottom left corner. The goalkeeper reacted quickly, staying balanced and using his reach to keep the effort out.",
+                    "history_time": "17:33",
+                    "long-term": "He has been posing a significant threat to the opposing team's defense, with multiple shots on goal and testing the goalkeeper's skills."
+                }
+            ]
+        },
+        {
+            "game_time": "35:41",
+            "query": "Karim Benzema (Real Madrid) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. Good work from Real Madrid as they win a corner.",
+            "short-term": "Karim Benzema finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defense is ready and one of the defenders makes a crucial interception. The block forces a corner for Real Madrid.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. Good work from [TEAM] as they win a corner.",
+            "history": [
+                {
+                    "short-term": "A cross by Isco from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The delivery was overhit, drifting out for a goal kick.",
+                    "history_time": "34:20",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                },
+                {
+                    "short-term": "Good clearance! Karim Benzema received a low pass, but he didn't have time to do anything as one of the defenders quickly stepped in to win the ball cleanly.",
+                    "history_time": "29:34",
+                    "long-term": "He has been struggling to create scoring opportunities due to the opposition's solid defensive work."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo lines up a shot from the edge of the box and goes for goal, deciding to take a more direct approach. A defender steps in bravely to make an important block.",
+                    "history_time": "22:59",
+                    "long-term": "They have been creating scoring opportunities with effective crosses and aggressive shooting."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a fine lofted cross into the penalty area, but a defender is well-positioned to clear the danger before any attacker can reach it.",
+                    "history_time": "22:30",
+                    "long-term": "They have been consistently creating scoring opportunities through precise crosses."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out for a corner. This kind of movement, with a teammate dropping short while Ronaldo runs behind, keeps defenders constantly adjusting.",
+                    "history_time": "14:23",
+                    "long-term": "They have been consistently testing the opposition's defense with well-coordinated attacks and clever movements, creating opportunities for scoring chances."
+                }
+            ]
+        },
+        {
+            "game_time": "36:10",
+            "query": "Toni Kroos (Real Madrid) steps up to take the corner, but the ball just sails in among the defenders.",
+            "short-term": "Toni Kroos steps up to take the corner, but the ball just sails in among the defenders. The delivery lacked precision, failing to find a teammate in the box.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "history": [
+                {
+                    "short-term": "Karim Benzema finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defense is ready and one of the defenders makes a crucial interception. The block forces a corner for Real Madrid.",
+                    "history_time": "35:41",
+                    "long-term": "The corner came from a great cross that found their striker, but the defense cleared the ball for a corner."
+                },
+                {
+                    "short-term": "A cross by Isco from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The delivery was overhit, drifting out for a goal kick.",
+                    "history_time": "34:20",
+                    "long-term": "They have been struggling with set pieces and crosses, failing to deliver precise balls into the box on multiple occasions."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo takes the resulting free kick from 33 meters out. He attempts to send his effort into the middle of the goal, but the goalkeeper is alert and reacts quickly to make the save.",
+                    "history_time": "34:02",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the execution has been lacking precision and effectiveness."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa commits an ugly challenge. The referee sees it and immediately blows his whistle. The challenge was reckless, giving Liverpool a free kick in a useful position near the sideline.",
+                    "history_time": "30:10",
+                    "long-term": "They have been struggling with set pieces, failing to create scoring opportunities and also conceding a free kick due to a reckless challenge."
+                },
+                {
+                    "short-term": "Fabio Borini whips the ball in from the long-range free kick, but the first man gets it clear. The delivery lacked height and was easily dealt with by the defense.",
+                    "history_time": "30:08",
+                    "long-term": "They have been struggling with set pieces, failing to create scoring opportunities from corners and free kicks due to inaccurate deliveries."
+                },
+                {
+                    "short-term": "James Rodríguez takes an outswinging corner, looking to create an opportunity, but a defender rises first to attack the ball and clear the danger.",
+                    "history_time": "14:40",
+                    "long-term": "They have been struggling to create scoring chances from set pieces, with their corners failing to find their mark and being easily cleared by the opposition."
+                }
+            ]
+        }
+    ]
+}

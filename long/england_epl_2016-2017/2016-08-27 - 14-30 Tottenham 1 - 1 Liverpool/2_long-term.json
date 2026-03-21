@@ -1,0 +1,385 @@
+{
+    "annotations": [
+        {
+            "query": "The assistant referee raises his flag and the referee blows his whistle. Sadio Mane (Liverpool) puts the ball into the net, but he is flagged for offside.",
+            "game_time": "10:14",
+            "short-term": "The assistant referee raises his flag and the referee blows his whistle. Sadio Mane puts the ball into the net, but he is flagged for offside. The move developed quickly with a counter-attack, but the final pass was played just a moment too late.",
+            "label": "goal",
+            "query_ano": "The assistant referee raises his flag and the referee blows his whistle. [PLAYER] ([TEAM]) puts the ball into the net, but he is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Sadio Mane meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The ball took a slight deflection on its way through, forcing keeper to ensure it didn’t go in. The referee signals a corner kick to Liverpool.",
+                    "history_time": "8:11",
+                    "long-term": "He had many chances to score. He failed to exert enough power in his last shot and was offside this time."
+                }
+            ]
+        },
+        {
+            "query": "James Milner (Liverpool) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "game_time": "13:26",
+            "short-term": "James Milner attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The defensive line remained compact, cutting off the passing lane effectively.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "history": [
+                {
+                    "short-term": "Jordan Henderson fails to deliver a decent cross from a long-range free kick as the opposition's defense intercepts the effort. The ball goes out for a corner, allowing Liverpool to continue their attack. He was on the same wavelength as his teammates, but an opponent got in between to clear the danger.",
+                    "history_time": "6:45",
+                    "long-term": "They have been struggling to break down the opposition's defense with their passing game, with multiple attempts being intercepted and cleared effectively."
+                }
+            ]
+        },
+        {
+            "query": "Christian Eriksen (Tottenham) takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar.",
+            "game_time": "16:32",
+            "short-term": "Christian Eriksen takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar. He had some space but couldn’t keep his shot down, sending it narrowly over.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Georginio Wijnaldum wastes a big chance! He unleashes a shot from the edge of the box and it goes narrowly over the crossbar. It was a justified attempt from that range, but he couldn’t keep it on target.",
+                    "history_time": "1:13",
+                    "long-term": "They have been creating scoring opportunities from outside the box but struggling with accuracy, as seen with two efforts sailing narrowly over the crossbar."
+                }
+            ]
+        },
+        {
+            "query": "Dejan Lovren (Liverpool) commits a foul and is shown a yellow card without any hesitation from the referee.",
+            "game_time": "17:22",
+            "short-term": "Dejan Lovren commits a foul and is shown a yellow card without any hesitation from the referee. His frustration was evident as he kicked the ball away.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee.",
+            "history": [
+                {
+                    "short-term": "The assistant referee raises his flag and the referee blows his whistle. Sadio Mane puts the ball into the net, but he is flagged for offside. The move developed quickly with a counter-attack, but the final pass was played just a moment too late.",
+                    "history_time": "10:14",
+                    "long-term": "They have been struggling with discipline, with a key player getting booked and an attacking threat nullified by an offside call."
+                }
+            ]
+        },
+        {
+            "query": "Erik Lamela (Tottenham) stands over the free kick and opts to take it himself, sending it towards the top of net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick.",
+            "game_time": "18:25",
+            "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, sending it towards the top of net only for [PLAYER] to dive and make a save. The ball is out of play. [TEAM] win a corner kick.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar. He had some space but couldn’t keep his shot down, sending it narrowly over.",
+                    "history_time": "16:32",
+                    "long-term": "They have been posing a significant threat from set pieces and distance shots."
+                },
+                {
+                    "short-term": "Sadio Mane meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The ball took a slight deflection on its way through, forcing keeper to ensure it didn’t go in. The referee signals a corner kick to Liverpool.",
+                    "history_time": "8:11",
+                    "long-term": "Both teams have shown great intent in front of goal, but the goalkeepers have come out on top so far, making crucial saves to deny their opponents."
+                },
+                {
+                    "short-term": "Jordan Henderson fails to deliver a decent cross from a long-range free kick as the opposition's defense intercepts the effort. The ball goes out for a corner, allowing Liverpool to continue their attack. He was on the same wavelength as his teammates, but an opponent got in between to clear the danger.",
+                    "history_time": "6:45",
+                    "long-term": "Both teams have been creating scoring opportunities through set pieces, but the goalkeepers and defenders have been up to the task, making crucial saves and interceptions."
+                }
+            ]
+        },
+        {
+            "query": "What a great chance for Toby Alderweireld (Tottenham). He times his jump superbly when he leaps high to meet a precise cross from the corner, directing his towering header inside the left post, but the goalkeeper denies him with a miraculous save. Tottenham have been awarded a corner kick.",
+            "game_time": "18:49",
+            "short-term": "What a great chance for Toby Alderweireld. He times his jump superbly when he leaps high to meet a precise cross from the corner, directing his towering header inside the left post, but the goalkeeper denies him with a miraculous save. Tottenham earn another corner as they keep the pressure on.",
+            "label": "corner",
+            "query_ano": "What a great chance for [PLAYER] ([TEAM]). He times his jump superbly when he leaps high to meet a precise cross from the corner, directing his towering header inside the left post, but the goalkeeper denies him with a miraculous save. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+                    "history_time": "18:25",
+                    "long-term": "They have been consistently threatening the opponent's goal with precise crosses and shots."
+                },
+                {
+                    "short-term": "Christian Eriksen takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar. He had some space but couldn’t keep his shot down, sending it narrowly over.",
+                    "history_time": "16:32",
+                    "long-term": "They have been consistently threatening, with efforts from both Alderweireld and Eriksen going close."
+                }
+            ]
+        },
+        {
+            "query": "The corner kick from Christian Eriksen (Tottenham) is headed out of the penalty area by one of the defenders.",
+            "game_time": "19:09",
+            "short-term": "The corner kick from Christian Eriksen is headed out of the penalty area by one of the defenders. The clearance was strong enough to push the danger away from the box.",
+            "label": "corner",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "What a great chance for Toby Alderweireld. He times his jump superbly when he leaps high to meet a precise cross from the corner, directing his towering header inside the left post, but the goalkeeper denies him with a miraculous save. Tottenham earn another corner as they keep the pressure on.",
+                    "history_time": "18:49",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, where they are creating chaos and stretching the opposing defense to the limit."
+                },
+                {
+                    "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+                    "history_time": "18:25",
+                    "long-term": "They have been creating scoring opportunities through set pieces, with both the corner kick and free kick providing promising chances to break the deadlock."
+                },
+                {
+                    "short-term": "Christian Eriksen takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar. He had some space but couldn’t keep his shot down, sending it narrowly over.",
+                    "history_time": "16:32",
+                    "long-term": "He has been creating scoring opportunities, but the opposing team's defense has managed to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Sadio Mane meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The ball took a slight deflection on its way through, forcing keeper to ensure it didn’t go in. The referee signals a corner kick to Liverpool.",
+                    "history_time": "8:11",
+                    "long-term": "They have been consistently pressuring the defense with well-executed set pieces and shots on goal, but lacking the finishing touch to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Jordan Henderson fails to deliver a decent cross from a long-range free kick as the opposition's defense intercepts the effort. The ball goes out for a corner, allowing Liverpool to continue their attack. He was on the same wavelength as his teammates, but an opponent got in between to clear the danger.",
+                    "history_time": "6:45",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but the opposition's defense has been solid in clearing the threats."
+                }
+            ]
+        },
+        {
+            "query": "Jordan Henderson (Liverpool) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "game_time": "27:56",
+            "short-term": "Jordan Henderson lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The defense was well-positioned, preventing any real danger.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "history": [
+                {
+                    "short-term": "The corner kick from Christian Eriksen is headed out of the penalty area by one of the defenders. The clearance was strong enough to push the danger away from the box.",
+                    "history_time": "19:09",
+                    "long-term": "The defending team has been solid in dealing with set pieces, consistently clearing the ball from danger and preventing the attacking team from capitalizing on corners."
+                },
+                {
+                    "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+                    "history_time": "18:25",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Sadio Mane meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The ball took a slight deflection on its way through, forcing keeper to ensure it didn’t go in. The referee signals a corner kick to Liverpool.",
+                    "history_time": "8:11",
+                    "long-term": "They have been consistently pressuring the defense with crosses and shots, but so far, the opposition's defense has been able to neutralize these threats effectively."
+                }
+            ]
+        },
+        {
+            "query": "Excellent touch by Nathaniel Clyne (Liverpool)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. The ball goes out of play and Tottenham will have a goal kick.",
+            "game_time": "34:40",
+            "short-term": "Excellent touch by Nathaniel Clyne! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. Off balance, his effort lacked accuracy.",
+            "label": "shoot",
+            "query_ano": "Excellent touch by [PLAYER] ([TEAM])! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Jordan Henderson lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The defense was well-positioned, preventing any real danger.",
+                    "history_time": "27:56",
+                    "long-term": "They have been creating scoring opportunities, but so far, they lack the precision to capitalize on these chances."
+                },
+                {
+                    "short-term": "Goal! Danny Rose scores with a shot from inside the box after latching onto a headed pass from Erik Lamela. The equalizer comes at a crucial time as they capitalize on their best spell of the match.",
+                    "history_time": "26:18",
+                    "long-term": "They have been creating scoring opportunities with some skillful plays, but accuracy has been an issue, until they finally capitalized on a crucial moment to equalize."
+                },
+                {
+                    "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+                    "history_time": "18:25",
+                    "long-term": "They have been creating scoring opportunities with potent strikes, but struggling to find the accuracy and finish to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Joshua Onomah (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag and Tottenham will take a corner.",
+            "game_time": "38:40",
+            "short-term": "Joshua Onomah sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag, awarding Tottenham a corner after the ball was deflected out.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "Excellent touch by Nathaniel Clyne! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. Off balance, his effort lacked accuracy.",
+                    "history_time": "34:40",
+                    "long-term": "They have been creating scoring opportunities, but their finishing touches have lacked precision and been met with strong defensive responses."
+                },
+                {
+                    "short-term": "Jordan Henderson lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The defense was well-positioned, preventing any real danger.",
+                    "history_time": "27:56",
+                    "long-term": "The teams have been utilizing set pieces to create scoring opportunities, but the defending sides have been able to neutralize these threats so far."
+                },
+                {
+                    "short-term": "The corner kick from Christian Eriksen is headed out of the penalty area by one of the defenders. The clearance was strong enough to push the danger away from the box.",
+                    "history_time": "19:09",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with threatening crosses and passes into the box, but so far, the opposing team's defense has managed to clear the danger."
+                },
+                {
+                    "short-term": "Erik Lamela stands over the free kick and opts to take it himself, sending it towards the top of the net only for Simon Mignolet to dive and make a save. The ball is out of play. Tottenham win a corner kick, as keeper handled the shot comfortably.",
+                    "history_time": "18:25",
+                    "long-term": "They have been consistently creating scoring opportunities, with multiple attempts on goal and winning several corner kicks, indicating a persistent attacking strategy."
+                }
+            ]
+        },
+        {
+            "query": "Toby Alderweireld (Tottenham) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "game_time": "39:04",
+            "short-term": "Toby Alderweireld timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. He had space but couldn't keep his effort down.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "history": [
+                {
+                    "short-term": "Excellent touch by Nathaniel Clyne! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. Off balance, his effort lacked accuracy.",
+                    "history_time": "34:40",
+                    "long-term": "The team has been creating scoring opportunities through well-timed runs and precise passes, but their finishing has let them down with both efforts going off target."
+                },
+                {
+                    "short-term": "What a great chance for Toby Alderweireld. He times his jump superbly when he leaps high to meet a precise cross from the corner, directing his towering header inside the left post, but the goalkeeper denies him with a miraculous save. Tottenham earn another corner as they keep the pressure on.",
+                    "history_time": "18:49",
+                    "long-term": "He has been a threat in the air, particularly from set pieces, but has lacked precision with his finishes, being denied by the goalkeeper and missing the target earlier."
+                }
+            ]
+        },
+        {
+            "query": "Danny Rose (Tottenham) seems to be alright and is okay to carry on.",
+            "game_time": "3:22",
+            "short-term": "Danny Rose seems to be alright and is okay to carry on. Tottenham is back to full strength with all 11 players on the field.",
+            "label": "injury",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "history": [
+                {
+                    "short-term": "Danny Rose is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered. The medical staff quickly arrives to assess the situation.",
+                    "history_time": "2:08",
+                    "long-term": "We don't know if his injury will affect the rest of the game, and whether the coach will consider replacing him to avoid further damage."
+                }
+            ]
+        },
+        {
+            "query": "Georginio Wijnaldum (Liverpool) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the middle of the goal. Michel Vorm has a clear sight of it and makes a comfortable save.",
+            "game_time": "44:48",
+            "short-term": "Georginio Wijnaldum latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the middle of the goal. Michel Vorm reads the shot well and makes a comfortable save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the middle of the goal. [PLAYER] has a clear sight of it and makes a comfortable save.",
+            "history": [
+                {
+                    "short-term": "Toby Alderweireld timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. He had space but couldn't keep his effort down.",
+                    "history_time": "39:04",
+                    "long-term": "They have been creating scoring opportunities with precise passing and shots on goal, but the finishing touches have let them down so far."
+                },
+                {
+                    "short-term": "Excellent touch by Nathaniel Clyne! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. Off balance, his effort lacked accuracy.",
+                    "history_time": "34:40",
+                    "long-term": "They have been creating scoring opportunities with well-timed passes, but the finishing touches have been lacking accuracy and conviction."
+                }
+            ]
+        },
+        {
+            "query": "Adam Lallana (Liverpool) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The referee blows his whistle, Liverpool are awarded a corner kick.",
+            "game_time": "46:18",
+            "short-term": "Adam Lallana receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The referee blows his whistle, awarding Liverpool a corner kick.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Georginio Wijnaldum latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the middle of the goal. Michel Vorm reads the shot well and makes a comfortable save.",
+                    "history_time": "44:48",
+                    "long-term": "They have been posing a threat from outside the box with consecutive shots, but haven't found the breakthrough yet."
+                },
+                {
+                    "short-term": "Joshua Onomah sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag, awarding Tottenham a corner after the ball was deflected out.",
+                    "history_time": "38:40",
+                    "long-term": "Both teams have been creating scoring opportunities, but the defenses have been solid, blocking shots and forcing corner kicks."
+                },
+                {
+                    "short-term": "Excellent touch by Nathaniel Clyne! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. Off balance, his effort lacked accuracy.",
+                    "history_time": "34:40",
+                    "long-term": "They have been creating scoring opportunities with promising shots, but struggling to find accuracy and beating the defensive blocks."
+                },
+                {
+                    "short-term": "Jordan Henderson lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The defense was well-positioned, preventing any real danger.",
+                    "history_time": "27:56",
+                    "long-term": "They have been consistently posing threats around the opponent's box, but the defense has done well to neutralize these attacks."
+                }
+            ]
+        },
+        {
+            "query": "The resulting corner, taken by Christian Eriksen (Tottenham), comes to nothing.",
+            "game_time": "46:54",
+            "short-term": "The resulting corner, taken by Christian Eriksen, is cleared away by the opposition defense, ending the immediate threat.",
+            "label": "corner",
+            "query_ano": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+            "history": [
+                {
+                    "short-term": "Adam Lallana receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The referee blows his whistle, awarding Liverpool a corner kick.",
+                    "history_time": "46:18",
+                    "long-term": "This corner kick came from their teammate's shot, which was blocked by the defensive player, resulting in a corner kick."
+                },
+                {
+                    "short-term": "Christian Eriksen is about to take a corner kick. A well-placed delivery could create a scoring opportunity.",
+                    "history_time": "39:03",
+                    "long-term": "The player has been posing a threat with his corner kicks, creating potential scoring opportunities despite the opposition's solid defensive clearance."
+                },
+                {
+                    "short-term": "Joshua Onomah sends a pass into the box, but his attempt is thwarted and cleared. The referee points to the corner flag, awarding Tottenham a corner after the ball was deflected out.",
+                    "history_time": "38:40",
+                    "long-term": "They have been consistently applying pressure through set pieces, securing multiple corners and demonstrating a persistent attacking threat."
+                },
+                {
+                    "short-term": "The corner kick from Christian Eriksen is headed out of the penalty area by one of the defenders. The clearance was strong enough to push the danger away from the box.",
+                    "history_time": "19:09",
+                    "long-term": "The opposition defense has been solid in dealing with set pieces, effectively clearing away consecutive corner kicks. They have shown resilience in fending off these attacking opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Jurgen Klopp prepares a substitution. Adam Lallana is replaced by Kevin Stewart (Liverpool).",
+            "game_time": "48:05",
+            "short-term": "Jurgen Klopp prepares a substitution. Adam Lallana is replaced by Kevin Stewart. Stewart, a former Tottenham trainee, steps onto the field in a Liverpool shirt.",
+            "label": "substitution",
+            "query_ano": "[COACH] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "The referee stops play so that a substitution can be made and Daniel Sturridge comes onto the pitch for Sadio Mane, providing fresh legs for Liverpool.",
+                    "history_time": "42:44",
+                    "long-term": "The manager made substitutions continuously, trying to change tactics and inject new energy into the game."
+                }
+            ]
+        },
+        {
+            "query": "Corner kick. James Milner (Liverpool) is ready to send the ball into the box.",
+            "game_time": "7:06",
+            "short-term": "Corner kick. James Milner is ready to send the ball into the box, aiming to create a scoring opportunity for Liverpool.",
+            "label": "corner",
+            "query_ano": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+            "history": [
+                {
+                    "short-term": "Jordan Henderson fails to deliver a decent cross from a long-range free kick as the opposition's defense intercepts the effort. The ball goes out for a corner, allowing Liverpool to continue their attack. He was on the same wavelength as his teammates, but an opponent got in between to clear the danger.",
+                    "history_time": "6:45",
+                    "long-term": "This corner kick comes from a long free kick, the attempt to put the ball into the penalty area was intercepted by the defender."
+                }
+            ]
+        },
+        {
+            "query": "Sadio Mane (Liverpool) meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The referee signals a corner kick to Liverpool.",
+            "game_time": "8:11",
+            "short-term": "Sadio Mane meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Michel Vorm pulls off an easy save. The ball took a slight deflection on its way through, forcing keeper to ensure it didn’t go in. The referee signals a corner kick to Liverpool.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save. The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Corner kick. James Milner is ready to send the ball into the box, aiming to create a scoring opportunity for Liverpool.",
+                    "history_time": "7:06",
+                    "long-term": "They have been consistently pressuring the opponent's defense, creating consecutive scoring opportunities through both individual efforts and set pieces."
+                },
+                {
+                    "short-term": "Jordan Henderson fails to deliver a decent cross from a long-range free kick as the opposition's defense intercepts the effort. The ball goes out for a corner, allowing Liverpool to continue their attack. He was on the same wavelength as his teammates, but an opponent got in between to clear the danger.",
+                    "history_time": "6:45",
+                    "long-term": "They have been consistently pressuring the opponent's defense with repeated attacking efforts, although they haven't yet capitalized on these opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Toby Alderweireld (Tottenham) is going to send the ball in from the free kick.",
+            "game_time": "9:59",
+            "short-term": "Toby Alderweireld is going to send the ball in from the free kick.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+            "history": [
+                {
+                    "short-term": "Corner kick. James Milner is ready to send the ball into the box, aiming to create a scoring opportunity for Liverpool.",
+                    "history_time": "7:06",
+                    "long-term": "Both teams are utilizing set pieces to try and break the deadlock, with consecutive free kicks and corner kicks aimed at creating scoring opportunities."
+                }
+            ]
+        }
+    ]
+}

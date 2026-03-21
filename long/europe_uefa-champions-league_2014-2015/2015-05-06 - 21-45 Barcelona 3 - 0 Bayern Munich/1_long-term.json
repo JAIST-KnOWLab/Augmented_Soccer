@@ -1,0 +1,369 @@
+{
+    "annotations": [
+        {
+            "query": "Ivan Rakitic (Barcelona) delivers a low pass into the box which is intercepted.",
+            "game_time": "14:10",
+            "short-term": "Ivan Rakitic (Barcelona) delivered a low pass into the box, which was intercepted by a defender. The opposition quickly reorganized, preventing any immediate follow-up from Barcelona.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez (Barcelona) zig-zagged his way into the box and fired the ball towards the middle of the goal, but the goalkeeper made a great reaction save to stop the effort. The forward had a teammate in support but opted to go alone, testing the keeper from close range.",
+                    "history_time": "11:13",
+                    "long-term": "They have been consistently testing the opposition's defense with threatening passes and shots on goal, showing a determined attacking strategy."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "game_time": "16:10",
+            "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+            "history": [
+                {
+                    "short-term": "Neymar (Barcelona) received a sweet pass inside the box, but his effort on goal was blocked by the defender. A teammate positioned near the far post tried to react, but the defense quickly cleared, conceding a corner kick.",
+                    "history_time": "14:32",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes into the penalty area, but the opposition's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Ivan Rakitic (Barcelona) delivered a low pass into the box, which was intercepted by a defender. The opposition quickly reorganized, preventing any immediate follow-up from Barcelona.",
+                    "history_time": "14:10",
+                    "long-term": "They consistently displayed strong attacking intent, delivering precise passes into the box, but the opposition's defense proved solid, neutralizing these threats."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) zig-zagged his way into the box and fired the ball towards the middle of the goal, but the goalkeeper made a great reaction save to stop the effort. The forward had a teammate in support but opted to go alone, testing the keeper from close range.",
+                    "history_time": "11:13",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and individual skill, testing the opposition's defense."
+                }
+            ]
+        },
+        {
+            "query": "Marc-Andre ter Stegen doesn't have to worry about this one. Thomas Muller plays a pass into the feet of Robert Lewandowski (Bayern Munich), who is unable to find the target as his effort from inside the box goes well wide of the left post.",
+            "game_time": "17:21",
+            "short-term": "Marc-André ter Stegen didn't have to worry about this one. Thomas Müller played a pass into the feet of Robert Lewandowski (Bayern Munich), who was unable to find the target as his effort from inside the box went well wide of the left post. Lewandowski showed clear frustration after missing a rare chance.",
+            "query_ano": "[PLAYER] doesn't have to worry about this one. [PLAYER] plays a pass into the feet of [PLAYER] ([TEAM]), who is unable to find the target as his effort from inside the box goes well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+                    "history_time": "16:10",
+                    "long-term": "Both teams have created promising scoring opportunities, but poor finishing and solid defending have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) zig-zagged his way into the box and fired the ball towards the middle of the goal, but the goalkeeper made a great reaction save to stop the effort. The forward had a teammate in support but opted to go alone, testing the keeper from close range.",
+                    "history_time": "11:13",
+                    "long-term": "Both teams have created promising scoring opportunities, but have been unable to capitalize, with forwards from both sides struggling to find the target."
+                }
+            ]
+        },
+        {
+            "query": "A brilliant individual effort! Lionel Messi (Barcelona) tricks his way past challenges into the box and drags his shot narrowly wide of the left post.",
+            "game_time": "20:44",
+            "short-term": "A brilliant individual effort! Lionel Messi (Barcelona) tricked his way past challenges into the box and dragged his shot narrowly wide of the left post. The crowd collectively gasped as the ball missed by mere inches.",
+            "query_ano": "A brilliant individual effort! [PLAYER] ([TEAM]) tricks his way past challenges into the box and drags his shot narrowly wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+                    "history_time": "16:10",
+                    "long-term": "He has been a constant threat, displaying exceptional skill on the ball and creating scoring opportunities with his vision and trickery."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) zig-zagged his way into the box and fired the ball towards the middle of the goal, but the goalkeeper made a great reaction save to stop the effort. The forward had a teammate in support but opted to go alone, testing the keeper from close range.",
+                    "history_time": "11:13",
+                    "long-term": "They have been creating scoring opportunities through exceptional individual skill, consistently threatening the opponent's goal."
+                }
+            ]
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) crosses the ball from the free kick, but it goes out of play.",
+            "game_time": "22:35",
+            "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball from the free kick, but it goes out of play.",
+            "history": [
+                {
+                    "short-term": "Javier Mascherano (Barcelona) was trying to get to the ball but clattered into the legs of the opponent as well. Nicola Rizzoli blew his whistle for an infringement. The Bayern Munich players gathered quickly around the ball, eager to take advantage of the free kick from a promising position.",
+                    "history_time": "21:50",
+                    "long-term": "They have been utilizing set pieces to create scoring chances, but the execution has been slightly off so far."
+                },
+                {
+                    "short-term": "Marc-André ter Stegen didn't have to worry about this one. Thomas Müller played a pass into the feet of Robert Lewandowski (Bayern Munich), who was unable to find the target as his effort from inside the box went well wide of the left post. Lewandowski showed clear frustration after missing a rare chance.",
+                    "history_time": "17:21",
+                    "long-term": "They have been struggling to capitalize on set pieces and scoring opportunities, with a few misdirected efforts reflecting their current lack of precision in the attacking third."
+                },
+                {
+                    "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+                    "history_time": "16:10",
+                    "long-term": "Both teams have shown promising set-piece execution, despite not yet capitalizing on these opportunities."
+                },
+                {
+                    "short-term": "Ivan Rakitic (Barcelona) delivered a low pass into the box, which was intercepted by a defender. The opposition quickly reorganized, preventing any immediate follow-up from Barcelona.",
+                    "history_time": "14:10",
+                    "long-term": "Both teams have shown moments of creativity in their set pieces and passing, but ultimately lacked precision in the final delivery."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat.",
+            "game_time": "25:10",
+            "short-term": "Lionel Messi (Barcelona) released a low pass from just outside the box, aiming to find a teammate, but one of the defenders calmly intercepted it. The defensive line remained well-positioned to prevent any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+                    "history_time": "16:10",
+                    "long-term": "They have been consistently using their passing skills to create attacking opportunities, but the opposing defense has managed to neutralize these efforts so far."
+                }
+            ]
+        },
+        {
+            "query": "Jordi Alba (Barcelona) serves up a nice cross, but the defence clears the danger. Now Barcelona have a corner.",
+            "game_time": "25:27",
+            "short-term": "Jordi Alba (Barcelona) served up a nice cross, but the defense cleared the danger. Now Barcelona have a corner and an opportunity to build another attack.",
+            "query_ano": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger. Now [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) sent a sweet pass into the penalty area, but one of the defenders averted the danger. The ball was briefly loose, causing a moment of panic before the opposition managed to fully clear it.",
+                    "history_time": "16:10",
+                    "long-term": "They have been consistently creating scoring opportunities, using both crosses and passes to try and break down the opposition's defense."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar.",
+            "game_time": "26:15",
+            "short-term": "Luis Suárez (Barcelona) received a fine cross inside the box and attempted to score, but his strike flew just a few inches over the bar. He showed frustration after missing what was a great chance.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar.",
+            "history": [
+                {
+                    "short-term": "Jordi Alba (Barcelona) served up a nice cross, but the defense cleared the danger. Now Barcelona have a corner and an opportunity to build another attack.",
+                    "history_time": "25:27",
+                    "long-term": "They have been creating scoring opportunities with effective crosses into the box, but so far, have been unable to capitalize on these chances."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+                    "history_time": "22:35",
+                    "long-term": "Both teams have been creating scoring opportunities, but precision in the final touch has been lacking, resulting in near misses and wasted chances."
+                },
+                {
+                    "short-term": "Marc-André ter Stegen didn't have to worry about this one. Thomas Müller played a pass into the feet of Robert Lewandowski (Bayern Munich), who was unable to find the target as his effort from inside the box went well wide of the left post. Lewandowski showed clear frustration after missing a rare chance.",
+                    "history_time": "17:21",
+                    "long-term": "Both teams have been creating scoring opportunities, but have been unable to capitalize on them, with key players showing frustration at their missed chances."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) zig-zagged his way into the box and fired the ball towards the middle of the goal, but the goalkeeper made a great reaction save to stop the effort. The forward had a teammate in support but opted to go alone, testing the keeper from close range.",
+                    "history_time": "11:13",
+                    "long-term": "He has been posing a significant threat to the opposing team's defense, consistently creating and capitalizing on scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Nicola Rizzoli interrupts the game for a tactical foul by Jordi Alba (Barcelona).",
+            "game_time": "28:00",
+            "short-term": "Nicola Rizzoli interrupted the game for a tactical foul by Jordi Alba (Barcelona). The opposition quickly regrouped to take advantage of the set-piece opportunity.",
+            "query_ano": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Javier Mascherano (Barcelona) was trying to get to the ball but clattered into the legs of the opponent as well. Nicola Rizzoli blew his whistle for an infringement. The Bayern Munich players gathered quickly around the ball, eager to take advantage of the free kick from a promising position.",
+                    "history_time": "21:50",
+                    "long-term": "They have been committing multiple fouls, allowing their opponents to gain set-piece opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Thiago Alcantara (Bayern Munich) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "game_time": "29:30",
+            "short-term": "Thiago Alcântara (Bayern Munich) attempted to create a dangerous situation in front of goal with a cross into the box, but the defense easily dealt with the threat. His teammates had made their runs but couldn’t connect with the delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez (Barcelona) received a fine cross inside the box and attempted to score, but his strike flew just a few inches over the bar. He showed frustration after missing what was a great chance.",
+                    "history_time": "26:15",
+                    "long-term": "Both teams have been creating scoring opportunities through crosses, but the finishing and coordination in the box have let them down so far."
+                },
+                {
+                    "short-term": "Jordi Alba (Barcelona) served up a nice cross, but the defense cleared the danger. Now Barcelona have a corner and an opportunity to build another attack.",
+                    "history_time": "25:27",
+                    "long-term": "Both teams have been utilizing crosses to try and unlock the opposing defense, but so far, the backlines have held firm."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+                    "history_time": "22:35",
+                    "long-term": "They have been trying to utilize crosses to create scoring opportunities, but so far, the delivery has been off, and the defense has been able to handle the threats."
+                }
+            ]
+        },
+        {
+            "query": "Mehdi Benatia (Bayern Munich) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "game_time": "30:05",
+            "short-term": "Mehdi Benatia (Bayern Munich) deprived his opponent of the ball, but the referee blew his whistle for a foul. Benatia raised his arms in protest, clearly unhappy with the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+            "history": [
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+                    "history_time": "22:35",
+                    "long-term": "They have been struggling to create scoring chances, with missteps on defense and inaccuracies on set pieces hampering their efforts."
+                },
+                {
+                    "short-term": "Javier Mascherano (Barcelona) was trying to get to the ball but clattered into the legs of the opponent as well. Nicola Rizzoli blew his whistle for an infringement. The Bayern Munich players gathered quickly around the ball, eager to take advantage of the free kick from a promising position.",
+                    "history_time": "21:50",
+                    "long-term": "The match has seen a series of robust challenges and referee interventions, indicating a fiercely competitive tone with both teams battling for control."
+                }
+            ]
+        },
+        {
+            "query": "Nicola Rizzoli shows the yellow card to Xabi Alonso (Bayern Munich) for a heavy challenge.",
+            "game_time": "34:20",
+            "short-term": "Nicola Rizzoli showed the yellow card to Xabi Alonso (Bayern Munich) for a heavy challenge. The midfielder didn't contest the decision as he walked away calmly.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+            "history": [
+                {
+                    "short-term": "Nicola Rizzoli interrupted the game for a tactical foul by Jordi Alba (Barcelona). The opposition quickly regrouped to take advantage of the set-piece opportunity.",
+                    "history_time": "28:00",
+                    "long-term": "The referee has been closely monitoring the game, quickly intervening in aggressive plays to maintain order on the field."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) stands over the free kick and opts to take it himself, sending it towards the right post only for Manuel Neuer to dive and make a save.",
+            "game_time": "35:35",
+            "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+            "query_ano": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, sending it towards the right post only for [PLAYER] to dive and make a save.",
+            "history": [
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+                    "history_time": "22:35",
+                    "long-term": "Both teams have shown strategic intent through set pieces, but goalkeepers and timely interventions have prevented successful conversions."
+                },
+                {
+                    "short-term": "A brilliant individual effort! Lionel Messi (Barcelona) tricked his way past challenges into the box and dragged his shot narrowly wide of the left post. The crowd collectively gasped as the ball missed by mere inches.",
+                    "history_time": "20:44",
+                    "long-term": "He has been a constant threat from set pieces and open play, testing the goalkeeper's reflexes and consistently creating scoring opportunities for his team."
+                }
+            ]
+        },
+        {
+            "query": "The referee blows his whistle as Ivan Rakitic (Barcelona) was too aggressive in his challenge.",
+            "game_time": "36:20",
+            "short-term": "The referee blows his whistle as Ivan Rakitic (Barcelona) was too aggressive in his challenge, catching his opponent’s ankle. The fouled player stayed down momentarily before getting back up.",
+            "query_ano": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge.",
+            "history": [
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) deprived his opponent of the ball, but the referee blew his whistle for a foul. Benatia raised his arms in protest, clearly unhappy with the decision.",
+                    "history_time": "30:05",
+                    "long-term": "The referee has been actively enforcing discipline, calling out fouls and maintaining control over the game's physicality."
+                }
+            ]
+        },
+        {
+            "query": "A pass from Robert Lewandowski (Bayern Munich) is intercepted by Marc-Andre ter Stegen and the move breaks down.",
+            "game_time": "37:05",
+            "short-term": "A pass from Robert Lewandowski (Bayern Munich) is intercepted by Marc-Andre ter Stegen and the move breaks down. The defensive positioning remained solid, preventing further danger.",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "history": [
+                {
+                    "short-term": "The referee blows his whistle as Ivan Rakitic (Barcelona) was too aggressive in his challenge, catching his opponent’s ankle. The fouled player stayed down momentarily before getting back up.",
+                    "history_time": "36:20",
+                    "long-term": "The defense has been solid so far, neutralizing attacks and even winning the ball back, but we've seen a dip in discipline with the aggressiveness of the tackle from Rakitic."
+                },
+                {
+                    "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+                    "history_time": "35:35",
+                    "long-term": "Both goalkeepers have been sharp, each making a crucial interception and save to deny scoring opportunities and maintain a clean sheet."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) crossed the ball from the free kick, but it went out of play. The timing of the delivery was slightly off, leading to a wasted opportunity.",
+                    "history_time": "22:35",
+                    "long-term": "They have shown some intent in their attacking play, but a combination of solid defensive work and slight missteps in execution has prevented them from capitalizing on scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "The resulting set piece, sent into the penalty area by Lionel Messi (Barcelona), was easily dealt with by one of the defenders.",
+            "game_time": "38:11",
+            "short-term": "The resulting set piece, sent into the penalty area by Lionel Messi (Barcelona), was easily dealt with by one of the defenders, as the delivery lacked depth and was quickly cleared.",
+            "query_ano": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+                    "history_time": "35:35",
+                    "long-term": "He has been actively creating scoring opportunities for his team through set pieces, but the opposing goalkeeper has consistently thwarted his efforts."
+                }
+            ]
+        },
+        {
+            "query": "Dani Alves (Barcelona) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save.",
+            "game_time": "39:45",
+            "short-term": "Dani Alves (Barcelona) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save, diving at full stretch.",
+            "query_ano": "[PLAYER] ([TEAM]) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+                    "history_time": "35:35",
+                    "long-term": "They have been creating high-quality scoring opportunities, but the opposing goalkeeper has made crucial saves to deny them."
+                },
+                {
+                    "short-term": "Thiago Alcântara (Bayern Munich) attempted to create a dangerous situation in front of goal with a cross into the box, but the defense easily dealt with the threat. His teammates had made their runs but couldn’t connect with the delivery.",
+                    "history_time": "29:30",
+                    "long-term": "Both teams have shown flashes of brilliance in their attacking play, but the defensive units have been up to the task, neutralizing the threats with crucial saves and interventions."
+                }
+            ]
+        },
+        {
+            "query": "Jerome Boateng (Bayern Munich) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball.",
+            "game_time": "43:07",
+            "short-term": "Jerome Boateng (Bayern Munich) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball, reading the play well and preventing any threat.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Dani Alves (Barcelona) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save, diving at full stretch.",
+                    "history_time": "39:45",
+                    "long-term": "Both goalkeepers have shown incredible reflexes and decision-making, effectively neutralizing opposition attacks with their sharp instincts."
+                },
+                {
+                    "short-term": "A pass from Robert Lewandowski (Bayern Munich) is intercepted by Marc-Andre ter Stegen and the move breaks down. The defensive positioning remained solid, preventing further danger.",
+                    "history_time": "37:05",
+                    "long-term": "The defensive setup has been robust, effectively neutralizing their opponent's attacking efforts and preventing clear scoring opportunities."
+                },
+                {
+                    "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+                    "history_time": "35:35",
+                    "long-term": "Both goalkeepers have been sharp and decisive, nullifying the opponents' promising attacking moves with excellent saves and preventing potential threats."
+                }
+            ]
+        },
+        {
+            "query": "What a chance that is! Lionel Messi (Barcelona) squanders a huge opportunity as he latches on to a perfect cross from the wing. He and produces a bullet header from around the penalty spot which goes well wide of the left post!",
+            "game_time": "44:40",
+            "short-term": "What a chance that is! Lionel Messi (Barcelona) squanders a huge opportunity as he latches on to a perfect cross from the wing. He produces a bullet header from around the penalty spot, but his effort goes well wide of the left post, leaving the fans in disbelief.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) squanders a huge opportunity as he latches on to a perfect cross from the wing. He and produces a bullet header from around the penalty spot which goes well wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Dani Alves (Barcelona) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save, diving at full stretch.",
+                    "history_time": "39:45",
+                    "long-term": "They have been creating excellent scoring opportunities with precise deliveries, but the finishing and opposition's goalkeeping have let them down so far."
+                },
+                {
+                    "short-term": "Lionel Messi (Barcelona) stood over the free kick and took it himself, aiming for the right post. However, Manuel Neuer reacted swiftly, diving to make the save and keeping his team in control.",
+                    "history_time": "35:35",
+                    "long-term": "He has been creating scoring opportunities but struggling to find the back of the net, with a header wide of the post and a free kick saved by the goalkeeper."
+                }
+            ]
+        },
+        {
+            "query": "Robert Lewandowski (Bayern Munich) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "game_time": "44:09",
+            "short-term": "Robert Lewandowski (Bayern Munich) tries to send the ball in front of the goal, but the opposition's defence averts the threat, reacting quickly to clear the danger before an attacker could reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "history": [
+                {
+                    "short-term": "Jerome Boateng (Bayern Munich) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball, reading the play well and preventing any threat.",
+                    "history_time": "43:07",
+                    "long-term": "They have been consistently testing the opposition's defense with threatening passes, but the opposing team's goalkeeper and defense have been up to the task so far."
+                },
+                {
+                    "short-term": "Dani Alves (Barcelona) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save, diving at full stretch.",
+                    "history_time": "39:45",
+                    "long-term": "Both teams have shown incredible defensive prowess, with impressive saves and clearances that have so far kept the scoreboard unchanged."
+                }
+            ]
+        }
+    ]
+}

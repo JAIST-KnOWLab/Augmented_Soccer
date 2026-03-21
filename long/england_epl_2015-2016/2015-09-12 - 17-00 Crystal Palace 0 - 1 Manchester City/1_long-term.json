@@ -1,0 +1,478 @@
+{
+    "annotations": [
+        {
+            "gameTime": "42:55",
+            "game_time": "42:55",
+            "query": "The linesman raises his flag. Wilfried Zaha (Crystal Palace) is adjudged offside.",
+            "short-term": "The linesman raises his flag. Wilfried Zaha (Crystal Palace) is adjudged offside. He had received a pass from Bolasie but was caught beyond the last defender.",
+            "query_ano": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "history": [
+                {
+                    "short-term": "The linesman raises his flag for offside before Wilfried Zaha (Crystal Palace) heads on.",
+                    "history_time": "36:48",
+                    "long-term": "He has had multiple attempts thwarted due to being caught in an offside position, struggling to find the timing of his runs."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) is offside and the linesman raises his flag. MacArthur had set up the play, but Puncheon was caught offside while attempting to build an attack.",
+                    "history_time": "21:32",
+                    "long-term": "Crystal Palace's attacking efforts have been consistently thwarted by offside calls, indicating a need for adjustment in their timing and positioning."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:57",
+            "game_time": "41:57",
+            "query": "Aleksandar Kolarov (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "short-term": "Aleksandar Kolarov (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post. He delivered the cross too early before the attackers were in position.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "history": [
+                {
+                    "short-term": "Brede Hangeland (Crystal Palace) commits a rough challenge and Mike Jones blows his whistle for a foul. City takes a moment to regroup after the play.",
+                    "history_time": "40:10",
+                    "long-term": "They have struggled to create clear scoring opportunities, with inaccurate deliveries and stoppages in play hindering their momentum."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked. The ball goes one of the defender's face.",
+                    "history_time": "31:07",
+                    "long-term": "He has shown a willingness to create scoring opportunities, but the precision and timing of his crosses and shots have let him down so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:17",
+            "game_time": "41:17",
+            "query": "Samir Nasri (Manchester City) and Wilfried Bony try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move.",
+            "short-term": "Samir Nasri (Manchester City) and Wilfried Bony try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. Yaya Touré was orchestrating the attack from midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) and [PLAYER] try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move.",
+            "history": [
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball goes out of play and Manchester City will have a goal kick. Crystal Palace keeps pressing, unsettling the league leader.",
+                    "history_time": "38:30",
+                    "long-term": "Both teams have been displaying strategic attacking moves, exchanging threatening possessions and creating goal-scoring opportunities with quick, clever passes. The opponents, however, have managed to temporarily neutralize these attempts with solid defensive plays."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) sends over a free kick from long range but the defence is alert. Manchester City continues to control possession but is met with strong defensive resistance.",
+                    "history_time": "34:07",
+                    "long-term": "They have been dominating possession and creating scoring opportunities, but the opposing team's defense has been solid, neutralizing their attacking threats."
+                },
+                {
+                    "short-term": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Manchester City came close to scoring after a well-executed attacking move.",
+                    "history_time": "32:45",
+                    "long-term": "They have been displaying strong attacking teamwork, with Yaya Touré orchestrating from midfield, but struggling to break through the opposition's defense."
+                },
+                {
+                    "short-term": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save. City keeps pushing for an opening.",
+                    "history_time": "31:49",
+                    "long-term": "They have been displaying intricate passing combinations in an effort to break down the opposition's defense, resulting in notable scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:10",
+            "game_time": "40:10",
+            "query": "Brede Hangeland (Crystal Palace) commits a rough challenge and Mike Jones blows his whistle for a foul.",
+            "short-term": "Brede Hangeland (Crystal Palace) commits a rough challenge and Mike Jones blows his whistle for a foul. City takes a moment to regroup after the play.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) trips an opposition player and Mike Jones signals a foul. Manchester City get a free kick. City continues pressing forward, looking to break through Palace’s compact defense.",
+                    "history_time": "33:47",
+                    "long-term": "Their aggressive style of play has resulted in multiple fouls, testing the referee's patience and potentially putting their players at risk of bookings."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:30",
+            "game_time": "38:30",
+            "query": "Yohan Cabaye (Crystal Palace) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball goes out of play and Manchester City will have a goal kick.",
+            "short-term": "Yohan Cabaye (Crystal Palace) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball goes out of play and Manchester City will have a goal kick. Crystal Palace keeps pressing, unsettling the league leader.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas (Manchester City) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. The ball came from a sequence involving Fernandinho and Toure.",
+                    "history_time": "38:09",
+                    "long-term": "Both teams have been creating scoring opportunities, with Crystal Palace consistently pressuring the league leader's defense, while Manchester City has demonstrated its threat through coordinated attacks."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) trips an opposition player and Mike Jones signals a foul. Manchester City get a free kick. City continues pressing forward, looking to break through Palace’s compact defense.",
+                    "history_time": "33:47",
+                    "long-term": "Crystal Palace has maintained an aggressive stance, constantly pressuring Manchester City, who in turn have pushed forward in search of an opening in Palace's tight defense."
+                },
+                {
+                    "short-term": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save. City keeps pushing for an opening.",
+                    "history_time": "31:49",
+                    "long-term": "Both teams have been aggressively seeking scoring opportunities, but goalkeepers have been effective in thwarting these attempts."
+                },
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "They have been consistently applying pressure, trying to create scoring opportunities, but lack precision in their passing, which has resulted in consecutive goal kicks for the opposing team."
+                },
+                {
+                    "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+                    "history_time": "26:49",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities, maintaining an aggressive tempo throughout the match."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared. Cabaye was tightly marked and had no space to maneuver.",
+                    "history_time": "17:10",
+                    "long-term": "They have been consistently applying pressure and creating opportunities, but struggling to break through the defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:09",
+            "game_time": "38:09",
+            "query": "Jesus Navas (Manchester City) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "short-term": "Jesus Navas (Manchester City) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. The ball came from a sequence involving Fernandinho and Toure.",
+            "query_ano": "[PLAYER] ([TEAM]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Manchester City came close to scoring after a well-executed attacking move.",
+                    "history_time": "32:45",
+                    "long-term": "They have been posing a significant threat to the opposing team's goal, producing a couple of narrow misses with precise strikes."
+                },
+                {
+                    "short-term": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save. City keeps pushing for an opening.",
+                    "history_time": "31:49",
+                    "long-term": "They have been consistently creating scoring opportunities, with multiple close calls that could have changed the game's trajectory."
+                },
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "They have been putting pressure on the opponent's defense, while Crystal Palace is struggling to maintain possession and create scoring opportunities."
+                },
+                {
+                    "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+                    "history_time": "26:49",
+                    "long-term": "Both teams have shown promising attacking intent, with chances created through combination play and set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:48",
+            "game_time": "36:48",
+            "query": "The linesman raises his flag for offside before Wilfried Zaha (Crystal Palace) heads on.",
+            "short-term": "The linesman raises his flag for offside before Wilfried Zaha (Crystal Palace) heads on.",
+            "query_ano": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) is offside and the linesman raises his flag. MacArthur had set up the play, but Puncheon was caught offside while attempting to build an attack.",
+                    "history_time": "21:32",
+                    "long-term": "Their attacking efforts have been consistently thwarted by offside calls, indicating a need for better timing in their runs."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:09",
+            "game_time": "36:09",
+            "query": "Yohan Cabaye (Crystal Palace) picks out Bakary Sako with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range.",
+            "short-term": "Yohan Cabaye (Crystal Palace) picks out Bakary Sako with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range. Crystal Palace continues their relentless attacking style, pushing forward with intensity.",
+            "query_ano": "[PLAYER] ([TEAM]) picks out [PLAYER] with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked. The ball goes one of the defender's face.",
+                    "history_time": "31:07",
+                    "long-term": "Both teams have displayed aggressive tactics, Crystal Palace maintained their intense offense while Manchester City pushed forward to create chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:07",
+            "game_time": "34:07",
+            "query": "Samir Nasri (Manchester City) sends over a free kick from long range but the defence is alert.",
+            "short-term": "Samir Nasri (Manchester City) sends over a free kick from long range but the defence is alert. Manchester City continues to control possession but is met with strong defensive resistance.",
+            "query_ano": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert.",
+            "history": [
+                {
+                    "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+                    "history_time": "26:49",
+                    "long-term": "Both teams have shown great intent from set pieces, but the defensive units have been resolute in thwarting these opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:47",
+            "game_time": "33:47",
+            "query": "Jason Puncheon (Crystal Palace) trips an opposition player and Mike Jones signals a foul. Manchester City get a free kick.",
+            "short-term": "Jason Puncheon (Crystal Palace) trips an opposition player and Mike Jones signals a foul. Manchester City get a free kick. City continues pressing forward, looking to break through Palace’s compact defense.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. [TEAM] get a free kick.",
+            "history": [
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "He has been involved in several key plays, but has struggled with precision, committing a foul and misplacing a pass, allowing the opposing team to maintain pressure."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) is offside and the linesman raises his flag. MacArthur had set up the play, but Puncheon was caught offside while attempting to build an attack.",
+                    "history_time": "21:32",
+                    "long-term": "He has shown some inconsistency in his decision-making, mistiming his run to be caught offside and later committing a foul."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) trips an opponent with a slide tackle. Mike Jones stops the game and he could give him a card, but eventually decides on just a warning. It's a free kick to Crystal Palace, but it's in no position for a direct shot on goal. Palace players asking for a card but the referee decides to just give a warning.",
+                    "history_time": "10:26",
+                    "long-term": "The referee has been actively managing the physicality of the game, intervening in several instances to prevent the match from getting out of hand."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:45",
+            "game_time": "32:45",
+            "query": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Manchester City came close to scoring after a well-executed attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save. City keeps pushing for an opening.",
+                    "history_time": "31:49",
+                    "long-term": "His two shots in a short period of time were very threatening, but they did not turn into goals."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked. The ball goes one of the defender's face.",
+                    "history_time": "31:07",
+                    "long-term": "They were very aggressive during this period and had several good shots, but they were unable to convert them into goals."
+                },
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "Manchester City's attacking efforts have been effective in breaching the opponent's defense, but Crystal Palace's sloppy passing has hindered their ability to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:49",
+            "game_time": "31:49",
+            "query": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save.",
+            "short-term": "Wilfried Bony (Manchester City) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save. City keeps pushing for an opening.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Alex McCarthy guesses his intention and denies him with a fine save.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked. The ball goes one of the defender's face.",
+                    "history_time": "31:07",
+                    "long-term": "They have been consistently aggressive in their pursuit of a goal, with multiple attempts from various angles testing the defensive line."
+                },
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "Manchester City has been consistently aggressive in their pursuit of a goal, while Crystal Palace is struggling to maintain possession and create scoring opportunities."
+                },
+                {
+                    "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+                    "history_time": "26:49",
+                    "long-term": "Both teams have been creating scoring opportunities, with the goalkeeper making a crucial save in one instance and a defender intervening to prevent a threat in another."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:07",
+            "game_time": "31:07",
+            "query": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked.",
+            "short-term": "Aleksandar Kolarov (Manchester City) receives a pass and fires a shot in from long range, but it's blocked. The ball goes one of the defender's face.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked.",
+            "history": [
+                {
+                    "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+                    "history_time": "29:04",
+                    "long-term": "The player has shown great initiative in launching long-range attacks, but the opposition's solid defense has consistently neutralized these efforts, with the opposing team struggling to find its mark on the counter-attack."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:04",
+            "game_time": "29:04",
+            "query": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City.",
+            "short-term": "A crossfield pass from Jason Puncheon (Crystal Palace) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for Manchester City. The keeper just letting the ball go along the bottom line.",
+            "query_ano": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+                    "history_time": "26:49",
+                    "long-term": "He has been actively creating opportunities with his crosses, even though they haven't yet resulted in a scoring chance."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) is offside and the linesman raises his flag. MacArthur had set up the play, but Puncheon was caught offside while attempting to build an attack.",
+                    "history_time": "21:32",
+                    "long-term": "He has struggled to create scoring opportunities, with misplaced passes and an offside call limiting his team's attacking potential."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Palace continues to dominate the midfield, winning most duels.",
+                    "history_time": "21:07",
+                    "long-term": "They have been consistently dominating the midfield and creating attacking opportunities, but struggling to find the final delivery into the box."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared. Cabaye was tightly marked and had no space to maneuver.",
+                    "history_time": "17:10",
+                    "long-term": "Crystal Palace has been struggling to create scoring opportunities, with their passes often going astray or being easily cleared by the Manchester City defense."
+                },
+                {
+                    "short-term": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in. The team has the ball and tries to move it.",
+                    "history_time": "15:44",
+                    "long-term": "The match has seen both teams create chances through crosses, but neither has been able to capitalize, resulting in a series of cleared balls and goal kicks."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+                    "history_time": "14:21",
+                    "long-term": "Both teams have been exchanging crosses into the box but neither has been able to create a clear-cut scoring chance from them. The defenses have been solid in dealing with these deliveries."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:49",
+            "game_time": "26:49",
+            "query": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.",
+            "short-term": "A cross from the free kick is whipped in by Jason Puncheon (Crystal Palace), but one of the defenders steps in and averts the threat.The cross started very well, fast, intense and great speed",
+            "query_ano": "A cross from the free kick is whipped in by [PLAYER] ([TEAM]), but one of the defenders steps in and averts the threat.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure (Manchester City) plays a long ball to Jesus Navas, but the defence is well organised and manages to get it clear. Meanwhile, Agüero is seen limping, raising concerns about his ability to continue.",
+                    "history_time": "22:34",
+                    "long-term": "Both teams have shown great defensive organization and swift response to opponents' attacks, neutralizing potential threats effectively."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) is offside and the linesman raises his flag. MacArthur had set up the play, but Puncheon was caught offside while attempting to build an attack.",
+                    "history_time": "21:32",
+                    "long-term": "They have been utilizing set pieces and passes to create attacking opportunities, but have been struggling to stay onside."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Palace continues to dominate the midfield, winning most duels.",
+                    "history_time": "21:07",
+                    "long-term": "They have been consistently posing threats through crosses, and their dominance in midfield is giving them opportunities to create chances."
+                },
+                {
+                    "short-term": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in. The team has the ball and tries to move it.",
+                    "history_time": "15:44",
+                    "long-term": "Both teams have shown excellent crossing abilities, consistently creating scoring opportunities through well-placed deliveries into the box."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+                    "history_time": "14:21",
+                    "long-term": "Both teams have shown excellent defensive skills, consistently neutralizing opponents' crosses and minimizing threats. The defenders have been proactive in responding to attacking plays."
+                },
+                {
+                    "short-term": "A cross, provided by Jason Puncheon (Crystal Palace), caused no threat to the opposition's defence as the ball was cleared out of danger. City’s defenders were well positioned to deal with the threat.",
+                    "history_time": "10:38",
+                    "long-term": "The player's crosses have been consistently dealt with by the opposing team's defense, neutralizing his attacking threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:34",
+            "game_time": "22:34",
+            "query": "Yaya Toure (Manchester City) plays a long ball to Jesus Navas, but the defence is well organised and manages to get it clear.",
+            "short-term": "Yaya Toure (Manchester City) plays a long ball to Jesus Navas, but the defence is well organised and manages to get it clear. Meanwhile, Agüero is seen limping, raising concerns about his ability to continue.",
+            "query_ano": "Yaya Toure ([TEAM]) plays a long ball to [PLAYER], but the defence is well organised and manages to get it clear.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Palace continues to dominate the midfield, winning most duels.",
+                    "history_time": "21:07",
+                    "long-term": "Both teams have shown impressive defensive solidity, effectively nullifying their opponents' attacking threats."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared. Cabaye was tightly marked and had no space to maneuver.",
+                    "history_time": "17:10",
+                    "long-term": "Both teams have been exchanging attacking plays, but defences have been solid so far, neutralizing the opposing team's advances with tight marking and timely clearances."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:07",
+            "game_time": "21:07",
+            "query": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Palace continues to dominate the midfield, winning most duels.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared. Cabaye was tightly marked and had no space to maneuver.",
+                    "history_time": "17:10",
+                    "long-term": "He sent a series of threatening crosses within a few minutes, but failed to convert them into goals."
+                },
+                {
+                    "short-term": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in. The team has the ball and tries to move it.",
+                    "history_time": "15:44",
+                    "long-term": "Both teams have shown impressive midfield presence and attacking intentions, but their efforts have been thwarted by solid defensive clearances. The crosses into the box have been met with strong defensive responses, leading to a closely contested match."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+                    "history_time": "14:21",
+                    "long-term": "Both teams have shown impressive midfield presence and defensive skills."
+                },
+                {
+                    "short-term": "A cross, provided by Jason Puncheon (Crystal Palace), caused no threat to the opposition's defence as the ball was cleared out of danger. City’s defenders were well positioned to deal with the threat.",
+                    "history_time": "10:38",
+                    "long-term": "They have consistently utilized crosses to create attacking opportunities, but the opposition's defense has held firm so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:10",
+            "game_time": "17:10",
+            "query": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared.",
+            "short-term": "Yannick Bolasie (Crystal Palace) sends a sweet pass into the box towards Yohan Cabaye. He looks to dribble past an opposing player, but fails and the ball is cleared. Cabaye was tightly marked and had no space to maneuver.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a sweet pass into the box towards [PLAYER]. He looks to dribble past an opposing player, but fails and the ball is cleared.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in. The team has the ball and tries to move it.",
+                    "history_time": "15:44",
+                    "long-term": "Both teams have shown promising attacking intent, but struggled to create clear-cut chances due to solid defensive marking and timely clearances."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+                    "history_time": "14:21",
+                    "long-term": "Both teams have shown glimpses of attacking intent, but defenses have been solid, resulting in few clear-cut chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:44",
+            "game_time": "15:44",
+            "query": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in.",
+            "short-term": "Jesus Navas (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and Manchester City will take a throw-in. The team has the ball and tries to move it.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball is behind the touchline and [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+                    "history_time": "14:21",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposing team's defense has been able to effectively clear the ball."
+                },
+                {
+                    "short-term": "A cross, provided by Jason Puncheon (Crystal Palace), caused no threat to the opposition's defence as the ball was cleared out of danger. City’s defenders were well positioned to deal with the threat.",
+                    "history_time": "10:38",
+                    "long-term": "Both teams have shown glimpses of good playmaking with effective crosses, but their efforts have been matched by solid defensive work, preventing clear scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:21",
+            "game_time": "14:21",
+            "query": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "short-term": "Bacary Sagna (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. He was quick to react and cleared the ball near the post.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "A cross, provided by Jason Puncheon (Crystal Palace), caused no threat to the opposition's defence as the ball was cleared out of danger. City’s defenders were well positioned to deal with the threat.",
+                    "history_time": "10:38",
+                    "long-term": "Both teams have shown glimpses of promising attacking play, but the defensive lines have been resolute in neutralizing these threats, with well-timed clearances from each side."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) trips an opponent with a slide tackle. Mike Jones stops the game and he could give him a card, but eventually decides on just a warning. It's a free kick to Crystal Palace, but it's in no position for a direct shot on goal. Palace players asking for a card but the referee decides to just give a warning.",
+                    "history_time": "10:26",
+                    "long-term": "He has been actively involved in the game, creating scoring opportunities for his team while also getting into a physical battle with his opponents."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:53",
+            "game_time": "12:53",
+            "query": "Pape Souare (Crystal Palace) fouls an opponent. At least that's what referee Mike Jones signals.",
+            "short-term": "Pape Souare (Crystal Palace) fouls an opponent. At least that's what referee Mike Jones signals. Palace’s aggressive pressing is making it difficult for City to settle. The coach animated on the touchline, urging his players on.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna (Manchester City) trips an opponent with a slide tackle. Mike Jones stops the game and he could give him a card, but eventually decides on just a warning. It's a free kick to Crystal Palace, but it's in no position for a direct shot on goal. Palace players asking for a card but the referee decides to just give a warning.",
+                    "history_time": "10:26",
+                    "long-term": "The match is seeing an intense and physical battle for control, with both teams committing fouls in their attempts to gain an advantage."
+                }
+            ]
+        }
+    ]
+}

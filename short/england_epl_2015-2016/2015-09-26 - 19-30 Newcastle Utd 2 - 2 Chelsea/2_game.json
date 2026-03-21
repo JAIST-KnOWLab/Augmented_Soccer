@@ -1,0 +1,354 @@
+{
+    "annotations": [
+        {
+            "gameTime": "52:59",
+            "game_time": "52:59",
+            "query": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. A very even game was seen on the pitch today. Both teams attempted to play possession football.",
+            "short-term": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. A very even game was seen on the pitch today. Both teams attempted to play possession football. The intensity never dropped, and the match remained engaging until the final moments.",
+            "query_ano": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. A very even game was seen on the pitch today. Both teams attempted to play possession football."
+        },
+        {
+            "gameTime": "51:52",
+            "game_time": "51:37",
+            "query": "Pedro (Chelsea) has tested the patience of referee Martin Atkinson and goes into the book for a previous late challenge.",
+            "short-term": "Pedro (Chelsea) has tested the patience of referee Martin Atkinson and goes into the book for a previous late challenge. He had been playing aggressively throughout the match. His frustration was evident, and some players protested the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "50:55",
+            "game_time": "50:55",
+            "query": "Siem De Jong (Newcastle Utd) seems to be alright and is okay to carry on.",
+            "short-term": "Siem De Jong (Newcastle Utd) seems to be alright and is okay to carry on. Chelsea, eager to capitalize on the moment, pushed forward immediately, while the home crowd called for the final whistle.",
+            "query_ano": "Siem De Jong ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "50:27",
+            "game_time": "50:17",
+            "query": "Newcastle take a short corner instead of sending the ball into the penalty area.",
+            "short-term": "Newcastle take a short corner instead of sending the ball into the penalty area. They seemed intent on maintaining possession and running down the clock as the match neared its conclusion.",
+            "query_ano": "[TEAM] take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "50:15",
+            "game_time": "50:22",
+            "query": "Gabriel Obertan (Newcastle Utd) fails to find any of his teammates inside the box as his pass is blocked. Newcastle have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "short-term": "Gabriel Obertan (Newcastle Utd) fails to find any of his teammates inside the box as his pass is blocked. Newcastle have been awarded a corner kick. The team appeared to be slowing the tempo, looking to close out the game with controlled possession.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "49:57",
+            "game_time": "49:50",
+            "query": "Ayoze Perez (Newcastle Utd) takes the corner with a short pass.",
+            "short-term": "Ayoze Perez (Newcastle Utd) takes the corner with a short pass. The referee closely monitored the situation as Newcastle focused on keeping the ball and limiting Chelsea's attacking opportunities.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "48:18",
+            "game_time": "48:58",
+            "query": "Siem De Jong (Newcastle Utd) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "short-term": "Siem De Jong (Newcastle Utd) is having a really tough time right now. We are about to find out how serious his injury is. He remained on the ground for a considerable time, clutching his head and neck, while the medical staff assessed his condition.",
+            "query_ano": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "47:24",
+            "game_time": "47:16",
+            "query": "Gabriel Obertan (Newcastle Utd) races towards goal but the defender gets back well to make a challenge. Newcastle get a corner.",
+            "short-term": "Gabriel Obertan (Newcastle Utd) races towards goal but the defender gets back well to make a challenge. Newcastle get a corner. The counterattack developed quickly, but Chelsea's defense reacted in time to prevent a dangerous chance.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] get a corner."
+        },
+        {
+            "gameTime": "46:32",
+            "game_time": "46:25",
+            "query": "Here comes a substitution. Moussa Sissoko is given a rest as he is replaced by Siem De Jong (Newcastle Utd).",
+            "short-term": "Here comes a substitution. Moussa Sissoko is given a rest as he is replaced by Siem De Jong (Newcastle Utd). Newcastle seemed intent on managing the remaining time, and the substitution aimed to slow the game down while reinforcing midfield stability.",
+            "query_ano": "Here comes a substitution. [PLAYER] is given a rest as he is replaced by Siem De Jong ([TEAM])."
+        },
+        {
+            "gameTime": "44:50",
+            "game_time": "44:51",
+            "query": "The Chelsea players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The Chelsea players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. Their midfield players have been instrumental in maintaining possession, providing fresh energy in the final moments of the match.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "43:26",
+            "game_time": "43:17",
+            "query": "Ramires (Chelsea) creates himself some space inside the goalmouth and connects with the resulting free kick. His header would have probably ended up in the middle of the goal, but Tim Krul pulls off a superb reflex save to thwart him.",
+            "short-term": "Ramires (Chelsea) creates himself some space inside the goalmouth and connects with the resulting free kick. His header would have probably ended up in the middle of the goal, but Tim Krul pulls off a superb reflex save to thwart him. The Chelsea midfielder found himself unmarked, and his effort had the potential to change the game, but keeper's outstanding stop denied the equalizer.",
+            "query_ano": "Ramires ([TEAM]) creates himself some space inside the goalmouth and connects with the resulting free kick. His header would have probably ended up in the middle of the goal, but [PLAYER] pulls off a superb reflex save to thwart him."
+        },
+        {
+            "gameTime": "42:37",
+            "game_time": "42:36",
+            "query": "Moussa Sissoko (Newcastle Utd) trips an opposition player and Martin Atkinson signals a foul. Chelsea will take a free kick. Willian (Chelsea) will take the free kick.",
+            "short-term": "Moussa Sissoko (Newcastle Utd) trips an opposition player and Martin Atkinson signals a foul. Chelsea will take a free kick. Willian (Chelsea) will take the free kick. This free kick comes from a similar position to the one that led to Chelsea’s previous goal, giving them another dangerous opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. [TEAM] will take a free kick. Willian ([TEAM]) will take the free kick."
+        },
+        {
+            "gameTime": "40:55",
+            "game_time": "40:55",
+            "query": "Willian (Chelsea) scores a marvellous goal! He smashed a direct free kick from 25 metres into the middle of the net. The normally comfortable situation became a problem for the goalkeeper as the ball slipped behind his back.",
+            "short-term": "Willian (Chelsea) scores a marvellous goal! He smashed a direct free kick from 25 metres into the middle of the net. The normally comfortable situation became a problem for the goalkeeper as the ball slipped behind his back. The set-piece flew directly into the goal without any deflection.",
+            "query_ano": "Willian ([TEAM]) scores a marvellous goal! He smashed a direct free kick from 25 metres into the middle of the net. The normally comfortable situation became a problem for the goalkeeper as the ball slipped behind his back."
+        },
+        {
+            "gameTime": "40:30",
+            "game_time": "40:17",
+            "query": "Newcastle concede a free kick after one of their players holds onto an opposition player. A free kick has been awarded to Chelsea.",
+            "short-term": "Newcastle concede a free kick after one of their players holds onto an opposition player. A free kick has been awarded to Chelsea. The tall Chelsea players moved forward in anticipation of a set-piece opportunity.",
+            "query_ano": "[TEAM] concede a free kick after one of their players holds onto an opposition player. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "gameTime": "39:01",
+            "game_time": "38:30",
+            "query": "The referee stops play so that a substitution can be made and Aleksandar Mitrovic departs the field of play to be replaced by Ivan Toney (Newcastle Utd).",
+            "short-term": "The referee stops play so that a substitution can be made and Aleksandar Mitrovic departs the field of play to be replaced by Ivan Toney (Newcastle Utd). He received a warm reception from the home crowd for his performance, while the young player was introduced to add fresh legs in attack.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by Ivan Toney ([TEAM])."
+        },
+        {
+            "gameTime": "37:57",
+            "game_time": "37:48",
+            "query": "Pedro (Chelsea) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. The ball is off of the pitch and it's a goal kick for Newcastle.",
+            "short-term": "Pedro (Chelsea) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. The ball is off of the pitch and it's a goal kick for Newcastle. The ball seemed to bounce awkwardly just before his strike, making it difficult for him to keep his effort on target.",
+            "query_ano": "[PLAYER] ([TEAM]) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "37:27",
+            "game_time": "37:17",
+            "query": "Chelsea are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes.",
+            "short-term": "Chelsea are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes. Their oppnents immediately launched a counterattack, looking to exploit the turnover.",
+            "query_ano": "[TEAM] are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes."
+        },
+        {
+            "gameTime": "36:20",
+            "game_time": "36:09",
+            "query": "Eden Hazard (Chelsea) goes on a weaving run through the defence and gets within shooting range but his effort is blocked.",
+            "short-term": "Eden Hazard (Chelsea) goes on a weaving run through the defence and gets within shooting range but his effort is blocked. His signature dribbling saw him glide past multiple defenders, but one of the defender reacted well to block his attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a weaving run through the defence and gets within shooting range but his effort is blocked."
+        },
+        {
+            "gameTime": "33:47",
+            "game_time": "33:26",
+            "query": "Ramires (Chelsea) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 24 metres out which goes into the top left corner.",
+            "short-term": "Ramires (Chelsea) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 24 metres out which goes into the top left corner. His powerful shot left the goalkeeper with no chance, and the goal injected new energy into Chelsea’s attack.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 24 metres out which goes into the top left corner."
+        },
+        {
+            "gameTime": "30:13",
+            "game_time": "30:13",
+            "query": "Falcao (Chelsea) finds himself in a promising position after receiving a clever chip pass, but one of the defending players comes up with a timely interception.",
+            "short-term": "Falcao (Chelsea) finds himself in a promising position after receiving a clever chip pass, but the defending players work well together to deny him a clear chance on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a clever chip pass, but one of the defending players comes up with a timely interception."
+        },
+        {
+            "gameTime": "28:40",
+            "game_time": "28:32",
+            "query": "Falcao (Chelsea) times his run too early and the linesman raises his flag for offside.",
+            "short-term": "Falcao (Chelsea) times his run too early and the linesman raises his flag for offside. He still managed to get a shot off, but keeper made a fine save despite the play being ruled out.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "27:59",
+            "game_time": "27:57",
+            "query": "Cesc Fabregas (Chelsea) takes the corner, but the goalkeeper jumps and gathers the ball.",
+            "short-term": "Cesc Fabregas (Chelsea) takes the corner, but the goalkeeper jumps and gathers the ball. Tim Krul confidently dealt with the cross, punching it away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "27:59",
+            "game_time": "27:41",
+            "query": "Substitution. Oscar makes way for Ramires (Chelsea).",
+            "short-term": "Substitution. Oscar makes way for Ramires (Chelsea). The change was made to add energy to Chelsea’s midfield, with he bringing more dynamism to the attack.",
+            "query_ano": "Substitution. [PLAYER] makes way for Ramires ([TEAM])."
+        },
+        {
+            "gameTime": "27:26",
+            "game_time": "27:23",
+            "query": "Cesar Azpilicueta (Chelsea) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. Chelsea have a corner.",
+            "short-term": "Cesar Azpilicueta (Chelsea) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. Their defense remained well-organized, forcing Chelsea to settle for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. [TEAM] have a corner."
+        },
+        {
+            "gameTime": "25:49",
+            "game_time": "25:42",
+            "query": "Eden Hazard picks out Oscar (Chelsea), who drives a shot just wide of the right post from the edge of the box. The ball is off of the pitch and it's a goal kick for Newcastle.",
+            "short-term": "Eden Hazard picks out Oscar (Chelsea), who drives a shot just wide of the right post from the edge of the box. The ball is off of the pitch and it's a goal kick for Newcastle. It was Chelsea’s clearest chance of the match so far, but he couldn't keep his shot on target.",
+            "query_ano": "[PLAYER] picks out [PLAYER] ([TEAM]), who drives a shot just wide of the right post from the edge of the box. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "23:51",
+            "game_time": "23:51",
+            "query": "Pedro (Chelsea) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "short-term": "Pedro (Chelsea) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. Newcastle’s defense held firm, preventing Chelsea from capitalizing on the set-piece.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "23:35",
+            "game_time": "23:26",
+            "query": "Pedro (Chelsea) crosses the ball into the box, but one of the defending players averts the threat. The referee and his assistant both point at the corner flag. Chelsea will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Pedro (Chelsea) crosses the ball into the box. The defender reacted quickly to clear the danger, ensuring Newcastle maintained their lead. The referee and his assistant both point at the corner flag.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "22:58",
+            "game_time": "22:34",
+            "query": "This yellow card was deserved. The tackle by Branislav Ivanovic (Chelsea) was quite harsh and Martin Atkinson didn't hesitate to show him a yellow card.",
+            "short-term": "This yellow card was deserved. The tackle by Branislav Ivanovic (Chelsea) was quite harsh and referee didn't hesitate to show him a yellow card. He immediately apologized to his opponent, who had controlled the ball superbly before the challenge.",
+            "query_ano": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "22:07",
+            "game_time": "21:57",
+            "query": "Willian (Chelsea) displays his superb passing ability after picking out Pedro with a fine lofted pass to continue their attacking move. Pedro (Chelsea) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "short-term": "Willian (Chelsea) displays his superb passing ability after picking out Pedro with a fine lofted pass to continue their attacking move. Pedro (Chelsea) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The defender was in position to intercept, and the ball ended up safely in keeper’s hands.",
+            "query_ano": "[PLAYER] ([TEAM]) displays his superb passing ability after picking out [PLAYER] with a fine lofted pass to continue their attacking move. [PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+        },
+        {
+            "gameTime": "20:17",
+            "game_time": "20:10",
+            "query": "Rough tackle by Moussa Sissoko (Newcastle Utd). The referee blows his whistle for a foul. Chelsea get a free kick. Chelsea try to maintain the tempo of the game by taking a quick free kick.",
+            "short-term": "Rough tackle by Moussa Sissoko (Newcastle Utd). The referee blows his whistle for a foul. Chelsea get a free kick. Chelsea try to maintain the tempo of the game by taking a quick free kick. The midfielders combined to restart play immediately, trying to catch Newcastle off guard.",
+            "query_ano": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul. [TEAM] get a free kick. [TEAM] try to maintain the tempo of the game by taking a quick free kick."
+        },
+        {
+            "gameTime": "18:29",
+            "game_time": "18:29",
+            "query": "Martin Atkinson blows his whistle and it's Aleksandar Mitrovic (Newcastle Utd) who is penalised for an offensive foul. Good decision by the referee.",
+            "short-term": "Martin Atkinson blows his whistle and it's Aleksandar Mitrovic (Newcastle Utd) who is penalised for an offensive foul. Good decision by the referee. Mitrovic accepted the call and quickly apologized as Chelsea regained possession.",
+            "query_ano": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "15:55",
+            "game_time": "15:55",
+            "query": "Jose Mourinho has decided to make a change. Willian (Chelsea) replaces Nemanja Matic.",
+            "short-term": "Jose Mourinho has decided to make a change. Willian (Chelsea) replaces Nemanja Matic. This substitution aimed to add more attacking intent as Chelsea sought to reduce the deficit.",
+            "query_ano": "[COACH] has decided to make a change. [PLAYER] replaces [PLAYER]."
+        },
+        {
+            "gameTime": "15:50",
+            "game_time": "15:50",
+            "query": "The game has come to an end for Loic Remy. He has contributed as much as he could today. He will be replaced by the fresh legs of Falcao (Chelsea).",
+            "short-term": "The game has come to an end for Loic Remy. He has contributed as much as he could today. He will be replaced by the fresh legs of Falcao (Chelsea). With Chelsea trailing, this change was intended to add a more physical presence in attack.",
+            "query_ano": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of Falcao ([TEAM])."
+        },
+        {
+            "gameTime": "14:54",
+            "game_time": "14:24",
+            "query": "Goal! The corner is whipped in and Georginio Wijnaldum (Newcastle Utd) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 1:0.",
+            "short-term": "Goal! The corner is whipped in and Georginio Wijnaldum (Newcastle Utd) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 1:0. The staduim erupted as they capitalized on another set-piece situation.",
+            "query_ano": "Goal! The corner is whipped in and [PLAYER] ([TEAM]) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 1:0."
+        },
+        {
+            "gameTime": "14:30",
+            "game_time": "14:14",
+            "query": "Ayoze Perez (Newcastle Utd) is heading toward the corner flag to take the set piece.",
+            "short-term": "Ayoze Perez (Newcastle Utd) is heading toward the corner flag to take the set piece. Newcastle had gained momentum, and this was their second consecutive corner.",
+            "query_ano": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece."
+        },
+        {
+            "gameTime": "14:06",
+            "game_time": "14:00",
+            "query": "Ayoze Perez (Newcastle Utd) looks to break free, but an opposing player clears the ball away. The linesman makes the right call and Newcastle will have a corner.",
+            "short-term": "Ayoze Perez (Newcastle Utd) looks to break free, but an opposing player clears the ball away. The linesman makes the right call and Newcastle will have a corner. The home side continued to press, forcing Chelsea to defend deep.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "gameTime": "13:41",
+            "game_time": "13:48",
+            "query": "The corner from Ayoze Perez (Newcastle Utd) is intercepted by the defence.",
+            "short-term": "The corner from Ayoze Perez (Newcastle Utd) is intercepted by the defence. Newcastle continued to apply pressure with multiple corners, but Chelsea’s defense held firm to clear the danger.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "gameTime": "13:14",
+            "game_time": "13:06",
+            "query": "A cross from Moussa Sissoko (Newcastle Utd) fails to reach the box as the defence clears the ball away to safety. The ball goes out of play. Newcastle are awarded a corner kick.",
+            "short-term": "A cross from Moussa Sissoko (Newcastle Utd) fails to reach the box as the defence clears the ball away to safety. The ball goes out of play. Newcastle are awarded a corner kick. The home team’s counterattack caused problems, forcing Chelsea to concede another set-piece opportunity.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "12:34",
+            "game_time": "12:10",
+            "query": "Georginio Wijnaldum (Newcastle Utd) slides a pass forward, but one of the defenders cuts it out.",
+            "short-term": "Georginio Wijnaldum (Newcastle Utd) slides a pass forward, but one of the defenders cuts it out. Newcastle attempted to break through Chelsea’s defensive setup but struggled to maintain possession.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "10:27",
+            "game_time": "10:16",
+            "query": "Oscar (Chelsea) tries to send a pass but it's blocked.",
+            "short-term": "Oscar (Chelsea) tries to send a pass but it's blocked. Chelsea dominated possession but found it difficult to create clear-cut chances against Newcastle’s compact defense.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "09:19",
+            "game_time": "9:11",
+            "query": "Cesc Fabregas (Chelsea) takes the corner which is cleared.",
+            "short-term": "Cesc Fabregas (Chelsea) takes the corner which is cleared. Chelsea pushed numbers forward for the set-piece, but Newcastle successfully dealt with the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "09:03",
+            "game_time": "8:57",
+            "query": "The ball is cleared after Cesar Azpilicueta (Chelsea) attempted to dribble past an opposing player. The referee and one of his assistants signal for a corner kick to Chelsea.",
+            "short-term": "The ball is cleared after Cesar Azpilicueta (Chelsea) attempted to dribble past an opposing player. The referee and one of his assistants signal for a corner kick to Chelsea. His persistence on the left flank forced his opponent to concede another corner.",
+            "query_ano": "The ball is cleared after Cesar Azpilicueta ([TEAM]) attempted to dribble past an opposing player. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "08:26",
+            "game_time": "8:07",
+            "query": "Steve McClaren prepares a substitution. Jack Colback is replaced by Gabriel Obertan (Newcastle Utd).",
+            "short-term": "Steve McClaren prepares a substitution. Jack Colback is replaced by Gabriel Obertan (Newcastle Utd). He had given his all but couldn't complete the match, prompting fresh legs on the right flank.",
+            "query_ano": "Steve McClaren prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "07:48",
+            "game_time": "7:39",
+            "query": "Oscar swings the cross over. Loic Remy (Chelsea) gets his head to it but it goes just over the crossbar. The ball goes out of play and Newcastle will have a goal kick.",
+            "short-term": "Oscar swings the cross over. Loic Remy (Chelsea) gets his head to it but it goes just over the crossbar. The ball goes out of play and Newcastle will have a goal kick. He couldn't direct his effort on target.",
+            "query_ano": "[PLAYER] swings the cross over. [PLAYER] ([TEAM]) gets his head to it but it goes just over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "07:09",
+            "game_time": "6:59",
+            "query": "Eden Hazard (Chelsea) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Eden Hazard (Chelsea) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. They had been playing higher up the pitch, keeping the ooponents under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "06:41",
+            "game_time": "6:34",
+            "query": "Cesc Fabregas (Chelsea) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "short-term": "Cesc Fabregas (Chelsea) receives a good pass just outside the box, unleashes a strike from a promising position, His effort struck one of the defender, who positioned himself well to block the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "05:34",
+            "game_time": "5:22",
+            "query": "Nemanja Matic (Chelsea) was too fierce in his attempt to get the ball from his opponent and Martin Atkinson blows for a foul.",
+            "short-term": "Nemanja Matic (Chelsea) was too fierce in his attempt to get the ball from his opponent and Martin Atkinson blows for a foul. His aggressive challenge nearly caught his opponent high, forcing the referee to intervene.",
+            "query_ano": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+        },
+        {
+            "gameTime": "04:53",
+            "game_time": "4:52",
+            "query": "The linesman signals that Loic Remy (Chelsea) is offside and the referee confirms the decision.",
+            "short-term": "The linesman signals that Loic Remy (Chelsea) is offside and the referee confirms the decision. Keeper had still reacted well to deny his effort, showing his sharp reflexes despite the offside call.",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "02:26",
+            "game_time": "2:27",
+            "query": "Neat passing move from Chelsea in order to create new attacking opportunities.",
+            "short-term": "Neat passing move from Chelsea in order to create new attacking opportunities. Newcastle retreated deep into their own half, forcing Chelsea to be patient in their build-up play.",
+            "query_ano": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "01:41",
+            "game_time": "1:37",
+            "query": "The defence is alert as they clear a dangerous cross from Cesar Azpilicueta (Chelsea). The ball is out of play. Chelsea will have a throw-in.",
+            "short-term": "The defence is alert as they clear a dangerous cross from Cesar Azpilicueta (Chelsea). The ball is out of play. Chelsea will have a throw-in. Their backline held strong, neutralizing Their opponent's aerial threat.",
+            "query_ano": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The ball is out of play. [TEAM] will have a throw-in."
+        }
+    ]
+}

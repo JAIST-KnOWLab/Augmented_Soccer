@@ -1,0 +1,677 @@
+{
+    "annotations": [
+        {
+            "gameTime": "38:37",
+            "game_time": "38:37",
+            "query": "Angel Di Maria (Paris SG) plays a through ball but overhits it.",
+            "short-term": "Angel Di Maria plays a through ball but overhits it. The idea was good, aiming to release a forward run, but the pass carried too much weight and rolled harmlessly out of play.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball but overhits it.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria slaloms his way past challenges, showing excellent footwork, but an opposing player steps in just in time to clear the ball before he could create a real chance.",
+                    "history_time": "37:07",
+                    "long-term": "He has been attempting to create scoring opportunities with clever passing and skillful moves, but so far, the end product has been lacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:07",
+            "game_time": "37:07",
+            "query": "Angel Di Maria (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "short-term": "Angel Di Maria slaloms his way past challenges, showing excellent footwork, but an opposing player steps in just in time to clear the ball before he could create a real chance.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria is having a lively performance. He is causing problems and wanting the ball at every opportunity. His quick movements and sharp passing have kept the Malmo defense under constant pressure.",
+                    "history_time": "28:10",
+                    "long-term": "He has been a key threat throughout, consistently breaching the defense with his agility and vision, and demands constant attention from the opposition."
+                },
+                {
+                    "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+                    "history_time": "22:54",
+                    "long-term": "He has consistently demonstrated exceptional skill on the ball but struggled to create concrete scoring opportunities due to diligent defensive efforts."
+                },
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "He has been probing the defense with his skillful play, but so far, the end product has been lacking precision to create a real threat."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:36",
+            "game_time": "36:36",
+            "query": "Edinson Cavani (Paris SG) slides a pass forward, but one of the defenders cuts it out.",
+            "short-term": "Edinson Cavani slides a pass forward, but one of the defenders intercepts it, cutting out what could have been a dangerous attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out.",
+            "history": [
+                {
+                    "short-term": "Gregory van der Wiel sends a cross into the box, but Johan Wiland comes off his line to gather the ball. The ball was too slow, making it easy for the goalkeeper to catch it.",
+                    "history_time": "35:49",
+                    "long-term": "They have consistently attempted to create scoring opportunities, but the opposing defense has effectively neutralized their attacking threats."
+                },
+                {
+                    "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+                    "history_time": "22:54",
+                    "long-term": "They have been struggling to break through the opponent's defense, with several potential attacking moves being effectively neutralized."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "He has been posing a threat in the attacking third, despite the opposition's defense managing to neutralize his attempts so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:49",
+            "game_time": "35:49",
+            "query": "Gregory van der Wiel (Paris SG) sends a cross into the box, but Johan Wiland comes off his line to gather the ball.",
+            "short-term": "Gregory van der Wiel sends a cross into the box, but Johan Wiland comes off his line to gather the ball. The ball was too slow, making it easy for the goalkeeper to catch it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Johan Wiland makes a brilliant save! Angel Di Maria weaves through the defence and fires a shot from just outside the box, but Wiland reacts quickly, blocking it with both hands.",
+                    "history_time": "34:44",
+                    "long-term": "They have been consistently testing the goalkeeper with crosses and shots, but Johan Wiland has been up to the task, making crucial saves to keep his team in the game. The opposition's attack has been creative, but Wiland's reflexes have been sharp."
+                },
+                {
+                    "short-term": "Marco Verratti collects a wonderful lead pass and fires from distance, but his shot drifts just wide of the left post.",
+                    "history_time": "30:51",
+                    "long-term": "They have been creating scoring opportunities with effective passing, but their shots have been inaccurate or easily caught by the goalkeeper."
+                },
+                {
+                    "short-term": "Gregory van der Wiel attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. His delivery was slightly overhit, allowing the defenders to clear without much difficulty.",
+                    "history_time": "24:35",
+                    "long-term": "The player has been consistently trying to create scoring opportunities with crosses, but so far, the opposing defense has effectively neutralized these attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:44",
+            "game_time": "34:44",
+            "query": "Johan Wiland makes a brilliant save! Angel Di Maria (Paris SG) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the middle of the goal but is saved by the keeper!",
+            "short-term": "Johan Wiland makes a brilliant save! Angel Di Maria weaves through the defence and fires a shot from just outside the box, but Wiland reacts quickly, blocking it with both hands.",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the middle of the goal but is saved by the keeper!",
+            "history": [
+                {
+                    "short-term": "Nikola Djurdjic meets a delivery on the edge of the penalty area and shoots towards the bottom left corner, but his effort lacks power, allowing Kevin Trapp to make a routine save.",
+                    "history_time": "33:40",
+                    "long-term": "The goalkeepers have been sharp, with crucial saves from both sides to keep the match tightly contested."
+                },
+                {
+                    "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+                    "history_time": "22:54",
+                    "long-term": "He has been posing a threat from distance and through set-pieces, testing the keeper's reflexes, but the opposition defense has held firm so far."
+                },
+                {
+                    "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+                    "history_time": "22:29",
+                    "long-term": "They have created quality scoring opportunities, but the opposing goalkeeper's brilliant saves and their own wastefulness in front of goal have denied them the lead so far."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "The goalkeeper has been a crucial factor in keeping the scoreline intact with multiple spectacular saves against menacing opposition attacks."
+                },
+                {
+                    "short-term": "Maxwell receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The Brazilian had a clear sight of goal, but Wiland reacted quickly to parry the shot away.",
+                    "history_time": "13:21",
+                    "long-term": "Johan Wiland has been a game-changer in this period with a couple of outstanding saves that prevented opposition scoring, showcasing his impressive goalkeeping skills."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:40",
+            "game_time": "33:40",
+            "query": "Nikola Djurdjic (Malmo FF) meets a delivery on the edge of the penalty area and shoots towards to the bottom left corner. He didn't put enough power into the effort, though, and Kevin Trapp pulls off an easy save.",
+            "short-term": "Nikola Djurdjic meets a delivery on the edge of the penalty area and shoots towards the bottom left corner, but his effort lacks power, allowing Kevin Trapp to make a routine save.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a delivery on the edge of the penalty area and shoots towards to the bottom left corner. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save.",
+            "history": [
+                {
+                    "short-term": "Marco Verratti collects a wonderful lead pass and fires from distance, but his shot drifts just wide of the left post.",
+                    "history_time": "30:51",
+                    "long-term": "They have been creating scoring opportunities, but their shots have lacked the necessary power and precision to find the back of the net."
+                },
+                {
+                    "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+                    "history_time": "22:29",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with inaccurate finishing and a lack of power in their attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:51",
+            "game_time": "30:51",
+            "query": "Marco Verratti (Paris SG) collects a wonderful lead pass and creates some space to smash the ball goalwards from long range. His shot goes painfully wide of the left post!",
+            "short-term": "Marco Verratti collects a wonderful lead pass and fires from distance, but his shot drifts just wide of the left post.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a wonderful lead pass and creates some space to smash the ball goalwards from long range. His shot goes painfully wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+                    "history_time": "22:54",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and set-pieces, but lack precision in their execution."
+                },
+                {
+                    "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+                    "history_time": "22:29",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and set pieces, but lack precision in their finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:10",
+            "game_time": "28:10",
+            "query": "Angel Di Maria (Paris SG) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",
+            "short-term": "Angel Di Maria is having a lively performance. He is causing problems and wanting the ball at every opportunity. His quick movements and sharp passing have kept the Malmo defense under constant pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+                    "history_time": "13:47",
+                    "long-term": "He has been a key figure in dictating the pace of the game, constantly testing the defense with his dynamic playmaking and incisive passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:28",
+            "game_time": "25:28",
+            "query": "David Luiz (Paris SG) picks up a yellow card for a foul.",
+            "short-term": "David Luiz picks up a yellow card for a foul. He mistimed his challenge, clipping the opponent’s legs, and immediately raised his hands in an attempt to avoid further punishment.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul.",
+            "history": [
+                {
+                    "short-term": "David Luiz is flagged for offside. He had positioned himself aggressively near the defensive line, hoping to latch onto a forward pass, but mistimed his run.",
+                    "history_time": "14:07",
+                    "long-term": "He has shown some carelessness in his decision-making, first, with a poorly timed tackle and now with an offside positioning."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:35",
+            "game_time": "24:35",
+            "query": "Gregory van der Wiel (Paris SG) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "short-term": "Gregory van der Wiel attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. His delivery was slightly overhit, allowing the defenders to clear without much difficulty.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+                    "history_time": "22:54",
+                    "long-term": "They have been struggling to create scoring opportunities, with inaccurate deliveries from wide areas making it easy for the opposing defense to clear."
+                },
+                {
+                    "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+                    "history_time": "22:29",
+                    "long-term": "They have been pushing forward, creating multiple scoring opportunities, but struggling to find the target with precision."
+                },
+                {
+                    "short-term": "Angel Di Maria flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick. The forward was positioned near the penalty spot, anticipating a delivery, but the clearance denied him an attempt on goal.",
+                    "history_time": "21:52",
+                    "long-term": "They have been consistently trying to utilize crosses to break through the defense, but so far, the opposing team's backline has managed to neutralize these attempts."
+                },
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "They have been struggling to create meaningful chances, with crosses and set pieces consistently being repelled by the defense."
+                },
+                {
+                    "short-term": "Gregory van der Wiel reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. His attempt was blocked almost immediately by a well-positioned defender.",
+                    "history_time": "2:26",
+                    "long-term": "He has been trying to make an impact in the attacking third, but his deliveries and shots have been met with solid defensive plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:54",
+            "game_time": "22:54",
+            "query": "Angel Di Maria (Paris SG) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "short-term": "Angel Di Maria swings in the corner kick, but one of the defenders leaps highest to head the ball away. The set-piece lacked the desired accuracy, making it an easy clearance for the Malmo defense.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "history": [
+                {
+                    "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+                    "history_time": "22:29",
+                    "long-term": "They have been creating opportunities from set-pieces, but the end product has been lacking precision and execution."
+                },
+                {
+                    "short-term": "Angel Di Maria goes over to take the corner kick and it looks like he will send the ball into the penalty box. PSG’s taller players move into position, anticipating a dangerous delivery.",
+                    "history_time": "22:06",
+                    "long-term": "They have consistently utilized set pieces as an attacking strategy, with multiple corner kicks aimed at exploiting the opponent's defense."
+                },
+                {
+                    "short-term": "Angel Di Maria flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick. The forward was positioned near the penalty spot, anticipating a delivery, but the clearance denied him an attempt on goal.",
+                    "history_time": "21:52",
+                    "long-term": "The player's set-pieces have consistently been well-defended by the opposition, with the crosses and corners failing to create concrete scoring opportunities."
+                },
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "They have been struggling with set-piece accuracy, failing to create scoring opportunities from corners."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have been creating scoring opportunities through set pieces and counterattacks, but the opposing team's defense has been resilient in thwarting their efforts."
+                },
+                {
+                    "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+                    "history_time": "13:47",
+                    "long-term": "They have been struggling to create scoring opportunities from set-pieces, with both corner kicks failing to put pressure on the defense."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been utilizing corner kicks as a means to create scoring opportunities, but so far, the defense has been able to counter these efforts effectively."
+                },
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "He has been creating scoring opportunities with clever set pieces and direct shots, testing the goalkeeper's reflexes on multiple occasions."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:29",
+            "game_time": "22:29",
+            "query": "David Luiz (Paris SG) wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper. ",
+            "short-term": "David Luiz wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper. ",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria goes over to take the corner kick and it looks like he will send the ball into the penalty box. PSG’s taller players move into position, anticipating a dangerous delivery.",
+                    "history_time": "22:06",
+                    "long-term": "They have been creating scoring opportunities through set pieces, consistently posing threats from corners and crosses."
+                },
+                {
+                    "short-term": "Angel Di Maria flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick. The forward was positioned near the penalty spot, anticipating a delivery, but the clearance denied him an attempt on goal.",
+                    "history_time": "21:52",
+                    "long-term": "They have been creating scoring opportunities, but the finishing touches and ending delivery have let them down so far."
+                },
+                {
+                    "short-term": "Vladimir Rodic creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. His shot had power, but he leaned back slightly, causing the ball to rise just over the target.",
+                    "history_time": "20:43",
+                    "long-term": "They have been creating scoring opportunities but lack precision in their finishing, with efforts either sailing off target or landing safely in the goalkeeper's grasp."
+                },
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "They have been struggling to capitalize on set-piece opportunities, with inaccurate deliveries and wasteful finishing allowing the opposing team to clear with ease."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have been creating quality scoring opportunities, but lacking the finishing touch to capitalize on them."
+                },
+                {
+                    "short-term": "Maxwell receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The Brazilian had a clear sight of goal, but Wiland reacted quickly to parry the shot away.",
+                    "history_time": "13:21",
+                    "long-term": "They have been creating quality scoring opportunities but are being let down by their finishing and excellent goalkeeping."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "He has been a threat in the air, with two promising headers from corners that just lacked the precision to find the back of the net."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:06",
+            "game_time": "22:06",
+            "query": "Angel Di Maria (Paris SG) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "short-term": "Angel Di Maria goes over to take the corner kick and it looks like he will send the ball into the penalty box. PSG’s taller players move into position, anticipating a dangerous delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick. The forward was positioned near the penalty spot, anticipating a delivery, but the clearance denied him an attempt on goal.",
+                    "history_time": "21:52",
+                    "long-term": "This corner kick comes after a floated cross into the box was cleared by the defender, deflecting out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but so far, the delivery has lacked accuracy."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes and skillful plays, but so far have been denied by the keeper's excellent reflexes."
+                },
+                {
+                    "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+                    "history_time": "13:47",
+                    "long-term": "They have consistently utilized corner kicks as a means to create scoring opportunities, showing variation in their approach by mixing up the delivery."
+                },
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "He has been creating scoring opportunities with precise set pieces and sharp shooting, constantly testing the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:52",
+            "game_time": "21:52",
+            "query": "Angel Di Maria (Paris SG) flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick.",
+            "short-term": "Angel Di Maria flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Paris SG have been awarded a corner kick. The forward was positioned near the penalty spot, anticipating a delivery, but the clearance denied him an attempt on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+                    "history_time": "19:35",
+                    "long-term": "They have consistently utilized crosses and corner kicks as a key attacking strategy, but so far, the defenders have effectively countered these attempts."
+                },
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes and crosses, but the opposing defense has shown equal resolve in denying them."
+                },
+                {
+                    "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+                    "history_time": "13:47",
+                    "long-term": "The player has been utilizing set pieces effectively to threaten the opponent's goal, creating repeated opportunities through his delivery from corners and crosses."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have consistently utilized crosses and corners to create scoring opportunities, putting pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "They have consistently posed a threat in the attacking third, creating opportunities through crosses and shots on goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:43",
+            "game_time": "20:43",
+            "query": "Vladimir Rodic (Malmo FF) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "short-term": "Vladimir Rodic creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. His shot had power, but he leaned back slightly, causing the ball to rise just over the target.",
+            "query_ano": "[PLAYER] ([TEAM]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have been creating scoring opportunities with powerful strikes, but struggling to find the precision to convert them into goals."
+                },
+                {
+                    "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+                    "history_time": "5:14",
+                    "long-term": "He has shown flashes of brilliance in his attacking play, but so far, has been unable to capitalize on these moments to create a meaningful scoring opportunity."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:35",
+            "game_time": "19:35",
+            "query": "Angel Di Maria (Paris SG) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "short-term": "Angel Di Maria takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. PSG's attackers were packed inside the box, but the delivery lacked precision, allowing the defenders to clear with ease.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+                    "history_time": "18:39",
+                    "long-term": "They have consistently threatened the opponent's goal with set pieces and intricate passing sequences."
+                },
+                {
+                    "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+                    "history_time": "13:47",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, consistently failing to deliver precise balls into the box."
+                },
+                {
+                    "short-term": "Enoch Adu crosses the ball into the box, but one of the defending players averts the threat. The delivery was slightly overhit, allowing the defense to comfortably clear.",
+                    "history_time": "9:29",
+                    "long-term": "They have been struggling with set pieces, consistently failing to find their mark and create scoring opportunities."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but the delivery and finishing touches have been lacking precision so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:40",
+            "game_time": "18:40",
+            "query": "Rasmus Bengtsson (Malmo FF) sees a yellow card from Sergey Karasev after he sent one of the opposing players to the ground.",
+            "short-term": "Rasmus Bengtsson sees a yellow card from Sergey Karasev after he sent one of the opposing players to the ground. The challenge stopped a promising PSG attack, leading to a strong reaction from the home side.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "history": [
+                {
+                    "short-term": "The foul by Enoch Adu is worthy of a card and a yellow is duly shown by Sergey Karasev. He dragged back his opponent in transition, preventing a dangerous counterattack.",
+                    "history_time": "11:41",
+                    "long-term": "The team's defensive strategy has been fairly aggressive, with players not hesitating to commit fouls to halt opposition attacks, and now two of them have been booked."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:39",
+            "game_time": "18:39",
+            "query": "Edinson Cavani (Paris SG) latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Paris SG will take a corner kick.",
+            "short-term": "Edinson Cavani latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. Johan Wiland is alert, though, and leaps like a salmon to deny him. Cavani held his head in frustration as he saw his effort denied.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise pass and one-on-one with the keeper slams the ball towards the left-hand post. [PLAYER] is alert, though, and leaps like a salmon to deny him. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "GOAL! Zlatan Ibrahimovic connects with a delightful cross and heads it towards Edinson Cavani, whose header goes past Johan Wiland. 2:0. Cavani’s movement was perfect, shaking off his marker before guiding the ball into the net.",
+                    "history_time": "15:16",
+                    "long-term": "They have posed significant threats in the attacking third, particularly through the link-up play between Cavani and Ibrahimovic, creating high-quality scoring chances."
+                },
+                {
+                    "short-term": "Maxwell receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The Brazilian had a clear sight of goal, but Wiland reacted quickly to parry the shot away.",
+                    "history_time": "13:21",
+                    "long-term": "They have been creating excellent scoring opportunities but are struggling to capitalize on them due to Johan Wiland's outstanding goalkeeping."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been creating quality scoring opportunities, but struggling to capitalize on them, with efforts being denied or narrowly missing the target."
+                },
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "They have been consistently creating scoring opportunities, but the goalkeeper's exceptional reflexes have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Edinson Cavani receives a reproachful look from Angel Di Maria. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. The shot was rushed, with Cavani leaning back as he struck the ball.",
+                    "history_time": "0:56",
+                    "long-term": "He has had a pair of promising chances in front of goal but has been unable to capitalize on them, showcasing his struggling accuracy."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:16",
+            "game_time": "15:16",
+            "query": "GOAL! Zlatan Ibrahimovic connects with a delightful cross and heads it towards Edinson Cavani (Paris SG), whose header goes past Johan Wiland. 2:0.",
+            "short-term": "GOAL! Zlatan Ibrahimovic connects with a delightful cross and heads it towards Edinson Cavani, whose header goes past Johan Wiland. 2:0. Cavani’s movement was perfect, shaking off his marker before guiding the ball into the net.",
+            "query_ano": "GOAL! [PLAYER] connects with a delightful cross and heads it towards [PLAYER] ([TEAM]), whose header goes past [PLAYER]. 2:0.",
+            "history": [
+                {
+                    "short-term": "Maxwell receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The Brazilian had a clear sight of goal, but Wiland reacted quickly to parry the shot away.",
+                    "history_time": "13:21",
+                    "long-term": "They consistently showed excellent attacking skills, with precise passing, intelligent movements, and strong finishing."
+                },
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "They consistently demonstrated strong attacking capabilities, with precise passing, movement, and shots on goal that have resulted in significant scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:07",
+            "game_time": "14:07",
+            "query": "David Luiz (Paris SG) is flagged for offside.",
+            "short-term": "David Luiz is flagged for offside. He had positioned himself aggressively near the defensive line, hoping to latch onto a forward pass, but mistimed his run.",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic is caught offside! He mistimed his run while trying to break past the defensive line, leading to a straightforward offside call.",
+                    "history_time": "3:43",
+                    "long-term": "The attacking players have been struggling with their timing, consistently being flagged for offside as they try to break behind the defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:47",
+            "game_time": "13:47",
+            "query": "Angel Di Maria (Paris SG) works the corner short.",
+            "short-term": "Angel Di Maria works the corner short. He exchanged a quick pass with teammate, but the subsequent cross lacked accuracy and was easily cleared.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short.",
+            "history": [
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but lack the precision to capitalize on these chances."
+                },
+                {
+                    "short-term": "Angel Di Maria will take the corner. He lines up to deliver the ball into the crowded penalty area, looking for a teammate to capitalize.",
+                    "history_time": "7:22",
+                    "long-term": "They have consistently utilized set pieces to create scoring opportunities, showing deliberate intent to capitalize on corners."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:21",
+            "game_time": "13:21",
+            "query": "That was a nice football moment. Maxwell (Paris SG) receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The referee signals a corner kick to Paris SG.",
+            "short-term": "Maxwell receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. Johan Wiland guesses his intention and dives superbly to deny him with a remarkable save! The Brazilian had a clear sight of goal, but Wiland reacted quickly to parry the shot away.",
+            "query_ano": "That was a nice football moment. [PLAYER] ([TEAM]) receives an amazing defence-splitting low pass on the edge of the box and blasts the ball towards the right post. [PLAYER] guesses his intention and dives superbly to deny him with a remarkable save! The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have shown flashes of brilliance in their attacking play, but inconsistency in the final ball has prevented them from capitalizing on key opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:29",
+            "game_time": "9:29",
+            "query": "Enoch Adu (Malmo FF) crosses the ball into the box, but one of the defending players averts the threat.",
+            "short-term": "Enoch Adu crosses the ball into the box, but one of the defending players averts the threat. The delivery was slightly overhit, allowing the defense to comfortably clear.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat.",
+            "history": [
+                {
+                    "short-term": "The corner from Yoshimar Yotun is cleared away by the defence. Malmo had committed players forward, but PSG’s defenders were well-positioned to clear the danger.",
+                    "history_time": "8:31",
+                    "long-term": "They have been utilizing crosses and corners to create scoring opportunities, but the defending team's positioning has allowed them to neutralize these threats so far."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been utilizing crosses and set pieces to threaten the opponent's goal, but precision in delivery and finishing has been lacking."
+                },
+                {
+                    "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+                    "history_time": "5:14",
+                    "long-term": "They have been pushing forward with crosses and corners, but the opposition's defense has been effective in nullifying the threats so far."
+                },
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have been struggling to create scoring opportunities due to imprecise deliveries into the box, allowing the defense to easily clear the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:31",
+            "game_time": "8:31",
+            "query": "The corner from Yoshimar Yotun (Malmo FF) is cleared away by the defence.",
+            "short-term": "The corner from Yoshimar Yotun is cleared away by the defence. Malmo had committed players forward, but PSG’s defenders were well-positioned to clear the danger.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence.",
+            "history": [
+                {
+                    "short-term": "Markus Rosenberg tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee points to the corner flag. They will have another opportunity from a set piece.",
+                    "history_time": "8:18",
+                    "long-term": "They have been consistently testing the opposition's defense with set pieces, but so far, the defenders have been able to neutralize the threats."
+                },
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have shown strength in set pieces, with both defensive and attacking opportunities, but lack the precision to capitalize."
+                },
+                {
+                    "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+                    "history_time": "5:14",
+                    "long-term": "They have consistently struggled to capitalize on set-piece opportunities, with multiple corners being effectively cleared by the opposition's defense."
+                },
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have been consistently testing the defense with set pieces and crosses, but lack the quality in delivery to create a clear scoring opportunity."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:18",
+            "game_time": "8:18",
+            "query": "Markus Rosenberg (Malmo FF) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee points to the corner flag. It's a corner to Malmo FF.",
+            "short-term": "Markus Rosenberg tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee points to the corner flag. They will have another opportunity from a set piece.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The referee points to the corner flag. It's a corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+                    "history_time": "7:31",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+                    "history_time": "5:14",
+                    "long-term": "They have been consistently posing threats from set pieces, but the opposition's defense has been effective in neutralizing these opportunities."
+                },
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have consistently utilized set pieces and long balls to threaten the opponent's goal, but have been struggling with accurate delivery."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:31",
+            "game_time": "7:31",
+            "query": "David Luiz (Paris SG) rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post.",
+            "short-term": "David Luiz rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post. The Brazilian showed great aerial ability but couldn’t direct it on target.",
+            "query_ano": "[PLAYER] ([TEAM]) rises above the defence to meet the corner. His timing is good, but he arrows his header just a few inches wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Johan Wiland was alert and the score remains the same. The shot forced keeper into a sharp save, pushing the ball out for a corner.",
+                    "history_time": "6:47",
+                    "long-term": "They have been posing a significant threat from set pieces and shots on goal, but lacking precision in their finishing."
+                },
+                {
+                    "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+                    "history_time": "5:14",
+                    "long-term": "They have been creating opportunities from set pieces, but are struggling to find the target with their headers and deliveries."
+                },
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have shown moments of brilliance in the air, but are still struggling to find the target with precision, meanwhile, Their deliveries into the box have lacked the necessary quality to find their intended recipients."
+                },
+                {
+                    "short-term": "Blaise Matuidi sends a lofted cross into the box which is headed clear. The delivery had good height but lacked precision, allowing the defense to clear comfortably.",
+                    "history_time": "2:02",
+                    "long-term": "They have been utilizing crosses and set pieces to threaten the opponent's goal, but have yet to capitalize on these opportunities due to issues with precision and direction."
+                },
+                {
+                    "short-term": "Edinson Cavani receives a reproachful look from Angel Di Maria. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. The shot was rushed, with Cavani leaning back as he struck the ball.",
+                    "history_time": "0:56",
+                    "long-term": "They have been creating scoring opportunities through set pieces and open play, but are struggling to find the target with their finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:14",
+            "game_time": "5:14",
+            "query": "Vladimir Rodic (Malmo FF) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "short-term": "Vladimir Rodic attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper. The delivery lacked height, making it an easy claim for the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",
+            "history": [
+                {
+                    "short-term": "Markus Rosenberg delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play and they manage to earn a corner. The delivery was misjudged.",
+                    "history_time": "4:58",
+                    "long-term": "They have been struggling with set pieces and crosses into the box, consistently failing to beat the first defender and create scoring opportunities."
+                }
+            ]
+        }
+    ]
+}

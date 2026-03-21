@@ -1,0 +1,252 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:22",
+            "game_time": "44:22",
+            "query": "Lucas Perez (Arsenal) misses a good chance to score. A perfect cross into the box finds Lucas Perez (Arsenal) who rises for a header, but he sends the ball well over the bar. ",
+            "short-term": "Lucas Perez (Arsenal) misses a good chance to score. A perfect cross into the box finds Lucas Perez (Arsenal) who rises for a header, but he sends the ball well over the bar. The ball brushed his hand before going out of play. Southampton will have a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a good chance to score. A perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but he sends the ball well over the bar. ",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. The ball was delivered with good pace but found no Arsenal player.",
+                    "history_time": "42:53",
+                    "long-term": "They have been creating scoring opportunities, but the final touches have been lacking precision."
+                },
+                {
+                    "short-term": "Alex Oxlade-Chamberlain (Arsenal) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The defender’s clearance was crucial as Chamberlain’s shot was goal-bound.",
+                    "history_time": "42:25",
+                    "long-term": "They have been creating scoring opportunities with effective crosses into the box, but lack the finishing touch to capitalize on these chances."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) flights in the cross, but the defender is alert and clears to safety. His delivery aimed at Chamberlain was intercepted before reaching its target.",
+                    "history_time": "32:55",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them, with missed headers and cleared crosses limiting their attacking effectiveness."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+                    "history_time": "28:30",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense, creating scoring opportunities but struggling to find the back of the net."
+                },
+                {
+                    "short-term": "Nacho Monreal (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The shot had power but was deflected away for a corner.",
+                    "history_time": "28:22",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:53",
+            "game_time": "42:53",
+            "query": "Santi Cazorla (Arsenal) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "short-term": "Santi Cazorla (Arsenal) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. The ball was delivered with good pace but found no Arsenal player.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "history": [
+                {
+                    "short-term": "Alex Oxlade-Chamberlain (Arsenal) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The defender’s clearance was crucial as Chamberlain’s shot was goal-bound.",
+                    "history_time": "42:25",
+                    "long-term": "This corner kick came from the timely reaction and clearance of the defensive player."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) flights in the cross, but the defender is alert and clears to safety. His delivery aimed at Chamberlain was intercepted before reaching its target.",
+                    "history_time": "32:55",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opposition's defense has been solid in dealing with these threats."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+                    "history_time": "28:30",
+                    "long-term": "The player has been putting consistent pressure on the opponent's defense with his corner kicks."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball was aimed at Lucas Perez, but the defender reacted quickly to clear the danger.",
+                    "history_time": "27:53",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses, but the opposing team's defense has been solid in clearing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:25",
+            "game_time": "42:25",
+            "query": "Alex Oxlade-Chamberlain (Arsenal) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Arsenal earn a corner.",
+            "short-term": "Alex Oxlade-Chamberlain (Arsenal) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The defender’s clearance was crucial as Chamberlain’s shot was goal-bound.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "Alex Oxlade-Chamberlain (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. His shot lacked power, allowing the defender to block it comfortably.",
+                    "history_time": "35:27",
+                    "long-term": "He has been posing a threat in the attacking third, getting into good positions but so far being denied by crucial defensive interventions."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) flights in the cross, but the defender is alert and clears to safety. His delivery aimed at Chamberlain was intercepted before reaching its target.",
+                    "history_time": "32:55",
+                    "long-term": "They consistently created scoring opportunities with precise crosses into the box, but the defenders made crucial clearances to prevent goals."
+                },
+                {
+                    "short-term": "Goal! Laurent Koscielny (Arsenal) fires the rebound inside the right post after the ball breaks to him in the box. His acrobatic finish leveled the score in spectacular fashion.",
+                    "history_time": "28:50",
+                    "long-term": "They have been piling on the pressure, creating consecutive scoring chances with one finally paying off to level the game."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+                    "history_time": "28:30",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense, generating multiple scoring opportunities through precise crosses and corner kicks. Their relentless attacking momentum has forced the opponent to stay defensive."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:27",
+            "game_time": "35:27",
+            "query": "Alex Oxlade-Chamberlain (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "short-term": "Alex Oxlade-Chamberlain (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. His shot lacked power, allowing the defender to block it comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "history": [
+                {
+                    "short-term": "Alex Oxlade-Chamberlain (Arsenal) tries to send a pass but it's blocked. The ball deflects off the defender and remains in play.",
+                    "history_time": "14:02",
+                    "long-term": "He has shown flashes of brilliance in attack but struggled to find the end product, with shots and passes being consistently blocked by the opposition."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:55",
+            "game_time": "32:55",
+            "query": "Santi Cazorla (Arsenal) flights in the cross, but the defender is alert and clears to safety.",
+            "short-term": "Santi Cazorla (Arsenal) flights in the cross, but the defender is alert and clears to safety. His delivery aimed at Chamberlain was intercepted before reaching its target.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+                    "history_time": "28:30",
+                    "long-term": "They have consistently applied pressure through set pieces and crosses, forcing the defense to stay alert and make clearances."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball was aimed at Lucas Perez, but the defender reacted quickly to clear the danger.",
+                    "history_time": "27:53",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposition's defense has been effective in intercepting them."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:44",
+            "game_time": "32:44",
+            "query": "Nathan Redmond (Southampton) fouls an opponent. At least that's what referee Robert Madley signals. Free kick.",
+            "short-term": "Nathan Redmond (Southampton) fouls an opponent. At least that's what referee Robert Madley signals. Free kick. The push from his back was clear, and Madley immediately called the foul.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. Free kick.",
+            "history": [
+                {
+                    "short-term": "Fraser Forster (Southampton) takes a direct free kick. The Saints have struggled to keep a clean sheet in recent matches.",
+                    "history_time": "25:50",
+                    "long-term": "They have shown some defensive vulnerabilities, including conceding free kicks and struggling to maintain a clean sheet in recent games."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:50",
+            "game_time": "28:50",
+            "query": "Goal! Laurent Koscielny (Arsenal) fires the rebound inside the right post after the ball breaks to him in the box.",
+            "short-term": "Goal! Laurent Koscielny (Arsenal) fires the rebound inside the right post after the ball breaks to him in the box. His acrobatic finish leveled the score in spectacular fashion.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) fires the rebound inside the right post after the ball breaks to him in the box.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+                    "history_time": "28:30",
+                    "long-term": "They maintained a strong attacking momentum, culminating in a dramatic equalizer and continuing to press their opponents deep in their own territory."
+                },
+                {
+                    "short-term": "OWN GOAL! The free kick is whipped in and the ball hits Petr Cech (Arsenal), who finds the back of his own net. The goalkeeper managed to get a touch but was unlucky as the ball clipped the bar before crossing the line.",
+                    "history_time": "17:52",
+                    "long-term": "The momentum has shifted significantly, as they've experienced a dramatic swing in fortunes, with an impressive equalizer and an unfortunate own goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:30",
+            "game_time": "28:30",
+            "query": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "short-term": "Santi Cazorla (Arsenal) goes over to take a corner kick after one of the defenders makes a good clearance. Arsenal continued to press, keeping Southampton pinned back.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Nacho Monreal (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The shot had power but was deflected away for a corner.",
+                    "history_time": "28:22",
+                    "long-term": "They have been consistently pressuring the opposing team's defense, creating multiple scoring opportunities through corners and shots on goal."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball was aimed at Lucas Perez, but the defender reacted quickly to clear the danger.",
+                    "history_time": "27:53",
+                    "long-term": "They have been consistently pressuring the opposition's defense with crosses and corner kicks."
+                },
+                {
+                    "short-term": "Nathan Redmond (Southampton) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The defender stepped in at the last moment to prevent a dangerous strike.",
+                    "history_time": "27:04",
+                    "long-term": "Both teams have shown impressive defensive capabilities, with Southampton initially containing Arsenal's pressure and the Gunners' defender making a crucial block to deny a scoring opportunity."
+                },
+                {
+                    "short-term": "Fraser Forster (Southampton) takes a direct free kick. The Saints have struggled to keep a clean sheet in recent matches.",
+                    "history_time": "25:50",
+                    "long-term": "The Gunners have been piling on the pressure, while their opponents have been struggling defensively, an issue that has plagued them in recent games."
+                },
+                {
+                    "short-term": "OWN GOAL! The free kick is whipped in and the ball hits Petr Cech (Arsenal), who finds the back of his own net. The goalkeeper managed to get a touch but was unlucky as the ball clipped the bar before crossing the line.",
+                    "history_time": "17:52",
+                    "long-term": "They have been applying pressure through set pieces, and despite an unfortunate own goal, have shown sustained attacking intent."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:22",
+            "game_time": "28:22",
+            "query": "This shall not pass! Nacho Monreal (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. ",
+            "short-term": "Nacho Monreal (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The shot had power but was deflected away for a corner.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. ",
+            "history": [
+                {
+                    "short-term": "Nathan Redmond (Southampton) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The defender stepped in at the last moment to prevent a dangerous strike.",
+                    "history_time": "27:04",
+                    "long-term": "Both teams have shown a willingness to take shots from distance, but the defenders have been up to the task, making crucial blocks to deny scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:04",
+            "game_time": "27:04",
+            "query": "Nathan Redmond (Southampton) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Nathan Redmond (Southampton) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The defender stepped in at the last moment to prevent a dangerous strike.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Fraser Forster (Southampton) takes a direct free kick. The Saints have struggled to keep a clean sheet in recent matches.",
+                    "history_time": "25:50",
+                    "long-term": "They have shown vulnerabilities in defense recently."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:50",
+            "game_time": "25:50",
+            "query": "Fraser Forster (Southampton) takes a direct free kick.",
+            "short-term": "Fraser Forster (Southampton) takes a direct free kick. The Saints have struggled to keep a clean sheet in recent matches.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a direct free kick.",
+            "history": [
+                {
+                    "short-term": "OWN GOAL! The free kick is whipped in and the ball hits Petr Cech (Arsenal), who finds the back of his own net. The goalkeeper managed to get a touch but was unlucky as the ball clipped the bar before crossing the line.",
+                    "history_time": "17:52",
+                    "long-term": "The set pieces have been a vulnerability for them recently, and they've conceded an own goal from a free kick before."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:02",
+            "game_time": "14:02",
+            "query": "Alex Oxlade-Chamberlain (Arsenal) tries to send a pass but it's blocked.",
+            "short-term": "Alex Oxlade-Chamberlain (Arsenal) tries to send a pass but it's blocked. The ball deflects off the defender and remains in play.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked.",
+            "history": [
+                {
+                    "short-term": "Shkodran Mustafi (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. The defender reads the play well and steps in to cut off the pass.",
+                    "history_time": "11:07",
+                    "long-term": "They have been struggling to create clear attacking opportunities due to the opponent's solid defensive efforts, which have thwarted their passing attempts."
+                }
+            ]
+        }
+    ]
+}

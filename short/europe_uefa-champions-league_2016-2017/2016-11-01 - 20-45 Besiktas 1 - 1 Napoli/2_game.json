@@ -1,0 +1,305 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:59",
+            "game_time": "48:59",
+            "query": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The visitors controlled the game. The home team's main priority was a flawless defence. The tactic of the away side was slow build-up play.",
+            "short-term": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The visitors controlled the game. The home team's main priority was a flawless defence. The tactic of the away side was slow build-up play.",
+            "query_ano": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The visitors controlled the game. The home team's main priority was a flawless defence. The tactic of the away side was slow build-up play."
+        },
+        {
+            "gameTime": "43:42",
+            "game_time": "43:37",
+            "query": "Ricardo Quaresma (Besiktas) swings a cross into the box, but it's far too close to Pepe Reina, who smothers the ball.",
+            "short-term": "Ricardo Quaresma (Besiktas) swings a cross into the box, but it's far too close to Pepe Reina, who smothers the ball. He was aiming for a late breakthrough, but keeper's positioning ensured there was no real danger.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER] Reina, who smothers the ball."
+        },
+        {
+            "gameTime": "43:10",
+            "game_time": "43:06",
+            "query": "Rough tackle by Elseid Hysaj (Napoli). The referee blows his whistle for a foul.",
+            "short-term": "Rough tackle by Elseid Hysaj (Napoli). The referee blows his whistle for a foul. He was caught in a physical battle as both teams pushed for a late goal.",
+            "query_ano": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "41:05",
+            "game_time": "41:02",
+            "query": "Dries Mertens (Napoli) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked.",
+            "short-term": "Dries Mertens (Napoli) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked. He had space to attempt a long-range effort, but the defense reacted quickly.",
+            "query_ano": "[PLAYER] ([TEAM]) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked."
+        },
+        {
+            "gameTime": "37:52",
+            "game_time": "37:18",
+            "query": "Mark Clattenburg shows the yellow card to Cenk Tosun (Besiktas) for a heavy challenge.",
+            "short-term": "Mark Clattenburg shows the yellow card to Cenk Tosun (Besiktas) for a heavy challenge. He lunged in aggressively, earning a clear booking as they sought to maintain control.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "gameTime": "36:26",
+            "game_time": "36:12",
+            "query": "Marek Hamsik (Napoli) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 22 metres out which goes inside the left post.",
+            "short-term": "Marek Hamsik (Napoli) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 22 metres out which goes inside the left post. Napoli's equalizer came just minutes after conceding, showing their determination to get back into the game.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a pass and controls it with a good first touch. He unleashes a deadly strike from around 22 metres out which goes inside the left post."
+        },
+        {
+            "gameTime": "35:46",
+            "game_time": "35:34",
+            "query": "Jose Callejon (Napoli) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Jose Callejon (Napoli) races towards goal but the defender gets back well to make a challenge. He showed great pace, but the defense managed to hold firm.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "35:20",
+            "game_time": "35:08",
+            "query": "Here's the change. Allan (Napoli) leaves the pitch and Piotr Zielinski comes on as a substitute.",
+            "short-term": "Here's the change. Allan (Napoli) leaves the pitch and Piotr Zielinski comes on as a substitute. This is an attacking substitution as He offers more offensive creativity compared to Allan.",
+            "query_ano": "Here's the change. [PLAYER] ([TEAM]) leaves the pitch and [PLAYER] comes on as a substitute."
+        },
+        {
+            "gameTime": "33:59",
+            "game_time": "33:30",
+            "query": "Maurizio Sarri has decided to make a change. Amadou Diawara (Napoli) replaces Jorginho.",
+            "short-term": "Maurizio Sarri has decided to make a change. Amadou Diawara (Napoli) replaces Jorginho. Napoli shifts their midfield structure as he brings fresh energy in the center of the park.",
+            "query_ano": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "33:08",
+            "game_time": "32:58",
+            "query": "Ricardo Quaresma (Besiktas) steps up and confidently directs the penalty into the left side of the goal!",
+            "short-term": "Ricardo Quaresma (Besiktas) steps up and confidently directs the penalty into the left side of the goal! Besiktas takes the lead after patiently waiting for their moment.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up and confidently directs the penalty into the left side of the goal!"
+        },
+        {
+            "gameTime": "32:48",
+            "game_time": "32:33",
+            "query": "Ricardo Quaresma (Besiktas) will take the responsibility and he is already preparing the ball.",
+            "short-term": "Ricardo Quaresma (Besiktas) will take the responsibility and he is already preparing the ball. Napoli players still protest the decision, but the referee stands firm.",
+            "query_ano": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "32:18",
+            "game_time": "31:54",
+            "query": "Nikola Maksimovic (Napoli) clearly handles the ball, but he is surprised when the referee blows his whistle. The referee makes a call and blows his whistle for an infringement. Besiktas are awarded a penalty.",
+            "short-term": "Nikola Maksimovic (Napoli) clearly handles the ball, but he is surprised when the referee blows his whistle. The referee makes a call and blows his whistle for an infringement. Besiktas are awarded a penalty. He had his arm raised too high, leaving the referee with no choice.",
+            "query_ano": "[PLAYER] ([TEAM]) clearly handles the ball, but he is surprised when the referee blows his whistle. The referee makes a call and blows his whistle for an infringement. [TEAM] are awarded a penalty."
+        },
+        {
+            "gameTime": "31:22",
+            "game_time": "30:46",
+            "query": "Oguzhan Ozyakup (Besiktas) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "short-term": "Oguzhan Ozyakup (Besiktas) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. Napoli's defense remains compact despite mounting pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender."
+        },
+        {
+            "gameTime": "30:39",
+            "game_time": "30:20",
+            "query": "Ricardo Quaresma (Besiktas) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. The referee points to the corner flag. It's a corner to Besiktas.",
+            "short-term": "Ricardo Quaresma (Besiktas) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. The referee points to the corner flag. It's a corner to Besiktas. He continues to be a threat with his deliveries.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "gameTime": "29:46",
+            "game_time": "29:38",
+            "query": "The ball is cleared after Vincent Aboubakar (Besiktas) attempted to dribble past an opposing player. We are about to witness a corner kick, another promising situation.",
+            "short-term": "The ball is cleared after Vincent Aboubakar (Besiktas) attempted to dribble past an opposing player. We are about to witness a corner kick, another promising situation. Besiktas is maintaining high pressure in search of another goal.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. We are about to witness a corner kick, another promising situation."
+        },
+        {
+            "gameTime": "28:45",
+            "game_time": "28:34",
+            "query": "Nikola Maksimovic (Napoli) gives away a foul for a fierce tackle on an opponent.",
+            "short-term": "Nikola Maksimovic (Napoli) gives away a foul for a fierce tackle on an opponent. The Besiktas players react strongly, demanding further disciplinary action.",
+            "query_ano": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "gameTime": "27:28",
+            "game_time": "27:12",
+            "query": "Dries Mertens (Napoli) makes an overly-aggressive challenge and Mark Clattenburg blows his whistle for a foul.",
+            "short-term": "Dries Mertens (Napoli) makes an overly-aggressive challenge and Mark Clattenburg blows his whistle for a foul. He appears frustrated as Napoli pushes forward in search of an equalizer.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "27:18",
+            "game_time": "27:05",
+            "query": "Jose Callejon (Napoli) is about to take a corner kick.",
+            "short-term": "Jose Callejon (Napoli) is about to take a corner kick. The centre denfender moves into the box, posing a threat with his aerial ability.",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick."
+        },
+        {
+            "gameTime": "26:43",
+            "game_time": "26:39",
+            "query": "The defence is alert as they clear a dangerous cross from Dries Mertens (Napoli). The referee blows his whistle, Napoli are awarded a corner kick.",
+            "short-term": "The defence is alert as they clear a dangerous cross from Dries Mertens (Napoli). The referee blows his whistle, awarding Napoli a corner kick. Another set-piece opportunity.",
+            "query_ano": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "26:11",
+            "game_time": "26:07",
+            "query": "Elseid Hysaj (Napoli) robs an opponent of the ball and explodes in anger when Mark Clattenburg blows for a foul.",
+            "short-term": "Elseid Hysaj (Napoli) robs an opponent of the ball but is penalized for a foul. He reacts angrily as Napoli struggles to regain control in midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        },
+        {
+            "gameTime": "23:04",
+            "game_time": "23:00",
+            "query": "An accurate pass to the edge of the box is well taken by Lorenzo Insigne (Napoli), whose instinctive shot towards goal flashes inches over the top.",
+            "short-term": "An accurate pass to the edge of the box is well taken by Lorenzo Insigne (Napoli), whose instinctive shot towards goal flashes inches over the top. A great attempt after a clever flick from him.",
+            "query_ano": "An accurate pass to the edge of the box is well taken by [PLAYER] ([TEAM]), whose instinctive shot towards goal flashes inches over the top."
+        },
+        {
+            "gameTime": "20:49",
+            "game_time": "20:47",
+            "query": "The game is interrupted as Jose Callejon (Napoli) is flagged offside.",
+            "short-term": "The game is interrupted as Jose Callejon (Napoli) is flagged offside. They are struggling to break through disciplined defensive line.",
+            "query_ano": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "gameTime": "20:08",
+            "game_time": "19:52",
+            "query": "Senol Gunes has decided to substitute Gokhan Inler and he is replaced by Oguzhan Ozyakup (Besiktas).",
+            "short-term": "Senol Gunes has decided to substitute Gokhan Inler and he is replaced by Oguzhan Ozyakup (Besiktas). Besiktas looks to reinforce their midfield as they defend their lead.",
+            "query_ano": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "19:31",
+            "game_time": "19:36",
+            "query": "Marek Hamsik (Napoli) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",
+            "short-term": "Marek Hamsik (Napoli) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence. Besiktas' defenders remain resolute under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence."
+        },
+        {
+            "gameTime": "17:41",
+            "game_time": "17:30",
+            "query": "Substitution. Manolo Gabbiadini will be replaced by Dries Mertens (Napoli).",
+            "short-term": "Substitution. Manolo Gabbiadini will be replaced by Dries Mertens (Napoli). Aiming to add pace and creativity in attack.",
+            "query_ano": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "17:05",
+            "game_time": "17:03",
+            "query": "Faouzi Ghoulam (Napoli) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+            "short-term": "Faouzi Ghoulam (Napoli) takes the corner, but one of the defenders reacts well and rises highest to head the ball away. Besiktas remains solid in defending set-pieces.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "16:43",
+            "game_time": "16:34",
+            "query": "Faouzi Ghoulam (Napoli) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Napoli have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "short-term": "Faouzi Ghoulam (Napoli) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Napoli have been awarded a corner kick. The referee and one of his assistants both point at the corner flag. The goalkeeper closely watching the play.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "14:39",
+            "game_time": "14:37",
+            "query": "A crossfield pass from Gokhan Inler (Besiktas) fails to find any of his teammates. The linesman signals a throw-in for Napoli.",
+            "short-term": "A crossfield pass from Gokhan Inler (Besiktas) fails to find any of his teammates, resulting in a throw-in for Napoli. Besiktas struggles to maintain possession as Napoli presses high.",
+            "query_ano": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "12:48",
+            "game_time": "12:43",
+            "query": "Faouzi Ghoulam (Napoli) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "short-term": "Faouzi Ghoulam (Napoli) shows too much aggression while trying to break free from his opponent and is penalized for a foul. Napoli remains eager to push forward but faces defensive resistance.",
+            "query_ano": "[PLAYER] ([TEAM]) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "11:41",
+            "game_time": "11:25",
+            "query": "Jorginho (Napoli) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Mark Clattenburg ignores the protests.",
+            "short-term": "Jorginho (Napoli) receives a yellow card for his tackle and protests the decision, but Mark Clattenburg remains firm. Napoli players are visibly frustrated as they look to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but [REFEREE] ignores the protests."
+        },
+        {
+            "gameTime": "11:00",
+            "game_time": "10:48",
+            "query": "Jose Callejon (Napoli) takes a mid-range shot, but the ball sails high over the bar.",
+            "short-term": "Jose Callejon (Napoli) attempts a mid-range shot, but the ball sails high over the bar. Another missed opportunity as Napoli struggles to convert chances.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a mid-range shot, but the ball sails high over the bar."
+        },
+        {
+            "gameTime": "10:43",
+            "game_time": "10:41",
+            "query": "Faouzi Ghoulam (Napoli) decides to speed play up with a short corner kick.",
+            "short-term": "Faouzi Ghoulam (Napoli) takes a short corner kick, aiming to speed up play. They intensifie their attack but must break through Besiktas' disciplined defense.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "10:20",
+            "game_time": "10:07",
+            "query": "Jose Callejon (Napoli) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. Napoli force a corner. They send men into the box.",
+            "short-term": "Jose Callejon (Napoli) sends a pass into the box, but the opposition's defense clears the danger. They win another corner as they continue to apply pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "08:33",
+            "game_time": "8:33",
+            "query": "Ricardo Quaresma (Besiktas) is moving okay again after that injury scare.",
+            "short-term": "Ricardo Quaresma (Besiktas) recovers from an injury scare and is moving freely again. Besiktas avoids a setback as their key winger remains on the pitch.",
+            "query_ano": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "08:17",
+            "game_time": "8:06",
+            "query": "Mark Clattenburg has a clear sight and sees a foul from Allan (Napoli).",
+            "short-term": "Mark Clattenburg spots a foul from Allan (Napoli) and immediately blows his whistle. Napoli remains active in attack, but opponent’s defense stands firm.",
+            "query_ano": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "07:13",
+            "game_time": "6:48",
+            "query": "The game is interrupted now, Ricardo Quaresma (Besiktas) picks up a knock and the physio has to come on.",
+            "short-term": "Ricardo Quaresma (Besiktas) goes down with a knock, prompting the physio to come on. He appeared to land awkwardly after a challenge and is receiving medical attention.",
+            "query_ano": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "05:56",
+            "game_time": "5:47",
+            "query": "Jose Callejon (Napoli) receives a well-played pass inside the penalty area and shoots. His effort sails well wide of the left post.",
+            "short-term": "Jose Callejon (Napoli) receives a well-placed pass inside the box but sends his shot wide of the left post. A missed opportunity for Napoli as they continue searching for a goal.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a well-played pass inside the penalty area and shoots. His effort sails well wide of the left post."
+        },
+        {
+            "gameTime": "04:30",
+            "game_time": "4:30",
+            "query": "Ricardo Quaresma (Besiktas) is adjudged to have been offside when making his run.",
+            "short-term": "Ricardo Quaresma (Besiktas) is caught offside while making his run. Besiktas is looking for attacking opportunities but struggles to break Napoli's defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "03:06",
+            "game_time": "2:55",
+            "query": "Jose Callejon (Napoli) launches an inaccurate corner kick into the penalty area.",
+            "short-term": "Jose Callejon (Napoli) delivers a corner kick into the penalty area, but it's inaccurate and fails to trouble the defense. Their set-piece execution has been inconsistent.",
+            "query_ano": "[PLAYER] ([TEAM]) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "02:29",
+            "game_time": "2:26",
+            "query": "Faouzi Ghoulam (Napoli) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball is out of play. Napoli win a corner kick.",
+            "short-term": "Faouzi Ghoulam (Napoli) delivers a cross into the box, but the defense clears it. Napoli wins a corner as they continue to apply pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "gameTime": "01:58",
+            "game_time": "1:53",
+            "query": "Mark Clattenburg shows a yellow card to Gokhan Inler (Besiktas) for a tough tackle.",
+            "short-term": "Gokhan Inler (Besiktas) receives a yellow card for a tough tackle. He protests the decision, but Mark Clattenburg remains firm in his call.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "gameTime": "01:43",
+            "game_time": "1:40",
+            "query": "A cross, provided by Ricardo Quaresma (Besiktas), caused no threat to the opposition's defence as the ball was cleared out of danger.",
+            "short-term": "Ricardo Quaresma (Besiktas) sends in a cross, but it's comfortably cleared by the defense. Besiktas struggles to create dangerous opportunities.",
+            "query_ano": "A cross, provided by [PLAYER] ([TEAM]), caused no threat to the opposition's defence as the ball was cleared out of danger."
+        },
+        {
+            "gameTime": "01:17",
+            "game_time": "1:08",
+            "query": "Elseid Hysaj (Napoli) was too fierce in his attempt to get the ball from his opponent and Mark Clattenburg blows for a foul. Besiktas earn a free kick.",
+            "short-term": "Elseid Hysaj (Napoli) makes a strong challenge and concedes a foul. Besiktas earns a free kick as they try to regain control of the game.",
+            "query_ano": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. [TEAM] earn a free kick."
+        }
+    ]
+}

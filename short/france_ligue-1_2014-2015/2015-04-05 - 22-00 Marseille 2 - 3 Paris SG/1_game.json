@@ -1,0 +1,136 @@
+{
+    "annotations": [
+        {
+            "query": "It looks like Blaise Matuidi (Paris SG) saw red with that tackle. Ruddy Buquet won't tolerate such behaviour on the pitch and blows for a foul. Marseille win a free kick. It's a promising situation for a direct shot.",
+            "game_time": "13:45",
+            "short-term": "It looks like Blaise Matuidi (Paris SG) saw red with that tackle. Ruddy Buquet won't tolerate such behaviour on the pitch and blows for a foul. Marseille win a free kick. It's a promising situation for a direct shot. The reckless challenge left the referee with no option but to show a red card.",
+            "query_ano": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "query": "The resulting free kick from 25 metres out taken by Dimitri Payet (Marseille) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "game_time": "15:03",
+            "short-term": "The resulting free kick from 25 metres out taken by Dimitri Payet (Marseille) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper. His attempt lacked precision and failed to trouble the defense.",
+            "query_ano": "The resulting free kick from 25 metres out taken by [PLAYER] ([TEAM]) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper."
+        },
+        {
+            "query": "Andre-Pierre Gignac (Marseille) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball is out of play and Marseille manage to earn a corner.",
+            "game_time": "15:28",
+            "short-term": "Andre-Pierre Gignac (Marseille) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball is out of play and Marseille manage to earn a corner. The clearance was well-timed, preventing a potential scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "query": "Dimitri Payet (Marseille) takes the corner but it's cleared.",
+            "game_time": "16:05",
+            "short-term": "Dimitri Payet (Marseille) takes the corner but it's cleared. He aimed for an outswinger, but the delivery failed to find a teammate in the box.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "query": "Mario Lemina (Marseille) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "game_time": "16:08",
+            "short-term": "Mario Lemina (Marseille) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. It was a decent opportunity, but he failed to keep his composure.",
+            "query_ano": "[PLAYER] ([TEAM]) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar."
+        },
+        {
+            "query": "Ruddy Buquet blows his whistle for a foul after Andre-Pierre Gignac (Marseille) hacks down one of his opponents.",
+            "game_time": "16:53",
+            "short-term": "Ruddy Buquet blows his whistle for a foul after Andre-Pierre Gignac (Marseille) hacks down one of his opponents. The challenge was late, and the referee had no hesitation in awarding the free kick.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "query": "Thiago Motta (Paris SG) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",
+            "game_time": "17:51",
+            "short-term": "Thiago Motta (Paris SG) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort. The keeper reacted quickly, rising above the crowded box to claim the ball securely.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort."
+        },
+        {
+            "query": "Marquinhos (Paris SG) races towards goal but the defender gets back well to make a challenge. The referee signals a corner kick to Paris SG.",
+            "game_time": "17:20",
+            "short-term": "Marquinhos (Paris SG) races towards goal but the defender gets back well to make a challenge. The referee signals a corner kick to Paris SG. A well-timed defensive intervention prevented him from getting a shot away.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "query": "Steve Mandanda pulls off a great save to deny Edinson Cavani (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal.",
+            "game_time": "18:39",
+            "short-term": "Steve Mandanda pulls off a great save to deny Edinson Cavani (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal. The shot lacked the necessary power, allowing the keeper to react comfortably.",
+            "query_ano": "Steve Mandanda pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal."
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "game_time": "21:13",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The defensive intervention was crucial in preventing the ball from reaching its intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "query": "Ruddy Buquet shows a yellow card to Rod Fanni (Marseille) for his blatant foul.",
+            "game_time": "22:00",
+            "short-term": "Ruddy Buquet shows a yellow card to Rod Fanni (Marseille) for his blatant foul. His late challenge was mistimed, leaving the referee with no option but to caution him.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        },
+        {
+            "query": "Blaise Matuidi (Paris SG) is penalised for a foul. Ruddy Buquet had a clear view and blows his whistle.",
+            "game_time": "24:00",
+            "short-term": "Blaise Matuidi (Paris SG) is penalised for a foul. Ruddy Buquet had a clear view and blows his whistle. The challenge disrupted the opponent’s movement, leading to a straightforward decision for the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle."
+        },
+        {
+            "query": "Florian Thauvin (Marseille) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Salvatore Sirigu pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "game_time": "27:52",
+            "short-term": "Florian Thauvin (Marseille) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Salvatore Sirigu pulls off a reflexive save to block his effort. The shot lacked power, making it a comfortable save for the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Salvatore Sirigu pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "query": "Dimitri Payet produces a beautiful lofted cross into the box, where Andre-Pierre Gignac (Marseille) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 1:0.",
+            "game_time": "29:30",
+            "short-term": "Dimitri Payet produces a beautiful lofted cross into the box, where Andre-Pierre Gignac (Marseille) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 1:0. The forward showed excellent positioning and timing to meet the ball perfectly.",
+            "query_ano": "[PLAYER] produces a beautiful lofted cross into the box, where [PLAYER] ([TEAM]) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 1:0."
+        },
+        {
+            "query": "David Luiz is being substituted because of an injury. Laurent Blanc sends Gregory van der Wiel (Paris SG) on the pitch.",
+            "game_time": "32:50",
+            "short-term": "David Luiz is being substituted because of an injury. Laurent Blanc sends Gregory van der Wiel (Paris SG) on the pitch. The defender appeared to tweak his hamstring and was unable to continue.",
+            "query_ano": "[PLAYER] is being substituted because of an injury. Laurent Blanc sends [PLAYER] ([TEAM]) on the pitch."
+        },
+        {
+            "query": "Blaise Matuidi (Paris SG) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 1:0.",
+            "game_time": "34:30",
+            "short-term": "Blaise Matuidi (Paris SG) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 1:0. The keeper got a touch but couldn't keep it out.",
+            "query_ano": "[PLAYER] ([TEAM]) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 1:0."
+        },
+        {
+            "query": "Thiago Motta (Paris SG) was too forceful with his tackle and Ruddy Buquet interrupted the game to signal a free kick. Marseille earn a free kick which could lead to a goal-scoring opportunity.",
+            "game_time": "36:21",
+            "short-term": "Thiago Motta (Paris SG) was too forceful with his tackle and Ruddy Buquet interrupted the game to signal a free kick. Marseille earn a free kick which could lead to a goal-scoring opportunity. The challenge was reckless, drawing an immediate whistle from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick. [TEAM] earn a free kick which could lead to a goal-scoring opportunity."
+        },
+        {
+            "query": "Florian Thauvin (Marseille) fires in an effort from the free kick from some 26 metres. His strike is very inaccurate and ends in row Z.",
+            "game_time": "38:17",
+            "short-term": "Florian Thauvin (Marseille) fires in an effort from the free kick from some 26 metres. His strike is very inaccurate and ends in row Z. A wasted opportunity as the ball sailed harmlessly over the bar.",
+            "query_ano": "[PLAYER] ([TEAM]) fires in an effort from the free kick from some 26 metres. His strike is very inaccurate and ends in row Z."
+        },
+        {
+            "query": "Andre-Pierre Gignac (Marseille) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper.",
+            "game_time": "42:04",
+            "short-term": "Andre-Pierre Gignac (Marseille) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper. The precision of his shot left the keeper with no chance.",
+            "query_ano": "[PLAYER] ([TEAM]) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper."
+        },
+        {
+            "query": "Is that a yellow card in the referee's hand? It is! Javier Pastore (Paris SG) gets booked.",
+            "game_time": "44:10",
+            "short-term": "Is that a yellow card in the referee's hand? It is! Javier Pastore (Paris SG) gets booked. His mistimed challenge halted a potential counterattack.",
+            "query_ano": "Is that a yellow card in the referee's hand? It is! [PLAYER] ([TEAM]) gets booked."
+        },
+        {
+            "query": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The home side attempts to create scoring opportunities mainly with long balls. The away team, however, mostly uses counter-attacks to penetrate the home defence.",
+            "game_time": "46:59",
+            "short-term": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The home side attempts to create scoring opportunities mainly with long balls. The away team, however, mostly uses counter-attacks to penetrate the home defence. The game remains tightly contested with both teams looking for an edge.",
+            "query_ano": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The home side attempts to create scoring opportunities mainly with long balls. The away team, however, mostly uses counter-attacks to penetrate the home defence."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker.",
+            "game_time": "10:53",
+            "short-term": "Javier Pastore (Paris SG) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker. His shot had power but lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker."
+        }
+    ]
+}

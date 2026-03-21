@@ -1,0 +1,333 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:59",
+            "game_time": "45:59",
+            "query": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. Bayern Munich were better today and displayed masterful control and movement. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking.",
+            "short-term": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. Bayern Munich were better today and displayed masterful control and movement. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking. The dominant performance from the home side ensured they dictated the tempo throughout.",
+            "query_ano": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. [TEAM] were better today and displayed masterful control and movement. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking."
+        },
+        {
+            "gameTime": "44:01",
+            "game_time": "44:00",
+            "query": "Kingsley Coman (Bayern Munich) sprays a pass out to Robert Lewandowski, but he can't beat his man to get to the ball.",
+            "short-term": "Kingsley Coman (Bayern Munich) sprays a pass out to Robert Lewandowski, but he can't beat his man to get to the ball. The defensive player was quick to close down the space, preventing any further danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man to get to the ball."
+        },
+        {
+            "gameTime": "41:21",
+            "game_time": "41:19",
+            "query": "Dominique Heintz (1. FC Koln) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "short-term": "Dominique Heintz (1. FC Koln) slaloms his way past challenges, but an opposing player does well to get the ball away. His quick footwork created a promising moment, but the defense recovered in time.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "40:57",
+            "game_time": "40:55",
+            "query": "The game is interrupted. Arturo Vidal (Bayern Munich) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",
+            "short-term": "The game is interrupted. Arturo Vidal (Bayern Munich) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. He accepted the decision without argument, understanding the infringement.",
+            "query_ano": "The game is interrupted. [PLAYER] ([TEAM]) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "gameTime": "39:32",
+            "game_time": "39:30",
+            "query": "Dangerous play by Kingsley Coman (Bayern Munich). Florian Meyer blows his whistle for a foul. FC Koln earn a free kick.",
+            "short-term": "Dangerous play by Kingsley Coman (Bayern Munich). Florian Meyer blows his whistle for a foul. FC Koln earn a free kick. The challenge was too aggressive, giving the referee no choice but to intervene.",
+            "query_ano": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] earn a free kick."
+        },
+        {
+            "gameTime": "39:03",
+            "game_time": "39:02",
+            "query": "Robert Lewandowski (Bayern Munich) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln.",
+            "short-term": "Robert Lewandowski (Bayern Munich) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln. His positioning was good, but he couldn't keep the header under control.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln."
+        },
+        {
+            "gameTime": "35:29",
+            "game_time": "35:13",
+            "query": "Yuya Osako (1. FC Koln) delivers a promising cross into the box, but it's cleared. The ball is behind the touchline and FC Koln will take a throw-in.",
+            "short-term": "Yuya Osako (1. FC Koln) delivers a promising cross into the box, but it's cleared. The ball is behind the touchline and FC Koln will take a throw-in. The delivery was well-placed, but the defenders were alert to the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. The ball is behind the touchline and FC Koln will take a throw-in."
+        },
+        {
+            "gameTime": "32:22",
+            "game_time": "32:39",
+            "query": "Pep Guardiola has decided to substitute Thomas Muller and he is replaced by Thiago Alcantara (Bayern Munich).",
+            "short-term": "Pep Guardiola has decided to substitute Thomas Muller and he is replaced by Thiago Alcantara (Bayern Munich). The change was met with applause as the departing player had contributed well.",
+            "query_ano": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "31:54",
+            "game_time": "31:45",
+            "query": "Thomas Muller (Bayern Munich) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner.",
+            "short-term": "Thomas Muller (Bayern Munich) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner. The strike was perfectly placed, giving the keeper no chance.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner."
+        },
+        {
+            "gameTime": "31:34",
+            "game_time": "31:26",
+            "query": "Thomas Muller (Bayern Munich) is heading towards the penalty spot to take it.",
+            "short-term": "Thomas Muller (Bayern Munich) is heading towards the penalty spot to take it. He showed confidence as he prepared for the decisive moment.",
+            "query_ano": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:29",
+            "query": "Dominique Heintz (1. FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick!",
+            "short-term": "Dominique Heintz (1. FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick! The decision was immediate, with no hesitation from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick. The referee points to the penalty spot. [TEAM] are awarded a penalty kick!"
+        },
+        {
+            "gameTime": "29:59",
+            "game_time": "29:43",
+            "query": "The referee signals that it is time for a substitution and Dusan Svento (1. FC Koln) will replace Yannick Gerhardt.",
+            "short-term": "The referee signals that it is time for a substitution and Dusan Svento (1. FC Koln) will replace Yannick Gerhardt. The outgoing player received treatment on the bench.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "gameTime": "29:36",
+            "game_time": "29:34",
+            "query": "Philipp Hosiner (1. FC Koln) connects with a pass but sees his shot from the edge of the box blocked.",
+            "short-term": "Philipp Hosiner (1. FC Koln) connects with a pass but sees his shot from the edge of the box blocked. The defense reacted swiftly to deny him any space.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked."
+        },
+        {
+            "gameTime": "29:03",
+            "game_time": "28:56",
+            "query": "Great teamplay by FC Koln as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+            "short-term": "Great teamplay by FC Koln as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score. Their composure was evident, but the opposing defense maintained a solid shape.",
+            "query_ano": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "gameTime": "27:06",
+            "game_time": "27:00",
+            "query": "What a great touch by Douglas Costa (Bayern Munich) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending.",
+            "short-term": "What a great touch by Douglas Costa (Bayern Munich) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending. The intervention was crucial in preventing a dangerous scoring opportunity.",
+            "query_ano": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending."
+        },
+        {
+            "gameTime": "26:01",
+            "game_time": "25:59",
+            "query": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "short-term": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "query_ano": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "gameTime": "25:39",
+            "game_time": "25:20",
+            "query": "We are about to witness a substitution. Philipp Hosiner (1. FC Koln) is replacing Simon Zoller.",
+            "short-term": "We are about to witness a substitution. Philipp Hosiner (1. FC Koln) is replacing Simon Zoller. The change was made to bring fresh legs into the attack.",
+            "query_ano": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER]."
+        },
+        {
+            "gameTime": "24:40",
+            "game_time": "24:21",
+            "query": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same.",
+            "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from [PLAYER] and the score remains the same."
+        },
+        {
+            "gameTime": "24:00",
+            "game_time": "24:01",
+            "query": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save.",
+            "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. [PLAYER] is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "20:13",
+            "game_time": "20:55",
+            "query": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a comfortable save to stop the effort from flying into the middle of the goal."
+        },
+        {
+            "gameTime": "20:00",
+            "game_time": "20:11",
+            "query": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post.",
+            "short-term": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post. He had space but rushed his strike, sending it well off target.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post."
+        },
+        {
+            "gameTime": "19:42",
+            "game_time": "19:36",
+            "query": "Pep Guardiola prepares a substitution. Arjen Robben is replaced by Joshua Kimmich (Bayern Munich).",
+            "short-term": "Pep Guardiola prepares a substitution. Arjen Robben is replaced by Joshua Kimmich (Bayern Munich). The outgoing player received applause from the crowd after a solid performance, while the substitution aimed to add fresh energy to midfield.",
+            "query_ano": "Pep Guardiola prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "16:43",
+            "game_time": "16:30",
+            "query": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post.",
+            "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+            "query_ano": "The ball is whipped in from the free kick and finds the head of [PLAYER] ([TEAM]), who rises and produces an amazing header inside the right post."
+        },
+        {
+            "gameTime": "16:31",
+            "game_time": "16:28",
+            "query": "Douglas Costa (Bayern Munich) takes a direct free kick.",
+            "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a direct free kick."
+        },
+        {
+            "gameTime": "16:30",
+            "game_time": "16:09",
+            "query": "Jerome Boateng comes off the pitch to be replaced by Javi Martinez (Bayern Munich).",
+            "short-term": "Jerome Boateng comes off the pitch to be replaced by Javi Martinez (Bayern Munich). The change was likely a tactical adjustment to reinforce the defensive setup.",
+            "query_ano": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "15:52",
+            "game_time": "15:37",
+            "query": "Matthias Lehmann (1. FC Koln) is cautioned by the referee for a foul that he committed a little earlier.",
+            "short-term": "Matthias Lehmann (1. FC Koln) is cautioned by the referee for a foul that he committed a little earlier. His challenge was late, leaving the referee with little choice.",
+            "query_ano": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "15:23",
+            "game_time": "15:20",
+            "query": "Marcel Risse (1. FC Koln) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play.",
+            "short-term": "Marcel Risse (1. FC Koln) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play. His delivery lacked precision, causing frustration among his teammates.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play."
+        },
+        {
+            "gameTime": "14:49",
+            "game_time": "14:42",
+            "query": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick.",
+            "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+            "query_ano": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "14:19",
+            "game_time": "14:01",
+            "query": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "14:07",
+            "game_time": "13:57",
+            "query": "Arjen Robben (Bayern Munich) will try to find the head of one of his teammates from a corner kick.",
+            "short-term": "Arjen Robben (Bayern Munich) will try to find the head of one of his teammates from a corner kick. The delivery is anticipated by the opposing defense, who are well-organized inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "13:46",
+            "game_time": "13:44",
+            "query": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it.",
+            "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "gameTime": "12:51",
+            "game_time": "12:50",
+            "query": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!",
+            "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!"
+        },
+        {
+            "gameTime": "12:26",
+            "game_time": "12:06",
+            "query": "The referee signals a substitution. Yuya Osako (1. FC Koln) is brought on as a substitute for Anthony Modeste.",
+            "short-term": "The referee signals a substitution. Yuya Osako (1. FC Koln) is brought on as a substitute for Anthony Modeste. The outgoing player had been a key attacking threat, while the substitute is expected to bring fresh energy to the forward line.",
+            "query_ano": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "gameTime": "10:15",
+            "game_time": "10:38",
+            "query": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box.",
+            "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+            "query_ano": "[PLAYER] decides to speed play up by quickly sending the free kick into the box."
+        },
+        {
+            "gameTime": "09:12",
+            "game_time": "9:55",
+            "query": "Rafinha (Bayern Munich) commits a foul and is shown a yellow card without any hesitation from the referee.",
+            "short-term": "Rafinha (Bayern Munich) commits a foul and is shown a yellow card without any hesitation from the referee. The challenge was aggressive, leaving the referee with no doubt about the booking.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee."
+        },
+        {
+            "gameTime": "08:36",
+            "game_time": "7:58",
+            "query": "Robert Lewandowski (Bayern Munich) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Timo Horn.",
+            "short-term": "Robert Lewandowski (Bayern Munich) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Timo Horn. The attempt lacked the usual precision and venom, allowing the keeper to collect it comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble [PLAYER]."
+        },
+        {
+            "gameTime": "07:16",
+            "game_time": "7:14",
+            "query": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort.",
+            "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort."
+        },
+        {
+            "gameTime": "06:06",
+            "game_time": "6:00",
+            "query": "Kingsley Coman (Bayern Munich) produces an awful long-range shot that goes high and wide.",
+            "short-term": "Kingsley Coman (Bayern Munich) produces an awful long-range shot that goes high and wide. The attempt lacked precision, and the defending side was untroubled by the effort.",
+            "query_ano": "[PLAYER] ([TEAM]) produces an awful long-range shot that goes high and wide."
+        },
+        {
+            "gameTime": "04:50",
+            "game_time": "4:48",
+            "query": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack.",
+            "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+            "query_ano": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "04:14",
+            "game_time": "4:12",
+            "query": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save.",
+            "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a long-range effort after receiving a precise pass, but [PLAYER] has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "03:47",
+            "game_time": "3:30",
+            "query": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+            "query_ano": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar."
+        },
+        {
+            "gameTime": "03:40",
+            "game_time": "3:26",
+            "query": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "gameTime": "03:13",
+            "game_time": "3:09",
+            "query": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick.",
+            "short-term": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick. The opposition's defensive setup forced him wide, cutting off his options.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "02:47",
+            "game_time": "2:45",
+            "query": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal.",
+            "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+            "query_ano": "[PLAYER] makes a save to deny the long-range effort from [PLAYER] ([TEAM]) towards the middle of the goal."
+        },
+        {
+            "gameTime": "01:56",
+            "game_time": "1:37",
+            "query": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "gameTime": "01:44",
+            "game_time": "1:27",
+            "query": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box.",
+            "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "01:18",
+            "game_time": "1:17",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner.",
+            "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). [TEAM] force their opponents to concede a corner."
+        }
+    ]
+}

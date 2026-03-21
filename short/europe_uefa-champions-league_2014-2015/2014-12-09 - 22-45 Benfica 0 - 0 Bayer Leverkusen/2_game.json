@@ -1,0 +1,270 @@
+{
+    "annotations": [
+        {
+            "gameTime": "50:59",
+            "game_time": "50:59",
+            "query": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. Neither of the teams could take the initiative and dominate today's game. Both sides tried to combine well and to keep the ball at their feet.",
+            "short-term": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. Neither of the teams could take the initiative and dominate today's game. Both sides tried to combine well and to keep the ball at their feet.",
+            "query_ano": "We have been watching a lacklustre game with only a few moments to excite the crowd. The players surely have better abilities, they just needed to motivate themselves a little more. Neither of the teams could take the initiative and dominate today's game. Both sides tried to combine well and to keep the ball at their feet."
+        },
+        {
+            "gameTime": "45:50",
+            "game_time": "45:50",
+            "query": "Joao Teixeira (Benfica) receives a pass and fires a shot in from long range, but it's blocked.",
+            "short-term": "Joao Teixeira (Benfica) receives a pass and fires a shot in from long range, but it's blocked. The defender was positioned well to make the stop.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked."
+        },
+        {
+            "gameTime": "45:15",
+            "game_time": "45:15",
+            "query": "Aleksei Kulbakov blows his whistle and Omer Toprak (Bayer Leverkusen) is shown a second yellow card for his foul. His manager will not be pleased. He has a lot of time to think about it as he walks off.",
+            "short-term": "Aleksei Kulbakov blows his whistle and Omer Toprak (Bayer Leverkusen) is shown a second yellow card for his foul. His manager will not be pleased. Knowing he was already on a booking, he still committed a tactical foul.",
+            "query_ano": "[REFEREE] blows his whistle and [PLAYER] ([TEAM]) is shown a second yellow card for his foul. His [COACH] will not be pleased. He has a lot of time to think about it as he walks off."
+        },
+        {
+            "gameTime": "44:08",
+            "game_time": "44:08",
+            "query": "The foul by Nelson Oliveira (Benfica) was seen by Aleksei Kulbakov, who didn't hesitate to blow the whistle.",
+            "short-term": "The foul by Nelson Oliveira (Benfica) was seen by Aleksei Kulbakov, who didn't hesitate to blow the whistle. The challenge was late, gifting the opposition a set-piece in a dangerous position.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE], who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "43:34",
+            "game_time": "43:34",
+            "query": "Pizzi (Benfica) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "short-term": "Pizzi (Benfica) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The cross was well-placed, but the defender read it early and cleared with a strong header.",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "gameTime": "41:55",
+            "game_time": "41:55",
+            "query": "The referee signals that it is time for a substitution and Joao Teixeira (Benfica) is coming onto the pitch as Bebe cannot continue after picking up an injury.",
+            "short-term": "The referee signals that it is time for a substitution and Joao Teixeira (Benfica) is coming onto the pitch as Bebe cannot continue after picking up an injury. The coach had already anticipated this change, given Bebe’s visible discomfort after his last attempt.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "gameTime": "41:15",
+            "game_time": "41:15",
+            "query": "Cesar (Benfica) was the quickest one to orientate himself inside the box and rose high to reach a fine corner kick. He fails to direct the ball past the goalkeeper as it flies narrowly over the bar.",
+            "short-term": "Cesar (Benfica) was the quickest one to orientate himself inside the box and rose high to reach a fine corner kick. His header, however, lacked control and sailed just over the crossbar.",
+            "query_ano": "Cesar ([TEAM]) was the quickest one to orientate himself inside the box and rose high to reach a fine corner kick. He fails to direct the ball past the goalkeeper as it flies narrowly over the bar."
+        },
+        {
+            "gameTime": "41:01",
+            "game_time": "41:01",
+            "query": "The referee and one of his assistants signal for a corner kick to Benfica.",
+            "short-term": "The referee and one of his assistants signal for a corner kick to Benfica. Leverkusen were lucky not to concede, as the previous attack had nearly broken their defensive structure.",
+            "query_ano": "The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "40:44",
+            "game_time": "40:44",
+            "query": "Bebe (Benfica) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",
+            "short-term": "Bebe (Benfica) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. He took the shot quickly, but the defender reacted well to close down the angle.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+        },
+        {
+            "gameTime": "40:35",
+            "game_time": "40:35",
+            "query": "Superb touch by Karim Bellarabi (Bayer Leverkusen) as he receives a precise pass into the box, but the goalkeeper stops the ball as it heads towards the top of the net. Brilliant save!",
+            "short-term": "Superb touch by Karim Bellarabi (Bayer Leverkusen) as he receives a precise pass into the box, but the goalkeeper stops the ball as it heads towards the top of the net. He struck it cleanly, but the keeper anticipated well and made a strong reflex save.",
+            "query_ano": "Superb touch by [PLAYER] ([TEAM]) as he receives a precise pass into the box, but the goalkeeper stops the ball as it heads towards the top of the net. Brilliant save!"
+        },
+        {
+            "gameTime": "39:23",
+            "game_time": "39:23",
+            "query": "Karim Bellarabi (Bayer Leverkusen) fails to beat the offside trap and the linesman puts his flag up.",
+            "short-term": "Karim Bellarabi (Bayer Leverkusen) fails to beat the offside trap and the linesman puts his flag up. His movement was well-timed, but the defender stepped up at the right moment to catch him offside.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "38:48",
+            "game_time": "38:48",
+            "query": "Anderson Talisca (Benfica) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Bernd Leno, who pulls off a superb save to keep the ball out of the net.",
+            "short-term": "Anderson Talisca (Benfica) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Bernd Leno, who reacts sharply to stretch and parry the shot away.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Bernd Leno, who pulls off a superb save to keep the ball out of the net."
+        },
+        {
+            "gameTime": "37:56",
+            "game_time": "37:56",
+            "query": "The substitution is prepared. Stefan Kiessling (Bayer Leverkusen) joins the action as a substitute, replacing Simon Rolfes.",
+            "short-term": "The substitution is prepared. Stefan Kiessling (Bayer Leverkusen) joins the action as a substitute, replacing Simon Rolfes. The captain leaves the pitch, making way for fresh legs in attack.",
+            "query_ano": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "gameTime": "35:03",
+            "game_time": "35:03",
+            "query": "Anderson Talisca (Benfica) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "short-term": "Anderson Talisca (Benfica) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now, seemingly shaken but able to continue.",
+            "query_ano": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "33:55",
+            "game_time": "33:55",
+            "query": "Heung-Min Son (Bayer Leverkusen) is caught offside!",
+            "short-term": "Heung-Min Son (Bayer Leverkusen) is caught offside! He made a sharp run, but the assistant referee immediately flagged him as he mistimed his movement.",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "gameTime": "31:44",
+            "game_time": "31:44",
+            "query": "The game is interrupted now, Anderson Talisca (Benfica) picks up a knock and the physio has to come on.",
+            "short-term": "The game is interrupted now, Anderson Talisca (Benfica) picks up a knock and the physio has to come on. He fell on his leg, causing clear discomfort, but it doesn’t seem too serious.",
+            "query_ano": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "30:14",
+            "game_time": "30:14",
+            "query": "The substitution has been made. Nelson Oliveira (Benfica) has replaced .",
+            "short-term": "The substitution has been made. Nelson Oliveira (Benfica) has replaced . The 23-year-old forward, who returned to team in the summer, is brought on to freshen up the attack.",
+            "query_ano": "The substitution has been made. [PLAYER] ([TEAM]) has replaced ."
+        },
+        {
+            "gameTime": "29:50",
+            "game_time": "29:50",
+            "query": "Emir Spahic (Bayer Leverkusen) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",
+            "short-term": "Emir Spahic (Bayer Leverkusen) seems to have picked up a minor injury, but it looks like he will be able to continue playing. He briefly tested his movement before giving a thumbs-up to the bench.",
+            "query_ano": "[PLAYER] ([TEAM]) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "29:37",
+            "game_time": "29:37",
+            "query": "Simon Rolfes (Bayer Leverkusen) brings his opponent down with a tackle and Aleksei Kulbakov blows his whistle for a foul.",
+            "short-term": "Simon Rolfes (Bayer Leverkusen) brings his opponent down with a tackle and Aleksei Kulbakov blows his whistle for a foul. The challenge was late, leaving the referee with no hesitation.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "28:11",
+            "game_time": "28:11",
+            "query": "Emir Spahic (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "short-term": "Emir Spahic (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch. He was seen clutching his leg after a heavy collision.",
+            "query_ano": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "27:10",
+            "game_time": "27:10",
+            "query": "Anderson Talisca (Benfica) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Bernd Leno was alert and the score remained the same.",
+            "short-term": "Anderson Talisca (Benfica) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Bernd Leno was alert and the score remained the same. One of the defender managed to put slight pressure on him before the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Bernd Leno was alert and the score remained the same."
+        },
+        {
+            "gameTime": "25:21",
+            "game_time": "25:21",
+            "query": "The manager makes a substitution with Heung-Min Son (Bayer Leverkusen) coming on for Josip Drmic.",
+            "short-term": "The manager makes a substitution with Heung-Min Son (Bayer Leverkusen) coming on for Josip Drmic. Drmic walks off with a disappointed expression, knowing he couldn't make a big impact.",
+            "query_ano": "The [COACH] makes a substitution with [PLAYER] ([TEAM]) coming on for [PLAYER]."
+        },
+        {
+            "gameTime": "25:13",
+            "game_time": "25:13",
+            "query": "Gonzalo Castro (Bayer Leverkusen) seems to be alright and is okay to carry on.",
+            "short-term": "Gonzalo Castro (Bayer Leverkusen) seems to be alright and is okay to carry on. He was able to leave the field independently, shaking off concerns of a serious issue.",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "23:36",
+            "game_time": "23:36",
+            "query": "Gonzalo Castro (Bayer Leverkusen) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "short-term": "Gonzalo Castro (Bayer Leverkusen) is clearly asking for some medical attention with his painful gestures. He had initially resisted going down but ultimately signaled for assistance.",
+            "query_ano": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "21:43",
+            "game_time": "21:43",
+            "query": "Pizzi (Benfica) takes the corner kick, but Bernd Leno reads it well and stops the effort.",
+            "short-term": "Pizzi (Benfica) takes the corner kick, but Bernd Leno reads it well and stops the effort. The goalkeeper confidently caught the ball without any trouble.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick, but Bernd Leno reads it well and stops the effort."
+        },
+        {
+            "gameTime": "21:18",
+            "game_time": "21:18",
+            "query": "Ola John (Benfica) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The referee signals a corner kick to Benfica.",
+            "short-term": "Ola John (Benfica) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The referee signals a corner kick to Benfica. The ball seemed close to going out before the defender cleared it.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "20:07",
+            "game_time": "20:07",
+            "query": "Simon Rolfes (Bayer Leverkusen) fails to find any of his teammates inside the box as his pass is blocked.",
+            "short-term": "Simon Rolfes (Bayer Leverkusen) fails to find any of his teammates inside the box as his pass is blocked. The ball deflected off a defender, momentarily unsettling the defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "18:57",
+            "game_time": "18:57",
+            "query": "Good movement by Karim Bellarabi (Bayer Leverkusen), but he can't find any of his teammates as the cross is poor. It's a throw-in for Benfica.",
+            "short-term": "Good movement by Karim Bellarabi (Bayer Leverkusen), but he can't find any of his teammates as the cross is poor. The ball was overhit and flew beyond the far post, ultimately rolling out for a throw-in.",
+            "query_ano": "Good movement by [PLAYER] ([TEAM]), but he can't find any of his teammates as the cross is poor. It's a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "18:19",
+            "game_time": "18:19",
+            "query": "A fine lofted pass into the box, sent by Ola John (Benfica), is intercepted by the opposition's defence.",
+            "short-term": "A fine lofted pass into the box, sent by Ola John (Benfica), is intercepted by the opposition's defence. The defender read the play well and got his head to it before any attacker could react.",
+            "query_ano": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "16:56",
+            "game_time": "16:56",
+            "query": "That will be all from Lima who is being replaced by the fresh legs of Anderson Talisca (Benfica).",
+            "short-term": "That will be all from Lima who is being replaced by the fresh legs of Anderson Talisca (Benfica). Lima leaves the field after a decent shift, having come close to scoring earlier.",
+            "query_ano": "That will be all from Lima who is being replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "16:34",
+            "game_time": "16:34",
+            "query": "Wasted opportunity. Roberto Hilbert (Bayer Leverkusen) gets to the rebound inside the box and smashes the ball just wide of the right post.",
+            "short-term": "Wasted opportunity. Roberto Hilbert (Bayer Leverkusen) gets to the rebound inside the box and smashes the ball just wide of the right post. He had time to compose himself but snatched at the shot.",
+            "query_ano": "Wasted opportunity. [PLAYER] ([TEAM]) gets to the rebound inside the box and smashes the ball just wide of the right post."
+        },
+        {
+            "gameTime": "14:43",
+            "game_time": "14:43",
+            "query": "Karim Bellarabi (Bayer Leverkusen) makes a strong challenge and Aleksei Kulbakov blows for a foul.",
+            "short-term": "Karim Bellarabi (Bayer Leverkusen) makes a strong challenge and Aleksei Kulbakov blows for a foul. The opponent stayed on the ground momentarily, but there was no further sanction.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "gameTime": "12:21",
+            "game_time": "12:21",
+            "query": "A precise low pass is received by Roberto Hilbert (Bayer Leverkusen), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post.",
+            "short-term": "A precise low pass is received by Roberto Hilbert (Bayer Leverkusen), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post. The chance had promise, but the finish was lacking.",
+            "query_ano": "A precise low pass is received by [PLAYER] ([TEAM]), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post."
+        },
+        {
+            "gameTime": "11:28",
+            "game_time": "11:28",
+            "query": "Aleksei Kulbakov couldn't ignore the rough tackle by Bebe (Benfica) and blew his whistle.",
+            "short-term": "Aleksei Kulbakov couldn't ignore the rough tackle by Bebe (Benfica) and blew his whistle. The midfielder looked frustrated after losing possession moments earlier.",
+            "query_ano": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "gameTime": "07:57",
+            "game_time": "7:57",
+            "query": "Wow, what an escape. Josip Drmic (Bayer Leverkusen) has an effort from inside the box but it's brilliantly blocked.",
+            "short-term": "Wow, what an escape. Josip Drmic (Bayer Leverkusen) has an effort from inside the box but it's brilliantly blocked. The defender reacted quickly to throw his body in the way.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "04:23",
+            "game_time": "4:23",
+            "query": "A pass by Karim Bellarabi (Bayer Leverkusen) ends up in no man's land, and the attacking effort comes to an end.",
+            "short-term": "A pass by Karim Bellarabi (Bayer Leverkusen) ends up in no man's land, and the attacking effort comes to an end. His intended target made a different run, leaving the ball to roll harmlessly out of bounds.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "02:56",
+            "game_time": "2:56",
+            "query": "Josip Drmic (Bayer Leverkusen) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and the linesman both signal a throw-in for Bayer Leverkusen.",
+            "short-term": "Josip Drmic (Bayer Leverkusen) goes on a solo run, but he fails to create a chance as an opposition player blocks him. He attempted to cut inside but was quickly closed down, forcing the ball out for a throw-in.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "00:14",
+            "game_time": "0:14",
+            "query": "Hakan Calhanoglu (Bayer Leverkusen) is unable to feed an accurate cross into the box. The ball goes out of play and Benfica will have a goal kick.",
+            "short-term": "Hakan Calhanoglu (Bayer Leverkusen) is unable to feed an accurate cross into the box. His delivery had too much weight on it, drifting beyond the far post and out for a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) is unable to feed an accurate cross into the box. The ball goes out of play and [TEAM] will have a goal kick."
+        }
+    ]
+}

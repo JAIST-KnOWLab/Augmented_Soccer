@@ -1,0 +1,319 @@
+{
+    "annotations": [
+        {
+            "gameTime": "49:59",
+            "game_time": "49:59",
+            "query": "Today's game was very poor. There weren't many thrilling moments. The home side dominated today's game. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession.",
+            "short-term": "Today's game was very poor. There weren't many thrilling moments. The home side dominated today's game. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession.",
+            "query_ano": "Today's game was very poor. There weren't many thrilling moments. The home side dominated today's game. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession."
+        },
+        {
+            "gameTime": "45:56",
+            "game_time": "45:56",
+            "query": "Juan Manuel Mata (Manchester United) sends Glyn Oliver Myhill the wrong way and fires the penalty into the middle of the goal!",
+            "short-term": "Juan Manuel Mata (Manchester United) sends Glyn Oliver Myhill the wrong way and fires the penalty into the middle of the goal! This came after a clear foul in the box, following a quick counter-attack where the opposition was caught off guard.",
+            "query_ano": "[PLAYER] ([TEAM]) sends [PLAYER] the wrong way and fires the penalty into the middle of the goal!"
+        },
+        {
+            "gameTime": "45:44",
+            "game_time": "45:44",
+            "query": "Gareth McAuley (West Brom) can have an early bath after receiving a red card from the referee!",
+            "short-term": "Gareth McAuley (West Brom) can have an early bath after receiving a red card from the referee! The dismissal was a result of a desperate last-man challenge after the defensive line was broken by a fast break.",
+            "query_ano": "[PLAYER] ([TEAM]) can have an early bath after receiving a red card from the referee!"
+        },
+        {
+            "gameTime": "45:40",
+            "game_time": "45:40",
+            "query": "Gareth McAuley (West Brom) trips an opposition player and Michael Dean signals a foul. PENALTY AWARDED to Manchester Utd!",
+            "short-term": "Gareth McAuley (West Brom) trips an opposition player and Michael Dean signals a foul. PENALTY AWARDED to Manchester Utd! The foul occurred after the away side pushed forward in search of an equalizer but was exposed at the back.",
+            "query_ano": "Gareth McAuley ([TEAM]) trips an opposition player and [REFEREE] signals a foul. PENALTY AWARDED to Manchester Utd!"
+        },
+        {
+            "gameTime": "40:53",
+            "game_time": "40:53",
+            "query": "Anthony Martial plays a pass to Juan Manuel Mata (Manchester United), but he fails to get a decent shot away from inside the box and the ball goes high over the bar.",
+            "short-term": "Anthony Martial plays a pass to Juan Manuel Mata (Manchester United), but he fails to get a decent shot away from inside the box and the ball goes high over the bar. Martial had done well to spot Mata’s position, delaying his shot to provide a better opportunity.",
+            "query_ano": "[PLAYER] plays a pass to [PLAYER] ([TEAM]), but he fails to get a decent shot away from inside the box and the ball goes high over the bar."
+        },
+        {
+            "gameTime": "40:29",
+            "game_time": "40:29",
+            "query": "A horde of players are waiting inside the penalty area for a cross from the corner, but Juan Manuel Mata (Manchester United) takes it short.",
+            "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Juan Manuel Mata (Manchester United) takes it short. The decision to play it short followed a previous attempt where his delivery into the box was cleared.",
+            "query_ano": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "gameTime": "39:36",
+            "game_time": "39:36",
+            "query": "Substitution. Callum McManaman (West Brom) in, Chris Brunt out.",
+            "short-term": "Substitution. Callum McManaman (West Brom) in, Chris Brunt out. McManaman known for his direct dribbling, was brought in to add attacking threat as West Brom searched for a late equalizer.",
+            "query_ano": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "gameTime": "38:08",
+            "game_time": "38:08",
+            "query": "Claudio Yacob (West Brom) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. Manchester Utd are awarded the free kick.",
+            "short-term": "Claudio Yacob (West Brom) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. Manchester Utd are awarded the free kick. Mata smartly positioned his body to draw the foul, relieving defensive pressure on his team.",
+            "query_ano": "[PLAYER] ([TEAM]) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation. Manchester Utd are awarded the free kick."
+        },
+        {
+            "gameTime": "36:44",
+            "game_time": "36:44",
+            "query": "The referee signals a substitution. Ander Herrera (Manchester United) is brought on as a substitute for Wayne Rooney.",
+            "short-term": "The referee signals a substitution. Ander Herrera (Manchester United) is brought on as a substitute for Wayne Rooney. Rooney had struggled for form, and this substitution aimed to bring more control into midfield.",
+            "query_ano": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "gameTime": "35:48",
+            "game_time": "35:48",
+            "query": "Jesse Lingard (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Jesse Lingard (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Lingard was looking for his second goal of the match, showing confidence after his previous finish.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "34:55",
+            "game_time": "34:55",
+            "query": "Juan Manuel Mata (Manchester United) works the corner short instead of sending the ball into the penalty area.",
+            "short-term": "Juan Manuel Mata (Manchester United) works the corner short instead of sending the ball into the penalty area. This followed a moment of sustained possession as United looked to control the pace.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Wayne Rooney (Manchester United) quickly takes the corner kick with a short pass.",
+            "short-term": "Wayne Rooney (Manchester United) quickly takes the corner kick with a short pass. The ball had previously deflected off an opposition player, leading to this set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "36:44",
+            "game_time": "36:44",
+            "query": "The referee signals a substitution. Ander Herrera (Manchester United) is brought on as a substitute for Wayne Rooney.",
+            "short-term": "The referee signals a substitution. Ander Herrera (Manchester United) is brought on as a substitute for Wayne Rooney. Rooney had struggled for form, and this substitution aimed to bring more control into midfield.",
+            "query_ano": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "gameTime": "35:48",
+            "game_time": "35:48",
+            "query": "Jesse Lingard (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Jesse Lingard (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Lingard was looking for his second goal of the match, showing confidence after his previous finish.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "34:55",
+            "game_time": "34:55",
+            "query": "Juan Manuel Mata (Manchester United) works the corner short instead of sending the ball into the penalty area.",
+            "short-term": "Juan Manuel Mata (Manchester United) works the corner short instead of sending the ball into the penalty area. This followed a moment of sustained possession as United looked to control the pace.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Wayne Rooney (Manchester United) quickly takes the corner kick with a short pass.",
+            "short-term": "Wayne Rooney (Manchester United) quickly takes the corner kick with a short pass. Aiming to control the pace.",
+            "query_ano": "[PLAYER] ([TEAM]) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "28:51",
+            "game_time": "28:51",
+            "query": "Saido Berahino (West Brom) misses a good chance to score. A perfect cross into the box finds Saido Berahino (West Brom) who rises for a header, but he sends the ball well over the bar.",
+            "short-term": "Saido Berahino (West Brom) misses a good chance to score. A perfect cross into the box finds him rising for a header, but he sends the ball well over the bar. The opportunity came after a well-worked play down the right flank, where the defense was momentarily stretched.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a good chance to score. A perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "gameTime": "27:30",
+            "game_time": "27:30",
+            "query": "Jesse Lingard (Manchester United) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the right post.",
+            "short-term": "Jesse Lingard (Manchester United) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the right post. His quick footwork had initially created space, but he couldn't keep the shot on target.",
+            "query_ano": "[PLAYER] ([TEAM]) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the right post."
+        },
+        {
+            "gameTime": "26:51",
+            "game_time": "26:51",
+            "query": "Jonny Evans (West Brom) plants a header from the edge of the box after a nice cross from the free kick. It lacks accuracy and the ball misses the left post by a few inches.",
+            "short-term": "Jonny Evans (West Brom) plants a header from the edge of the box after a nice cross from the free kick. It lacks accuracy and the ball misses the left post by a few inches. The set-piece delivery had been precise, and Evans managed to rise above his marker but couldn't direct it on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) plants a header from the edge of the box after a nice cross from the free kick. It lacks accuracy and the ball misses the left post by a few inches."
+        },
+        {
+            "gameTime": "26:32",
+            "game_time": "26:32",
+            "query": "Tony Pulis has decided to make a change. Rickie Lambert (West Brom) replaces Salomon Rondon.",
+            "short-term": "Tony Pulis has decided to make a change. Rickie Lambert (West Brom) replaces Salomon Rondon. The switch added a more physical presence in attack, as Lambert was brought on to challenge the opposition defenders in aerial duels.",
+            "query_ano": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "26:02",
+            "game_time": "26:02",
+            "query": "James Morrison comes off the pitch to be replaced by Saido Berahino (West Brom).",
+            "short-term": "James Morrison comes off the pitch to be replaced by Saido Berahino (West Brom). He positioned to exploit spaces left by the tiring defenders.",
+            "query_ano": "[PLAYER] comes off the pitch to be replaced by Saido Berahino ([TEAM])."
+        },
+        {
+            "gameTime": "25:35",
+            "game_time": "25:35",
+            "query": "Michael Dean interrupts the game for a tactical foul by Marcos Rojo (Manchester United). It's a free kick to West Brom, but it's in no position for a direct shot on goal.",
+            "short-term": "Michael Dean interrupts the game for a tactical foul by Marcos Rojo (Manchester United). It's a free kick to West Brom, but it's in no position for a direct shot on goal. The foul occurred as West Brom was attempting to push forward, looking to exploit gaps left by Manchester United's attacking shape.",
+            "query_ano": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "25:08",
+            "game_time": "25:08",
+            "query": "Another attempt to send the ball beyond the defence by James Morrison (West Brom) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by James Morrison (West Brom) is thwarted and cleared to safety. Morrison had been actively searching for a way through the defensive line, but his pass was intercepted before it could create a real threat.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "24:01",
+            "game_time": "24:01",
+            "query": "The Manchester Utd players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "short-term": "The Manchester Utd players are exchanging short passes in an attempt to create a shooting opportunity. The buildup play showed patience, with multiple quick touches between midfielders to try and stretch the opposition’s defense.",
+            "query_ano": "[TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "gameTime": "21:56",
+            "game_time": "21:56",
+            "query": "Wayne Rooney (Manchester United) receives a pass and fires a shot in from long range, but it's blocked.",
+            "short-term": "Wayne Rooney (Manchester United) receives a pass and fires a shot in from long range, but it's blocked. The shot came after a spell of possession where United was probing for an opening but found little space inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and fires a shot in from long range, but it's blocked."
+        },
+        {
+            "gameTime": "20:00",
+            "game_time": "20:00",
+            "query": "Bastian Schweinsteiger (Manchester United) quickly takes the free kick with a short pass.",
+            "short-term": "Bastian Schweinsteiger (Manchester United) quickly takes the free kick with a short pass. However, the defense reacted well to close down passing lanes.",
+            "query_ano": "[PLAYER] ([TEAM]) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "19:58",
+            "game_time": "19:58",
+            "query": "Chris Brunt (West Brom) commits a nasty foul by bringing down his opponent.",
+            "short-term": "Chris Brunt (West Brom) commits a nasty foul by bringing down his opponent. The challenge was aggressive, and the referee had no hesitation in brandishing a yellow card.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a nasty foul by bringing down his opponent."
+        },
+        {
+            "gameTime": "18:53",
+            "game_time": "18:53",
+            "query": "A fine lofted pass into the box, sent by James McClean (West Brom), is intercepted by the opposition's defence.",
+            "short-term": "A fine lofted pass into the box, sent by James McClean (West Brom), is intercepted by the opposition's defence. McClean was aiming for a teammate positioned near the penalty spot, but the defensive line cut out the danger.",
+            "query_ano": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "16:43",
+            "game_time": "16:43",
+            "query": "It is time for a substitution. Phil Jones (Manchester United) is on for Ashley Young.",
+            "short-term": "It is time for a substitution. Phil Jones (Manchester United) is on for Ashley Young.  Jones providing a more defensive presence in a position previously occupied by an attacking full-back.",
+            "query_ano": "It is time for a substitution. Phil Jones ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "gameTime": "16:00",
+            "game_time": "16:00",
+            "query": "Craig Dawson (West Brom) takes a direct free kick.",
+            "short-term": "Craig Dawson (West Brom) takes a direct free kick. However, the delivery lacked precision and was dealt with easily by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a direct free kick."
+        },
+        {
+            "gameTime": "15:14",
+            "game_time": "15:14",
+            "query": "Marcos Rojo (Manchester United) commits a foul and is shown a yellow card without any hesitation from the referee.",
+            "short-term": "Marcos Rojo (Manchester United) commits a foul and is shown a yellow card without any hesitation from the referee. The challenge was late, and the referee had already warned players about aggressive tackles.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee."
+        },
+        {
+            "gameTime": "14:33",
+            "game_time": "14:33",
+            "query": "Salomon Rondon (West Brom) has tested the patience of referee Michael Dean and goes into the book for a previous late challenge.",
+            "short-term": "Salomon Rondon (West Brom) has tested the patience of referee Michael Dean and goes into the book for a previous late challenge. The forward had been involved in multiple physical duels before the referee finally decided to caution him.",
+            "query_ano": "[PLAYER] ([TEAM]) has tested the patience of referee [REFEREE] and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "13:29",
+            "game_time": "13:29",
+            "query": "Michael Carrick (Manchester United) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "short-term": "Michael Carrick (Manchester United) attempts to slip the ball through the defence, but is unable to find any of his teammates. His vision was sharp, but the defensive line reacted well to intercept the pass.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "12:38",
+            "game_time": "12:38",
+            "query": "The Manchester Utd players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The Manchester Utd players keep the ball and are exchanging a combination of passes. They circulate possession patiently, probing for an opening in the tightly packed defense.",
+            "query_ano": "[TEAM] Utd players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "10:05",
+            "game_time": "10:05",
+            "query": "The ball is cleared after Stephane Sessegnon (West Brom) attempted to dribble past an opposing player. The ball goes out of play and Manchester Utd will have a goal kick.",
+            "short-term": "The ball is cleared after Stephane Sessegnon (West Brom) attempted to dribble past an opposing player. He was closed down quickly, forcing him to lose control and concede a goal kick.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball goes out of play and Manchester Utd will have a goal kick."
+        },
+        {
+            "gameTime": "09:38",
+            "game_time": "9:38",
+            "query": "Jonny Evans (West Brom) takes the free kick and immediately restarts play with a short pass.",
+            "short-term": "Jonny Evans (West Brom) takes the free kick and immediately restarts play with a short pass. ",
+            "query_ano": "[PLAYER] ([TEAM]) takes the free kick and immediately restarts play with a short pass."
+        },
+        {
+            "gameTime": "09:20",
+            "game_time": "9:20",
+            "query": "A player from Manchester Utd commits an attacking foul. The referee blows his whistle. It's a free kick to West Brom, but they probably won't attempt a direct shot on goal from here.",
+            "short-term": "A player from Manchester Utd commits an attacking foul. The referee blows his whistle. West Brom will take a free kick, providing them a chance to slow the tempo and organize their build-up.",
+            "query_ano": "A player from Manchester Utd commits an attacking foul. The referee blows his whistle. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "06:45",
+            "game_time": "6:45",
+            "query": "Goal! Jesse Lingard (Manchester United) picks up the ball from a rebound and from the edge of the box he unleashes a shot inside the right post. It's 1:0.",
+            "short-term": "Goal! Jesse Lingard (Manchester United) picks up the ball from a rebound and from the edge of the box he unleashes a shot inside the right post. The goal came after a poor clearance from the opposition, which fell perfectly for Lingard to strike.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) picks up the ball from a rebound and from the edge of the box he unleashes a shot inside the right post. It's 1:0."
+        },
+        {
+            "gameTime": "06:30",
+            "game_time": "6:30",
+            "query": "Anthony Martial (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "short-term": "Anthony Martial (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The clearance was rushed, with United continuing to press high.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger."
+        },
+        {
+            "gameTime": "04:34",
+            "game_time": "4:34",
+            "query": "Salomon Rondon (West Brom) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. West Brom are taking a throw-in.",
+            "short-term": "Salomon Rondon (West Brom) looks to break free, but an opposing player clears the ball away. West Brom will take a throw-in deep in the opposition's half, looking to sustain their attacking momentum.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "gameTime": "04:10",
+            "game_time": "4:10",
+            "query": "Michael Dean interrupts the game for a tactical foul by Chris Smalling (Manchester United).",
+            "short-term": "Michael Dean interrupts the game for a tactical foul by Chris Smalling (Manchester United). The challenge stopped a developing counterattack, forcing the referee to blow his whistle.",
+            "query_ano": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "03:44",
+            "game_time": "3:44",
+            "query": "Wayne Rooney (Manchester United) tries to find Anthony Martial with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance.",
+            "short-term": "Wayne Rooney (Manchester United) tries to find Anthony Martial with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance. The ball was intercepted before Martial could make his run into space.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to find [PLAYER] with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "01:37",
+            "game_time": "1:37",
+            "query": "Juan Manuel Mata (Manchester United) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "short-term": "Juan Manuel Mata (Manchester United) sends a promising through ball, but the defence is alert and cuts out the pass. The intended recipient was making a late run into the box, but the defense was quick to react.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "gameTime": "01:07",
+            "game_time": "1:07",
+            "query": "Gareth McAuley (West Brom) puts a cross into the box from the free kick but it's cleared.",
+            "short-term": "Gareth McAuley (West Brom) puts a cross into the box from the free kick but it's cleared. The delivery was aimed towards the far post, but the defense handled it comfortably.",
+            "query_ano": "Gareth McAuley ([TEAM]) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "gameTime": "00:48",
+            "game_time": "0:48",
+            "query": "Foul! Marcos Rojo (Manchester United) is penalised for pulling back his opponent.",
+            "short-term": "Foul! Marcos Rojo (Manchester United) is penalised for pulling back his opponent. The referee had a clear view and immediately awarded the free kick.",
+            "query_ano": "Foul! [PLAYER] ([TEAM]) is penalised for pulling back his opponent."
+        }
+    ]
+}

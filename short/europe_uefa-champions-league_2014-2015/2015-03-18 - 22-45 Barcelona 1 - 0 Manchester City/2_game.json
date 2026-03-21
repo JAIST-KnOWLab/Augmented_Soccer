@@ -1,0 +1,389 @@
+{
+    "annotations": [
+        {
+            "gameTime": "47:59",
+            "game_time": "47:59",
+            "query": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. Great display from the home side, you have to say that they were the better side today. Both teams attempted to play possession football.",
+            "short-term": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. Great display from the home side, you have to say that they were the better side today. Both teams attempted to play possession football.",
+            "query_ano": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. Great display from the home side, you have to say that they were the better side today. Both teams attempted to play possession football."
+        },
+        {
+            "gameTime": "46:48",
+            "game_time": "46:48",
+            "query": "Neymar (Barcelona) receives a precise pass and is given time inside the box to send a promising strike towards the left post. Joe Hart guesses his intentions and denies him with a fine save. The ball goes out of play. Barcelona are awarded a corner kick.",
+            "short-term": "Neymar receives a precise pass inside the box and strikes towards the left post, but Joe Hart reads his intentions perfectly and pulls off a fine save. The ball deflects out for a Barcelona corner.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the left post. [PLAYER] guesses his intentions and denies him with a fine save. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "46:35",
+            "game_time": "46:35",
+            "query": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear.",
+            "short-term": "Jesus Navas whips in a corner, but a well-positioned defender rises first to clear the danger.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "46:31",
+            "game_time": "46:31",
+            "query": "Good clearance! Sergio Aguero (Manchester City) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him. Manchester City will take a corner kick.",
+            "short-term": "Sergio Aguero receives a low pass in the box, but before he can react, a defender steps in swiftly to clear. Manchester City win a corner.",
+            "query_ano": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him. [TEAM] will take a corner kick."
+        },
+        {
+            "gameTime": "45:51",
+            "game_time": "45:51",
+            "query": "Substitution. Dani Alves makes his way off the pitch and Adriano (Barcelona) comes on as his replacement.",
+            "short-term": "Substitution. Dani Alves exits to a warm ovation, with Adriano coming on to replace him.",
+            "query_ano": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement."
+        },
+        {
+            "gameTime": "44:30",
+            "game_time": "44:30",
+            "query": "Neymar (Barcelona) takes the corner but it's cleared.",
+            "short-term": "Neymar delivers a corner, but the defense reacts well and clears the ball from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "43:26",
+            "game_time": "43:26",
+            "query": "Joe Hart pulls off a great save to deny Lionel Messi (Barcelona), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal.",
+            "short-term": "Joe Hart produces a stunning save to deny Lionel Messi, who had created space in the box and fired a sharp shot towards the center of the goal.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "41:22",
+            "game_time": "41:22",
+            "query": "Here is a change. James Milner is going off and Manuel Pellegrini gives the last tactical orders to Frank Lampard (Manchester City).",
+            "short-term": "Substitution. James Milner exits as Frank Lampard comes on, receiving final instructions from Pellegrini.",
+            "query_ano": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "40:59",
+            "game_time": "40:59",
+            "query": "Luis Suarez (Barcelona) is caught offside!",
+            "short-term": "Luis Suarez mistimes his run and is flagged offside as he looks to break behind the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "gameTime": "40:50",
+            "game_time": "40:50",
+            "query": "Lionel Messi (Barcelona) fires the ball at goal from inside the area, but it's well blocked.",
+            "short-term": "Lionel Messi tries his luck from inside the box, but his shot is met with a solid defensive block.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "gameTime": "40:40",
+            "game_time": "40:40",
+            "query": "Luis Suarez (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Joe Hart is alert and denies him.",
+            "short-term": "Luis Suarez bursts into the box and fires a shot at goal, but Joe Hart makes another sharp save to deny him.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but [PLAYER] is alert and denies him."
+        },
+        {
+            "gameTime": "38:19",
+            "game_time": "38:19",
+            "query": "It's time for a substitution. That's the last involvement from Ivan Rakitic as he is replaced by Rafinha (Barcelona).",
+            "short-term": "It's time for a substitution. That's the last involvement from Ivan Rakitic as he is replaced by Rafinha (Barcelona).He leaves the pitch to applause, making way for new leg.",
+            "query_ano": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by Rafinha ([TEAM])."
+        },
+        {
+            "gameTime": "37:40",
+            "game_time": "37:40",
+            "query": "Close! Lionel Messi (Barcelona) stands over the resulting free kick from around 19 metres out and his shot goes just over the crossbar. The ball goes out of play and Manchester City will have a goal kick.",
+            "short-term": "Close! Lionel Messi (Barcelona) stands over the resulting free kick from around 19 metres out and his shot goes just over the crossbar. The ball goes out of play and Manchester City will have a goal kick. The wall didn't block his shot, the angle was perfect.",
+            "query_ano": "Close! [PLAYER] ([TEAM]) stands over the resulting free kick from around 19 metres out and his shot goes just over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "36:42",
+            "game_time": "36:42",
+            "query": "The foul by Martin Demichelis (Manchester City) is worthy of a card and a yellow is duly shown by Gianluca Rocchi. Barcelona have a free kick from a promising distance.",
+            "short-term": "The foul by Martin Demichelis is worthy of a yellow card, and Gianluca Rocchi does not hesitate to show it. Barcelona have a free kick in a promising position, with Neymar and Messi discussing the approach.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [PLAYER]. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "35:45",
+            "game_time": "35:45",
+            "query": "A pass from Aleksandar Kolarov (Manchester City) is intercepted by Marc-Andre ter Stegen and the move breaks down.",
+            "short-term": "A pass from Aleksandar Kolarov is cut out by keeper, who quickly assesses his options to start a counterattack for his team.",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "gameTime": "34:22",
+            "game_time": "34:22",
+            "query": "Gianluca Rocchi shows the yellow card to Dani Alves (Barcelona) for a heavy challenge.",
+            "short-term": "Dani Alves is shown a yellow card after a strong challenge. The referee has been firm with his decisions, since he ruined the opponent's absolute scoring chance",
+            "query_ano": "[PLAYER] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "gameTime": "32:59",
+            "game_time": "32:59",
+            "query": "The ball goes out of play and it will be a corner kick. David Silva (Manchester City) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "short-term": "The ball goes out of play and it will be a corner kick. David Silva (Manchester City) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "query_ano": "The ball goes out of play and it will be a corner kick. [PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "32:47",
+            "game_time": "32:47",
+            "query": "Penalty saved! Sergio Aguero (Manchester City) sends the penalty towards the left hand side of the goal, but Marc-Andre ter Stegen pulls off a wonderful save to deny him.",
+            "short-term": "Sergio Aguero steps up for the penalty, aiming for the left side, but keeper reads it perfectly and makes a brilliant save.",
+            "query_ano": "Penalty saved! [PLAYER] ([TEAM]) sends the penalty towards the left hand side of the goal, but [PLAYER] pulls off a wonderful save to deny him."
+        },
+        {
+            "gameTime": "32:40",
+            "game_time": "32:40",
+            "query": "Sergio Aguero (Manchester City) is going to take the penalty!",
+            "short-term": "Sergio Aguero prepares to take the crucial penalty. He is fully aware of his responsibilities",
+            "query_ano": "[PLAYER] ([TEAM]) is going to take the penalty!"
+        },
+        {
+            "gameTime": "31:36",
+            "game_time": "31:36",
+            "query": "A player from Barcelona pulled an opponent down, forcing the referee to blow his whistle. PENALTY! Wonderful opportunity to score for Manchester City.",
+            "short-term": "The referee points to the spot! A Barcelona player pulls down an opponent, giving Manchester City a golden chance from the penalty spot.",
+            "query_ano": "A player from [TEAM] pulled an opponent down, forcing the referee to blow his whistle. PENALTY! Wonderful opportunity to score for [TEAM]."
+        },
+        {
+            "gameTime": "31:06",
+            "game_time": "31:06",
+            "query": "Neymar (Barcelona) collects a pass on the edge of the box and unleashes a low drive to the middle, but Joe Hart makes a save.",
+            "short-term": "Neymar receives the ball at the edge of the box and fires a low shot towards the center, but Joe Hart reacts quickly to smother the effort.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a low drive to the middle, but [PLAYER] makes a save."
+        },
+        {
+            "gameTime": "30:25",
+            "game_time": "30:25",
+            "query": "Lionel Messi tries to play a long through ball into Neymar, but the defence breaks the move down.",
+            "short-term": "Lionel Messi tries to play a long through ball into Neymar, but the defense reads it well and intercepts.",
+            "query_ano": "[PLAYER] tries to play a long through ball into [PLAYER], but the defence breaks the move down."
+        },
+        {
+            "gameTime": "28:55",
+            "game_time": "28:55",
+            "query": "Sergio Aguero (Manchester City) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort.",
+            "short-term": "Sergio Aguero wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball deflects to the right side, where Fernandinho quickly recovers and spreads it wide to Jesus Navas.",
+            "query_ano": "[PLAYER] ([TEAM]) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort."
+        },
+        {
+            "gameTime": "27:45",
+            "game_time": "27:45",
+            "query": "That was close by Wilfried Bony (Manchester City)! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar. The ball goes out of play and Barcelona will have a goal kick.",
+            "short-term": "Wilfried Bony receives a pass on the edge of the box, takes a touch, and fires a curling shot aiming for the top left corner. The ball swerves slightly but flies just over the crossbar, leaving keeper watching as it goes out for a goal kick.",
+            "query_ano": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "26:36",
+            "game_time": "26:36",
+            "query": "The substitution is prepared. Wilfried Bony (Manchester City) joins the action as a substitute, replacing Yaya Toure.",
+            "short-term": "Wilfried Bony joins the action as a substitute, replacing Yaya Toure. As he enters the pitch, he exchanges a handshake with Toure and jogs towards his position, ready to make an impact.",
+            "query_ano": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "gameTime": "25:40",
+            "game_time": "25:40",
+            "query": "Gooal! No wait, it's been ruled out for offside. Jordi Alba (Barcelona) disagrees, but the linesman is sure about his call.",
+            "short-term": "Jordi Alba scores after receiving a pass inside the box, but the goal is ruled out for offside. Alba gestures in frustration, indicating he thought he was onside, but the linesman is firm in his decision.",
+            "query_ano": "Gooal! No wait, it's been ruled out for offside. [PLAYER] ([TEAM]) disagrees, but the linesman is sure about his call."
+        },
+        {
+            "gameTime": "25:30",
+            "game_time": "25:30",
+            "query": "Neymar (Barcelona) wastes a huge opportunity! He receives a precise cross inside the penalty area and produces a low shot that sails towards the middle of a goal. His effort, however, lacks power and the goalkeeper makes a comfortable save.",
+            "short-term": "Neymar wastes a huge opportunity! He receives a precise cross inside the penalty area, controls it well, and fires a low shot towards the middle of the goal. However, the shot lacks power, allowing keeper to make a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a huge opportunity! He receives a precise cross inside the penalty area and produces a low shot that sails towards the middle of a goal. His effort, however, lacks power and the goalkeeper makes a comfortable save."
+        },
+        {
+            "gameTime": "25:06",
+            "game_time": "25:06",
+            "query": "Barcelona are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "short-term": "Barcelona are dominating possession, stringing together precise passes as they patiently probe for an opening against the Manchester City defense.",
+            "query_ano": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "gameTime": "21:47",
+            "game_time": "21:47",
+            "query": "That was close. Yaya Toure (Manchester City) fires a shot from the edge of the box which goes a whisker wide of the right post. The ball goes out of play and Barcelona will have a goal kick.",
+            "short-term": "Yaya Toure fires a powerful shot from the edge of the box, aiming for the right post. The ball narrowly misses, whizzing past the upright and going out for a goal kick.",
+            "query_ano": "That was close. [PLAYER] ([TEAM]) fires a shot from the edge of the box which goes a whisker wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "21:31",
+            "game_time": "21:31",
+            "query": "A fine lofted pass into the box, sent by Yaya Toure (Manchester City), is intercepted by the opposition's defence.",
+            "short-term": "Yaya Toure delivers a fine lofted pass into the box, searching for a teammate, but the Barcelona defense reacts quickly and intercepts the ball before it can reach its target.",
+            "query_ano": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "20:51",
+            "game_time": "20:51",
+            "query": "The corner from Ivan Rakitic (Barcelona) is intercepted by the defence.",
+            "short-term": "Ivan Rakitic delivers a corner kick into the box, but a Manchester City defender rises highest to clear the danger, ending Barcelona’s immediate threat.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "gameTime": "20:13",
+            "game_time": "20:13",
+            "query": "Lionel Messi (Barcelona) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes behind for a corner. Barcelona will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Lionel Messi sends a well-timed pass into the box, looking for a teammate, but a Manchester City defender steps in to block it. The ball deflects behind, earning Barcelona a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "18:53",
+            "game_time": "18:53",
+            "query": "Lionel Messi came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at Joe Hart.",
+            "short-term": "Lionel Messi came close to scoring. He connected with a pass inside the box and struck it with his left foot, but his shot lacked power and went straight into the arms of keeper, who reacted quickly to make the save.",
+            "query_ano": "[PLAYER] came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at [PLAYER]."
+        },
+        {
+            "gameTime": "18:30",
+            "game_time": "18:30",
+            "query": "James Milner (Manchester City) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",
+            "short-term": "James Milner receives a well-placed pass inside the box and attempts a shot, but a Barcelona defender steps in at the last moment to make a crucial block, preventing the ball from troubling keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+        },
+        {
+            "gameTime": "17:35",
+            "game_time": "17:35",
+            "query": "Luis Suarez receives a precise pass inside the box and takes a shot that flies just wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester City.",
+            "short-term": "Luis Suarez receives a precise pass inside the box, takes a touch to set himself up, and fires a shot toward the left post. The ball curls slightly but drifts just wide, missing the target by inches. Goal kick for Manchester City.",
+            "query_ano": "[PLAYER] receives a precise pass inside the box and takes a shot that flies just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "16:39",
+            "game_time": "16:39",
+            "query": "Bacary Sagnais disappointed with himself because he got into a good area but produced a poor cross. The linesman signals a throw-in for Barcelona.",
+            "short-term": "Bacary Sagnais disappointed with himself. He finds space on the right flank and attempts to deliver a cross into the box, but he mishits it completely, sending the ball out for a Barcelona throw-in. He shakes his head in frustration.",
+            "query_ano": "[PLAYER]is disappointed with himself because he got into a good area but produced a poor cross. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "15:07",
+            "game_time": "15:07",
+            "query": "Jesus Navas (Manchester City) sends a teasing cross into the area, but Marc-Andre ter Stegen intercepts the ball.",
+            "short-term": "Jesus Navas whips a teasing cross into the area, searching for a teammate, but keeper reads it well and steps off his line to intercept the ball securely.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "14:37",
+            "game_time": "14:37",
+            "query": "Sergio Aguero (Manchester City) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "short-term": "Sergio Aguero swings a well-placed cross into the penalty area, aiming for a teammate, but a Barcelona defender reacts quickly, making a brilliant clearance to eliminate the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "gameTime": "13:30",
+            "game_time": "13:30",
+            "query": "The linesman signals that Luis Suarez (Barcelona) is offside and the referee confirms the decision.",
+            "short-term": "Luis Suarez makes a run in behind the defense, looking to latch onto a through ball, but the linesman raises his flag for offside. The referee confirms the call, stopping the play.",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "13:13",
+            "game_time": "13:13",
+            "query": "Ivan Rakitic is heading toward the corner flag to take the set piece.",
+            "short-term": "Ivan Rakitic jogs toward the corner flag, preparing to take the set piece. He signals to his teammates before delivering the ball into the box.",
+            "query_ano": "[PLAYER] is heading toward the corner flag to take the set piece."
+        },
+        {
+            "gameTime": "12:34",
+            "game_time": "12:34",
+            "query": "Lionel Messi receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Barcelona earn a corner.",
+            "short-term": "Lionel Messi receives a good pass just outside the box, takes a quick touch to set himself up, and fires a left-footed shot aiming for the bottom corner. However, the defender reacts swiftly, blocking the effort and deflecting it out for a corner.",
+            "query_ano": "[PLAYER] receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. [TEAM] earn a corner."
+        },
+        {
+            "gameTime": "11:18",
+            "game_time": "11:18",
+            "query": "Aleksandar Kolarov (Manchester City) gets into a good shooting position. He wins some space for himself and drills a long-range daisy-cutter towards the middle of the goal. His good effort is, however, superbly saved by Marc-Andre ter Stegen!",
+            "short-term": "Aleksandar Kolarov moves into space just outside the box and strikes a powerful low shot toward the middle of the goal. The keeper reacts quickly, getting down well to make an excellent save with his hands.",
+            "query_ano": "[PLAYER] ([TEAM]) gets into a good shooting position. He wins some space for himself and drills a long-range daisy-cutter towards the middle of the goal. His good effort is, however, superbly saved by [PLAYER]!"
+        },
+        {
+            "gameTime": "10:54",
+            "game_time": "10:54",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Jesus Navas (Manchester City).",
+            "short-term": "Jesus Navas attempts a dangerous low pass into the box, looking for a teammate, but a Barcelona defender stretches out his leg just in time to make a crucial block, preventing a clear chance.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "10:32",
+            "game_time": "10:32",
+            "query": "The defence is alert as they clear a dangerous cross from Bacary Sagna (Manchester City).",
+            "short-term": "The defence is alert as they clear a dangerous cross from Bacary Sagna (Manchester City). The defender anticipates it well, rising high to head the ball clear and eliminate the threat.",
+            "query_ano": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "09:26",
+            "game_time": "9:26",
+            "query": "Javier Mascheran sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession.",
+            "short-term": "Javier Mascheran sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession. This is a long crossfield pass toward the right flank, but the pass is slightly overhit.",
+            "query_ano": "Javier Mascheran sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession."
+        },
+        {
+            "gameTime": "08:31",
+            "game_time": "8:31",
+            "query": "The free kick is taken by Jesus Navas (Manchester City), but ball is cleared.",
+            "short-term": "The free kick is taken by Jesus Navas (Manchester City), but the defense is well-positioned, heading the ball away to safety.",
+            "query_ano": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared."
+        },
+        {
+            "gameTime": "07:51",
+            "game_time": "7:51",
+            "query": "Jordi Alba tackles a bit over-zealously and Gianluca Rocchi blows for a foul. Manchester City have a free kick.",
+            "short-term": "Jordi Alba tackles a bit over-zealously and Gianluca Rocchi blows for a foul. Manchester City have a free kick. He appears to have hurt himself slightly in the process, while Jesús Navas prepares for the set piece with City pushing players forward.",
+            "query_ano": "[PLAYER] tackles a bit over-zealously and [PLAYER] blows for a foul. [TEAM] have a free kick."
+        },
+        {
+            "gameTime": "07:39",
+            "game_time": "7:39",
+            "query": "Manchester City are enjoying a spell of pressure at the moment, but one of the defenders gets it clear. The ball is behind the touchline and Manchester City will take a throw-in.",
+            "short-term": "Manchester City are enjoying a spell of pressure at the moment, but one of the defenders gets it clear. The player looks for a quick restart, hoping to maintain City's momentum in attack.",
+            "query_ano": "[TEAM] are enjoying a spell of pressure at the moment, but one of the defenders gets it clear. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "gameTime": "06:30",
+            "game_time": "6:30",
+            "query": "Dani Alves (Barcelona) trips an opposition player and Gianluca Rocchi signals a foul.",
+            "short-term": "Dani Alves trips an opposition player and Gianluca Rocchi signals a foul. Manchester City quickly take the free kick, looking to switch play, Their players try to create space in midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opposition player and [PLAYER] signals a foul."
+        },
+        {
+            "gameTime": "06:00",
+            "game_time": "6:00",
+            "query": "The Barcelona players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break.",
+            "short-term": "The Barcelona players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break. Piqué and Mascherano rotate possession at the back, waiting for an opening, while striker makes a run behind City's defensive line.",
+            "query_ano": "The [TEAM] players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "03:08",
+            "game_time": "3:08",
+            "query": "Close! Lionel Messi (Barcelona) picks up a pass and produces a ferocious strike towards the right post, but the goalkeeper gets his fingertips to the ball to keep it out.",
+            "short-term": "Close! Lionel Messi picks up a pass and produces a ferocious strike towards the right post, but the goalkeeper gets his fingertips to the ball to keep it out. The shot had power, forcing keeper into a brilliant diving save.",
+            "query_ano": "Close! [PLAYER] ([TEAM]) picks up a pass and produces a ferocious strike towards the right post, but the goalkeeper gets his fingertips to the ball to keep it out."
+        },
+        {
+            "gameTime": "02:40",
+            "game_time": "2:40",
+            "query": "A nice lofted cross finds Jordi Alba (Barcelona) unmarked. He takes an excellent touch and gets in a shot that goes towards the middle of the net. An easy save for the goalkeeper, though.",
+            "short-term": "A nice lofted cross finds Jordi Alba unmarked. He takes an excellent touch and gets in a shot that goes towards the middle of the net. An easy save for the goalkeeper, though. Alba looks frustrated, knowing he had time to place his shot better.",
+            "query_ano": "A nice lofted cross finds [PLAYER] ([TEAM]) unmarked. He takes an excellent touch and gets in a shot that goes towards the middle of the net. An easy save for the goalkeeper, though."
+        },
+        {
+            "gameTime": "02:04",
+            "game_time": "2:04",
+            "query": "Ivan Rakitic (Barcelona) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball miles off the left post. Nice run, but poor finish! The ball goes out of play and Manchester City will have a goal kick.",
+            "short-term": "Ivan Rakitic shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball miles off the left post. Nice run, but poor finish! He raises his hand apologetically as his shot sails harmlessly wide.",
+            "query_ano": "[PLAYER] ([TEAM]) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball miles off the left post. Nice run, but poor finish! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "00:57",
+            "game_time": "0:57",
+            "query": "Andres Iniesta (Barcelona) blows a good opportunity. He has a lot of space around him and fires a decent low shot from the edge of the box towards the middle of the net, but the goalkeeper makes a brilliant save and stops this one!",
+            "short-term": "Andres Iniesta blows a good opportunity. He has a lot of space around him and fires a decent low shot from the edge of the box towards the middle of the net, but the goalkeeper makes a brilliant save and stops this one! Keeper reacts quickly, diving to his right to push the ball away.",
+            "query_ano": "Andres Iniesta ([TEAM]) blows a good opportunity. He has a lot of space around him and fires a decent low shot from the edge of the box towards the middle of the net, but the goalkeeper makes a brilliant save and stops this one!"
+        },
+        {
+            "gameTime": "00:49",
+            "game_time": "0:49",
+            "query": "A cross from Luis Suarez (Barcelona) fails to reach the box as the defence clears the ball away to safety.",
+            "short-term": "A cross from Luis Suarez fails to reach the box as the defence clears the ball away to safety. The clearance falls to one of the player, who attempts to recycle possession for another attacking move.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        }
+    ]
+}

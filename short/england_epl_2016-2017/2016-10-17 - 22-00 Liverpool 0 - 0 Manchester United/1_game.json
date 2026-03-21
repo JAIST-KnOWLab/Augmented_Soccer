@@ -1,0 +1,116 @@
+{
+    "annotations": [
+        {
+            "game_time": "10:22",
+            "query": "The linesman raises his flag. Marouane Fellaini (Manchester United) is adjudged offside.",
+            "short-term": "The linesman raises his flag. Marouane Fellaini is adjudged offside. He mistimed his run and went too early, making it an avoidable error.",
+            "label": "offside",
+            "query_ano": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "game_time": "13:10",
+            "query": "Paul Pogba (Manchester United) collects a pass and strikes from about 35 metres out. It's a poor attempt which flies well over the bar.",
+            "short-term": "Paul Pogba collects a pass and strikes from about 35 metres out. Positioned high up the pitch, his shot was poorly executed and flew well over the bar.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and strikes from about 35 metres out. It's a poor attempt which flies well over the bar."
+        },
+        {
+            "game_time": "16:55",
+            "query": "Zlatan Ibrahimovic (Manchester United) receives a pass and tries his luck with a shot from 20 metres out. Loris Karius pulls off a comfortable save to stop the effort going into the middle of the goal.",
+            "short-term": "Zlatan Ibrahimovic receives a pass and tries his luck with a shot from 20 metres out. He managed to create space for the attempt, but the goalkeeper reacted well to make a routine save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a shot from 20 metres out. [PLAYER] pulls off a comfortable save to stop the effort going into the middle of the goal."
+        },
+        {
+            "game_time": "22:09",
+            "query": "Emre Can (Liverpool) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar.",
+            "short-term": "Emre Can receives a pass and tries his luck with a long-range powerful effort. He got into range but failed to keep his shot on target, sending it high over the crossbar.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar."
+        },
+        {
+            "game_time": "24:20",
+            "query": "A pass from Marcus Rashford (Manchester United) is intercepted by Loris Karius and the move breaks down.",
+            "short-term": "A pass from Marcus Rashford is intercepted by Loris Karius and the move breaks down. The goalkeeper did well to read the play and push the ball away from danger.",
+            "label": "chance",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down."
+        },
+        {
+            "game_time": "25:35",
+            "query": "Ander Herrera (Manchester United) is penalised after knocking an opponent down.",
+            "short-term": "Ander Herrera is penalised after knocking an opponent down. He protested the decision, but the referee was quick to call the foul.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down."
+        },
+        {
+            "game_time": "28:58",
+            "query": "Roberto Firmino (Liverpool) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by David de Gea. This effort really didn't trouble him.",
+            "short-term": "Roberto Firmino attempts to convert a cross into a goal, but his promising header from near the penalty spot is denied by David de Gea. There were numbers in the box, but his attempt lacked the power to challenge the goalkeeper.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by [PLAYER]. This effort really didn't trouble him."
+        },
+        {
+            "game_time": "29:58",
+            "query": "A clumsy foul by Antonio Valencia (Manchester United) and Anthony Taylor blows his whistle.",
+            "short-term": "A clumsy foul by Antonio Valencia and Anthony Taylor blows his whistle. The referee had a clear view and wasted no time making the call.",
+            "label": "foul",
+            "query_ano": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle."
+        },
+        {
+            "game_time": "31:00",
+            "query": "James Milner (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea.",
+            "short-term": "James Milner whips a long ball in from the free kick, but it is intercepted by David de Gea. It was a routine save, as the delivery lacked precision.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER]."
+        },
+        {
+            "game_time": "33:50",
+            "query": "Nathaniel Clyne (Liverpool) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Nathaniel Clyne sends a cross into the box, but the opposition's defence clears the ball to safety. A defender stepped in with a timely challenge, forcing the ball behind for a corner.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "game_time": "36:51",
+            "query": "Zlatan Ibrahimovic (Manchester United) is flagged for offside.",
+            "short-term": "Zlatan Ibrahimovic is flagged for offside. He had space to time his run better but made his move too soon.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "game_time": "43:23",
+            "query": "The foul by Eric Bailly (Manchester United) is worthy of a card and a yellow is duly shown by Anthony Taylor.",
+            "short-term": "The foul by Eric Bailly is worthy of a card and a yellow is duly shown by Anthony Taylor. He stepped forward aggressively and caught his opponent late.",
+            "label": "foul-card",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "game_time": "43:53",
+            "query": "Philippe Coutinho (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea.",
+            "short-term": "Philippe Coutinho whips a long ball in from the free kick, but it is intercepted by David de Gea. The attempt lacked danger as the goalkeeper collected it with ease.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER]."
+        },
+        {
+            "game_time": "44:10",
+            "query": "Flag goes up against Marcus Rashford (Manchester United) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Marcus Rashford and the referee blows his whistle for offside. The decision was made quickly, leaving no room for argument.",
+            "label": "offside",
+            "query_ano": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "game_time": "45:50",
+            "query": "Ashley Young (Manchester United) kept talking out of turn to the referee until Anthony Taylor lost patience and pulled out a yellow card.",
+            "short-term": "Ashley Young kept talking out of turn to the referee until Anthony Taylor lost patience and pulled out a yellow card. It was Manchester United's second booking in a short span.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) kept talking out of turn to the referee until [REFEREE] lost patience and pulled out a yellow card."
+        },
+        {
+            "game_time": "9:44",
+            "query": "Dejan Lovren (Liverpool) brings his opponent down. Anthony Taylor has a clear sight of it and blows his whistle for a foul.",
+            "short-term": "Dejan Lovren brings his opponent down. Anthony Taylor had a clear sight of it and immediately blew his whistle for a foul. It was an unnecessary challenge, putting his team under pressure in a dangerous position.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul."
+        }
+    ]
+}

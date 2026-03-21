@@ -1,0 +1,143 @@
+{
+    "annotations": [
+        {
+            "query": "Lionel Messi (Barcelona) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!",
+            "target": "[player]Suarez[player] just cutting the ball back here to Lionel [player]Messi[player].Well, that was very nearly the moment. Some fantastic pass by [player]Suarez[player].",
+            "game_time": "13:05",
+            "short-term": "Luis Suárez (Barcelona) cut the ball back to Lionel Messi, who took a quick shot from the edge of the box,  hitting the left post and rebounding away.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) cut the ball back to [PLAYER], who took a quick shot from the edge of the box, hitting the left post and rebounding away.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!",
+            "query_ano": "[PLAYER] ([TEAM]) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!",
+            "history": [
+                {
+                    "short-term": "Neymar (Barcelona) attempted to deliver a cross into the box, but the defense was alert. Thiago Silva (Paris SG) made a strong challenge, getting across to cover Neymar’s run and winning the first ball.",
+                    "history_time": "12:44",
+                    "long-term": "They have been creating scoring opportunities with great link-up play, but the opposition's defense has shown resilience to counter their attacks."
+                }
+            ]
+        },
+        {
+            "query": "Jordi Alba (Barcelona) flights in the cross, but the defender is alert and clears to safety.",
+            "target": "It's [player]Alba[player], who's pulled it across.[player]Maxwell[player] keeping the pressure on his own goal.",
+            "game_time": "15:26",
+            "short-term": "Jordi Alba (Barcelona) delivered a well-flighted cross into the box, but Maxwell (Paris SG) was quick to react.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivered a well-flighted cross into the box, but [PLAYER] ([TEAM]) was quick to react and clears to safety..",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety.",
+            "query_ano": "Jordi Alba ([TEAM]) flights in the cross, but the defender is alert and clears to safety.",
+            "history": [
+                {
+                    "short-term": "Neymar (Barcelona) attempted to deliver a cross into the box, but the defense was alert. Thiago Silva (Paris SG) made a strong challenge, getting across to cover Neymar’s run and winning the first ball.",
+                    "history_time": "12:44",
+                    "long-term": "The Barcelona players have been consistently testing Paris SG's defense with crosses into the box."
+                }
+            ]
+        },
+        {
+            "query": "Goal Neymar (Barcelona)! Neymar (Barcelona) was put through by Lionel Messi and he showed brilliant composure inside the box to fire into the right side of the net. 0:1.",
+            "target": "Around the magical work of [player]Messi[player] again setting up [player]Neymar[player].They have carved [team]PSG[team] apart.This much envied frontline [player]Messi[player] to [player]Neymar[player] and he made it look so simple. For the first time they're on the ball [team]PSG[team] and they get cut open. That space exists in front of the back line.",
+            "game_time": "17:54",
+            "short-term": "Goal – 0:1! Lionel Messi (Barcelona) worked his magic once again, setting up Neymar (Barcelona) with a brilliant pass. Barcelona carved Paris SG apart with their enviable attacking partnership. Neymar was composed inside the box, calmly firing into the right side of the net.",
+            "label": "goal",
+            "short-term_anonymized": "Goal! [PLAYER] ([TEAM]) worked his magic once again, setting up [PLAYER] ([TEAM]) with a brilliant pass. [TEAM] carved [TEAM] apart with their enviable attacking partnership. [PLAYER] was composed inside the box, calmly firing into the right side of the net.",
+            "sncaption_anonymized": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the right side of the net. 0:1.",
+            "query_ano": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the right side of the net. 0:1.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez (Barcelona) cut the ball back to Lionel Messi, who took a quick shot from the edge of the box,  hitting the left post and rebounding away.",
+                    "history_time": "13:05",
+                    "long-term": "They have consistently demonstrated exceptional attacking prowess, with their enviable partnership and individual skill creating numerous scoring opportunities."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) attempted to deliver a cross into the box, but the defense was alert. Thiago Silva (Paris SG) made a strong challenge, getting across to cover Neymar’s run and winning the first ball.",
+                    "history_time": "12:44",
+                    "long-term": "They consistently displayed exceptional attacking prowess, creating scoring opportunities with their smooth interplay."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by Salvatore Sirigu.",
+            "target": "[player]Suarez[player] to draw out [player]Marquinhos[player] who found him, but the referees played the advantage as [player]Iniesta[player] finds the goalscorer [player]Neymar[player].",
+            "game_time": "25:01",
+            "short-term": "Luis Suárez, who attracted the attention of the defenders, and Andrés Iniesta, who made the perfect pass to Neymar. Neymar (Barcelona) went on a brilliant mazy run through the defense, getting into shooting range inside the box. He finished calmly, placing the ball past Salvatore Sirigu (Paris SG) into the net.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER], who attracted the attention of the defenders. [PLAYER], who made the perfect pass to [PLAYER]. [PLAYER] ([TEAM]) went on a brilliant mazy run through the defense, getting into shooting range inside the box. He finished calmly, placing the ball past [PLAYER] ([TEAM]) into the net.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by [PLAYER].",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Goal – 0:1! Lionel Messi (Barcelona) worked his magic once again, setting up Neymar (Barcelona) with a brilliant pass. Barcelona carved Paris SG apart with their enviable attacking partnership. Neymar was composed inside the box, calmly firing into the right side of the net.",
+                    "history_time": "17:54",
+                    "long-term": "They have been demonstrating exceptional attacking prowess, with Neymar being a key figure in unlocking the opposition's defense."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) cut the ball back to Lionel Messi, who took a quick shot from the edge of the box,  hitting the left post and rebounding away.",
+                    "history_time": "13:05",
+                    "long-term": "They have been displaying exceptional attacking prowess, creating multiple scoring opportunities through impressive teamwork and technique."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) attempted to deliver a cross into the box, but the defense was alert. Thiago Silva (Paris SG) made a strong challenge, getting across to cover Neymar’s run and winning the first ball.",
+                    "history_time": "12:44",
+                    "long-term": "He has been showing incredible skill on the field, having a dramatic impact on the game with both creative runs and calmly slotted shots."
+                }
+            ]
+        },
+        {
+            "query": "The flag goes up and the referee blows his whistle - another offside by Edinson Cavani (Paris SG), who has already been caught several times today.",
+            "target": "[player]Lavezzi[player] is the man who has the responsibility of delivering for him while the flag have gone up anyway.",
+            "game_time": "32:10",
+            "short-term": " Ezequiel Lavezzi (Paris SG) was the player attempting to deliver the ball to him, but the linesman's flag signaled another offside, halting the play.",
+            "label": "offside",
+            "short-term_anonymized": " [PLAYER] ([TEAM]) was the player attempting to deliver the ball to him, but the linesman's flag signaled another offside, halting the play.",
+            "sncaption_anonymized": "The flag goes up and the referee blows his whistle - another offside by [PLAYER] ([TEAM]), who has already been caught several times today.",
+            "query_ano": "The flag goes up and the referee blows his whistle - another offside by [PLAYER] ([TEAM]), who has already been caught several times today.",
+            "history": [
+                {
+                    "short-term": "The referee issued a yellow card to Gerard Piqué (Barcelona) for a heavy challenge. It was a clear decision.",
+                    "history_time": "31:40",
+                    "long-term": "The Paris SG offense has been struggling to find their rhythm, hindered by multiple offside calls"
+                },
+                {
+                    "short-term": "David Luiz (Paris SG) attempted to direct the ball to him, but Cavani had made his run too early. The linesman raised the flag, and the referee stopped the play for an offside decision.",
+                    "history_time": "26:40",
+                    "long-term": "They have consistently struggled with offside traps, twice being flagged for mistimed runs that stifled promising attacking opportunities."
+                }
+            ]
+        },
+        {
+            "query": "A yellow card for a tackle by Yohan Cabaye (Paris SG). Mark Clattenburg doesn't hesitate at all to make this decision.",
+            "target": "Poor challenge by [player]Cabaye[player].",
+            "game_time": "35:53",
+            "short-term": "Yohan Cabaye (Paris SG) committed a poor challenge, and Mark Clattenburg had no hesitation in issuing a yellow card for the foul. ",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) committed a poor challenge, and [REFEREE] had no hesitation in issuing a yellow card for the foul. ",
+            "sncaption_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "history": [
+                {
+                    "short-term": "The referee issued a yellow card to Gerard Piqué (Barcelona) for a heavy challenge. It was a clear decision.",
+                    "history_time": "31:40",
+                    "long-term": "The referee has been consistently strict with discipline, handing out yellow cards for strong challenges and maintaining a tight grip on the game's physicality."
+                }
+            ]
+        },
+        {
+            "query": "Salvatore Sirigu blocks Luis Suarez (Barcelona)'s effort from the edge of the box.",
+            "target": "[player]Neymar[player] skillfully guides it away to [player]Jordi Alba[player] and [player]Suarez[player] is up there.Covered though by [player]David Luiz[player]. Or was he know he's lost out. [player]Suarez[player]tries to bend one.[player]Sirigu[player] down. A big test with [player]David Luiz[player]' hamstring. That's what I was thinking is usually charging into that far corner and he's come through that.",
+            "game_time": "42:10",
+            "short-term": "Neymar skillfully played the ball to Jordi Alba, who then passed it to Suárez. Although covered by David Luiz, Suárez managed to get his shot off, but Sirigu was equal to the challenge, making a solid save.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] skillfully played the ball to [PLAYER], who then passed it to [PLAYER]. Although covered by [PLAYER], [PLAYER] managed to get his shot off, but Sirigu was equal to the challenge, making a solid save.",
+            "sncaption_anonymized": "[PLAYER] blocks [PLAYER] ([TEAM])'s effort from the edge of the box.",
+            "query_ano": "[PLAYER] blocks [PLAYER] ([TEAM])'s effort from the edge of the box.",
+            "history": [
+                {
+                    "short-term": "Yohan Cabaye attempted a corner kick, but the goalkeeper did a brilliant job to intercept the effort.",
+                    "history_time": "41:17",
+                    "long-term": "The goalkeepers have been impressive, as they continued to neutralize threatening attacks with brilliant saves and interceptions."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "annotations": [
+        {
+            "game_time": "10:19",
+            "query": "Willian (Chelsea) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "short-term": "Willian (Chelsea) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Chelsea have been showing more aggression in their play, but this pass failed to trouble the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "game_time": "11:23",
+            "query": "The ball is cleared after Branislav Ivanovic (Chelsea) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Liverpool.",
+            "short-term": "The ball is cleared after Branislav Ivanovic (Chelsea) attempted a weaving run past an opposing player. The ball is off of the pitch and it's a goal kick for Liverpool.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "game_time": "13:20",
+            "query": "Oscar (Chelsea) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "short-term": "Oscar (Chelsea) finds himself in a promising position after receiving a precise pass. He goes for goal, but his effort is blocked by a defender who gets in the way, denying Chelsea a scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "game_time": "15:50",
+            "query": "Nemanja Matic (Chelsea) provides Diego Costa (Chelsea) with a nice pass inside the box. It allows him to finish with a low shot into the middle of the goal. 2:1!",
+            "short-term": "Nemanja Matic (Chelsea) provides Diego Costa with a nice pass inside the box. Costa takes the chance and finishes with a low shot into the middle of the goal. His hot streak continues as this goal could turn the tide for Chelsea, making it 2:1!",
+            "query_ano": "[PLAYER] ([TEAM]) provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a low shot into the middle of the goal. 2:1!"
+        },
+        {
+            "game_time": "17:40",
+            "query": "Willian (Chelsea) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",
+            "short-term": "Willian (Chelsea) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper  reacts quickly, leaping high to punch the ball away and prevent any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball."
+        },
+        {
+            "game_time": "1:25",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Willian (Chelsea). The ball goes out of play and Liverpool will have a goal kick.",
+            "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Willian (Chelsea). The ball goes out of play and Liverpool will have a goal kick.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "game_time": "20:35",
+            "query": "Martin Atkinson blows his whistle for a foul after Philippe Coutinho (Liverpool) hacks down one of his opponents.",
+            "short-term": "Martin Atkinson blows his whistle for a foul after Philippe Coutinho (Liverpool) hacks down one of his opponents.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "game_time": "23:06",
+            "query": "Martin Atkinson blows his whistle after Oscar (Chelsea) kicks an opponent's legs instead of the ball. A free kick has been awarded to Liverpool.",
+            "short-term": "Martin Atkinson blows his whistle after Oscar (Chelsea) mistimes his challenge, kicking his opponent's legs instead of the ball. Liverpool are awarded a free kick, a welcome moment to slow the game down after a strong spell of attacking play.",
+            "query_ano": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "game_time": "23:48",
+            "query": "Thibaut Courtois comes off his line to intercept the corner from James Milner (Liverpool).",
+            "short-term": "Thibaut Courtois comes off his line to intercept the corner from James Milner (Liverpool). It was a difficult situation for the goalkeeper, but he managed to clear the ball, while his teamate provided defensive support with a crucial header.",
+            "query_ano": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "26:14",
+            "query": "Sadio Mane (Liverpool) is clearly in an offside position after the ball is played through to him and the linesman raises his flag.",
+            "short-term": "Sadio Mane (Liverpool) is clearly in an offside position after the ball is played through to him and the linesman raises his flag. Chelsea could have been in trouble, but he had the option to take on the opportunity himself.",
+            "query_ano": "[PLAYER] ([TEAM]) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+        },
+        {
+            "game_time": "27:07",
+            "query": "James Milner (Liverpool) is penalised for holding. Martin Atkinson signals a set piece.",
+            "short-term": "James Milner (Liverpool) is penalised for holding. Martin Atkinson signals a set piece.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        },
+        {
+            "game_time": "28:13",
+            "query": "Sadio Mane (Liverpool) gives away a foul for a clumsy challenge. Referee Martin Atkinson saw the whole situation.",
+            "short-term": "Sadio Mane (Liverpool) gives away a foul for a clumsy challenge. Referee Martin Atkinson saw the whole situation.",
+            "query_ano": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation."
+        },
+        {
+            "game_time": "30:39",
+            "query": "A pass from Willian (Chelsea) is intercepted by Simon Mignolet (Liverpool) and the move breaks down.",
+            "short-term": "Willian attempted a pass to create an opportunity for Chelsea, but it was intercepted by Simon Mignolet. The goalkeeper was required, but it turned out to be a simple save as the move broke down.",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] ([TEAM]) and the move breaks down."
+        },
+        {
+            "game_time": "33:01",
+            "query": "Philippe Coutinho (Liverpool) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort.",
+            "short-term": "Philippe Coutinho (Liverpool) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but a defender blocks his effort. The deflection nearly wrong-footed Thibaut Courtois, and Divock Origi was close by, but the ball didn't fall kindly for him.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort."
+        },
+        {
+            "game_time": "35:46",
+            "query": "Thibaut Courtois makes a superb save to deny a header which was nodded towards the bottom right corner by Divock Origi (Liverpool) after a cross from the side.",
+            "short-term": "Divock Origi (Liverpool) meets a cross with a header directed toward the bottom right corner, a golden opportunity to wrap up the game. However, Thibaut Courtois reacts brilliantly, diving low to his left and using a strong hand to keep the ball out.",
+            "query_ano": "[PLAYER] makes a superb save to deny a header which was nodded towards the bottom right corner by [PLAYER] ([TEAM]) after a cross from the side."
+        },
+        {
+            "game_time": "36:30",
+            "query": "Adam Lallana (Liverpool) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee and his assistant both point at the corner flag. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Adam Lallana (Liverpool) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee and his assistant both point at the corner flag. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "query_ano": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "game_time": "36:55",
+            "query": "We are about to witness a substitution. Lucas Leiva (Liverpool) is replacing Philippe Coutinho.",
+            "short-term": "Philippe Coutinho (Liverpool) is substituted off, replaced by Lucas Leiva. Coutinho looked frustrated with the decision, but the substitution was made as a defensive adjustment. Interestingly, his last goal for Liverpool came six years ago on this very date.",
+            "query_ano": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER]."
+        },
+        {
+            "game_time": "37:17",
+            "query": "Jordan Henderson (Liverpool) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "short-term": "Jordan Henderson (Liverpool) swings in the corner, but fails to find any of his teammates.  One of the defenders reacts superbly, rising to meet the ball and heading it clear.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "game_time": "38:30",
+            "query": "The substitution is prepared. Cesc Fabregas (Chelsea) joins the action as a substitute, replacing Nemanja Matic.",
+            "short-term": "Cesc Fabregas, known for his playmaking ability, is brought on to replace Nemanja Matic. Matic had earlier played a key role in setting up a Chelsea goal, and he will now look to provide creative support.",
+            "query_ano": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "game_time": "38:55",
+            "query": "One of the players from Liverpool times his run too early and the referee blows his whistle for offside.",
+            "short-term": "Georginio Wijnaldum (Liverpool) is flagged for offside after mistiming his run. The referee blows his whistle to stop play.",
+            "query_ano": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "game_time": "2:20",
+            "query": "Branislav Ivanovic (Chelsea) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee.",
+            "short-term": "Branislav Ivanovic (Chelsea) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee. A clear foul, but escaped without punishment as the referee chose to let play continue.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee."
+        },
+        {
+            "game_time": "42:42",
+            "query": "Lucas Leiva (Liverpool) brings his opponent down with a tackle and Martin Atkinson blows his whistle for a foul. Chelsea have a free kick from a promising distance.",
+            "short-term": "Lucas Leiva (Liverpool) brings his opponent down with a tackle, and Martin Atkinson blows his whistle for a foul. Despite Lucas protesting the decision, Chelsea are awarded a free kick from a promising position. He had narrowly lost a 50/50 challenge inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "game_time": "43:53",
+            "query": "Cesc Fabregas (Chelsea) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly.",
+            "short-term": "Cesc Fabregas (Chelsea) unleashes a shot from a mid-range free kick that crashes into the defensive wall.  The opposition's goalkeeper set it up perfectly. He shouts for a handball, but the referee waves play on.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from a mid-range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly."
+        },
+        {
+            "game_time": "44:46",
+            "query": "Today's match ends for Georginio Wijnaldum who will be replaced by Kevin Stewart (Liverpool).",
+            "short-term": "Today's match ends for Georginio Wijnaldum who will be replaced by Kevin Stewart (Liverpool). He had been showing signs of fatigue, prompting fresh legs.",
+            "query_ano": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "4:21",
+            "query": "Philippe Coutinho (Liverpool) connects with a pass but sees his shot from the edge of the box blocked.",
+            "short-term": "Philippe Coutinho (Liverpool) connects with a pass but sees his shot from the edge of the box blocked. He could have played the ball to his teammate earlier, but the opposition's defense reacted well to prevent the effort from reaching goal.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked."
+        },
+        {
+            "game_time": "6:29",
+            "query": "Willian (Chelsea) serves up a nice cross, but Simon Mignolet punches the ball away.",
+            "short-term": "Willian (Chelsea) serves up a nice cross, but Simon Mignolet punches the ball away. The goalkeeper showed good positioning and quick reflexes, reaching high to clear the ball while the defenders hesitated for a moment.",
+            "query_ano": "[PLAYER] ([TEAM]) serves up a nice cross, but Simon Mignolet punches the ball away."
+        },
+        {
+            "game_time": "7:50",
+            "query": "N'Golo Kante (Chelsea) fails to score from close range. He picks up a rebound, but sends it wide of the target!",
+            "short-term": "N'Golo Kante (Chelsea) fails to score from close range. He picks up a rebound, but sends it wide of the target! It was a golden opportunity, but he couldn’t keep his shot on target, letting a great chance slip away for Chelsea.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to score from close range. He picks up a rebound, but sends it wide of the target!"
+        }
+    ]
+}

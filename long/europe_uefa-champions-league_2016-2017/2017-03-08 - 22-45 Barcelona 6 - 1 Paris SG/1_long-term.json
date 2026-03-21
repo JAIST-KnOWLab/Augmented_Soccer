@@ -1,0 +1,378 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:26",
+            "game_time": "43:16",
+            "query": "The linesman raises his flag for offside before Edinson Cavani (Paris SG) heads on.",
+            "short-term": "The linesman raises his flag for offside before Edinson Cavani (Paris SG) heads on. The attacking team is trying to push forward, but the defensive line remains well-organized.",
+            "query_ano": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) is flagged for offside. The defensive unit is holding its shape well, limiting space for forward runs.",
+                    "history_time": "40:26",
+                    "long-term": "The defensive line has been well-organized, effectively dealing with the opposition's attacking threats and limiting scoring opportunities with multiple offside calls."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) is caught offside! The attacking side is struggling to find space against a disciplined defensive line.",
+                    "history_time": "38:56",
+                    "long-term": "He has consistently been denied by the offside flag, highlighting the defensive line's ability to contain his attacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:53",
+            "game_time": "41:59",
+            "query": "Edinson Cavani (Paris SG) was probably a bit loose with his words to Deniz Aytekin, who decides to show him a yellow.",
+            "short-term": "Edinson Cavani (Paris SG) was probably a bit loose with his words to Deniz Aytekin, who decides to show him a yellow. He protested a previous call, but the referee was firm in his decision.",
+            "query_ano": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [PLAYER], who decides to show him a yellow.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) is caught offside! The attacking side is struggling to find space against a disciplined defensive line.",
+                    "history_time": "38:56",
+                    "long-term": "He has been struggling to make an impact, getting a yellow card and being caught offside."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:50",
+            "game_time": "40:26",
+            "query": "Luis Suarez (Barcelona) is flagged for offside.",
+            "short-term": "Luis Suarez (Barcelona) is flagged for offside. The defensive unit is holding its shape well, limiting space for forward runs.",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) is caught offside! The attacking side is struggling to find space against a disciplined defensive line.",
+                    "history_time": "38:56",
+                    "long-term": "Both teams have been having trouble breaking through the opposing defensive lines and finding open space to create scoring opportunities. This results in multiple offside calls."
+                },
+                {
+                    "short-term": "Sergio Busquets (Barcelona) gets a yellow card. He protested a decision too aggressively, prompting the referee to take action.",
+                    "history_time": "35:16",
+                    "long-term": "They have been struggling to break down the opposing defense, and frustrations are starting to boil over."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:37",
+            "game_time": "38:31",
+            "query": "Lucas (Paris SG) seems to be alright and is okay to carry on.",
+            "short-term": "Lucas (Paris SG) seems to be alright and is okay to carry on. He took a knock but has shaken it off and will continue.",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "history": [
+                {
+                    "short-term": "The game is interrupted now, Lucas (Paris SG) picks up a knock and the physio has to come on. The medical team quickly assessed the situation before allowing play to resume.",
+                    "history_time": "37:12",
+                    "long-term": "We don't know if his injury will affect the next game, and whether the coach will consider replacing him."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:23",
+            "game_time": "35:16",
+            "query": "Sergio Busquets (Barcelona) gets a yellow card.",
+            "short-term": "Sergio Busquets (Barcelona) gets a yellow card. He protested a decision too aggressively, prompting the referee to take action.",
+            "query_ano": "[PLAYER] ([TEAM]) gets a yellow card.",
+            "history": [
+                {
+                    "short-term": "Gerard Pique (Barcelona) sees a yellow card from Deniz Aytekin after he sent one of the opposing players to the ground. The defender's challenge from behind was deemed too aggressive, as he tried to prevent his opponent from turning into space.",
+                    "history_time": "22:48",
+                    "long-term": "They have been displaying aggressive behavior and kèo Jeep thoughts contesting decisions, resulting in two yellow cards in a short span."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:19",
+            "game_time": "34:12",
+            "query": "Luis Suarez (Barcelona) collects a pass on the edge of the box and unleashes a low drive to the middle, but Kevin Trapp makes a save.",
+            "short-term": "Luis Suarez (Barcelona) collects a pass on the edge of the box and unleashes a low drive to the middle, but Kevin Trapp makes a save. The forward had confidence in his shot, but the keeper reacted well to secure the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a low drive to the middle, but [PLAYER] makes a save.",
+            "history": [
+                {
+                    "short-term": "Andres Iniesta (Barcelona) collects a pass and has an effort from 24 metres out, but it flies just over the crossbar. The midfielder has always been more of a playmaker than a goal scorer, and this attempt lacked precision.",
+                    "history_time": "27:05",
+                    "long-term": "They have been creating scoring opportunities, but the finishing touch has eluded them so far."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The delivery lacked power, making it an easy clearance for the defense.",
+                    "history_time": "26:52",
+                    "long-term": "They have been consistently creating scoring opportunities, but their efforts have been thwarted by impressive goalkeeping and some inaccurate deliveries."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. His movement was dangerous, forcing the defender to react quickly and concede a corner.",
+                    "history_time": "26:20",
+                    "long-term": "He has been posing a threat to the opposing team's defense, consistently creating scoring opportunities with his dangerous movements and shots on goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:44",
+            "game_time": "30:26",
+            "query": "Lucas (Paris SG) attempts to score from 22 metres out, but his decent effort flies towards the middle of the target and is stopped by Marc-Andre ter Stegen. It didn't really trouble him.",
+            "short-term": "Lucas (Paris SG) attempts to score from 22 metres out, but his decent effort flies towards the middle of the target and is stopped by Marc-Andre ter Stegen. There were other passing options available, but he chose to take the shot himself.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to score from 22 metres out, but his decent effort flies towards the middle of the target and is stopped by [PLAYER]. It didn't really trouble him.",
+            "history": [
+                {
+                    "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+                    "history_time": "11:08",
+                    "long-term": "He has been actively creating scoring opportunities, opting to take a shot from distance and later delivering a well-placed corner kick."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:11",
+            "game_time": "27:05",
+            "query": "Andres Iniesta (Barcelona) collects a pass and has an effort from 24 metres out, but it flies just over the crossbar.",
+            "short-term": "Andres Iniesta (Barcelona) collects a pass and has an effort from 24 metres out, but it flies just over the crossbar. The midfielder has always been more of a playmaker than a goal scorer, and this attempt lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and has an effort from 24 metres out, but it flies just over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The delivery lacked power, making it an easy clearance for the defense.",
+                    "history_time": "26:52",
+                    "long-term": "They have been creating scoring opportunities, but the finishing touches and set-piece deliveries have been lacking precision."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. His movement was dangerous, forcing the defender to react quickly and concede a corner.",
+                    "history_time": "26:20",
+                    "long-term": "They have been posing threats through long-range shots and nimble movements, which the opposing defense has been struggling to contain."
+                },
+                {
+                    "short-term": "The resulting free kick from 25 metres out taken by Lionel Messi (Barcelona) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper. The set-piece was struck well, but the defenders stood firm.",
+                    "history_time": "25:59",
+                    "long-term": "They have been creating scoring opportunities from distance, but the precision and execution are lacking, with both efforts failing to find the target."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post! He was given too much time and space to organize himself before taking the shot, creating a moment of tension for the defense.",
+                    "history_time": "16:47",
+                    "long-term": "They have been creating scoring opportunities with long-range shots, but lacking the precision to capitalize on them."
+                },
+                {
+                    "short-term": "Close! Lionel Messi (Barcelona) takes the resultant free kick from 25 metres out and his shot goes just over the crossbar. The effort had the right power, but lacked the necessary dip to trouble the keeper.",
+                    "history_time": "14:23",
+                    "long-term": "They have been creating scoring opportunities with powerful shots from distance, but precision has been lacking in their finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:47",
+            "game_time": "26:52",
+            "query": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "short-term": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The delivery lacked power, making it an easy clearance for the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. His movement was dangerous, forcing the defender to react quickly and concede a corner.",
+                    "history_time": "26:20",
+                    "long-term": "This corner kick comes after a dangerous attacking run was disrupted by a defender, who cleared the ball out of play to prevent further danger."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post! He was given too much time and space to organize himself before taking the shot, creating a moment of tension for the defense.",
+                    "history_time": "16:47",
+                    "long-term": "He has been creating scoring opportunities with his solo efforts, but the end product has been lacking precision so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:30",
+            "game_time": "26:20",
+            "query": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. The referee points to the corner flag and Barcelona will take a corner.",
+            "short-term": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. His movement was dangerous, forcing the defender to react quickly and concede a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "The resulting free kick from 25 metres out taken by Lionel Messi (Barcelona) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper. The set-piece was struck well, but the defenders stood firm.",
+                    "history_time": "25:59",
+                    "long-term": "They have been posing threats through set pieces, and the opposing team's defense has shown resilience in dealing with these situations."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:46",
+            "game_time": "25:59",
+            "query": "The resulting free kick from 25 metres out taken by Lionel Messi (Barcelona) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "short-term": "The resulting free kick from 25 metres out taken by Lionel Messi (Barcelona) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper. The set-piece was struck well, but the defenders stood firm.",
+            "query_ano": "The resulting free kick from 25 metres out taken by [PLAYER] ([TEAM]) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",
+            "history": [
+                {
+                    "short-term": "Close! Lionel Messi (Barcelona) takes the resultant free kick from 25 metres out and his shot goes just over the crossbar. The effort had the right power, but lacked the necessary dip to trouble the keeper.",
+                    "history_time": "14:23",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, with nicely struck free kicks that unfortunately haven't found the back of the net."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:58",
+            "game_time": "22:48",
+            "query": "Gerard Pique (Barcelona) sees a yellow card from Deniz Aytekin after he sent one of the opposing players to the ground.",
+            "short-term": "Gerard Pique (Barcelona) sees a yellow card from Deniz Aytekin after he sent one of the opposing players to the ground. The defender's challenge from behind was deemed too aggressive, as he tried to prevent his opponent from turning into space.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [PLAYER] after he sent one of the opposing players to the ground.",
+            "history": [
+                {
+                    "short-term": "Blaise Matuidi (Paris SG) brings his opponent down. Deniz Aytekin has a clear sight of it and blows his whistle for a foul. The referee had no hesitation in stopping the play, as possession had just been recovered by the opposing team.",
+                    "history_time": "21:24",
+                    "long-term": "The referee has been consistently strict in calling fouls, issuing a yellow card for an aggressive challenge and stopping play for a clear infringement."
+                },
+                {
+                    "short-term": "Deniz Aytekin shows a yellow card to Julian Draxler (Paris SG) for a tough tackle. A free kick to Barcelona. The challenge stopped an advancing attack near the penalty area, a situation that could have been dangerous.",
+                    "history_time": "13:05",
+                    "long-term": "The referee has been closely monitoring the physicality of the game, issuing yellow cards for aggressive challenges to maintain control and prevent escalation."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:30",
+            "game_time": "21:24",
+            "query": "Blaise Matuidi (Paris SG) brings his opponent down. Deniz Aytekin has a clear sight of it and blows his whistle for a foul.",
+            "short-term": "Blaise Matuidi (Paris SG) brings his opponent down. Deniz Aytekin has a clear sight of it and blows his whistle for a foul. The referee had no hesitation in stopping the play, as possession had just been recovered by the opposing team.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [PLAYER] has a clear sight of it and blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Deniz Aytekin blows his whistle as Luis Suarez (Barcelona) used excessive force in the tackle during an attack. The referee was not swayed by the protests and deemed the challenge too aggressive.",
+                    "history_time": "12:20",
+                    "long-term": "The referee has been consistently strict in calling fouls, emphasizing a focus on player safety throughout the match. They are effectively maintaining control of the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:31",
+            "game_time": "16:47",
+            "query": "Neymar (Barcelona) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post!",
+            "short-term": "Neymar (Barcelona) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post! He was given too much time and space to organize himself before taking the shot, creating a moment of tension for the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post!",
+            "history": [
+                {
+                    "short-term": "Close! Lionel Messi (Barcelona) takes the resultant free kick from 25 metres out and his shot goes just over the crossbar. The effort had the right power, but lacked the necessary dip to trouble the keeper.",
+                    "history_time": "14:23",
+                    "long-term": "They have been creating scoring opportunities with strong individual efforts, but struggling to find the final touch."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:20",
+            "game_time": "16:24",
+            "query": "Marquinhos (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "short-term": "Marquinhos (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The decision caused some reaction as the ball had remained in play moments earlier.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+                    "history_time": "11:08",
+                    "long-term": "They have been consistently testing the opposition's defense, but decisions and defensive solidity have limited their chances."
+                },
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "They have been putting pressure on the opposition's defense with attacking plays, but so far, they've been unable to capitalize due to timely interventions and close offside calls."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:15",
+            "game_time": "16:08",
+            "query": "The free kick is taken by Lucas (Paris SG), but ball is cleared.",
+            "short-term": "The free kick is taken by Lucas (Paris SG), but ball is cleared. The defending team was well-positioned, ensuring there was no immediate threat.",
+            "query_ano": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Lucas (Paris SG) is cleared by the opposition's defence. The delivery was aimed toward the far post, but the defense reacted quickly to clear the danger.",
+                    "history_time": "11:43",
+                    "long-term": "They have been consistently creating set-piece opportunities, but have yet to capitalize on them due to the opponent's solid defensive work."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+                    "history_time": "11:08",
+                    "long-term": "They have consistently utilized set pieces to create scoring opportunities, but the opposing team's defense has been up to the task so far."
+                },
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "They have been consistently applying pressure through set pieces, trying to create scoring opportunities, but the opposing defense has held firm."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:49",
+            "game_time": "15:30",
+            "query": "Sergio Busquets (Barcelona) commits a foul after bringing down his opponent with a slide tackle. Paris SG earn a free kick.",
+            "short-term": "Sergio Busquets (Barcelona) commits a foul after bringing down his opponent with a slide tackle. Paris SG earn a free kick. The opposition had been pressing high, looking to prevent any fluid buildup in attack.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after bringing down his opponent with a slide tackle. [TEAM] earn a free kick.",
+            "history": [
+                {
+                    "short-term": "Deniz Aytekin shows a yellow card to Julian Draxler (Paris SG) for a tough tackle. A free kick to Barcelona. The challenge stopped an advancing attack near the penalty area, a situation that could have been dangerous.",
+                    "history_time": "13:05",
+                    "long-term": "The referee has been actively monitoring the game, calling fouls on both sides to maintain a balance in the tempo of the match. This game has been characterized by a series of hard tackles, with both teams giving their all."
+                },
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "Paris SG have been putting pressure on Barcelona's defense, consistently creating chances through set pieces and attempts to penetrate the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:15",
+            "game_time": "13:05",
+            "query": "Deniz Aytekin shows a yellow card to Julian Draxler (Paris SG) for a tough tackle. A free kick to Barcelona.",
+            "short-term": "Deniz Aytekin shows a yellow card to Julian Draxler (Paris SG) for a tough tackle. A free kick to Barcelona. The challenge stopped an advancing attack near the penalty area, a situation that could have been dangerous.",
+            "query_ano": "[PLAYER] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle. A free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "He has been involved in several key moments, making an impact both defensively and offensively, but faces the challenge of staying out of the referee's book."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:41",
+            "game_time": "11:43",
+            "query": "The resulting corner from Lucas (Paris SG) is cleared by the opposition's defence.",
+            "short-term": "The resulting corner from Lucas (Paris SG) is cleared by the opposition's defence. The delivery was aimed toward the far post, but the defense reacted quickly to clear the danger.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) races towards goal but the defender gets back well to make a challenge. Good work from Paris SG as they win a corner. The initial push into the box created a brief moment of danger before the defense recovered.",
+                    "history_time": "11:14",
+                    "long-term": "This corner kick comes after a driving run towards goal was halted by a well-timed defensive challenge, deflecting the ball out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+                    "history_time": "11:08",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corner kicks, but the opposition's defense has shown resilience in clearing these dangers."
+                },
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "They have been consistently posing threats from set pieces, but the opposition's defense has managed to contain the danger so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:31",
+            "game_time": "11:14",
+            "query": "Edinson Cavani (Paris SG) races towards goal but the defender gets back well to make a challenge. Good work from Paris SG as they win a corner.",
+            "short-term": "Edinson Cavani (Paris SG) races towards goal but the defender gets back well to make a challenge. Good work from Paris SG as they win a corner. The initial push into the box created a brief moment of danger before the defense recovered.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. Good work from [TEAM] as they win a corner.",
+            "history": [
+                {
+                    "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+                    "history_time": "11:08",
+                    "long-term": "They have been consistently pressuring the opponent's defense with threatening pushes into the box and utilizing corner kicks effectively to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:03",
+            "game_time": "11:08",
+            "query": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attackers tried to position themselves well, but the clearance was decisive.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick. There were claims of a possible handball, but the referee signaled for a corner instead.",
+                    "history_time": "10:08",
+                    "long-term": "This corner kick comes after a low pass into the box was blocked by the defense and deflected out of play, conceding a set-piece opportunity."
+                }
+            ]
+        }
+    ]
+}

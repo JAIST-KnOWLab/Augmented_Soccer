@@ -1,0 +1,334 @@
+{
+    "annotations": [
+        {
+            "game_time": "11:10",
+            "query": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. A free kick to Liverpool.",
+            "short-term": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. The midfielder was visibly frustrated, feeling he had pulled out of the challenge, but the decision stood.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down. A free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Marouane Fellaini makes a bad challenge and the referee blows his whistle for a foul. He had been trying to stop an advancing opponent but mistimed his tackle.",
+                    "history_time": "8:02",
+                    "long-term": "They have been struggling with discipline in defense, committing a series of fouls that have disrupted their rhythm. This trend may lead to further opportunities for their opponents if not addressed."
+                },
+                {
+                    "short-term": "Sadio Mane commits a foul and Anthony Taylor immediately signals a free kick. The opposition had several players back, crowding the space before the foul occurred.",
+                    "history_time": "5:21",
+                    "long-term": "The referee has been actively monitoring the game. The players' aggressive behavior has resulted in several interruptions to the game."
+                }
+            ]
+        },
+        {
+            "game_time": "17:30",
+            "query": "Anthony Taylor blows his whistle as Philippe Coutinho (Liverpool) used excessive force in the tackle during an attack.",
+            "short-term": "Anthony Taylor blows his whistle as Philippe Coutinho (Liverpool) used excessive force in the tackle during an attack. He initially lost possession but quickly won it back, only for the referee to penalize him. The team’s pressing style was evident in the challenge.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack.",
+            "history": [
+                {
+                    "short-term": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. The midfielder was visibly frustrated, feeling he had pulled out of the challenge, but the decision stood.",
+                    "history_time": "11:10",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control. It may lead to bookings if they don't regain their composure."
+                }
+            ]
+        },
+        {
+            "game_time": "25:50",
+            "query": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. David de Gea pulls off a decent save to stop the effort going into the top right corner. The referee points to the corner flag and Liverpool will take a corner.",
+            "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a shot from 28 metres out. [PLAYER] pulls off a decent save to stop the effort going into the top right corner. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+                    "history_time": "20:37",
+                    "long-term": "He has been showing his attacking prowess with powerful long-range shots and clever combination play, constantly pressuring the opposition's defense."
+                },
+                {
+                    "short-term": "David de Gea pulls off a great save to deny Emre Can (Liverpool), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner. The keeper reacted quickly, getting down to make the stop and keeping the score level.",
+                    "history_time": "13:08",
+                    "long-term": "The Liverpool players have been consistently creating scoring opportunities, but the opposing goalkeeper has been outstanding in making crucial saves to deny them the lead."
+                },
+                {
+                    "short-term": "The free kick from Philippe Coutinho (Liverpool) failed to provide any scoring opportunity, as one of the defenders did a good job and knocked it out. It was a bit too far out for his liking, and similar to an earlier attempt from an opposition player that was also wasted.",
+                    "history_time": "11:40",
+                    "long-term": "He has been consistently attempting to create scoring opportunities from distance, but the opposing team's defense has been able to neutralize his efforts."
+                }
+            ]
+        },
+        {
+            "game_time": "26:13",
+            "query": "Philippe Coutinho (Liverpool) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "history": [
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "He has been posing a threat from set pieces and distance shots, testing the defense with his precision and accuracy."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+                    "history_time": "20:37",
+                    "long-term": "They have consistently applied pressure through set pieces, but have yet to capitalize on these opportunities due to solid defensive play from their opponents."
+                }
+            ]
+        },
+        {
+            "game_time": "27:43",
+            "query": "James Milner (Liverpool) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "short-term": "James Milner suffered a minor knock but has received treatment and is back on the pitch, avoiding any serious injury.",
+            "label": "injury",
+            "query_ano": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "history": [
+                {
+                    "short-term": "James Milner is having a tough time, lying face down and not moving, indicating the seriousness of the situation. Another player is also down with cramps, while Milner appears to have suffered a head injury. The medical team rushes in to assess him.",
+                    "history_time": "26:27",
+                    "long-term": "We'll be keeping a close eye on his condition as this may impact his availability for upcoming matches."
+                }
+            ]
+        },
+        {
+            "game_time": "28:33",
+            "query": "Roberto Firmino (Liverpool) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "history": [
+                {
+                    "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+                    "history_time": "26:13",
+                    "long-term": "They have consistently shown strong set-piece defending, effectively clearing threats from crosses and corners."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "They have been consistently creating scoring opportunities, using crosses and long-range shots to test the opponent's defense."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+                    "history_time": "20:37",
+                    "long-term": "They have been maintaining a strong attacking presence, creating scoring opportunities and keeping the opposition's defense under pressure."
+                }
+            ]
+        },
+        {
+            "game_time": "30:32",
+            "query": "Philippe Coutinho (Liverpool) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "short-term": "Philippe Coutinho receives a pass at the edge of the box and looks to strike, but a well-positioned defender steps in to block his effort.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "history": [
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "They have been consistently posing threats in the opponent's box, but the defense has held firm, effectively nullifying their attacking opportunities."
+                },
+                {
+                    "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+                    "history_time": "26:13",
+                    "long-term": "He has been posing a threat in the attacking third, but the opposing defense has so far done well to neutralize his goal-scoring opportunities."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "He has been consistently creating scoring opportunities with his shots, but the defense and goalkeeper have managed to thwart his efforts so far."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+                    "history_time": "20:37",
+                    "long-term": "He has been actively creating attacking opportunities but facing challenges from the opposition's defense, requiring adjustments to his strategy."
+                }
+            ]
+        },
+        {
+            "game_time": "32:35",
+            "query": "The defence had a hard time blocking out the strike from Nathaniel Clyne (Liverpool). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "short-term": "Nathaniel Clyne quickly takes a shot from outside the box after receiving a pass, but the defense struggles before managing to get a crucial block in.",
+            "label": "shoot",
+            "query_ano": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "history": [
+                {
+                    "short-term": "Philippe Coutinho receives a pass at the edge of the box and looks to strike, but a well-positioned defender steps in to block his effort.",
+                    "history_time": "30:32",
+                    "long-term": "The team's attacking efforts have been consistently thwarted by the opposition's solid defense, with multiple blocks denying them clear scoring opportunities."
+                },
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "They have been consistently testing the opponent's defense with quick shots and crosses into the box, searching for a breakthrough."
+                }
+            ]
+        },
+        {
+            "game_time": "35:17",
+            "query": "Antonio Valencia (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Manchester Utd force their opponents to concede a corner.",
+            "short-term": "Antonio Valencia delivers a dangerous cross into the box, but the defense reacts well, clearing the ball out for a corner as they remain under pressure.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Manchester Utd force their opponents to concede a corner.",
+            "history": [
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "The team's crosses into the box have been effectively dealt with by the defense, showcasing their ability to manage pressure and neutralize attacking threats."
+                },
+                {
+                    "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+                    "history_time": "26:13",
+                    "long-term": "The defense has been solid, consistently clearing threatening crosses and corners to prevent scoring opportunities."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "Both teams have been creating scoring opportunities with effective deliveries into the box and shots from distance, but the goalkeepers have been crucial in preventing goals so far. The players are showcasing their skills with precise crosses and shots, but the defensive units are holding firm."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+                    "history_time": "20:37",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities through sustained attacking plays."
+                }
+            ]
+        },
+        {
+            "game_time": "35:48",
+            "query": "Marouane Fellaini (Manchester United) connects with the corner kick around the penalty spot, but steers his header just wide of the right post.",
+            "short-term": "Marouane Fellaini gets on the end of a corner near the penalty spot but fails to direct his header on target, sending it wide of the right post.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) connects with the corner kick around the penalty spot, but steers his header just wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Antonio Valencia delivers a dangerous cross into the box, but the defense reacts well, clearing the ball out for a corner as they remain under pressure.",
+                    "history_time": "35:17",
+                    "long-term": "They have been consistently threatening from set pieces and deliveries into the box, putting pressure on the opposition's defense."
+                },
+                {
+                    "short-term": "Nathaniel Clyne quickly takes a shot from outside the box after receiving a pass, but the defense struggles before managing to get a crucial block in.",
+                    "history_time": "32:35",
+                    "long-term": "They have been creating scoring opportunities, but struggling with accuracy in their finishing."
+                },
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "They have been creating scoring opportunities through set pieces and crosses, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+                    "history_time": "26:13",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but the opposing team's defense has managed to contain the threat so far."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "They have been creating scoring opportunities through set pieces and long-range shots, but have been unable to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "game_time": "38:10",
+            "query": "Roberto Firmino nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from Philippe Coutinho (Liverpool), but one of the defenders makes a clearance to snuff out the chance.",
+            "short-term": "Roberto Firmino almost breaks free for a one-on-one after a clever through ball, but a defender makes a brilliant last-ditch tackle to deny him.",
+            "label": "goal",
+            "query_ano": "[PLAYER] nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from [PLAYER] ([TEAM]), but one of the defenders makes a clearance to snuff out the chance.",
+            "history": [
+                {
+                    "short-term": "Nathaniel Clyne receives a well-placed pass near the box and fires a shot, but a defender is positioned well to block the attempt.",
+                    "history_time": "37:41",
+                    "long-term": "They have been creating scoring opportunities with clever passes, but the defense has been solid in denying them a clear breakthrough."
+                },
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "They have been creating scoring opportunities, but the opposing defense has shown great awareness and reaction to neutralize the threats."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "They have been creating quality scoring opportunities with clever passes and shots, but the opposing team's defense and goalkeeper have been able to neutralize these threats."
+                }
+            ]
+        },
+        {
+            "game_time": "37:41",
+            "query": "Nathaniel Clyne (Liverpool) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "short-term": "Nathaniel Clyne receives a well-placed pass near the box and fires a shot, but a defender is positioned well to block the attempt.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "history": [
+                {
+                    "short-term": "Marouane Fellaini gets on the end of a corner near the penalty spot but fails to direct his header on target, sending it wide of the right post.",
+                    "history_time": "35:48",
+                    "long-term": "They have been creating scoring opportunities, but the defense has been solid in blocking their attempts and preventing them from finding the target."
+                },
+                {
+                    "short-term": "Antonio Valencia delivers a dangerous cross into the box, but the defense reacts well, clearing the ball out for a corner as they remain under pressure.",
+                    "history_time": "35:17",
+                    "long-term": "The team has been consistently pressuring the defense, creating multiple scoring opportunities with precise passes and crosses into the box."
+                },
+                {
+                    "short-term": "Nathaniel Clyne quickly takes a shot from outside the box after receiving a pass, but the defense struggles before managing to get a crucial block in.",
+                    "history_time": "32:35",
+                    "long-term": "They have consistently been creating scoring opportunities with shots from favorable positions but have been thwarted by solid defensive blocks."
+                },
+                {
+                    "short-term": "Philippe Coutinho receives a pass at the edge of the box and looks to strike, but a well-positioned defender steps in to block his effort.",
+                    "history_time": "30:32",
+                    "long-term": "The attacking side has consistently created scoring opportunities, but the opposing team's defense has been solid, blocking multiple attempts on goal. They are struggling to break through the defensive line."
+                },
+                {
+                    "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+                    "history_time": "28:33",
+                    "long-term": "They have been consistently testing the opponent's defense with well-created chances, but the defense has been solid in blocking their attempts."
+                },
+                {
+                    "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+                    "history_time": "25:50",
+                    "long-term": "They have been posing a threat through well-crafted shots, but the opposition's defense has shown resilience in blocking and deflecting these attempts."
+                }
+            ]
+        },
+        {
+            "game_time": "45:46",
+            "query": "Marouane Fellaini (Manchester United) gets booked for the first time in this match.",
+            "short-term": "Marouane Fellaini gets booked for the first time in this match. He had kicked the ball away in frustration, leading to the yellow card.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) gets booked for the first time in this match.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic is booked after bringing down an opponent. He had played the ball forward just before committing the foul, making it an easy decision for the referee.",
+                    "history_time": "44:21",
+                    "long-term": "The team's multiple players now booked for avoidable offenses. They need to regain composure to avoid further complications."
+                }
+            ]
+        },
+        {
+            "game_time": "46:13",
+            "query": "Here's the change. Ashley Young leaves the pitch and Luke Shaw (Manchester United) comes on as a substitute.",
+            "short-term": "Here's the change. Ashley Young leaves the pitch and Luke Shaw comes on as a substitute, providing fresh legs for the remainder of the match.",
+            "label": "substitution",
+            "query_ano": "Here's the change. [PLAYER] leaves the pitch and Luke Shaw ([TEAM]) comes on as a substitute.",
+            "history": [
+                {
+                    "short-term": "Substitution: Roberto Firmino makes way for Divock Origi, who offers a different attacking presence in the final minutes.",
+                    "history_time": "39:49",
+                    "long-term": "Both teams are opting for fresh legs and tactical adjustments in an attempt to sway the outcome of the match."
+                }
+            ]
+        },
+        {
+            "game_time": "8:02",
+            "query": "Marouane Fellaini (Manchester United) makes a bad challenge and the referee blows his whistle for a foul.",
+            "short-term": "Marouane Fellaini makes a bad challenge and the referee blows his whistle for a foul. He had been trying to stop an advancing opponent but mistimed his tackle.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Sadio Mane commits a foul and Anthony Taylor immediately signals a free kick. The opposition had several players back, crowding the space before the foul occurred.",
+                    "history_time": "5:21",
+                    "long-term": "They have been guilty of committing careless fouls, leading to an interruption in their attacking momentum. This could prove costly in terms of giving away free kicks in dangerous areas."
+                }
+            ]
+        }
+    ]
+}

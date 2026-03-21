@@ -1,0 +1,141 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:54",
+            "game_time": "43:08",
+            "query": "It's a goal! Naby Keita (RB Leipzig) shows off his superb ability as he volleys the ball from inside the box into the top right corner. The assist goes to Oliver Burke and the score changes to 1:0.",
+            "short-term": "It's a goal! Naby Keita (RB Leipzig) shows off his superb ability as he volleys the ball from inside the box into the top right corner. The assist goes to Oliver Burke and the score changes to 1:0. Leipzig capitalized on a moment of disorganization in the defense, with the substitute making an immediate impact.",
+            "query_ano": "It's a goal! [PLAYER] ([TEAM]) shows off his superb ability as he volleys the ball from inside the box into the top right corner. The assist goes to [PLAYER] and the score changes to 1:0.",
+            "history": [
+                {
+                    "short-term": "Marcel Halstenberg (RB Leipzig) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save. Leipzig was increasing their aerial presence, but the lack of power in the header made for an easy stop.",
+                    "history_time": "34:15",
+                    "long-term": "They have been posing a significant threat through their attacks, showcasing their ability to capitalize on defensive errors and creating scoring opportunities through different channels."
+                },
+                {
+                    "short-term": "Timo Werner (RB Leipzig) produced a promising shot towards the roof of the net after his wonderful solo run, but Roman Burki thwarted him with a fabulous save and the score remains the same. The ball goes out of play. RB Leipzig are awarded a corner kick. Werner's persistence against Bartra created the chance, but Bürki reacted instinctively while on the ground to clear the danger.",
+                    "history_time": "32:32",
+                    "long-term": "They consistently pressured the defense with their creative plays and emphasized seizing every scoring opportunity."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:36",
+            "game_time": "38:19",
+            "query": "The manager makes a substitution with Naby Keita (RB Leipzig) coming on for Dominik Kaiser.",
+            "short-term": "The manager makes a substitution with Naby Keita (RB Leipzig) coming on for Dominik Kaiser. Keita's presence was expected to strengthen midfield control, providing Leipzig with more stability in possession.",
+            "query_ano": "The manager makes a substitution with [PLAYER] ([TEAM]) coming on for [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) looks like he will be the one to take the corner kick. Leipzig had struggled to convert set pieces so far, and this was another opportunity to test the opposition's defense.",
+                    "history_time": "34:11",
+                    "long-term": "They made strategic adjustments to enhance their control over the midfield, including bringing in a key player to optimize possession."
+                },
+                {
+                    "short-term": "Substitution. Marcel Sabitzer walks off the pitch and Emil Forsberg (RB Leipzig) comes on as a substitute. Leipzig sought to inject fresh creativity into midfield, with Forsberg offering more playmaking ability.",
+                    "history_time": "18:23",
+                    "long-term": "They have been actively making tactical adjustments, bringing on players to strengthen midfield control and inject fresh creativity into the game. These substitutions aim to provide more stability in possession and playmaking ability."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:52",
+            "game_time": "34:15",
+            "query": "Marcel Halstenberg (RB Leipzig) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save.",
+            "short-term": "Marcel Halstenberg (RB Leipzig) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save. Leipzig was increasing their aerial presence, but the lack of power in the header made for an easy stop.",
+            "query_ano": "[PLAYER] ([TEAM]) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save.",
+            "history": [
+                {
+                    "short-term": "Timo Werner (RB Leipzig) produced a promising shot towards the roof of the net after his wonderful solo run, but Roman Burki thwarted him with a fabulous save and the score remains the same. The ball goes out of play. RB Leipzig are awarded a corner kick. Werner's persistence against Bartra created the chance, but Bürki reacted instinctively while on the ground to clear the danger.",
+                    "history_time": "32:32",
+                    "long-term": "They have been posing a significant aerial threat and creating opportunities through individual efforts, but the opposing goalkeeper has been up to the task with crucial saves. Their attacking persistence has been consistent, yet they lack the finishing touch to capitalize on these chances."
+                },
+                {
+                    "short-term": "An accurate pass to the edge of the box is well taken by Timo Werner (RB Leipzig), whose instinctive shot towards goal flashes inches wide of the right post. Leipzig continued to push forward, showing increased confidence as Dortmund struggled with missing players.",
+                    "history_time": "31:18",
+                    "long-term": "They have been consistently threatening the opponent's goal with headers and shots."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Dominik Kaiser (RB Leipzig) is thwarted and cleared to safety. Leipzig increased their offensive tempo, exploiting the left flank while Dortmund dealt with Schmelzer’s injury concerns.",
+                    "history_time": "28:52",
+                    "long-term": "They have been consistently testing the opponent's defense with headers and attempts to get behind, but have lacked the finishing power to convert these chances into goals."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:40",
+            "game_time": "32:32",
+            "query": "Timo Werner (RB Leipzig) produced a promising shot towards the roof of the net after his wonderful solo run, but Roman Burki thwarted him with a fabulous save and the score remains the same. The ball goes out of play. RB Leipzig are awarded a corner kick.",
+            "short-term": "Timo Werner (RB Leipzig) produced a promising shot towards the roof of the net after his wonderful solo run, but Roman Burki thwarted him with a fabulous save and the score remains the same. The ball goes out of play. RB Leipzig are awarded a corner kick. Werner's persistence against Bartra created the chance, but Bürki reacted instinctively while on the ground to clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produced a promising shot towards the roof of the net after his wonderful solo run, but [PLAYER] thwarted him with a fabulous save and the score remains the same. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "An accurate pass to the edge of the box is well taken by Timo Werner (RB Leipzig), whose instinctive shot towards goal flashes inches wide of the right post. Leipzig continued to push forward, showing increased confidence as Dortmund struggled with missing players.",
+                    "history_time": "31:18",
+                    "long-term": "He has shown incredible determination in his attacking efforts, coming close to scoring on multiple occasions and testing the goalkeeper's skills."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Dominik Kaiser (RB Leipzig) is thwarted and cleared to safety. Leipzig increased their offensive tempo, exploiting the left flank while Dortmund dealt with Schmelzer’s injury concerns.",
+                    "history_time": "28:52",
+                    "long-term": "They have maintained an aggressive strategy, creating scoring opportunities through individual efforts and increased tempo, particularly targeting the left flank."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:38",
+            "game_time": "18:23",
+            "query": "Substitution. Marcel Sabitzer walks off the pitch and Emil Forsberg (RB Leipzig) comes on as a substitute.",
+            "short-term": "Substitution. Marcel Sabitzer walks off the pitch and Emil Forsberg (RB Leipzig) comes on as a substitute. Leipzig sought to inject fresh creativity into midfield, with Forsberg offering more playmaking ability.",
+            "query_ano": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute.",
+            "history": [
+                {
+                    "short-term": "The linesman signals that Emil Forsberg (RB Leipzig) is offside and the referee confirms the decision. Leipzig continued to dominate possession, but their attacking rhythm lacked the precision needed to break through.",
+                    "history_time": "16:10",
+                    "long-term": "He has had an immediate impact on the game since coming on as a substitute, but the team's attacking coordination still requires fine-tuning to maximize his creative potential."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:07",
+            "game_time": "11:04",
+            "query": "Lukas Klostermann (RB Leipzig) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the left post.",
+            "short-term": "Lukas Klostermann (RB Leipzig) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the left post. Dortmund’s right side lacked defensive stability, giving Klostermann space, but his final effort lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Gonzalo Castro (Dortmund) puts a cross into the box from the free kick, but the defender gets there first. Dortmund struggled to create clear chances in open play, making set pieces crucial, but even here, the delivery lacked precision.",
+                    "history_time": "6:27",
+                    "long-term": "Both teams have shown flashes of brilliance on the attacking front, but a lack of precision in their finishing has prevented them from gaining a clear advantage."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:32",
+            "game_time": "6:27",
+            "query": "Gonzalo Castro (Dortmund) puts a cross into the box from the free kick, but the defender gets there first.",
+            "short-term": "Gonzalo Castro (Dortmund) puts a cross into the box from the free kick, but the defender gets there first. Dortmund struggled to create clear chances in open play, making set pieces crucial, but even here, the delivery lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first.",
+            "history": [
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) brings down his opponent with a very late tackle. Another situation results in a direct free kick for Dortmund. Leipzig had already committed multiple fouls early in the second half, frustrating Dortmund players.",
+                    "history_time": "5:49",
+                    "long-term": "They have been aggressive in defending set pieces, while their opponents struggled to create clear chances, relying on free kicks to mount pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:05",
+            "game_time": "5:49",
+            "query": "Dominik Kaiser (RB Leipzig) brings down his opponent with a very late tackle. Another situation results in a direct free kick for Dortmund.",
+            "short-term": "Dominik Kaiser (RB Leipzig) brings down his opponent with a very late tackle. Another situation results in a direct free kick for Dortmund. Leipzig had already committed multiple fouls early in the second half, frustrating Dortmund players.",
+            "query_ano": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle. Another situation results in a direct free kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Yussuf Poulsen (RB Leipzig) brings an opponent down and Wolfgang Stark interrupts the game. Dortmund attempted to push forward, but Leipzig’s physical approach constantly disrupted their rhythm.",
+                    "history_time": "4:24",
+                    "long-term": "They have adopted an overly aggressive approach, committing multiple fouls that are consistently breaking up the flow of the opposing team's attacks."
+                }
+            ]
+        }
+    ]
+}

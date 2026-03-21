@@ -1,0 +1,249 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:55",
+            "game_time": "45:03",
+            "query": "Goal! Olivier Giroud (Arsenal) fires the rebound inside the right post after the ball breaks to him in the box. The score is 0:2.",
+            "short-term": "Goal! Olivier Giroud (Arsenal) fires the rebound inside the right post after the ball breaks to him in the box. The score is 0:2. The away fans erupt in joy, celebrating the crucial goal just before halftime.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) fires the rebound inside the right post after the ball breaks to him in the box. The score is 0:2."
+        },
+        {
+            "gameTime": "45:40",
+            "game_time": "45:38",
+            "query": "Great chance! Danny Welbeck (Arsenal) collects a great pass inside the box, but the goalkeeper does well to stop his effort.",
+            "short-term": "Great chance! Danny Welbeck (Arsenal) collects a great pass inside the box, but the goalkeeper does well to stop his effort. The away fans erupt in joy, celebrating the crucial goal just before halftime.",
+            "query_ano": "Great chance! [PLAYER] ([TEAM]) collects a great pass inside the box, but the goalkeeper does well to stop his effort."
+        },
+        {
+            "gameTime": "44:32",
+            "game_time": "45:06",
+            "query": "Julian Speroni displays his ability to read the game and clears the danger after Olivier Giroud (Arsenal) threatened to latch onto a through ball from just outside the box.",
+            "short-term": "Julian Speroni displays his ability to read the game and clears the danger after Olivier Giroud (Arsenal) threatened to latch onto a through ball from just outside the box. ",
+            "query_ano": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "gameTime": "43:02",
+            "game_time": "42:59",
+            "query": "Calum Chambers (Arsenal) races towards goal but the defender gets back well to make a challenge. The linesman signals a throw-in for Arsenal.",
+            "short-term": "Calum Chambers (Arsenal) races towards goal but the defender gets back well to make a challenge. The linesman signals a throw-in for Arsenal. The scorer runs towards the stands, fists clenched, as teammates rush to celebrate.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "42:18",
+            "game_time": "42:14",
+            "query": "Dwight Gayle (Crystal Palace) launches a cross from the corner, but David Ospina is alert to thwart the effort.",
+            "short-term": "Dwight Gayle (Crystal Palace) launches a cross from the corner, but David Ospina is alert to thwart the effort. The cross was well-placed, but the defense stood firm and cleared the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) launches a cross from the corner, but David Ospina is alert to thwart the effort."
+        },
+        {
+            "gameTime": "41:59",
+            "game_time": "41:31",
+            "query": "Dwight Gayle (Crystal Palace) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. The ball goes out of play. Crystal Palace are awarded a corner kick.",
+            "short-term": "Dwight Gayle (Crystal Palace) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. The ball goes out of play. Crystal Palace are awarded a corner kick. The shot had power, but the defender’s block was crucial in keeping the score unchanged.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "41:06",
+            "game_time": "41:24",
+            "query": "Mesut Ozil (Arsenal) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "short-term": "Mesut Ozil (Arsenal) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The call is met with protests from the Arsenal bench, but the decision stands.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "39:51",
+            "game_time": "39:08",
+            "query": "Danny Welbeck almost found himself in a promising position after Calum Chambers (Arsenal) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception.",
+            "short-term": "Danny Welbeck almost found himself in a promising position after Calum Chambers (Arsenal) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception. Arsenal’s attack loses momentum as the hosts quickly regain possession.",
+            "query_ano": "[PLAYER] almost found himself in a promising position after [PLAYER] ([TEAM]) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception."
+        },
+        {
+            "gameTime": "39:18",
+            "game_time": "38:36",
+            "query": "A spell of possession for Arsenal in an attempt to control the game.",
+            "short-term": "A spell of possession for Arsenal in an attempt to control the game. Arsenal’s passing is fluid,pressing doesn't help",
+            "query_ano": "A spell of possession for [TEAM] in an attempt to control the game."
+        },
+        {
+            "gameTime": "37:20",
+            "game_time": "37:28",
+            "query": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared.",
+            "short-term": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared. The delivery had good pace, but the defense was well-positioned to clear the danger.",
+            "query_ano": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared."
+        },
+        {
+            "gameTime": "37:05",
+            "game_time": "36:25",
+            "query": "Wilfried Zaha (Crystal Palace) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Arsenal have a free kick.",
+            "short-term": "Wilfried Zaha (Crystal Palace) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Arsenal have a free kick. Zaha looks frustrated as he gestures towards the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. [TEAM] have a free kick."
+        },
+        {
+            "gameTime": "36:09",
+            "game_time": "36:36",
+            "query": "Olivier Giroud (Arsenal) pulls the jersey of one of the opposition players and Mark Clattenburg blows his whistle for a foul.",
+            "short-term": "Olivier Giroud (Arsenal) pulls the jersey of one of the opposition players and Mark Clattenburg blows his whistle for a foul. All this happened right in close proximity to the main loudest sector with fans.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "35:03",
+            "game_time": "34:11",
+            "query": "Francis Coquelin (Arsenal) attempts to send a pass but the effort is blocked.",
+            "short-term": "Francis Coquelin (Arsenal) attempts to send a pass but the effort is blocked. The opposing players immediately press high, forcing Arsenal to reset their attack.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked."
+        },
+        {
+            "gameTime": "34:04",
+            "game_time": "33:24",
+            "query": "Fraizer Campbell (Crystal Palace) is adjudged to have been offside when making his run.",
+            "short-term": "Fraizer Campbell (Crystal Palace) is adjudged to have been offside when making his run. The forward gestures in disbelief, but the decision stands.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "33:21",
+            "game_time": "32:26",
+            "query": "Wilfried Zaha (Crystal Palace) commits a foul after unfairly battling his opponent for the ball.",
+            "short-term": "Wilfried Zaha (Crystal Palace) commits a foul after unfairly battling his opponent for the ball. The referee quickly blows his whistle, Free kick in favor of Arsenal.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "31:58",
+            "game_time": "32:27",
+            "query": "Alexis Sanchez (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Alexis Sanchez (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The striker places his hands on his head in frustration after missing the chance.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "gameTime": "31:17",
+            "game_time": "30:53",
+            "query": "A beautiful low pass from the side is received by Dwight Gayle (Crystal Palace), who was waiting for his chance. However, the defence is alert and spanks the ball away.",
+            "short-term": "A beautiful low pass from the side is received by Dwight Gayle (Crystal Palace), who was waiting for his chance. However, the defence is alert and spanks the ball away. The striker shakes his head in disappointment after missing the opportunity.",
+            "query_ano": "A beautiful low pass from the side is received by [PLAYER] ([TEAM]), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "gameTime": "30:42",
+            "game_time": "29:49",
+            "query": "Santi Cazorla (Arsenal) gives away a foul for a fierce tackle on an opponent.",
+            "short-term": "Santi Cazorla (Arsenal) gives away a foul for a fierce tackle on an opponent. He returns slowly because of the foul.",
+            "query_ano": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "gameTime": "29:59",
+            "game_time": "29:15",
+            "query": "Neat passing move from Arsenal in order to create new attacking opportunities.",
+            "short-term": "Neat passing move from Arsenal in order to create new attacking opportunities. And half an hour in this match is almost played.",
+            "query_ano": "Neat passing move from [TEAM] in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "27:55",
+            "game_time": "27:15",
+            "query": "The foul by Francis Coquelin (Arsenal) is worthy of a card and a yellow is duly shown by Mark Clattenburg.",
+            "short-term": "The foul by Francis Coquelin (Arsenal) is worthy of a card and a yellow is duly shown by Mark Clattenburg. The fouled player grimaces, looking towards the referee for justice.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "gameTime": "27:18",
+            "game_time": "27:26",
+            "query": "Mark Clattenburg interrupts the game for a tactical foul by Jason Puncheon (Crystal Palace).",
+            "short-term": "Mark Clattenburg interrupts the game for a tactical foul by Jason Puncheon (Crystal Palace). The fouled player falls in the third area. This is the second consecutive violation against him.",
+            "query_ano": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "26:29",
+            "game_time": "25:58",
+            "query": "Dwight Gayle (Crystal Palace) takes the free kick from mid-range, but he balloons his effort high over the bar. What a miskick!",
+            "short-term": "Dwight Gayle (Crystal Palace) takes the free kick from mid-range, but he balloons his effort high over the bar. What a miskick! The ball is placed on the corner of the penalty area, Dwyde Gayle is on the ball but kicks over the crossbar.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the free kick from mid-range, but he balloons his effort high over the bar. What a miskick!"
+        },
+        {
+            "gameTime": "25:52",
+            "game_time": "25:20",
+            "query": "The referee blows his whistle as Calum Chambers (Arsenal) was too aggressive in his challenge. Crystal Palace win a free kick and will be able to apply some pressure on the opposition goal.",
+            "short-term": "The referee blows his whistle as Calum Chambers (Arsenal) was too aggressive in his challenge. Crystal Palace win a free kick and will be able to apply some pressure on the opposition goal. Chambers raises his hands in protest, but the referee remains firm in his decision.",
+            "query_ano": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "gameTime": "24:22",
+            "game_time": "24:03",
+            "query": "Fraizer Campbell (Crystal Palace) meets a perfect cross on the edge of the box and rips a shot that goes well wide of the right post.",
+            "short-term": "Fraizer Campbell (Crystal Palace) meets a perfect cross on the edge of the box and rips a shot that goes well wide of the right post. The striker places his hands on his head in frustration after missing the chance.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a perfect cross on the edge of the box and rips a shot that goes well wide of the right post."
+        },
+        {
+            "gameTime": "22:03",
+            "game_time": "21:49",
+            "query": "Nacho Monreal (Arsenal) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Mark Clattenburg with no other option than to blow for a foul.",
+            "short-term": "Nacho Monreal (Arsenal) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves Mark Clattenburg with no other option than to blow for a foul. He put his hand on the striker, pushed harder and more seriously.",
+            "query_ano": "[PLAYER] ([TEAM]) is obviously not following the Golden Rule: „Treat others as you want to be treated.“ He makes a bad challenge and leaves [REFEREE] with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "21:15",
+            "game_time": "19:47",
+            "query": "Laurent Koscielny (Arsenal) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but his attempt went well wide of the right post.",
+            "short-term": "Laurent Koscielny (Arsenal) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but his attempt went well wide of the right post. He shakes his head in disappointment as he jogs back into position.",
+            "query_ano": "[PLAYER] ([TEAM]) didn't manage to convert the resulting corner kick into a goal. He produced a header from a dangerous position inside the box, but his attempt went well wide of the right post."
+        },
+        {
+            "gameTime": "20:49",
+            "game_time": "20:49",
+            "query": "Santi Cazorla (Arsenal) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",
+            "short-term": "Santi Cazorla (Arsenal) goes over to take the corner kick and it looks like he will swing the ball into the penalty box. The ball is then fed into the center of the penalty area, Oh! How dangerous it was.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take the corner kick and it looks like he will swing the ball into the penalty box."
+        },
+        {
+            "gameTime": "20:34",
+            "game_time": "20:34",
+            "query": "Calum Chambers (Arsenal) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee blows his whistle, Arsenal are awarded a corner kick.",
+            "short-term": "Calum Chambers (Arsenal) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee blows his whistle, that was what we needed now, to clear the ball for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "18:50",
+            "game_time": "19:06",
+            "query": "Jordon Mutch (Crystal Palace) picks up a yellow card for a foul.",
+            "short-term": "Jordon Mutch (Crystal Palace) picks up a yellow card for a foul.  He wins with speed on him but was fouled after. Mutch received another warning from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "18:22",
+            "game_time": "18:27",
+            "query": "Damien Delaney (Crystal Palace) attempts a long crossfield pass, but the defence does well to intercept the ball.",
+            "short-term": "Damien Delaney (Crystal Palace) attempts a long crossfield pass, but the defence does well to intercept the ball. The central defender remained in place from the forward and jumped out for this pass.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "gameTime": "15:40",
+            "game_time": "15:19",
+            "query": "The Arsenal players are exchanging some short passes.",
+            "short-term": "The Arsenal players are exchanging some short passes. They are looking to maintain control as the opposition watches for an interception.",
+            "query_ano": "The [TEAM] players are exchanging some short passes."
+        },
+        {
+            "gameTime": "13:53",
+            "game_time": "12:57",
+            "query": "The ball is cleared after Wilfried Zaha (Crystal Palace) attempted to dribble past an opposing player.",
+            "short-term": "The ball is cleared after Wilfried Zaha (Crystal Palace) attempted to dribble past an opposing player. The defense holds firm despite his skillful attempt.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "12:18",
+            "game_time": "11:36",
+            "query": "Dwight Gayle (Crystal Palace) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "short-term": "Dwight Gayle (Crystal Palace) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The goalkeeper calmly collects the ball and resets play.",
+            "query_ano": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "gameTime": "11:22",
+            "game_time": "10:59",
+            "query": "Jason Puncheon (Crystal Palace) takes the resultant free kick from the edge of the box and tries to find one of his teammates with a cross, but the keeper climbs high and gets to it first, collecting the ball with ease.",
+            "short-term": "Jason Puncheon (Crystal Palace) takes the resultant free kick from the edge of the box and tries to find one of his teammates with a cross, but the keeper climbs high and gets to it first, collecting the ball with ease. To ensure that he takes the ball into his hands without hindrance. it’s not easy for him yet.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resultant free kick from the edge of the box and tries to find one of his teammates with a cross, but the keeper climbs high and gets to it first, collecting the ball with ease."
+        },
+        {
+            "gameTime": "10:28",
+            "game_time": "9:57",
+            "query": "Nacho Monreal (Arsenal) makes a reckless foul in order to win the ball from his opponent. Mark Clattenburg has a clear sight of it and blows his whistle. Crystal Palace have a free kick.",
+            "short-term": "Nacho Monreal (Arsenal) makes a reckless foul in order to win the ball from his opponent. Mark Clattenburg has a clear sight of it and blows his whistle. Crystal Palace have a free kick. Nacho Monreal play so well,  perhaps he without wanting it.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle. [TEAM] have a free kick."
+        }
+    ]
+}

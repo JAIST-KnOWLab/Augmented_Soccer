@@ -1,0 +1,630 @@
+{
+    "annotations": [
+        {
+            "gameTime": "49:39",
+            "game_time": "49:39",
+            "query": "One of the players from Manchester City times his run too early and the referee blows his whistle for offside.",
+            "short-term": "One of the players from Manchester City times his run too early and the referee blows his whistle for offside. The team has shown impressive form this season, maintaining control and accumulating a strong points lead.",
+            "query_ano": "One of the players from [TEAM] times his run too early and the referee blows his whistle for offside.",
+            "history": [
+                {
+                    "short-term": "Kevin De Bruyne (Manchester City) sends a promising through ball, but the defence is alert and cuts out the pass. The referee signals a corner kick to Manchester City. With little time left, Palace pushes Hangeland forward in search of an equalizer.",
+                    "history_time": "47:50",
+                    "long-term": "They have demonstrated strong attacking potential, but also shown lapses in timing and execution, with an offside call and an intercepted pass."
+                }
+            ]
+        },
+        {
+            "gameTime": "48:52",
+            "game_time": "48:52",
+            "query": "Substitution. Martin Demichelis (Manchester City) on for Samir Nasri.",
+            "short-term": "Substitution. Martin Demichelis (Manchester City) on for Samir Nasri.",
+            "query_ano": "Substitution. Martin Demichelis ([TEAM]) on for [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Substitution. Wilfried Bony makes way for Kelechi Iheanacho (Manchester City). City’s attack needed fresh energy, and a new fleg steps in.",
+                    "history_time": "44:00",
+                    "long-term": "They are actively making tactical changes to refresh their lineup and inject new energy into the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "47:52",
+            "game_time": "47:52",
+            "query": "Kevin De Bruyne (Manchester City) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "short-term": "Kevin De Bruyne (Manchester City) rolls the ball short to a teammate from the corner instead of sending a cross into the box. With only two minutes left, City looks to manage possession while Palace pushes forward.",
+            "query_ano": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "history": [
+                {
+                    "short-term": "Kevin De Bruyne (Manchester City) sends a promising through ball, but the defence is alert and cuts out the pass. The referee signals a corner kick to Manchester City. With little time left, Palace pushes Hangeland forward in search of an equalizer.",
+                    "history_time": "47:50",
+                    "long-term": "He created many chances during this period, and his pass in the midfield just now was very threatening."
+                }
+            ]
+        },
+        {
+            "gameTime": "47:50",
+            "game_time": "47:50",
+            "query": "Kevin De Bruyne (Manchester City) sends a promising through ball, but the defence is alert and cuts out the pass. The referee signals a corner kick to Manchester City.",
+            "short-term": "Kevin De Bruyne (Manchester City) sends a promising through ball, but the defence is alert and cuts out the pass. The referee signals a corner kick to Manchester City. With little time left, Palace pushes Hangeland forward in search of an equalizer.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass. The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Kevin De Bruyne (Manchester City) is thwarted and cleared to safety. City continues to press, seeking another opportunity.",
+                    "history_time": "32:30",
+                    "long-term": "He has consistently been trying to break through the opponent's defense with precise passes."
+                },
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+                    "history_time": "30:47",
+                    "long-term": "The Manchester City defense has been solid in dealing with Palace's attacking threats, while also showing ambition in pushing forward."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:58",
+            "game_time": "40:58",
+            "query": "The free kick into the penalty area from Yohan Cabaye (Crystal Palace) is cleared.",
+            "short-term": "The free kick into the penalty area from Yohan Cabaye (Crystal Palace) is cleared. Navas quickly recovers possession for City.",
+            "query_ano": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "The free kick is delivered by Aleksandar Kolarov (Manchester City) but it's not one of his best and is easily cleared. City attempts to regain control.",
+                    "history_time": "35:02",
+                    "long-term": "The set pieces from both teams have yet to create a significant threat, with both free kicks being easily cleared by the opposing defense."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Kevin De Bruyne (Manchester City) is thwarted and cleared to safety. City continues to press, seeking another opportunity.",
+                    "history_time": "32:30",
+                    "long-term": "The player has been using set pieces and long balls to create attacking opportunities, but so far, the opposing team's defense has managed to clear the threats."
+                },
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+                    "history_time": "30:47",
+                    "long-term": "His set pieces have been repeatedly cleared by the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:32",
+            "game_time": "40:32",
+            "query": "Mike Jones blows his whistle for a foul after Vincent Kompany (Manchester City) hacks down one of his opponents. Crystal Palace are awarded a free kick.",
+            "short-term": "Mike Jones blows his whistle for a foul after Vincent Kompany (Manchester City) hacks down one of his opponents. Crystal Palace are awarded a free kick. The ball is positioned near the edge of the box.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after Vincent Kompany ([TEAM]) hacks down one of his opponents. [TEAM] are awarded a free kick.",
+            "history": [
+                {
+                    "short-term": "It looks like Wilfried Zaha (Crystal Palace) saw red with that tackle. Mike Jones won't tolerate such behaviour on the pitch and blows for a foul. Manchester City will take a free kick. City players protest but the referee decides against showing a card.",
+                    "history_time": "33:54",
+                    "long-term": "The referee has been actively enforcing discipline, calling out fouls from both teams to maintain a fair game."
+                },
+                {
+                    "short-term": "Mike Jones blows his whistle after Kevin De Bruyne (Manchester City) brings one of his opponents down with a strong tackle. Crystal Palace win a free kick. The match remains tense with neither side breaking the deadlock.",
+                    "history_time": "30:24",
+                    "long-term": "Manchester City's aggressive defending has resulted in multiple fouls, with Vincent Kompany and Kevin De Bruyne both committing tackles that have led to free kicks for Crystal Palace."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:57",
+            "game_time": "38:57",
+            "query": "Wilfried Zaha finds some space and receives a very precise long pass from Pape Souare (Crystal Palace).",
+            "short-term": "Wilfried Zaha finds some space and receives a very precise long pass from Pape Souare (Crystal Palace). He controls well.",
+            "query_ano": "[PLAYER] finds some space and receives a very precise long pass from [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+                    "history_time": "30:47",
+                    "long-term": "Crystal Palace has been utilizing long passes and set pieces to create scoring opportunities."
+                },
+                {
+                    "short-term": "Wilfried Bony passes to Yaya Toure (Manchester City), but he produces a wild shot from the edge of the box which goes well wide of the right post. City’s buildup was smooth, but the finish was lacking precision.",
+                    "history_time": "28:36",
+                    "long-term": "Both teams have shown the ability to create attacking opportunities with precise passing, but the final execution has been lacking accuracy."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:02",
+            "game_time": "35:02",
+            "query": "The free kick is delivered by Aleksandar Kolarov (Manchester City) but it's not one of his best and is easily cleared.",
+            "short-term": "The free kick is delivered by Aleksandar Kolarov (Manchester City) but it's not one of his best and is easily cleared. City attempts to regain control.",
+            "query_ano": "The free kick is delivered by [PLAYER] ([TEAM]) but it's not one of his best and is easily cleared.",
+            "history": [
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+                    "history_time": "30:47",
+                    "long-term": "The set pieces from both teams have not posed significant threats, with both sides effectively neutralizing each other's free kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:54",
+            "game_time": "33:54",
+            "query": "It looks like Wilfried Zaha (Crystal Palace) saw red with that tackle. Mike Jones won't tolerate such behaviour on the pitch and blows for a foul. Manchester City will take a free kick.",
+            "short-term": "It looks like Wilfried Zaha (Crystal Palace) saw red with that tackle. Mike Jones won't tolerate such behaviour on the pitch and blows for a foul. Manchester City will take a free kick. City players protest but the referee decides against showing a card.",
+            "query_ano": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. [TEAM] will take a free kick.",
+            "history": [
+                {
+                    "short-term": "Mike Jones blows his whistle after Kevin De Bruyne (Manchester City) brings one of his opponents down with a strong tackle. Crystal Palace win a free kick. The match remains tense with neither side breaking the deadlock.",
+                    "history_time": "30:24",
+                    "long-term": "The referee has been actively monitoring the game. The players' aggressive behavior has resulted in several interruptions to the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:30",
+            "game_time": "32:30",
+            "query": "Another attempt to send the ball beyond the defence by Kevin De Bruyne (Manchester City) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Kevin De Bruyne (Manchester City) is thwarted and cleared to safety. City continues to press, seeking another opportunity.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "history": [
+                {
+                    "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+                    "history_time": "30:47",
+                    "long-term": "Manchester City has been dictating the pace of the game with their relentless pressing, while Crystal Palace has been relying on set pieces to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:47",
+            "game_time": "30:47",
+            "query": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared.",
+            "short-term": "Yohan Cabaye (Crystal Palace) puts a cross into the box from the free kick but it's cleared. Manchester City's defense was well-positioned and dealt with it comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick but it's cleared.",
+            "history": [
+                {
+                    "short-term": "Wilfried Bony passes to Yaya Toure (Manchester City), but he produces a wild shot from the edge of the box which goes well wide of the right post. City’s buildup was smooth, but the finish was lacking precision.",
+                    "history_time": "28:36",
+                    "long-term": "Both teams have shown promising attacking intent, but have lacked the clinical finish to capitalize on their created chances."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) attempts to convert a lofted cross as he jumps high and heads the ball to the right side of the goal. Joe Hart shows his brilliant reflexes and pulls off a glorious save. Palace’s first real threat in the second half.",
+                    "history_time": "24:13",
+                    "long-term": "Crystal Palace has been pushing to break through Manchester City's defense with crosses, but The Citizens' backline has shown resilience and alertness to neutralize these threats so far."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Manchester City will take a throw-in. Suaré’s quick recovery prevented a dangerous chance.",
+                    "history_time": "21:04",
+                    "long-term": "Both teams have shown strong defensive capabilities, with Crystal Palace's attack being repelled and Manchester City's swift counter also being shut down effectively."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner. They sends men into the box.",
+                    "history_time": "17:49",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the opposing defenses have been solid in clearing these threats."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+                    "history_time": "17:13",
+                    "long-term": "Both teams have shown great defensive organization, consistently dealing with opposition set pieces effectively."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the opposing defenses have been effective in clearing these attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:24",
+            "game_time": "30:24",
+            "query": "Mike Jones blows his whistle after Kevin De Bruyne (Manchester City) brings one of his opponents down with a strong tackle. Crystal Palace win a free kick.",
+            "short-term": "Mike Jones blows his whistle after Kevin De Bruyne (Manchester City) brings one of his opponents down with a strong tackle. Crystal Palace win a free kick. The match remains tense with neither side breaking the deadlock.",
+            "query_ano": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. [TEAM] win a free kick.",
+            "history": [
+                {
+                    "short-term": "The referee blows his whistle as Alex McCarthy (Crystal Palace) was too aggressive in his challenge. City players protest, asking for a booking.",
+                    "history_time": "18:58",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control. It may lead to bookings if they don't regain their composure."
+                },
+                {
+                    "short-term": "Mike Jones blows his whistle as Wilfried Zaha (Crystal Palace) used excessive force in the tackle during an attack. City players are not happy with the call.",
+                    "history_time": "11:50",
+                    "long-term": "The referee has been actively monitoring the match, stepping in to address multiple tactical fouls committed by both teams, indicating a tight and competitive contest."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:36",
+            "game_time": "28:36",
+            "query": "Wilfried Bony passes to Yaya Toure (Manchester City), but he produces a wild shot from the edge of the box which goes well wide of the right post.",
+            "short-term": "Wilfried Bony passes to Yaya Toure (Manchester City), but he produces a wild shot from the edge of the box which goes well wide of the right post. City’s buildup was smooth, but the finish was lacking precision.",
+            "query_ano": "[PLAYER] passes to [PLAYER] ([TEAM]), but he produces a wild shot from the edge of the box which goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure (Manchester City) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Manchester City will take a throw-in. Suaré’s quick recovery prevented a dangerous chance.",
+                    "history_time": "21:04",
+                    "long-term": "He was very active in attack. He failed to score on the last try, but succeeded this time."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "He has been attempting ambitious shots from distance, but so far, they have lacked accuracy or been well saved by the opposing goalkeeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:39",
+            "game_time": "27:39",
+            "query": "Samir Nasri (Manchester City) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "short-term": "Samir Nasri (Manchester City) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now after consultation with the medical staff.",
+            "query_ano": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered. He appears to have stepped awkwardly and immediately signaled for assistance.",
+                    "history_time": "26:21",
+                    "long-term": "We'll be keeping a close eye on his condition for the rest of the game, as that minor injury could potentially affect his performance."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:13",
+            "game_time": "24:13",
+            "query": "Jason Puncheon (Crystal Palace) attempts to convert a lofted cross as he jumps high and heads the ball to the right side of the goal. Joe Hart shows his brilliant reflexes and pulls off a glorious save.",
+            "short-term": "Jason Puncheon (Crystal Palace) attempts to convert a lofted cross as he jumps high and heads the ball to the right side of the goal. Joe Hart shows his brilliant reflexes and pulls off a glorious save. Palace’s first real threat in the second half.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to convert a lofted cross as he jumps high and heads the ball to the right side of the goal. Joe Hart shows his brilliant reflexes and pulls off a glorious save.",
+            "history": [
+                {
+                    "short-term": "Alex McCarthy leaps to intercept the corner kick from Samir Nasri (Manchester City). He clears the danger with a strong punch.",
+                    "history_time": "18:26",
+                    "long-term": "The goalkeepers have been sharp, coming up with crucial saves to deny the opposing team's promising scoring opportunities."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "Both teams have been creating scoring opportunities, with Palace starting to find their footing in the second half and Manchester City consistently applying pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:34",
+            "game_time": "21:34",
+            "query": "Samir Nasri (Manchester City) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!",
+            "short-term": "Samir Nasri (Manchester City) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. City has been building up well but needs better finishing.",
+            "query_ano": "[PLAYER] ([TEAM]) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!",
+            "history": [
+                {
+                    "short-term": "Fernandinho (Manchester City) receives a precise pass from his teammate and sends a snap shot from the edge of the box. However, his aim was a bit off and the ball flies just narrowly over the crossbar. City continues to press forward.",
+                    "history_time": "19:17",
+                    "long-term": "They have been consistently creating scoring opportunities but struggling to capitalize on them due to inaccurate finishing."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently creating scoring opportunities but struggling with their finishing touches."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:04",
+            "game_time": "21:04",
+            "query": "Yaya Toure (Manchester City) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Manchester City will take a throw-in.",
+            "short-term": "Yaya Toure (Manchester City) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Manchester City will take a throw-in. Suaré’s quick recovery prevented a dangerous chance.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball is out of play. [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "The referee blows his whistle as Alex McCarthy (Crystal Palace) was too aggressive in his challenge. City players protest, asking for a booking.",
+                    "history_time": "18:58",
+                    "long-term": "They have shown defensive solidity, with well-timed interventions to neutralize threats, and are growing increasingly frustrated with the referee's decisions."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner. They sends men into the box.",
+                    "history_time": "17:49",
+                    "long-term": "They have been consistently creating scoring opportunities, with Yaya Toure being a key figure in their attacking plays. He can shoot and make key passes."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+                    "history_time": "17:13",
+                    "long-term": "They have been consistently pressuring the defense, displaying strong attacking momentum and rapid recovery efforts."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently aggressive in their attacks, pushing forward and creating scoring opportunities, although the defensive line has managed to contain the threats so far."
+                },
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "They have been consistently aggressive in their pursuit of scoring opportunities, maintaining pressure on the opponent's defense with swift runs and dynamic plays."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "He was active in the offensive end and created threats with his shots many times."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:17",
+            "game_time": "19:17",
+            "query": "Fernandinho (Manchester City) receives a precise pass from his teammate and sends a snap shot from the edge of the box. However, his aim was a bit off and the ball flies just narrowly over the crossbar.",
+            "short-term": "Fernandinho (Manchester City) receives a precise pass from his teammate and sends a snap shot from the edge of the box. However, his aim was a bit off and the ball flies just narrowly over the crossbar. City continues to press forward.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass from his teammate and sends a snap shot from the edge of the box. However, his aim was a bit off and the ball flies just narrowly over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Alex McCarthy leaps to intercept the corner kick from Samir Nasri (Manchester City). He clears the danger with a strong punch.",
+                    "history_time": "18:26",
+                    "long-term": "They have been consistently pressuring the opponent's defense with precise passing and multiple scoring opportunities, despite struggling to find the back of the net."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner. They sends men into the box.",
+                    "history_time": "17:49",
+                    "long-term": "They have been consistently aggressive in their pursuit of a goal, narrowly missing a scoring opportunity and continuing to apply pressure through crosses and set pieces."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+                    "history_time": "17:13",
+                    "long-term": "They have been consistently aggressive in their pursuit of a goal, applying pressure through multiple shots and corner kicks."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently aggressive in their offense, creating multiple scoring opportunities with precise passes and crosses into the box."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots from outside the box, but lack precision in their finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:58",
+            "game_time": "18:58",
+            "query": "The referee blows his whistle as Alex McCarthy (Crystal Palace) was too aggressive in his challenge.",
+            "short-term": "The referee blows his whistle as Alex McCarthy (Crystal Palace) was too aggressive in his challenge. City players protest, asking for a booking.",
+            "query_ano": "The referee blows his whistle as Alex McCarthy ([TEAM]) was too aggressive in his challenge.",
+            "history": [
+                {
+                    "short-term": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it. City looks to capitalize on the set piece.",
+                    "history_time": "10:39",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control."
+                },
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "The player has shown inconsistent decision-making on the field, first being overly aggressive and later being granted a beneficial call, as City maintains pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:26",
+            "game_time": "18:26",
+            "query": "Alex McCarthy leaps to intercept the corner kick from Samir Nasri (Manchester City).",
+            "short-term": "Alex McCarthy leaps to intercept the corner kick from Samir Nasri (Manchester City). He clears the danger with a strong punch.",
+            "query_ano": "[PLAYER] leaps to intercept the corner kick from [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner. They sends men into the box.",
+                    "history_time": "17:49",
+                    "long-term": "Manchester City have been consistently pressuring the opposition's defense with crosses and corners, searching for an opening."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+                    "history_time": "17:13",
+                    "long-term": "They have been consistently pressuring the opponent's defense with consecutive corner kicks, showcasing their attacking persistence."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and set pieces, but have yet to find a breakthrough."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:49",
+            "game_time": "17:49",
+            "query": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner.",
+            "short-term": "Yaya Toure (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Now Manchester City have a corner. They sends men into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. Now [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+                    "history_time": "17:13",
+                    "long-term": "They have been consistently pressuring the opposition's defense with crosses and corners, but the opposition has been able to clear the ball and prevent scoring opportunities."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently applying pressure with crosses into the box, resulting in multiple corner opportunities."
+                },
+                {
+                    "short-term": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it. City looks to capitalize on the set piece.",
+                    "history_time": "10:39",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and crosses, putting pressure on the opposition's defense."
+                },
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities, particularly through set pieces."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "He has been posing a significant threat to the opposition's goal, creating scoring opportunities through his precise crosses and powerful long-range shots."
+                },
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "The set pieces have become a crucial part of their strategy, with both teams using corners to try and gain an advantage."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been consistently creating scoring opportunities, but struggling to find the finishing touch."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:13",
+            "game_time": "17:13",
+            "query": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear.",
+            "short-term": "The ball is whipped in from the corner by Jesus Navas (Manchester City), but one of the defenders gets it clear. City keeps possession and looks to build another attack.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+                    "history_time": "16:56",
+                    "long-term": "They have been consistently pressuring the defense with consecutive crosses and corners, looking to break through and create a scoring opportunity."
+                },
+                {
+                    "short-term": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it. City looks to capitalize on the set piece.",
+                    "history_time": "10:39",
+                    "long-term": "They have been consistently pressuring the opposition's defense with set pieces, intent on breaking the deadlock."
+                },
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "They have maintained consistent pressure, creating scoring opportunities through set pieces and controlled possession."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "They have been consistently pressuring the opposition's defense with multiple scoring opportunities and set pieces."
+                },
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "Both teams have been utilizing corner kicks as a key attacking strategy, but so far, the defenses have been able to effectively clear the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:56",
+            "game_time": "16:56",
+            "query": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. ",
+            "short-term": "Bacary Sagna (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Manchester City force a corner. They send men into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. [TEAM] force a corner. ",
+            "history": [
+                {
+                    "short-term": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it. City looks to capitalize on the set piece.",
+                    "history_time": "10:39",
+                    "long-term": "They have been consistently applying pressure and focusing on utilizing set pieces to create scoring opportunities."
+                },
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and dribbling attempts, earning multiple corner kicks in the process."
+                },
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "They have been consistently pressuring the opposition's defense with crosses and long-range shots."
+                },
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "The teams have been focusing on set pieces, trying to create scoring opportunities from corners and crosses."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been consistently applying pressure around the opponent's box."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:51",
+            "game_time": "10:51",
+            "query": "Vincent Kompany (Manchester City) connects with the corner but his looping header goes well over.",
+            "short-term": "Vincent Kompany (Manchester City) connects with the corner but his looping header goes well over. A missed opportunity for City.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with the corner but his looping header goes well over.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+                    "history_time": "9:01",
+                    "long-term": "They have been creating scoring opportunities through headers and shots, but the finishing touches have eluded them so far."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been creating scoring opportunities, but struggling with accuracy on their finishing attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:39",
+            "game_time": "10:39",
+            "query": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it.",
+            "short-term": "The referee awards a corner and Kevin De Bruyne (Manchester City) goes over to take it. City looks to capitalize on the set piece.",
+            "query_ano": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it.",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+                    "history_time": "10:25",
+                    "long-term": "This corner kick comes from a great clearance by the opposing player."
+                },
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "Both teams have been utilizing set pieces to create scoring opportunities, with corners being a focal point in their strategies."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:25",
+            "game_time": "10:25",
+            "query": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick.",
+            "short-term": "The ball is cleared after Kevin De Bruyne (Manchester City) attempted to dribble past an opposing player. The referee blows his whistle, Manchester City are awarded a corner kick. City continues pressing.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "Both teams have shown strong determination in ball possession and defensive play, creating several corner kicks and clears that signaled their intent to secure an attacking opportunity."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:01",
+            "game_time": "9:01",
+            "query": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy and the score remains the same.",
+            "short-term": "Yaya Toure (Manchester City) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom right corner, but is stopped by a great save from Alex McCarthy and the score remains the same.",
+            "history": [
+                {
+                    "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+                    "history_time": "5:22",
+                    "long-term": "Both teams have been creating scoring opportunities, but struggling to capitalize on them, with well-timed blocks and wayward shots plaguing their attacking efforts."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been creating scoring opportunities with powerful shots, but the finishing touches are lacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:34",
+            "game_time": "5:34",
+            "query": "Jesus Navas (Manchester City) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for Jesus Navas (Manchester City). This could have been a legendary goal.",
+            "short-term": "Jesus Navas (Manchester City) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for Jesus Navas (Manchester City). This could have been a legendary goal. A huge chance wasted for City.",
+            "query_ano": "[PLAYER] ([TEAM]) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for [PLAYER] ([TEAM]). This could have been a legendary goal.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "They have been creating scoring opportunities with individual brilliance, but the end product has been lacking precision, resulting in missed chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:22",
+            "game_time": "5:22",
+            "query": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Bakary Sako (Crystal Palace) is headed out of the penalty area by one of the defenders. Palace retains possession.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) receives a reproachful look from Yaya Toure. He latches on to his pass, but the effort from the edge of the box sails high over the crossbar. He looks frustrated with the attempt.",
+                    "history_time": "4:10",
+                    "long-term": "Both teams have been creating scoring opportunities, with Palace utilizing set pieces and Manchester City pushing forward through passing combinations."
+                },
+                {
+                    "short-term": "Pape Souare (Crystal Palace) fails to beat the offside trap and the linesman puts his flag up. Palace struggles to time their runs.",
+                    "history_time": "1:26",
+                    "long-term": "They have been pushing forward but struggling with precision, with set pieces not yielding clear opportunities and timed runs falling offside."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:53",
+            "game_time": "48:53",
+            "query": "The corner from Craig Gardner (West Brom) is intercepted by Joe Hart.",
+            "short-term": "The corner from Craig Gardner (West Brom) is intercepted by Joe Hart. The delivery was aimed towards the center of the box, but keeper read it well and collected the ball confidently.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball. Leko's delivery aimed towards the far post, but Hart was quick off his line to claim it.",
+                    "history_time": "42:52",
+                    "long-term": "The goalkeeper has been alert and proactive, successfully intercepting multiple crosses and set pieces."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders. The delivery lacked precision, allowing the opposition to clear comfortably.",
+                    "history_time": "38:52",
+                    "long-term": "The player's corners have been effectively nullified by the opposition's defense, with the goalkeeper and defenders dealing with the deliveries comfortably."
+                },
+                {
+                    "short-term": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. Gardner's powerful strike was on target, forcing Hart into a full-stretch save to tip the ball over the bar. West Brom will have a chance to score from a corner.",
+                    "history_time": "38:26",
+                    "long-term": "The player has been putting pressure on the opposing goalkeeper with his set pieces, forcing two crucial saves in a short span."
+                },
+                {
+                    "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+                    "history_time": "29:57",
+                    "long-term": "The player has consistently delivered threatening corners, but the goalkeeper has shown excellent anticipation and handling to neutralize the threats. They have been unable to capitalize on set-piece opportunities due to the keeper's exceptional positioning."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:52",
+            "game_time": "42:52",
+            "query": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball.",
+            "short-term": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball. Leko's delivery aimed towards the far post, but Hart was quick off his line to claim it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders. The delivery lacked precision, allowing the opposition to clear comfortably.",
+                    "history_time": "38:52",
+                    "long-term": "They have been consistently trying to utilize crosses and corners to create scoring opportunities, but have been thwarted by the opposition's goalkeeper and defense."
+                },
+                {
+                    "short-term": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. Gardner's powerful strike was on target, forcing Hart into a full-stretch save to tip the ball over the bar. West Brom will have a chance to score from a corner.",
+                    "history_time": "38:26",
+                    "long-term": "They have been putting pressure on the opposing team's defense with some precise crosses and shots, but the goalkeeper's alertness has prevented them from scoring so far."
+                },
+                {
+                    "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+                    "history_time": "29:57",
+                    "long-term": "They consistently put pressure on the goalkeeper with precise crosses and corners, but Joe Hart's awareness and decision-making denied them potential scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:50",
+            "game_time": "41:50",
+            "query": "West Brom enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "short-term": "West Brom enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike. The team circulated the ball across midfield, looking for gaps in the defensive shape.",
+            "query_ano": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "history": [
+                {
+                    "short-term": "The West Brom players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up, probing the opposition's defensive line with quick passes.",
+                    "history_time": "26:30",
+                    "long-term": "They tried to control the ball several times in this game and tried to get the game into their pace."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:52",
+            "game_time": "38:52",
+            "query": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders.",
+            "short-term": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders. The delivery lacked precision, allowing the opposition to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+            "history": [
+                {
+                    "short-term": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. Gardner's powerful strike was on target, forcing Hart into a full-stretch save to tip the ball over the bar. West Brom will have a chance to score from a corner.",
+                    "history_time": "38:26",
+                    "long-term": "This corner kick came from a wonderful save by the goalkeeper. The opponent's free kick was very threatening, but the goalkeeper saved the ball, resulting in a corner kick."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him. The striker received a well-weighted ball while the defense was caught off guard.",
+                    "history_time": "31:30",
+                    "long-term": "Both teams have shown flashes of attacking potential, but their delivery in the final third has been inconsistent, lacking the precision to capitalize on scoring opportunities."
+                },
+                {
+                    "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+                    "history_time": "29:57",
+                    "long-term": "They have struggled with set pieces, failing to create significant threats with consecutive corners being easily dealt with by the opposition."
+                },
+                {
+                    "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+                    "history_time": "28:30",
+                    "long-term": "They have been creating opportunities from set pieces and open play, but lack the precision and accuracy to convert them into goals."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+                    "history_time": "12:59",
+                    "long-term": "He has shown inconsistency with his corner kicks, initially lacking precision and later improving the placement but still failing to trouble the defenders effectively."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:26",
+            "game_time": "38:26",
+            "query": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. West Brom will have a chance to score from a corner.",
+            "short-term": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. Gardner's powerful strike was on target, forcing Hart into a full-stretch save to tip the ball over the bar. West Brom will have a chance to score from a corner.",
+            "query_ano": "[PLAYER] reacts well to deny a long-range free kick from [PLAYER] ([TEAM]) towards the roof of the net. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+                    "history_time": "29:57",
+                    "long-term": "The goalkeeper has performed very well in the last few minutes, he has blocked the opponent's scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:54",
+            "game_time": "36:54",
+            "query": "A brilliant individual effort! Samir Nasri (Manchester City) tricks his way past challenges into the box and drags his shot narrowly wide of the right post.",
+            "short-term": "A brilliant individual effort! Samir Nasri (Manchester City) tricks his way past challenges into the box and drags his shot narrowly wide of the right post. His curling effort had the crowd gasping.",
+            "query_ano": "A brilliant individual effort! [PLAYER] ([TEAM]) tricks his way past challenges into the box and drags his shot narrowly wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+                    "history_time": "28:30",
+                    "long-term": "Both teams have shown the ability to create scoring opportunities through individual skill, but accuracy in front of goal has been lacking."
+                },
+                {
+                    "short-term": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post. His shot lacked precision, failing to challenge the keeper.",
+                    "history_time": "25:49",
+                    "long-term": "Both teams have shown flashes of brilliance in their attacking play, but the final product has been lacking in precision, with promising efforts going wide of the mark. The creativity is there, but the finishing needs improvement."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:42",
+            "game_time": "34:42",
+            "query": "Chance! Saido Berahino (West Brom) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "short-term": "Chance! Saido Berahino (West Brom) was in a good position inside the box, but he couldn't connect with the pass as it was overhit. The ball zipped past him at the penalty spot, missing a potential scoring opportunity.",
+            "query_ano": "Chance! [PLAYER] ([TEAM]) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "history": [
+                {
+                    "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+                    "history_time": "28:30",
+                    "long-term": "He has been presented with a couple of promising chances but so far has been unable to capitalize on them."
+                },
+                {
+                    "short-term": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post. His shot lacked precision, failing to challenge the keeper.",
+                    "history_time": "25:49",
+                    "long-term": "He has had a couple of promising chances but his efforts have been let down by imprecise finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:30",
+            "game_time": "31:30",
+            "query": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him.",
+            "short-term": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him. The striker received a well-weighted ball while the defense was caught off guard.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but [PLAYER] is alert and denies him.",
+            "history": [
+                {
+                    "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+                    "history_time": "28:30",
+                    "long-term": "Both teams have shown moments of brilliance in front of goal, but the goalkeepers and poor finishing have so far prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked. He received a pass from Jesús Navas and aimed for goal, but the defender made a crucial intervention.",
+                    "history_time": "20:50",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, denying them a goal on multiple occasions."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The shot had power and a bounce in front of the goalkeeper, forcing a good save.",
+                    "history_time": "9:15",
+                    "long-term": "He has consistently posed a threat in the attacking third, forcing the goalkeeper into multiple crucial saves with his precise movements and shot attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:57",
+            "game_time": "29:57",
+            "query": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom).",
+            "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+            "query_ano": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up. The right-back mistimed his run, making it an easy call for the assistant referee.",
+                    "history_time": "16:17",
+                    "long-term": "They have been struggling to create scoring opportunities, with set pieces and attacking plays being easily neutralized by the opposition's defense."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+                    "history_time": "12:59",
+                    "long-term": "They have consistently utilized corner kicks as a means to threaten the opponent's goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:30",
+            "game_time": "28:30",
+            "query": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post.",
+            "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post. His shot lacked precision, failing to challenge the keeper.",
+                    "history_time": "25:49",
+                    "long-term": "He has been presented with a couple of promising scoring opportunities but has struggled to find the accuracy with his shots."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post. He attempted a powerful strike, but the shot lacked accuracy.",
+                    "history_time": "13:53",
+                    "long-term": "They have been creating scoring opportunities, but their finishing has been lacking accuracy, with shots flying wide of the target. This suggests a need for improvement in their attacking precision."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:30",
+            "game_time": "21:30",
+            "query": "Kevin De Bruyne (Manchester City) is offside and the linesman raises his flag.",
+            "short-term": "Kevin De Bruyne (Manchester City) is offside and the linesman raises his flag. He mistimed his run while attempting to latch onto a through ball.",
+            "query_ano": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up. The right-back mistimed his run, making it an easy call for the assistant referee.",
+                    "history_time": "16:17",
+                    "long-term": "Offside traps have been an issue for both teams, with mistimed runs resulting in raised flags and blown opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:50",
+            "game_time": "20:50",
+            "query": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked.",
+            "short-term": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked. He received a pass from Jesús Navas and aimed for goal, but the defender made a crucial intervention.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. He attempted a one-two with Yaya Touré but was dispossessed before he could get a shot away.",
+                    "history_time": "17:52",
+                    "long-term": "He has been consistently posing a threat in the opposition's box, but the defense has been equal to the task so far, thwarting his goal-scoring attempts."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The shot had power and a bounce in front of the goalkeeper, forcing a good save.",
+                    "history_time": "9:15",
+                    "long-term": "He has been consistently creating scoring opportunities, but the opposing team's defense has been resilient in blocking his shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:36",
+            "game_time": "17:36",
+            "query": "Jesus Navas (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "short-term": "Jesus Navas (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post. His delivery was too strong, making it difficult for his teammates to reach the ball inside the area.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up. The right-back mistimed his run, making it an easy call for the assistant referee.",
+                    "history_time": "16:17",
+                    "long-term": "Both teams have shown inconsistency in their attacking execution, with poorly timed runs and deliveries preventing them from creating scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:17",
+            "game_time": "16:17",
+            "query": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up.",
+            "short-term": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up. The right-back mistimed his run, making it an easy call for the assistant referee.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+            "history": [
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+                    "history_time": "12:59",
+                    "long-term": "They have been struggling to create scoring opportunities, with offside decisions and strong defensive play from the opposition stifling their attacking threats."
+                },
+                {
+                    "short-term": "Fernando (Manchester City) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Darren Fletcher was already advancing with the ball, forcing Fernando to make the challenge.",
+                    "history_time": "4:51",
+                    "long-term": "Both teams have shown defensive vulnerabilities, with one struggling with offside traps and the other committing fouls, which might prove crucial in the outcome of the match."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:57",
+            "game_time": "14:57",
+            "query": "Manuel Pellegrini has decided to make a change. Yaya Toure (Manchester City) replaces Fabian Delph.",
+            "short-term": "Manuel Pellegrini has decided to make a change. Yaya Toure (Manchester City) replaces Fabian Delph. Toure moves into midfield, offering more physicality and attacking presence.",
+            "query_ano": "[COACH] has decided to make a change. Yaya Toure ([TEAM]) replaces Fabian Delph.",
+            "history": [
+                {
+                    "short-term": "The substitution has been made. Kevin De Bruyne (Manchester City) has replaced Wilfried Bony. This change signals an attacking shift, with De Bruyne expected to support their attack more directly.",
+                    "history_time": "14:37",
+                    "long-term": "They have made strategic substitutions to bolster their midfield and enhance their attacking capabilities."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:53",
+            "game_time": "13:53",
+            "query": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post.",
+            "short-term": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post. He attempted a powerful strike, but the shot lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+                    "history_time": "12:59",
+                    "long-term": "He has been actively creating scoring opportunities, but his finishing and set-piece delivery have lacked precision."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The shot had power and a bounce in front of the goalkeeper, forcing a good save.",
+                    "history_time": "9:15",
+                    "long-term": "Both teams have shown a willingness to attempt shots from distance, but so far, neither has been able to capitalize on these long-range efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:59",
+            "game_time": "12:59",
+            "query": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball was floated towards the far post but lacked precision.",
+                    "history_time": "12:50",
+                    "long-term": "They have been consistently delivering set pieces and crosses into the penalty area."
+                },
+                {
+                    "short-term": "Sandro receives a sweet cross inside the box from Stephane Sessegnon (West Brom), but one of the defenders rushes in bravely to intercept the ball. The defender took a risk, making slight contact. The players demand a penalty,.",
+                    "history_time": "11:51",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and crosses, but the opposition's defense has been solid in denying them a goal."
+                },
+                {
+                    "short-term": "The resulting corner, taken by Aleksandar Kolarov (Manchester City), comes to nothing. The delivery lacked precision, allowing the defense to clear with ease.",
+                    "history_time": "9:48",
+                    "long-term": "The set pieces from both teams have not posed significant threats, with the deliveries being consistently dealt with by the opposing defenses."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The shot had power and a bounce in front of the goalkeeper, forcing a good save.",
+                    "history_time": "9:15",
+                    "long-term": "Both teams have shown impressive set-piece and counter-attacking capabilities, testing each other's defensive solidity and goalkeeper's reflexes."
+                },
+                {
+                    "short-term": "Wilfried Bony (Manchester City) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender and rolled harmlessly to the goalkeeper.",
+                    "history_time": "7:30",
+                    "long-term": "Both teams have been creating scoring opportunities, but their efforts have been consistently thwarted by solid defensive plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:50",
+            "game_time": "12:50",
+            "query": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "short-term": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball was floated towards the far post but lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "history": [
+                {
+                    "short-term": "Sandro receives a sweet cross inside the box from Stephane Sessegnon (West Brom), but one of the defenders rushes in bravely to intercept the ball. The defender took a risk, making slight contact. The players demand a penalty,.",
+                    "history_time": "11:51",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,901 @@
+{
+    "annotations": [
+        {
+            "gameTime": "39:32",
+            "game_time": "39:30",
+            "query": "Dangerous play by Kingsley Coman (Bayern Munich). Florian Meyer blows his whistle for a foul. FC Koln earn a free kick.",
+            "short-term": "Dangerous play by Kingsley Coman (Bayern Munich). Florian Meyer blows his whistle for a foul. FC Koln earn a free kick. The challenge was too aggressive, giving the referee no choice but to intervene.",
+            "query_ano": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. [TEAM] earn a free kick.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln. His positioning was good, but he couldn't keep the header under control.",
+                    "history_time": "39:02",
+                    "long-term": "They have shown moments of aggression in their attack but lacked precision in their finishing."
+                },
+                {
+                    "short-term": "Dominique Heintz (FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick! The decision was immediate, with no hesitation from the referee.",
+                    "history_time": "30:29",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                },
+                {
+                    "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+                    "history_time": "14:42",
+                    "long-term": "They have been struggling with discipline, conceding free kicks and allowing the opposition to create scoring opportunities from set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:03",
+            "game_time": "39:02",
+            "query": "Robert Lewandowski (Bayern Munich) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln.",
+            "short-term": "Robert Lewandowski (Bayern Munich) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln. His positioning was good, but he couldn't keep the header under control.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a cross from the side, but produces a header which goes way over the bar. The ball is off of the pitch and it's a goal kick for FC Koln.",
+            "history": [
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner. The strike was perfectly placed, giving the keeper no chance.",
+                    "history_time": "31:45",
+                    "long-term": "They have been creating scoring opportunities, although not always capitalizing on them, and eventually broke through with a clinical penalty finish."
+                },
+                {
+                    "short-term": "What a great touch by Douglas Costa (Bayern Munich) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending. The intervention was crucial in preventing a dangerous scoring opportunity.",
+                    "history_time": "27:00",
+                    "long-term": "They have been creating scoring opportunities with strong positioning and technique but haven't yet found the finishing touch."
+                },
+                {
+                    "short-term": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+                    "history_time": "25:59",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them with precise finishing."
+                },
+                {
+                    "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+                    "history_time": "24:21",
+                    "long-term": "They have been creating scoring opportunities with powerful attempts, but struggling to find the precision to convert them into goals."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "He has been posing a threat in the attacking third, creating a couple of chances, but has yet to find the back of the net due to a combination of his own inaccuracy and some solid goalkeeping."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "He has been a constant threat in the air, initially misjudging a header but then made amends with a precise and powerful header that led to a crucial goal."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have been creating scoring opportunities through crosses and set pieces, but so far, the finishing touches have eluded them, with efforts either off target or blocked by the defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:54",
+            "game_time": "31:45",
+            "query": "Thomas Muller (Bayern Munich) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner.",
+            "short-term": "Thomas Muller (Bayern Munich) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner. The strike was perfectly placed, giving the keeper no chance.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner.",
+            "history": [
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) is heading towards the penalty spot to take it. He showed confidence as he prepared for the decisive moment.",
+                    "history_time": "31:26",
+                    "long-term": "He demonstrated exceptional composure and skill in high-pressure situations, showcasing his reliability as a penalty taker."
+                },
+                {
+                    "short-term": "Dominique Heintz (1. FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick! The decision was immediate, with no hesitation from the referee.",
+                    "history_time": "30:29",
+                    "long-term": "The momentum has shifted in their favor with a crucial penalty conversion, showcasing their ability to capitalize on scoring opportunities."
+                },
+                {
+                    "short-term": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+                    "history_time": "25:59",
+                    "long-term": "They have been posing a significant threat in front of goal, showcasing their attacking prowess with a successful penalty conversion and testing the keeper with a well-crafted shot from the edge of the box."
+                },
+                {
+                    "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+                    "history_time": "24:21",
+                    "long-term": "They have been creating scoring opportunities with authoritative shots, showcasing their attacking prowess through set pieces and powerful long-range attempts."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "They have consistently posed a threat in the attacking third, converting one chance from the spot and being denied by a sharp save on another occasion."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "They have demonstrated exceptional clinical finishing in their attacking efforts, converting critical chances into goals."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:29",
+            "query": "Dominique Heintz (1. FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick!",
+            "short-term": "Dominique Heintz (1. FC Koln) was too forceful with his tackle and Florian Meyer interrupted the game to signal a free kick. The referee points to the penalty spot. Bayern Munich are awarded a penalty kick! The decision was immediate, with no hesitation from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick. The referee points to the penalty spot. [TEAM] are awarded a penalty kick!",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "They have been creating scoring opportunities, with one leading to a penalty and another being denied by the goalkeeper."
+                },
+                {
+                    "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+                    "history_time": "14:42",
+                    "long-term": "Both teams have been on the receiving end of the referee's decisions, with a penalty awarded to one and a free kick to the other."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+                    "history_time": "13:44",
+                    "long-term": "They have been aggressive in their defensive plays, sometimes being too forceful and giving away crucial set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:36",
+            "game_time": "29:34",
+            "query": "Philipp Hosiner (1. FC Koln) connects with a pass but sees his shot from the edge of the box blocked.",
+            "short-term": "Philipp Hosiner (1. FC Koln) connects with a pass but sees his shot from the edge of the box blocked. The defense reacted swiftly to deny him any space.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "Both teams have shown a willingness to create scoring opportunities, but the defenses have been effective in blocking shots and denying space."
+                },
+                {
+                    "short-term": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post. He had space but rushed his strike, sending it well off target.",
+                    "history_time": "20:11",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them due to swift defensive reactions and their own lack of accuracy."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:06",
+            "game_time": "27:00",
+            "query": "What a great touch by Douglas Costa (Bayern Munich) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending.",
+            "short-term": "What a great touch by Douglas Costa (Bayern Munich) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending. The intervention was crucial in preventing a dangerous scoring opportunity.",
+            "query_ano": "What a great touch by [PLAYER] ([TEAM]) as he controls a fine pass into the box and takes a shot to the right side of the goal, but an opposing player makes a clearance. Great defending.",
+            "history": [
+                {
+                    "short-term": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+                    "history_time": "25:59",
+                    "long-term": "They have been posing a significant threat in the opponent's box, with skillful touches and well-crafted shots that have been met with crucial defensive interventions and decisive goalkeeping."
+                },
+                {
+                    "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+                    "history_time": "24:21",
+                    "long-term": "They have been creating scoring opportunities with precise passing and control, testing the opponent's defense and goalkeeper with shots on goal."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "They have been posing significant threats in the attacking third, consistently finding openings and testing the opposition's defense with precision passing and shots on goal."
+                },
+                {
+                    "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+                    "history_time": "20:55",
+                    "long-term": "Both teams have created scoring opportunities, but the defensive lines have been solid, preventing a breakthrough."
+                },
+                {
+                    "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+                    "history_time": "16:28",
+                    "long-term": "He has shown great skill in his attempts to create scoring opportunities, but the opposing team's defense has been up to the task so far."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have shown impressive attacking intent, consistently creating scoring opportunities, but the opposing team's defense has been solid in preventing them from capitalizing on these chances."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "They have consistently shown skill in creating scoring opportunities, testing the opponent's defense with precise shots that have required exceptional saves to deny them."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:01",
+            "game_time": "25:59",
+            "query": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "short-term": "A neat pass is well received by David Alaba (Bayern Munich), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "query_ano": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot.",
+            "history": [
+                {
+                    "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+                    "history_time": "24:21",
+                    "long-term": "They have been creating scoring opportunities with powerful shots, but the goalkeeper's impressive saves have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "They have consistently posed a threat in the opponent's half, producing quality scoring chances that have tested the goalkeeper."
+                },
+                {
+                    "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+                    "history_time": "20:55",
+                    "long-term": "Both teams have created promising scoring opportunities, but the goalkeepers have been alert to deny them, highlighting the importance of strong shot-stopping in this match."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "They consistently created scoring opportunities with precise passes and converting set pieces into goals."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "He has been posing a threat from distance, twice testing the defense with shots from the edge of the box."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "They have consistently created scoring opportunities with precise shots on target, putting pressure on the opposing goalkeeper."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "They have been posing a significant threat in the attacking third, with their players consistently finding space to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:40",
+            "game_time": "24:21",
+            "query": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same.",
+            "short-term": "Joshua Kimmich (Bayern Munich) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timo Horn and the score remains the same. The keeper was well-positioned and made a comfortable stop.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a long-range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from [PLAYER] and the score remains the same.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+                    "history_time": "24:01",
+                    "long-term": "They have been consistently testing the goalkeeper with powerful shots, showcasing their attacking prowess."
+                },
+                {
+                    "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+                    "history_time": "20:55",
+                    "long-term": "Both teams have been creating long-range scoring opportunities, but the goalkeepers have been equal to the task, making crucial saves to keep the score unchanged."
+                },
+                {
+                    "short-term": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post. He had space but rushed his strike, sending it well off target.",
+                    "history_time": "20:11",
+                    "long-term": "Both teams have been trying to create chances through powerful long-range shots, but so far, the goalkeepers and poor accuracy have prevented any score changes."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots, and eventually found success with a well-executed header."
+                },
+                {
+                    "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+                    "history_time": "16:28",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots, but the opposing goalkeeper has been up to the task so far."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots from outside the box, but the opposing goalkeeper and defense have been able to neutralize the threats."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "The Bayern Munich players have been testing the goalkeeper with powerful shots from distance, but the keeper has been up to the task with crucial saves."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "They have been creating scoring opportunities with powerful shots, but the goalkeeper's timely interventions have prevented them from taking the lead."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:00",
+            "game_time": "24:01",
+            "query": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save.",
+            "short-term": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Timo Horn is alert and denies him with a nice save. The defender closely marked him, making it difficult to find space, but he still managed a quick attempt on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. [PLAYER] is alert and denies him with a nice save.",
+            "history": [
+                {
+                    "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+                    "history_time": "20:55",
+                    "long-term": "Both teams have shown the ability to create scoring chances, but the goalkeepers have been equal to the task, making crucial saves to deny their opponents."
+                },
+                {
+                    "short-term": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post. He had space but rushed his strike, sending it well off target.",
+                    "history_time": "20:11",
+                    "long-term": "Both teams have shown willingness to attack with shots from different distances, but they have been unable to find the target with the goalkeeper and inaccurate shooting being key factors."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "He has been consistently posing a threat in the penalty area, testing the goalkeeper with a saved shot and then capitalizing on a free kick with a precise header."
+                },
+                {
+                    "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+                    "history_time": "16:28",
+                    "long-term": "They have been creating scoring opportunities, with shots on goal from inside the box and direct free kicks, indicating an aggressive attacking approach."
+                },
+                {
+                    "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+                    "history_time": "14:42",
+                    "long-term": "They have shown moments of brilliance in the attacking third, but also lapses in defense, offering opportunities to the opposition. This inconsistency has made the match highly unpredictable."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have been posing a significant threat in the opponent's penalty area, with multiple close-range shots testing the goalkeeper and defense."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+                    "history_time": "13:44",
+                    "long-term": "They have maintained an aggressive approach, creating scoring opportunities, but faced challenges from the defenders, who succeeded in cutting off passes and making crucial saves."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "They have been consistently testing the opposing goalkeeper with dangerous shots, showcasing their attacking prowess and forcing crucial saves."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "He has been a constant threat in the attacking end, testing the goalkeeper multiple times but struggling to find the back of the net."
+                },
+                {
+                    "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+                    "history_time": "4:48",
+                    "long-term": "They have been consistently testing the opposing team's defense with quick attacking plays, but the goalkeeper's sharp reflexes have prevented them from finding the back of the net."
+                },
+                {
+                    "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+                    "history_time": "2:45",
+                    "long-term": "They have been consistently testing the opposing goalkeeper with threatening shots, showing their intent to score."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:13",
+            "game_time": "20:55",
+            "query": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "short-term": "Jonas Hector (1. FC Koln) fashions a shot from the edge of the box after receiving an accurate pass. Manuel Neuer makes a comfortable save to stop the effort from flying into the middle of the goal. Bayern’s defensive line momentarily allowed space, but the keeper was well-positioned to collect the attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a comfortable save to stop the effort from flying into the middle of the goal.",
+            "history": [
+                {
+                    "short-term": "Simon Zoller (1. FC Koln) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the right post. He had space but rushed his strike, sending it well off target.",
+                    "history_time": "20:11",
+                    "long-term": "They have been creating scoring opportunities, but the final touch has let them down, with the goalkeeper and poor accuracy preventing them from finding the net."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+                    "history_time": "16:30",
+                    "long-term": "They've been trading attacking opportunities, with one side forcing a defensive stop and the other capitalizing on a free kick for a goal. Bayern Munich demonstrated strong set-piece execution to break through."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "Both teams have been creating scoring opportunities, but the goalkeepers and defenders have been up to the task, showcasing solid defensive plays to counter the attacking threats."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "Both goalkeepers have been sharp, each making key saves to deny threatening efforts from the opposing teams."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "Both teams have been creating scoring opportunities, but the goalkeepers have been alert to deny them, highlighting the intense battle between attack and defense."
+                },
+                {
+                    "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+                    "history_time": "4:12",
+                    "long-term": "They have been consistently testing the goalkeeper with shots from outside the box, but the keeper's positioning has been spot on to deny them."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:42",
+            "game_time": "19:36",
+            "query": "Pep Guardiola prepares a substitution. Arjen Robben is replaced by Joshua Kimmich (Bayern Munich).",
+            "short-term": "Pep Guardiola prepares a substitution. Arjen Robben is replaced by Joshua Kimmich (Bayern Munich). The outgoing player received applause from the crowd after a solid performance, while the substitution aimed to add fresh energy to midfield.",
+            "query_ano": "Pep Guardiola prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Jerome Boateng comes off the pitch to be replaced by Javi Martinez (Bayern Munich). The change was likely a tactical adjustment to reinforce the defensive setup.",
+                    "history_time": "16:09",
+                    "long-term": "The coach is actively managing the team's lineup, making strategic substitutions to adapt to the game's progression and inject new energy into the team."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:43",
+            "game_time": "16:30",
+            "query": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post.",
+            "short-term": "The ball is whipped in from the free kick and finds the head of Robert Lewandowski (Bayern Munich), who rises and produces an amazing header inside the right post. His precise positioning and strong header left the goalkeeper with no chance.",
+            "query_ano": "The ball is whipped in from the free kick and finds the head of [PLAYER] ([TEAM]), who rises and produces an amazing header inside the right post.",
+            "history": [
+                {
+                    "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+                    "history_time": "16:28",
+                    "long-term": "They have been posing a significant threat from set pieces, capitalizing on one chance and being denied another by the opposing team's defense."
+                },
+                {
+                    "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+                    "history_time": "14:42",
+                    "long-term": "They have been effective at both ends, scoring from a set-piece and then later conceding a free kick in a dangerous area."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have been posing a significant threat from set pieces, capitalizing on a free kick and almost scoring again from a corner kick."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "They have consistently posed a threat in the attacking third, with talented players displaying clinical finishing and visionary movements that push the opponent's defense to its limits."
+                },
+                {
+                    "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+                    "history_time": "10:38",
+                    "long-term": "The set pieces have been a crucial factor in this match, with both teams creating significant scoring opportunities from free kicks."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "He has been a constant threat in the attacking end, scoring with a fantastic header but also squandering a great chance later on."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have consistently demonstrated strong set-piece capabilities, creating and capitalizing on scoring opportunities through effective positioning and skillful execution."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:31",
+            "game_time": "16:28",
+            "query": "Douglas Costa (Bayern Munich) takes a direct free kick.",
+            "short-term": "Douglas Costa (Bayern Munich) takes a direct free kick. He opted for power, but the shot was blocked before reaching the goal.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a direct free kick.",
+            "history": [
+                {
+                    "short-term": "Jerome Boateng comes off the pitch to be replaced by Javi Martinez (Bayern Munich). The change was likely a tactical adjustment to reinforce the defensive setup.",
+                    "history_time": "16:09",
+                    "long-term": "They have been making tactical adjustments to shore up their defense, while also testing the opponent's goal with powerful attempts."
+                },
+                {
+                    "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+                    "history_time": "14:42",
+                    "long-term": "They have shown inconsistency in set-piece execution, with one attempt blocked and another resulting in a foul, giving the opposition a scoring chance."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense has been effective in blocking their shots."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+                    "history_time": "13:44",
+                    "long-term": "They have been creating scoring opportunities through set pieces and crosses, but the defending side has been able to read and counter their attacks effectively."
+                },
+                {
+                    "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+                    "history_time": "10:38",
+                    "long-term": "Both teams have shown strategic use of free kicks to create scoring opportunities, testing each other's defenses with different approaches."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "They have been creating scoring opportunities through set pieces and in open play, but the opposing goalkeeper has thwarted their efforts."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposition's defense has been effective in neutralizing the threats so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:49",
+            "game_time": "14:42",
+            "query": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick.",
+            "short-term": "The ball spins up and hits the hand of Jerome Boateng (Bayern Munich) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick. The opposition players quickly position themselves to take advantage of the set-piece opportunity.",
+            "query_ano": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul. FC Koln are given an advantage. They have a free kick.",
+            "history": [
+                {
+                    "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+                    "history_time": "14:01",
+                    "long-term": "They have shown inconsistent defensive performance, with moments of brilliance in pressuring opponents but also susceptibility to fair judgments like handball fouls."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+                    "history_time": "13:44",
+                    "long-term": "They have shown inconsistency in their defensive plays, with one miscontrolled ball leading to a foul and another pass attempt getting blocked."
+                },
+                {
+                    "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+                    "history_time": "10:38",
+                    "long-term": "They have been awarded a crucial free kick and are aggressively pushing for a scoring opportunity, attempting to capitalize on set pieces to create chaos in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:19",
+            "game_time": "14:01",
+            "query": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "short-term": "David Alaba (Bayern Munich) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. The defense reacted swiftly to close down the angle and prevent a clear strike on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+                    "history_time": "13:44",
+                    "long-term": "This corner kick comes after a blocked pass deflected off a defender and went out of play, conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+                    "history_time": "12:50",
+                    "long-term": "They have been creating scoring opportunities with shots from outside the box, but the opposing goalkeeper and defense have been making crucial blocks and saves to prevent them from taking the lead. The offense has shown skill and strategy in their attempts, but the defense has matched their efforts."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "They have been posing a significant threat through set pieces and counterattacks, consistently testing the opponent's defense."
+                },
+                {
+                    "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+                    "history_time": "4:48",
+                    "long-term": "They have consistently been putting pressure on the defense with numerous attempts on goal, but the opposition's defensive line has shown impressive resilience in thwarting these efforts."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+                    "history_time": "3:30",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but the defending team's swift reactions and tight defense have so far denied them a goal."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have been consistently putting pressure on the opposing team's defense with set pieces, trying to capitalize on dead-ball situations."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and shots, but the defense has shown resilience in clearing and blocking their attempts."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+                    "history_time": "1:17",
+                    "long-term": "The defense has been solid, consistently anticipating and neutralizing threats from Bayern Munich's attackers."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:07",
+            "game_time": "13:57",
+            "query": "Arjen Robben (Bayern Munich) will try to find the head of one of his teammates from a corner kick.",
+            "short-term": "Arjen Robben (Bayern Munich) will try to find the head of one of his teammates from a corner kick. The delivery is anticipated by the opposing defense, who are well-organized inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have consistently utilized corner kicks as an attacking strategy, but so far, the opposing defense has demonstrated effective anticipation and organization to neutralize these opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:46",
+            "game_time": "13:44",
+            "query": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it.",
+            "short-term": "Arjen Robben (Bayern Munich) tries to send a pass but it's blocked. The linesman points to the corner flag, Bayern Munich are going to take it. The defending side read the play well, cutting off the passing lane before the ball could find its target.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The linesman points to the corner flag, [TEAM] are going to take it.",
+            "history": [
+                {
+                    "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+                    "history_time": "10:38",
+                    "long-term": "Both teams have shown intent in creating attacking opportunities, but their opposing defenses have been solid in thwarting these efforts."
+                },
+                {
+                    "short-term": "Rafinha (Bayern Munich) commits a foul and is shown a yellow card without any hesitation from the referee. The challenge was aggressive, leaving the referee with no doubt about the booking.",
+                    "history_time": "9:55",
+                    "long-term": "They have been applying pressure but struggling to create clear opportunities, and now must be cautious after being shown a yellow card."
+                },
+                {
+                    "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+                    "history_time": "4:48",
+                    "long-term": "He has consistently attempted to create scoring opportunities, despite the defending side's efforts to shut him down."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "The player has consistently been attempting to create scoring opportunities, but the opposing team's defense has been effective in neutralizing his efforts."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick. The opposition's defensive setup forced him wide, cutting off his options.",
+                    "history_time": "3:09",
+                    "long-term": "They have consistently shown the ability to control the pace of the game but have struggled to create scoring opportunities due to the opponent's solid defensive strategies."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "He has been struggling to create scoring opportunities, with his passing efforts being blocked and his crosses into the box being cleared by the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:51",
+            "game_time": "12:50",
+            "query": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!",
+            "short-term": "Timo Horn makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper! The shot had power and precision, but the keeper reacted quickly, diving to his left to parry it away.",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "They have been creating quality chances in front of goal, consistently breaking through the defense but being denied by impressive goalkeeper interventions."
+                },
+                {
+                    "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+                    "history_time": "4:48",
+                    "long-term": "He has consistently posed a threat in the attacking third, forcing the opposing goalkeeper into crucial saves on multiple occasions."
+                },
+                {
+                    "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+                    "history_time": "4:12",
+                    "long-term": "Both goalkeepers have shown impressive reflexes, each making crucial saves to deny the opposing team a goal."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+                    "history_time": "3:30",
+                    "long-term": "They have been creating quality scoring opportunities but the opposition's goalkeeper has been a major obstacle, and their own finishing has been somewhat off-target."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "He has been posing a significant threat on the opposing team's goal, creating a superb chance and forcing a brilliant save from the keeper."
+                },
+                {
+                    "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+                    "history_time": "2:45",
+                    "long-term": "The goalkeeper has been impressive, making crucial saves to deny the opposing team's threatening long-range efforts and keeping his team in the game."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "He has been a constant threat on the opposition's goal, producing a number of quality efforts that have tested the keeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:15",
+            "game_time": "10:38",
+            "query": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box.",
+            "short-term": "Frederik Sorensen (Koln) decides to speed play up by quickly sending the free kick into the box. The quick restart caught the opposition slightly off-guard, but the defense regrouped in time to clear the danger.",
+            "query_ano": "[PLAYER] decides to speed play up by quickly sending the free kick into the box.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "Both teams have shown strategic awareness, attempting to catch each other off-guard with quick transitions and set pieces, but the defensive units have so far managed to neutralize these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:36",
+            "game_time": "7:58",
+            "query": "Robert Lewandowski (Bayern Munich) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Timo Horn.",
+            "short-term": "Robert Lewandowski (Bayern Munich) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Timo Horn. The attempt lacked the usual precision and venom, allowing the keeper to collect it comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+                    "history_time": "7:14",
+                    "long-term": "He has been a constant threat in the attacking third, creating scoring opportunities but struggling to find the clinical finish."
+                },
+                {
+                    "short-term": "Kingsley Coman (Bayern Munich) produces an awful long-range shot that goes high and wide. The attempt lacked precision, and the defending side was untroubled by the effort.",
+                    "history_time": "6:00",
+                    "long-term": "They have been struggling to create meaningful scoring opportunities, with their recent attempts on goal lacking precision and power."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:16",
+            "game_time": "7:14",
+            "query": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort.",
+            "short-term": "Robert Lewandowski (Bayern Munich) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort. The forward had been constantly active in attack, always looking for space to exploit.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort.",
+            "history": [
+                {
+                    "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+                    "history_time": "4:48",
+                    "long-term": "They have been consistently testing the opposing team's defense with their attacking plays, but have yet to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+                    "history_time": "4:12",
+                    "long-term": "Both teams have created clear-cut chances in front of goal, but the goalkeepers have been up to the task, showcasing impressive reflexes to deny their opponents."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+                    "history_time": "3:30",
+                    "long-term": "They have been creating quality scoring chances but struggling to capitalize on them due to a combination of good goalkeeping and poor finishing."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense and goalkeeper have been up to the task of neutralizing their attacks."
+                },
+                {
+                    "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+                    "history_time": "2:45",
+                    "long-term": "They have been posing a significant threat in the attacking third, creating quality chances but the goalkeeper's interventions have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "They have been consistently threatening the opposition's goal, creating several scoring opportunities through their swift attacking play."
+                },
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+                    "history_time": "1:27",
+                    "long-term": "They have been consistently testing the opposition's defense, but struggling to capitalize on scoring chances and make the most of set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "04:50",
+            "game_time": "4:48",
+            "query": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack.",
+            "short-term": "Half-chance! Arjen Robben (Bayern Munich) plays a pass into the box, but Timo Horn reacts well to snuff out the attack. The defensive positioning was solid, ensuring there was no real danger.",
+            "query_ano": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but [PLAYER] reacts well to snuff out the attack.",
+            "history": [
+                {
+                    "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+                    "history_time": "4:12",
+                    "long-term": "Both teams have shown intent in front of goal but have been let down by the final execution, with the goalkeepers being tested but ultimately untroubled."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+                    "history_time": "3:30",
+                    "long-term": "They have been creating opportunities but struggling to capitalize, with solid defensive work from the opposition limiting their scoring chances."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "The player has been trying to create opportunities for his team, but the opponent's defense has been solid, neutralizing his attacking efforts."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick. The opposition's defensive setup forced him wide, cutting off his options.",
+                    "history_time": "3:09",
+                    "long-term": "They have shown flashes of brilliance on the attack, but the opposing defense has been solid, limiting their scoring opportunities."
+                },
+                {
+                    "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+                    "history_time": "2:45",
+                    "long-term": "The goalkeeper has been alert and well-positioned, making crucial saves to neutralize promising attacking plays."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "He has been consistently attempting to create scoring opportunities with his passes and crosses, but the opposition's defense has been solid in handling the threats."
+                },
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+                    "history_time": "1:27",
+                    "long-term": "They have shown good defensive organization, neutralizing threats from opposition attackers through effective positioning and strategic decision-making."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+                    "history_time": "1:17",
+                    "long-term": "They have consistently shown solid defensive positioning and awareness, neutralizing threatening attacks and preventing potential scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "04:14",
+            "game_time": "4:12",
+            "query": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save.",
+            "short-term": "Matthias Lehmann (1. FC Koln) tries his luck with a long-range effort after receiving a precise pass, but Manuel Neuer has a clear view of it and makes a comfortable save. The shot lacked power, making it an easy stop for the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a long-range effort after receiving a precise pass, but [PLAYER] has a clear view of it and makes a comfortable save.",
+            "history": [
+                {
+                    "short-term": "Timo Horn makes a save to deny the long-range effort from Arturo Vidal (Bayern Munich) towards the middle of the goal. The shot had some power, but it was too central to trouble the keeper.",
+                    "history_time": "2:45",
+                    "long-term": "Both teams have been testing each other's defenses with long-range efforts, but the goalkeepers have been equal to the task, making key saves to deny any potential breakthroughs."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:47",
+            "game_time": "3:30",
+            "query": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "short-term": "David Alaba (Bayern Munich) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The defense allowed little space, forcing a rushed shot.",
+            "query_ano": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+                    "history_time": "3:26",
+                    "long-term": "They have been creating opportunities from set pieces, but so far, the finishing has been off the mark, with the opposing defense doing well to limit their chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:40",
+            "game_time": "3:26",
+            "query": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "short-term": "Arjen Robben (Bayern Munich) goes over to take a corner kick after one of the defenders makes a good clearance. The defending side remained alert, denying a potential scoring chance.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick. The opposition's defensive setup forced him wide, cutting off his options.",
+                    "history_time": "3:09",
+                    "long-term": "He has been actively involved in creating attacking opportunities for his team, but the opposition's defense has been able to neutralize his efforts so far."
+                },
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "He has been consistently posing threats from the flanks, but the opposition's defense has been equally up to the task, effectively neutralizing his crosses and corners."
+                },
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+                    "history_time": "1:27",
+                    "long-term": "They have consistently utilized corner kicks to create scoring opportunities, but so far, the opposing defense has dealt with these threats effectively."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+                    "history_time": "1:17",
+                    "long-term": "The defensive side has shown impressive alertness and awareness in crucial moments, consistently denying potential scoring chances from the opponents."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:13",
+            "game_time": "3:09",
+            "query": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick.",
+            "short-term": "Arjen Robben (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Bayern Munich have been awarded a corner kick. The opposition's defensive setup forced him wide, cutting off his options.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+                    "history_time": "1:37",
+                    "long-term": "He has been making efforts to create attacking opportunities with his solo runs and crosses, but the opposition's defense has been effective in neutralizing his threats."
+                },
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+                    "history_time": "1:27",
+                    "long-term": "The opposition's defense has been solid, consistently limiting the attacking opportunities for Bayern Munich's players."
+                }
+            ]
+        },
+        {
+            "gameTime": "01:56",
+            "game_time": "1:37",
+            "query": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The delivery had good pace, but the defense was well-positioned to deal with it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+                    "history_time": "1:27",
+                    "long-term": "They have been consistently testing the opposition's defense with clever deliveries, but so far, the opposing team has managed to effectively clear the threats."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+                    "history_time": "1:17",
+                    "long-term": "They have been consistently testing the opposition's defense with well-crafted crosses and passes, but have yet to break through due to some stellar defensive plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "01:44",
+            "game_time": "1:27",
+            "query": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box.",
+            "short-term": "Thomas Muller (Bayern Munich) decides to take a short corner instead of crossing into the box. The opposition defense remained compact, limiting passing options.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+            "history": [
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). Bayern Munich force their opponents to concede a corner. The defensive awareness was crucial in preventing a potential scoring chance.",
+                    "history_time": "1:17",
+                    "long-term": "He has been attempting to create scoring opportunities through corner plays, but the opposition's solid defense has been a significant obstacle."
+                }
+            ]
+        }
+    ]
+}

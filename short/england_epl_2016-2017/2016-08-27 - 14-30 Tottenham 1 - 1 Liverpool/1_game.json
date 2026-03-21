@@ -1,0 +1,123 @@
+{
+    "annotations": [
+        {
+            "query": "Dele Alli (Tottenham) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box well wide of the left post.",
+            "game_time": "12:08",
+            "short-term": "Dele Alli holds his head in his hands after wasting a promising chance. He reacted first to a loose ball and managed to create some space, but his half-volley from the edge of the box was difficult to control and went well wide of the left post.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box well wide of the left post."
+        },
+        {
+            "query": "Philippe Coutinho (Liverpool) is caught offside after the linesman raises his flag.",
+            "game_time": "13:42",
+            "short-term": "Philippe Coutinho is caught offside after the linesman raises his flag. The team had been looking to break quickly, using pace to stretch the opposition’s defense.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside after the linesman raises his flag."
+        },
+        {
+            "query": "Nathaniel Clyne (Liverpool) fizzes over a cross which doesn't cause any problems.",
+            "game_time": "16:09",
+            "short-term": "Nathaniel Clyne fizzes over a cross which doesn't cause any problems. A chance had fallen to an attacker moments earlier, but the opportunity wasn’t taken.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems."
+        },
+        {
+            "query": "Philippe Coutinho (Liverpool) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post.",
+            "game_time": "17:07",
+            "short-term": "Philippe Coutinho makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post. His usual technique of curling shots into the far corner didn’t come off this time.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post."
+        },
+        {
+            "query": "Jordan Henderson (Liverpool) commits a rough foul. Robert Madley stops the game and makes a call.",
+            "game_time": "18:53",
+            "short-term": "Jordan Henderson commits a rough foul, leading the referee to stop the game and make a call. The challenge was firm, but there was no serious protest from either side.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+        },
+        {
+            "query": "Christian Eriksen (Tottenham) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+            "game_time": "22:02",
+            "short-term": "Christian Eriksen swings in a promising cross from the free kick, but a defender does a perfect job to clear the danger. A well-timed run into the box nearly made the difference.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "query": "Michel Vorm makes a brilliant save! Philippe Coutinho (Liverpool) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes straight under the crossbar but is saved by the keeper! The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "game_time": "22:34",
+            "short-term": "Michel Vorm makes a brilliant save! Philippe Coutinho weaves through the defense and fires a shot under the crossbar, but the keeper reacts quickly to tip it over. The resulting corner gives the team another opportunity to attack.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes straight under the crossbar but is saved by the keeper! The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "query": "Mauricio Pochettino is forced to make a change. Kyle Walker is unable to continue due to injury, Vincent Janssen (Tottenham) comes on.",
+            "game_time": "27:09",
+            "short-term": "Mauricio Pochettino is forced to make a change as Kyle Walker is unable to continue due to injury. Vincent Janssen comes on, bringing fresh legs into the game.",
+            "label": "substitution",
+            "query_ano": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "query": "Sadio Mane (Liverpool) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision.",
+            "game_time": "31:55",
+            "short-term": "Sadio Mane is shown a yellow card by the referee for making a challenge on his opponent, but he looks frustrated with the decision.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+        },
+        {
+            "query": "Sadio Mane (Liverpool) makes a strong challenge and Robert Madley blows for a foul.",
+            "game_time": "33:55",
+            "short-term": "Sadio Mane makes a strong challenge and Robert Madley blows for a foul. The opposing player positioned himself well, drawing the contact and leading to the referee’s decision.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "query": "The ball is out of play. Liverpool will have a throw-in.",
+            "game_time": "38:02",
+            "short-term": "The ball is out of play. Liverpool will have a throw-in. A defender did just enough to clear the dange.",
+            "label": "other",
+            "query_ano": "The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "query": "Sadio Mane (Liverpool) starts his run too early and the referee blows for offside.",
+            "game_time": "39:59",
+            "short-term": "Sadio Mane starts his run too early and the referee blows for offside. The timing of the pass was just a fraction late, leading to the offside call from the assistant referee.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside."
+        },
+        {
+            "query": "Philippe Coutinho (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "game_time": "41:25",
+            "short-term": "Philippe Coutinho tries to slide the ball through to a teammate but it's well blocked by a defender. The defensive line held firm, cutting off the passing lane before any danger developed.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "query": "Erik Lamela (Tottenham) brings his opponent down. Robert Madley has a clear sight of it and blows his whistle for a foul. Liverpool are awarded a penalty kick!",
+            "game_time": "41:54",
+            "short-term": "Erik Lamela brings his opponent down. Robert Madley has a clear sight of it and blows his whistle for a foul. Liverpool are awarded a penalty kick! The attacking player had done well to get into position, forcing the challenge inside the box.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] are awarded a penalty kick!"
+        },
+        {
+            "query": "James Milner (Liverpool) is heading towards the penalty spot to take it.",
+            "game_time": "42:45",
+            "short-term": "James Milner is heading towards the penalty spot to take it. Despite other attacking players being available, he steps up with confidence to take responsibility for the spot-kick.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "query": "Goal! James Milner (Liverpool) slams home the penalty with a precise low shot into the bottom left corner.",
+            "game_time": "42:47",
+            "short-term": "Goal! James Milner slams home the penalty with a precise low shot into the bottom left corner. The goalkeeper was sent the wrong way as Liverpool take the lead.",
+            "label": "goal",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) slams home the penalty with a precise low shot into the bottom left corner."
+        },
+        {
+            "query": "Philippe Coutinho (Liverpool) is literally asking for a yellow card with his behaviour. The referee agrees and books him.",
+            "game_time": "45:35",
+            "short-term": "Philippe Coutinho is literally asking for a yellow card with his behaviour. The referee agrees and books him. He failed to move out of the way before the free kick was taken, disrupting play and forcing the official to take action.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        }
+    ]
+}

@@ -1,0 +1,793 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:13",
+            "game_time": "44:13",
+            "query": "Arjen Robben (Bayern Munich) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Arjen Robben looks to break free, but an opposing player clears the ball away. Robben had been relentless in attack, probing for an opening, but CSKA's defense held firm in this instance, ensuring he couldn't cut inside for his signature left-footed strike.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben amazingly found his way through the defence, weaving past defenders with his trademark dribbling, but lacked a precise finish as his effort from close range went slightly over the crossbar. He seemed to smile at himself after the miss, aware that he should have done better.",
+                    "history_time": "43:26",
+                    "long-term": "He consistently tested the defense with his runs and clever footwork, creating chances but lacked the clinical finish needed to capitalize on them."
+                },
+                {
+                    "short-term": "Arjen Robben swings in the corner, but it's comfortably cleared away. The delivery was well-placed, yet the defense was alert and quickly cleared the ball before any Bayern player could capitalize on the opportunity.",
+                    "history_time": "37:48",
+                    "long-term": "They have consistently tested the opponent's defense with probing attacks and creative set pieces, but have yet to find the breakthrough."
+                },
+                {
+                    "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+                    "history_time": "37:21",
+                    "long-term": "He has been posing a constant threat to the opponent's defense with his relentless attacking moves, although their solid defensive plays have limited his chances so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:26",
+            "game_time": "43:26",
+            "query": "Arjen Robben (Bayern Munich) amazingly found his way through the defence, but lacked a precise finish as his effort from close range went slightly over the crossbar.",
+            "short-term": "Arjen Robben amazingly found his way through the defence, weaving past defenders with his trademark dribbling, but lacked a precise finish as his effort from close range went slightly over the crossbar. He seemed to smile at himself after the miss, aware that he should have done better.",
+            "query_ano": "[PLAYER] ([TEAM]) amazingly found his way through the defence, but lacked a precise finish as his effort from close range went slightly over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben swings in the corner, but it's comfortably cleared away. The delivery was well-placed, yet the defense was alert and quickly cleared the ball before any Bayern player could capitalize on the opportunity.",
+                    "history_time": "37:48",
+                    "long-term": "He has been a creative force, displaying his skillful dribbling and quality delivery, but accuracy in front of goal has been lacking so far."
+                },
+                {
+                    "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+                    "history_time": "37:21",
+                    "long-term": "He consistently displayed exceptional skill on the ball, unlocking the defense on multiple occasions, but the final touch or decision let him down, highlighting both his creative threat and a need for precision in the attacking third."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "He has been a creative force on the field, opening up opportunities with his exceptional dribbling skills and set pieces, even if the end product has been lacking at times."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:43",
+            "game_time": "39:43",
+            "query": "Mario Fernandes (CSKA Moscow) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Mario Fernandes is forced to stop his attacking move after the linesman signals for offside. CSKA were still pushing forward, trying to find a way back into the match, but their timing in the final third was slightly off.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze is forced to stop his attacking move after the linesman signals for offside. The decision was close, but the assistant referee raised the flag without hesitation.",
+                    "history_time": "23:08",
+                    "long-term": "They have consistently struggled with offside decisions, halting multiple promising attacks due to mistimed runs."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:26",
+            "game_time": "38:26",
+            "query": "Bastian Schweinsteiger showcases his great technique and produces a beautiful lofted cross into the box. Sebastian Rode (Bayern Munich) meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. It's 2:0.",
+            "short-term": "Bastian Schweinsteiger showcases his great technique and produces a beautiful lofted cross into the box. Sebastian Rode meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. The goal was reminiscent of their Bundesliga connection, with Schweinsteiger providing an almost identical assist in a previous league match.",
+            "query_ano": "[PLAYER] showcases his great technique and produces a beautiful lofted cross into the box. [PLAYER] ([TEAM]) meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. It's 2:0.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+                    "history_time": "37:21",
+                    "long-term": "They have consistently demonstrated exceptional skill and strategic playmaking, showcasing their ability to create scoring opportunities through precise crosses and sharp vision on the field."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "He has been consistently demonstrating his exceptional skill, creating a goal and nearly scoring another, showcasing his creativity and technique in attacking situations."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, reaping rewards from their precise deliveries into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:48",
+            "game_time": "37:48",
+            "query": "Arjen Robben (Bayern Munich) swings in the corner, but it's comfortably cleared away.",
+            "short-term": "Arjen Robben swings in the corner, but it's comfortably cleared away. The delivery was well-placed, yet the defense was alert and quickly cleared the ball before any Bayern player could capitalize on the opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+                    "history_time": "37:21",
+                    "long-term": "The player has consistently posed a threat from the flanks, delivering precise crosses and creating opportunities for his teammates, but the defense has so far managed to neutralize his efforts."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have been consistently threatening from set pieces, but the opposing defense has shown great resilience in dealing with these dangerous situations."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "They have consistently threatened from set pieces, particularly corners, but the opposing defense has been equally effective in clearing these deliveries."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:21",
+            "game_time": "37:21",
+            "query": "Arjen Robben (Bayern Munich) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. Bayern Munich have been awarded a corner kick.",
+            "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+            "query_ano": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have consistently displayed sharp vision in creating attacking opportunities, but the opposing defense has shown equal anticipation and skill in neutralizing these threats."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "They have consistently created scoring opportunities, but the opposing team's defenders have shown excellent anticipation and timing to neutralize the threats."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "They consistently demonstrated exceptional defensive skills, effectively neutralizing several attacking threats through anticipation and precise headers."
+                },
+                {
+                    "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+                    "history_time": "26:11",
+                    "long-term": "He has consistently shown exceptional vision and skill on the field, creating scoring opportunities for his team despite being thwarted by impressive defensive plays."
+                },
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have consistently shown sharp vision and swift footwork in their attacking attempts, but the opposing defense has matched their intensity with impressive anticipation and timely interceptions."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:11",
+            "game_time": "33:11",
+            "query": "What a chance that is! Robert Lewandowski (Bayern Munich) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post!",
+            "short-term": "What a chance that is! Robert Lewandowski wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post! He struck the ball cleanly, but the angle was tight, and luck was not on his side this time.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post!",
+            "history": [
+                {
+                    "short-term": "Zoran Tosic receives a precise pass on the edge of the box and bends his effort inches wide of the left post. It was CSKA’s best attempt in the second half, but he couldn’t quite curl it inside the target.",
+                    "history_time": "32:01",
+                    "long-term": "They have been creating quality scoring opportunities, but their finishing has let them down with both Lewandowski and Tosic narrowly missing the target."
+                },
+                {
+                    "short-term": "Robert Lewandowski picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Igor Akinfeev. The striker found space, but his effort lacked the usual venom, making it an easy save for the keeper.",
+                    "history_time": "30:07",
+                    "long-term": "He has had a couple of golden opportunities but hasn't been able to capitalize on them, struggling to find the precision and power needed to score."
+                },
+                {
+                    "short-term": "Jerome Boateng blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball took a slight deflection, making it even harder to control the shot.",
+                    "history_time": "29:15",
+                    "long-term": "They have been creating quality chances but struggling to capitalize, with their efforts either hitting the post or going narrowly wide."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them due to a combination of defensive resilience and a lack of precision in their finishing."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "They have been creating quality scoring chances but struggling to find the back of the net due to a combination of bad luck and solid defensive plays."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating quality chances but struggling to find the back of the net due to a combination of bad luck and tricky angles."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "They have been creating quality scoring opportunities but struggling to find the back of the net due to a combination of luck and strong defensive plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:01",
+            "game_time": "32:01",
+            "query": "Zoran Tosic (CSKA Moscow) receives a precise pass on the edge of the box and bends his effort inches wide of the left post.",
+            "short-term": "Zoran Tosic receives a precise pass on the edge of the box and bends his effort inches wide of the left post. It was CSKA’s best attempt in the second half, but he couldn’t quite curl it inside the target.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and bends his effort inches wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Alan Dzagoev takes the resulting free kick from outside the box. He sends a nice cross into the box, but his delivery was too close to the goal. The goalkeeper confidently comes out to claim the ball before any attacker can reach it.",
+                    "history_time": "30:57",
+                    "long-term": "They have been creating scoring opportunities with precise passes and free kicks, but the final execution has been lacking."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have been creating scoring opportunities, with CSKA coming close to finding the net and the opponent displaying a solid defensive performance, particularly in aerial battles."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "They have been creating scoring opportunities with precise passes, but have been unable to capitalize on them due to narrow misses and strong defensive blocks."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "Both teams have shown promising attacking intent, with efforts from Zoran Tosic and a well-delivered corner from Arjen Robben testing the defenses, but ultimate precision in the final touch has eluded them."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating scoring opportunities with precise passes, but struggling to find the target with their shots, missing the post by inches on multiple occasions."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:57",
+            "query": "Alan Dzagoev takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "short-term": "Alan Dzagoev takes the resulting free kick from outside the box. He sends a nice cross into the box, but his delivery was too close to the goal. The goalkeeper confidently comes out to claim the ball before any attacker can reach it.",
+            "query_ano": "[PLAYER] takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but the opposing team's defense has been solid in dealing with these threats."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "They have been creating scoring opportunities with well-executed set pieces, but the opposing team's defense has been doing just enough to neutralize these threats."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but the opposing team's defense has been solid in clearing these threats."
+                },
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have been creating scoring opportunities through set pieces, consistently delivering the ball into the box, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating scoring opportunities with well-executed set pieces and passes into the box, but are struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Roman Eremenko swings in a cross, but the ball is cleared to safety by one of the defending players. The cross had good pace, but Bayern's defense was well-positioned to deal with it.",
+                    "history_time": "17:05",
+                    "long-term": "They have been consistently utilizing crosses to create scoring opportunities, but the opposing team's defense has been well-organized to counter them."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:39",
+            "game_time": "30:39",
+            "query": "Olegario Benquerenca blows the whistle, Jerome Boateng (Bayern Munich) is penalised for a foul. CSKA Moscow earn a free kick.",
+            "short-term": "Olegario Benquerenca blows the whistle, Jerome Boateng is penalized for a foul. The decision seemed slightly harsh as Boateng was battling for position, but the referee saw enough contact to award a free kick.",
+            "query_ano": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] earn a free kick.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger is in a clear offside position and the referee blows his whistle after the linesman raises his flag. A well-timed defensive line movement caught him just ahead of play.",
+                    "history_time": "27:12",
+                    "long-term": "The referee has been actively enforcing the rules, making strict calls on fouls and offside positions to maintain the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:15",
+            "game_time": "29:15",
+            "query": "Jerome Boateng (Bayern Munich) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "short-term": "Jerome Boateng blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball took a slight deflection, making it even harder to control the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+                    "history_time": "28:50",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them, with their opponents' defense looking solid so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:50",
+            "game_time": "28:50",
+            "query": "Bastian Schweinsteiger (Bayern Munich) takes the corner kick but the ball only finds the head of an opponent.",
+            "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+                    "history_time": "28:21",
+                    "long-term": "They have consistently threatened the opponent's goal through set pieces and forward passes, but the defense has so far prevented them from capitalizing on these opportunities."
+                },
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "The team's set pieces have been well-defended by their opponents, with the deliveries being met by strong, decisive headers that neutralized the attacking threat. They have struggled to capitalize on corner kicks."
+                },
+                {
+                    "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+                    "history_time": "26:11",
+                    "long-term": "They have been consistently posing threats through set pieces and individual efforts, testing the opponent's defense with creative attacking plays."
+                },
+                {
+                    "short-term": "Mario Gotze rolls the ball short to a teammate from the corner instead of sending a cross into the box. Bayern attempt a quick combination play, but the defense reacts swiftly.",
+                    "history_time": "25:47",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, with the opposition defense looking solid in dealing with these situations."
+                },
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "The team has been consistently pressuring their opponents with skilled plays and corner kicks, but their opponents' defense has shown considerable resilience in handling these threats."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has been lacking, with the defense thwarting their aerial threats and shots going narrowly off target."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "The team's set pieces and shots from distance have been well-defended by the opposition, neutralizing their attacking threats. They are struggling to create clear-cut chances due to the solid defensive display."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:21",
+            "game_time": "28:21",
+            "query": "Bastian Schweinsteiger (Bayern Munich) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Bayern Munich will take a corner kick.",
+            "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+                    "history_time": "26:44",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid in blocking their shots and clearing the ball from danger. The attacking pressure is there, but so far, the defense has managed to cope with it."
+                },
+                {
+                    "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+                    "history_time": "26:11",
+                    "long-term": "They have been creating scoring opportunities with skillful plays inside the box, but the opposing defense has come up with crucial blocks and saves to deny them."
+                },
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have been creating scoring opportunities, but the opposing defense has done well to block their efforts and concede only corner kicks."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating scoring opportunities, but struggling to find the back of the net due to well-timed defensive blocks and narrow misses."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "They have been creating scoring opportunities, but the defense has been effective in blocking their shots and denying clear goals."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:12",
+            "game_time": "27:12",
+            "query": "Bastian Schweinsteiger (Bayern Munich) is in a clear offside position and the referee blows his whistle after the linesman raises his flag.",
+            "short-term": "Bastian Schweinsteiger is in a clear offside position and the referee blows his whistle after the linesman raises his flag. A well-timed defensive line movement caught him just ahead of play.",
+            "query_ano": "[PLAYER] ([TEAM]) is in a clear offside position and the referee blows his whistle after the linesman raises his flag.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze is forced to stop his attacking move after the linesman signals for offside. The decision was close, but the assistant referee raised the flag without hesitation.",
+                    "history_time": "23:08",
+                    "long-term": "The attacking side has been struggling with offside traps, having two potential scoring opportunities called back due to well-executed defensive line movements."
+                },
+                {
+                    "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+                    "history_time": "15:55",
+                    "long-term": "They have been struggling with offside traps, as multiple players are getting caught ahead of the defensive line, hindering their attacking momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:44",
+            "game_time": "26:44",
+            "query": "Arjen Robben (Bayern Munich) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+            "query_ano": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "history": [
+                {
+                    "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+                    "history_time": "26:11",
+                    "long-term": "He has been posing a significant threat with his skillful plays, creating a promising chance from a corner and testing the goalkeeper with a daring run."
+                },
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have consistently shown skill in their set pieces and individual dribbling, but the opposing team's defense has effectively countered these efforts."
+                },
+                {
+                    "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+                    "history_time": "23:49",
+                    "long-term": "They have been creating scoring opportunities through set pieces and counterattacks, but so far, the defending team has shown solidity to clear the danger."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "The team's defense has been solid, consistently anticipating and neutralizing threats with precise clearances and quick reactions to opposition attacks."
+                },
+                {
+                    "short-term": "Robert Lewandowski is first to the rebound and sends a header goalwards but it's blocked. The goalkeeper reacted quickly, preventing what could have been a sure goal.",
+                    "history_time": "13:20",
+                    "long-term": "They have been consistently threatening from set pieces, but the opposing team's defense has been solid in dealing with the aerial challenges."
+                },
+                {
+                    "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+                    "history_time": "13:13",
+                    "long-term": "He has been posing a threat with his deliveries and individual efforts, consistently testing the defense with precise crosses and sharp shooting."
+                },
+                {
+                    "short-term": "Arjen Robben leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort. Robben found space, but the keeper reacted superbly.",
+                    "history_time": "6:01",
+                    "long-term": "He has been posing a threat from set pieces, delivering a corner that was cleared and later nearly scoring with a header that was expertly saved."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:11",
+            "game_time": "26:11",
+            "query": "Arjen Robben (Bayern Munich) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a decent save to deny his effort directed to the bottom right corner. It will be a corner kick for Bayern Munich.",
+            "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a decent save to deny his effort directed to the bottom right corner. It will be a corner kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have shown incredible pace and agility in their attacking runs, constantly testing the opposing defense and creating chances through individual skill."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:47",
+            "game_time": "25:47",
+            "query": "Mario Gotze (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "short-term": "Mario Gotze rolls the ball short to a teammate from the corner instead of sending a cross into the box. Bayern attempt a quick combination play, but the defense reacts swiftly.",
+            "query_ano": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+                    "history_time": "25:34",
+                    "long-term": "They have been attempting to create scoring opportunities through combination plays and speedy breaks, but the defense has consistently reacted quickly to counter their efforts."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "They have been consistently testing the defense with combination plays and individual efforts, trying to find a breakthrough in the opponent's tight defensive setup."
+                },
+                {
+                    "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+                    "history_time": "15:55",
+                    "long-term": "They have been trying to break through the defense with quick plays, but so far, the timing of their attacks has been off."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:34",
+            "game_time": "25:34",
+            "query": "Mario Gotze looks to break free, but an opposing player clears the ball away. The ball goes out of play. Bayern Munich are awarded a corner kick.",
+            "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+            "query_ano": "[PLAYER] looks to break free, but an opposing player clears the ball away. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze is forced to stop his attacking move after the linesman signals for offside. The decision was close, but the assistant referee raised the flag without hesitation.",
+                    "history_time": "23:08",
+                    "long-term": "He has shown flashes of brilliance with his footwork but has struggled to create a clear scoring opportunity due to solid defensive plays and a close offside call."
+                },
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "He has been consistently threatening the defense with his sharp footwork and shooting attempts, but the opposing team's defense has been equally effective in intercepting and blocking."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:49",
+            "game_time": "23:49",
+            "query": "Ahmed Musa (CSKA Moscow) receives a precise pass inside the box and takes a shot that flies just wide of the left post.",
+            "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass inside the box and takes a shot that flies just wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+                    "history_time": "18:30",
+                    "long-term": "They have been creating scoring opportunities, but the finishing and positioning on the shots are not accurate enough to find the target."
+                },
+                {
+                    "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+                    "history_time": "13:13",
+                    "long-term": "Both teams have created high-quality scoring opportunities, showcasing their attacking prowess, but goalkeepers have been crucial in preventing more goals from being scored."
+                },
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "He has been posing a threat on the opposition's defense with two close chances, showing impressive power and intent in his attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:08",
+            "game_time": "23:08",
+            "query": "Mario Gotze (Bayern Munich) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Mario Gotze is forced to stop his attacking move after the linesman signals for offside. The decision was close, but the assistant referee raised the flag without hesitation.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+                    "history_time": "15:55",
+                    "long-term": "He has consistently struggled with timing his runs, being called offside multiple times and failing to create scoring opportunities."
+                },
+                {
+                    "short-term": "Arjen Robben is forced to stop his attacking move after the linesman signals for offside. The decision was tight, whether he was actually level with the last defender.",
+                    "history_time": "10:42",
+                    "long-term": "They have consistently been testing the defensive line, with two crucial offside decisions going against them."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:30",
+            "game_time": "18:30",
+            "query": "This shall not pass! Mario Gotze (Bayern Munich) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+                    "history_time": "15:55",
+                    "long-term": "He has been struggling to break through the defense, with his attempts consistently being shut down by the opposition's quick reactions and his own mistimed movements."
+                },
+                {
+                    "short-term": "Robert Lewandowski is first to the rebound and sends a header goalwards but it's blocked. The goalkeeper reacted quickly, preventing what could have been a sure goal.",
+                    "history_time": "13:20",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, consistently blocking shots and protecting their goal."
+                },
+                {
+                    "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+                    "history_time": "13:13",
+                    "long-term": "They have been creating scoring opportunities with individual efforts, but the opposing team's defense has been responding effectively to neutralize the threats."
+                },
+                {
+                    "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+                    "history_time": "5:23",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, effectively neutralizing their attacking threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:30",
+            "game_time": "17:30",
+            "query": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball.",
+            "short-term": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball. Neuer’s positioning allowed him to claim the ball confidently.",
+            "query_ano": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Roman Eremenko swings in a cross, but the ball is cleared to safety by one of the defending players. The cross had good pace, but Bayern's defense was well-positioned to deal with it.",
+                    "history_time": "17:05",
+                    "long-term": "They have been consistently testing Bayern's defense with well-delivered crosses, but the opposing team's goalkeeper and defenders have been up to the task so far."
+                },
+                {
+                    "short-term": "Bibras Natcho swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery had good pace, but Bayern’s defenders anticipated it well.",
+                    "history_time": "6:47",
+                    "long-term": "They have consistently utilized corner kicks to create scoring opportunities, but have been unable to capitalize on these chances due to strong defensive anticipation."
+                },
+                {
+                    "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+                    "history_time": "3:36",
+                    "long-term": "They have been consistently threatening from set-pieces, but the opposition's defense and goalkeeper have been solid in denying them scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:05",
+            "game_time": "17:05",
+            "query": "Roman Eremenko (CSKA Moscow) swings in a cross, but the ball is cleared to safety by one of the defending players. CSKA Moscow have been awarded a corner kick.",
+            "short-term": "Roman Eremenko swings in a cross, but the ball is cleared to safety by one of the defending players. The cross had good pace, but Bayern's defense was well-positioned to deal with it.",
+            "query_ano": "Roman Eremenko ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+                    "history_time": "4:51",
+                    "long-term": "They have been consistently using crosses to attempt to break through the defense, but so far, the opposing team's backline has been up to the task, effectively clearing the threats."
+                },
+                {
+                    "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+                    "history_time": "3:36",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses and set pieces, but the opposing team's defense has been up to the task, effectively neutralizing these threats."
+                },
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with well-delivered crosses into the box, but the opposing defense has been equally effective in clearing the danger."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:55",
+            "game_time": "15:55",
+            "query": "Mario Gotze (Bayern Munich) starts his run too early and the referee blows for offside.",
+            "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski is first to the rebound and sends a header goalwards but it's blocked. The goalkeeper reacted quickly, preventing what could have been a sure goal.",
+                    "history_time": "13:20",
+                    "long-term": "They have been pushing forward aggressively, though struggling to capitalize on scoring opportunities due to slight miscalculations."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:20",
+            "game_time": "13:20",
+            "query": "Robert Lewandowski (Bayern Munich) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition.",
+            "short-term": "Robert Lewandowski is first to the rebound and sends a header goalwards but it's blocked. The goalkeeper reacted quickly, preventing what could have been a sure goal.",
+            "query_ano": "[PLAYER] ([TEAM]) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition.",
+            "history": [
+                {
+                    "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+                    "history_time": "13:13",
+                    "long-term": "The keepers have been crucial in this match, making key saves to deny the opposing team's top players from scoring. Their excellent reflexes have kept the game closely contested."
+                },
+                {
+                    "short-term": "Arjen Robben leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort. Robben found space, but the keeper reacted superbly.",
+                    "history_time": "6:01",
+                    "long-term": "They have been consistently threatening the goal with headers from crosses and rebounds, testing the goalkeeper's reflexes multiple times."
+                },
+                {
+                    "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+                    "history_time": "5:23",
+                    "long-term": "He has been posing a significant threat in the box, testing the goalkeeper with multiple dangerous attempts."
+                },
+                {
+                    "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+                    "history_time": "4:51",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with a notable close call and a missed chance due to an overhit delivery."
+                },
+                {
+                    "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+                    "history_time": "2:58",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on rebounds and finishing under defensive pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:13",
+            "game_time": "13:13",
+            "query": "Igor Akinfeev makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the middle of the goal but is saved by the keeper!",
+            "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+            "query_ano": "Igor Akinfeev makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the middle of the goal but is saved by the keeper!",
+            "history": [
+                {
+                    "short-term": "Arjen Robben leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort. Robben found space, but the keeper reacted superbly.",
+                    "history_time": "6:01",
+                    "long-term": "The player has been consistently threatening the goal, testing the keeper with multiple quality chances that required impressive saves to deny him."
+                },
+                {
+                    "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+                    "history_time": "5:23",
+                    "long-term": "Igor Akinfeev has been a game-changer, consistently displaying exceptional reflexes and shot-stopping ability to deny opposition scoring chances. His saves have been crucial in preventing the opposing team from taking the lead."
+                },
+                {
+                    "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+                    "history_time": "4:51",
+                    "long-term": "They have been putting pressure on the opposing team's defense with creative plays, but their finishing and delivery into the box need improvement."
+                },
+                {
+                    "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+                    "history_time": "2:58",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper's exceptional skills and their own hasty decision-making have prevented them from finding the back of the net."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:47",
+            "game_time": "6:47",
+            "query": "Bibras Natcho (CSKA Moscow) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "short-term": "Bibras Natcho swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery had good pace, but Bayern’s defenders anticipated it well.",
+            "query_ano": "Bibras Natcho ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "history": [
+                {
+                    "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+                    "history_time": "3:36",
+                    "long-term": "They have consistently shown a threat from set pieces, but the opposing defense has been well-prepared to counter the danger so far."
+                },
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "They have consistently posed threats through crosses, but the opposition's defense has shown resilience in dealing with these deliveries."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:01",
+            "game_time": "6:01",
+            "query": "Arjen Robben (Bayern Munich) leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort.",
+            "short-term": "Arjen Robben leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort. Robben found space, but the keeper reacted superbly.",
+            "query_ano": "[PLAYER] ([TEAM]) leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+                    "history_time": "5:23",
+                    "long-term": "They have been creating quality scoring opportunities with precise passes and aerial threats, but the opposition's goalkeeper has made crucial saves to deny them."
+                },
+                {
+                    "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+                    "history_time": "4:51",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the opposing goalkeeper and defense have been equal to the task so far."
+                },
+                {
+                    "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+                    "history_time": "2:58",
+                    "long-term": "They have been creating scoring opportunities, but the goalkeeper's crucial save and hasty decisions in front of goal have prevented them from taking the lead."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:23",
+            "game_time": "5:23",
+            "query": "Robert Lewandowski (Bayern Munich) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev guesses his intention and denies him with a fine save.",
+            "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev guesses his intention and denies him with a fine save.",
+            "history": [
+                {
+                    "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+                    "history_time": "4:51",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper's excellent reflexes and the defenders' intervention have denied them success so far."
+                },
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "Both teams have created quality scoring opportunities, but stellar defensive plays have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+                    "history_time": "2:58",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's goalkeeper has been impressive, and their shots have lacked precision under defensive pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "04:51",
+            "game_time": "4:51",
+            "query": "A cross from Sebastian Rode (Bayern Munich) fails to reach the box as the defence clears the ball away to safety.",
+            "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+            "history": [
+                {
+                    "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+                    "history_time": "3:36",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, with the opposition defense consistently clearing the ball to safety."
+                },
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the opposing defense has been able to intercept and clear the ball effectively."
+                },
+                {
+                    "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+                    "history_time": "2:58",
+                    "long-term": "He has shown some intent in creating attacking opportunities, but his delivery and decision-making have been slightly off, resulting in clearance and a missed shot."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:36",
+            "game_time": "3:36",
+            "query": "Bibras Natcho (CSKA Moscow) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+            "query_ano": "Bibras Natcho ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+                    "history_time": "3:21",
+                    "long-term": "This corner kick comes after a dangerous cross into the box, which the defense intercepted but could only deflect out of pitch."
+                }
+            ]
+        }
+    ]
+}

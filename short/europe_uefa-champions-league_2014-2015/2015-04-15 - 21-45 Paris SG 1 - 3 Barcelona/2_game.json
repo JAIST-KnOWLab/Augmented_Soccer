@@ -1,0 +1,200 @@
+{
+    "annotations": [
+        {
+            "query": "Neymar (Barcelona) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",
+            "game_time": "10:52",
+            "short-term": "Neymar attempts to find one of his teammates with a sweet pass into the box, but it is blocked by a well-positioned defender. The defensive effort prevented a dangerous situation in the penalty area.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) plays a through ball but overhits it.",
+            "game_time": "12:54",
+            "short-term": "Javier Pastore plays a through ball but overhits it. The opposition's defense was well-positioned, making it difficult for the pass to reach its intended target.",
+            "label": "other",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball but overhits it."
+        },
+        {
+            "query": "The corner kick from Xavi (Barcelona) is headed out of the penalty area by one of the defenders.",
+            "game_time": "14:16",
+            "short-term": "The corner kick from Xavi is headed out of the penalty area by a defender, clearing the immediate danger for the opposition.",
+            "label": "corner",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "game_time": "15:17",
+            "short-term": "Lionel Messi nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The defense read the play well and intercepted the pass before it could reach its target.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "query": "Mark Clattenburg blows his whistle as Sergio Busquets (Barcelona) used excessive force in the tackle during an attack.",
+            "game_time": "15:48",
+            "short-term": "Mark Clattenburg blows his whistle as Sergio Busquets uses excessive force in a tackle, stopping the attack and awarding a free kick to the opposition.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) fails to find a teammate across the pitch with a long ball.",
+            "game_time": "16:54",
+            "short-term": "Lionel Messi attempts a long ball across the pitch but fails to find a teammate. The pass was slightly overhit, leaving the intended recipient unable to reach it.",
+            "label": "other",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "query": "Neymar (Barcelona) sends a pass into the penalty area, but the opponent manages to cut it out. Barcelona earn a corner.",
+            "game_time": "18:29",
+            "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out. [TEAM] earn a corner."
+        },
+        {
+            "query": "Ivan Rakitic (Barcelona) is about to take a corner kick.",
+            "game_time": "19:21",
+            "short-term": "Ivan Rakitic is about to take a corner kick. He takes a moment before delivering the ball, with the crowd sensing a bit of time-wasting.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick."
+        },
+        {
+            "query": "Neymar (Barcelona) is flagged for offside.",
+            "game_time": "20:36",
+            "short-term": "Neymar is flagged for offside as he moves forward to receive a pass, halting Barcelona's attacking play.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside."
+        },
+        {
+            "query": "Luis Suarez (Barcelona) makes a great solo run and pulls the trigger from inside the box, beating Salvatore Sirigu with a strike into the right side of the goal. He makes it 0:2.",
+            "game_time": "21:30",
+            "short-term": "Luis Suarez makes a great solo run, weaving through the defense. He takes on a defender and beats him before pulling the trigger from inside the box, sending a powerful strike into the right side of the goal, leaving the goalkeeper helpless. That makes it 0:2, a brilliant individual effort.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating Salvatore Sirigu with a strike into the right side of the goal. He makes it 0:2."
+        },
+        {
+            "query": "Yohan Cabaye (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag. It's a corner to Paris SG.",
+            "game_time": "23:30",
+            "short-term": "Yohan Cabaye slaloms past challenges but is denied by a well-timed defensive intervention. The ball is cleared out of play, and the referee awards a corner to Paris SG.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "query": "What a wasted opportunity by Edinson Cavani (Paris SG)! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but Marc-Andre ter Stegen makes an astonishing save to thwart him. Paris SG get a corner.",
+            "game_time": "23:50",
+            "short-term": "Edinson Cavani creates space inside the penalty box and fires a shot toward the top corner. However, the goalkeeper reacts brilliantly, making a stunning save to deny him. The ball goes out for a corner to Paris SG.",
+            "label": "shoot",
+            "query_ano": "What a wasted opportunity by [PLAYER] ([TEAM])! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but Marc-Andre ter Stegen makes an astonishing save to thwart him. [TEAM] get a corner."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the left post.",
+            "game_time": "27:50",
+            "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the left post."
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) is caught offside!",
+            "game_time": "02:47",
+            "short-term": "Edinson Cavani is caught offside as he attempts to break forward, but the flag is raised before he can continue the attack.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "query": "Lionel Messi (Barcelona) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "game_time": "30:43",
+            "short-term": "Lionel Messi attempts a promising through ball to break through the defense, but a defender reads the play well and intercepts the pass.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "query": "The referee stops play so that a substitution can be made and Martin Montoya leaves the pitch and Adriano (Barcelona) comes on.",
+            "game_time": "34:45",
+            "short-term": "The referee stops play for a substitution as Martin Montoya leaves the pitch and Adriano comes on. This change had been planned before the last goal.",
+            "label": "substitution",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "query": "Luis Suarez (Barcelona) scores a goal! He makes his way to the edge of the box without any help from his teammates and unleashes a shot that ends in the top right corner of the goal.",
+            "game_time": "33:30",
+            "short-term": "Luis Suarez scores a goal! He makes his way to the edge of the box alone and unleashes a shot into the top right corner, securing a crucial goal.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) scores a goal! He makes his way to the edge of the box without any help from his teammates and unleashes a shot that ends in the top right corner of the goal."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) passes the ball into the box but an opposing player clears.",
+            "game_time": "39:23",
+            "short-term": "Lionel Messi delivers a pass into the box, but a defender is alert and clears the danger.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "query": "Neymar (Barcelona) crosses the ball forward but it is intercepted.",
+            "game_time": "3:20",
+            "short-term": "Neymar sends a cross forward, but the ball is intercepted by an opposing defender before reaching its target.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) takes the ball on and fires in a shot from 20 metres out. Marc-Andre ter Stegen stops the effort which is headed to the right post.",
+            "game_time": "3:45",
+            "short-term": "Javier Pastore takes the ball forward and fires a shot from distance. The ball dips, but the goalkeeper reacts quickly to make the save, preventing it from reaching the right post.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) takes the ball on and fires in a shot from 20 metres out. Marc-Andre ter Stegen stops the effort which is headed to the right post."
+        },
+        {
+            "query": "Adriano (Barcelona) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out for a corner. Barcelona can continue in their attacking effort.",
+            "game_time": "41:00",
+            "short-term": "Adriano (Barcelona) swings in a cross, but the ball is cleared by Marquinhos (Paris SG), who takes it off Messi’s head. This clears the danger, and the ball goes out for a corner.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) fires the ball at goal from inside the area, but it's well blocked.",
+            "game_time": "43:20",
+            "short-term": "Edinson Cavani (Paris SG) fires the ball at goal from inside the area, but it's well blocked. Lavezzi almost had a chance to capitalize on the rebound, but Matuidi’s miss caused a brief moment of chaos before Mathieu and Adriano cleared the danger.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "query": "Mark Clattenburg blows the whistle, Javier Pastore (Paris SG) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position.",
+            "game_time": "43:53",
+            "short-term": "Mark Clattenburg blows the whistle, Javier Pastore (Paris SG) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position after Xavi’s pass was aimed for Adriano, but Pastore fouled him, knocking him off balance.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu is alert and keeps the ball out.",
+            "game_time": "44:50",
+            "short-term": "Lionel Messi (Barcelona) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu (Paris SG) is alert and keeps the ball out.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu is alert and keeps the ball out."
+        },
+        {
+            "query": "Adrien Rabiot (Paris SG) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal.",
+            "game_time": "5:41",
+            "short-term": "Adrien Rabiot (Paris SG) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal."
+        },
+        {
+            "query": "Andres Iniesta is being substituted because of an injury. Luis Enrique sends Xavi (Barcelona) on the pitch.",
+            "game_time": "7:15",
+            "short-term": "Andres Iniesta is being substituted because of an injury. Luis Enrique sends Xavi (Barcelona) on the pitch. This change was planned, but Iniesta’s injury forced it earlier.",
+            "label": "substitution",
+            "query_ano": "[PLAYER] is being substituted because of an injury. [COACH] sends [PLAYER] ([TEAM]) on the pitch."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) has received a yellow card for his foul.",
+            "game_time": "8:30",
+            "short-term": "Lionel Messi (Barcelona) has received a yellow card for his foul. He was the offender in the challenge, leaving the referee no choice.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) has received a yellow card for his foul."
+        },
+        {
+            "query": "Flag up against Ezequiel Lavezzi (Paris SG). He had space to move into behind the defence, but he went too soon.",
+            "game_time": "9:24",
+            "short-term": "Flag up against Ezequiel Lavezzi (Paris SG). He had space to move into behind the defence, but he went too soon and was caught offside.",
+            "label": "offside",
+            "query_ano": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        }
+    ]
+}

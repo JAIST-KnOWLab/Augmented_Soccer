@@ -1,0 +1,1037 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:00",
+            "game_time": "44:00",
+            "query": "Another attempt to send the ball beyond the defence by Shinji Kagawa (Dortmund) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Shinji Kagawa (Dortmund) is thwarted and cleared to safety. The pass failed to get past the defender's legs.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "history": [
+                {
+                    "short-term": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+                    "history_time": "39:51",
+                    "long-term": "They have been consistently trying to break through the defense, but their efforts have been met with strong resistance, with multiple attempts being cleared or blocked."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+                    "history_time": "39:34",
+                    "long-term": "They have been consistently trying to break through the opponent's defense with precise passes, but the opposition's backline has shown resilience in clearing the threats."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "He has consistently attempted to break down the opposition's defense with creative passing, but they have remained solid and alert to the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:03",
+            "game_time": "43:03",
+            "query": "Unbelievable miss! Sacha Kljestan (Anderlecht) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and Dortmund will have a goal kick.",
+            "short-term": "Unbelievable miss! Sacha Kljestan (Anderlecht) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and Dortmund will have a goal kick. It was very well delivered from side. The ball bounces in front of him.",
+            "query_ano": "Unbelievable miss! [PLAYER] ([TEAM]) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick. The shot was completely off target, drawing frustration from the crowd.",
+                    "history_time": "40:08",
+                    "long-term": "Both teams have been creating chances but lacking the finishing touch, with shots flying high and wide off target, indicating a need for improvement in their attacking precision."
+                },
+                {
+                    "short-term": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+                    "history_time": "39:51",
+                    "long-term": "They have been creating scoring opportunities, but the inability to capitalize on these chances may impact the overall outcome."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+                    "history_time": "39:34",
+                    "long-term": "They have been creating scoring opportunities, but the final touch has been lacking, with both sides coming close to finding the back of the net."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+                    "history_time": "38:56",
+                    "long-term": "Both teams have shown lapses in composure, with a glaring miss from one side and an overhit pass from the other, indicating some nervousness in their decision-making."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "The player has shown moments of brilliance but struggled with finishing, while the opposing team's defense has been alert and well-organized in intercepting passes."
+                },
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "They have been inconsistent in their attacking efforts, producing moments of brilliance but also displaying sloppiness in ball distribution."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "Both teams have shown incredible attacking intent, creating significant scoring opportunities but struggling to find the finishing touch. The players' reactions and deliveries inside the box have been exceptional, yet the goals have eluded them so far."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "Both teams have created excellent scoring opportunities, but inaccurate finishing and impressive goalkeeping have so far prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "Both teams have shown a lack of composure in front of goal, squandering golden opportunities with wayward finishing."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:14",
+            "game_time": "42:14",
+            "query": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. His movements quickly became distorted under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "history": [
+                {
+                    "short-term": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick. The shot was completely off target, drawing frustration from the crowd.",
+                    "history_time": "40:08",
+                    "long-term": "He has shown flashes of initiative, but his decision-making and execution have been lacking, failing to create a scoring opportunity in both instances."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+                    "history_time": "38:56",
+                    "long-term": "He has been struggling to create scoring opportunities, with his runs being blocked and passes being overhit."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+                    "history_time": "34:45",
+                    "long-term": "He has been struggling to make an impact on the game, with his runs and passes consistently being shut down by the opposition defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:08",
+            "game_time": "40:08",
+            "query": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick. The shot was completely off target, drawing frustration from the crowd.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+                    "history_time": "39:51",
+                    "long-term": "They have been struggling to create meaningful scoring opportunities, with inaccurate shots and being outplayed on set pieces."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+                    "history_time": "39:34",
+                    "long-term": "They have been creating opportunities but struggling with accuracy, as seen with a long-range shot going wide and passes into the box being knocked away."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+                    "history_time": "38:56",
+                    "long-term": "He has had a couple of subpar moments, struggling with both shooting and passing accuracy, failing to create any real threats."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "They have been struggling to create meaningful scoring opportunities, with shots going off target and passes being intercepted by the opposing defense."
+                },
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "Both teams have shown lapses in accuracy, with Dortmund's long-range effort going well off target and Anderlecht struggling with miscommunication in midfield. This period has been marked by careless mistakes from both sides."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+                    "history_time": "34:45",
+                    "long-term": "He has had a couple of unimpressive moments, including a poor shot attempt and an intercepted pass, and will be looking to improve his performance going forward."
+                },
+                {
+                    "short-term": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept. The pass was slightly overhit, making it an easy claim for the goalkeeper.",
+                    "history_time": "33:24",
+                    "long-term": "Both teams have shown a lack of precision in their attacking efforts, with Dortmund's shot going wildly off target and Anderlecht's through ball being easily intercepted."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been struggling with accuracy in their long-range attempts and distribution, resulting in intercepted passes and off-target shots."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "They have been creating chances but struggling to find the target with their shots, resulting in missed opportunities."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been wasteful with their shooting opportunities, consistently missing the target with poor attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:51",
+            "game_time": "39:51",
+            "query": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "history": [
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+                    "history_time": "39:34",
+                    "long-term": "This corner kick comes from a low pass, but the defender knocks the ball to safety and it results in a corner kick."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+                    "history_time": "38:56",
+                    "long-term": "They have been struggling to create clear-cut chances, with their deliveries from set pieces and open play being dealt with by the opposing defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "They have been consistently pressuring the opponent's defense with set pieces and creative passing plays, but the defense has held firm so far."
+                },
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "The teams have shown a mix of threatening attacks and sloppy passing in the midfield, creating opportunities for counterattacks."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been utilizing crosses and long balls to create attacking opportunities, but so far, the defenders have been effective in clearing the threats."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "They have been creating scoring opportunities through set pieces, consistently threatening the opponent's goal with well-executed corners and headers."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been posing a threat from set pieces and counters, using creative plays to test the opposing team's defense."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been consistently posing threats through set pieces and individual efforts, but struggling to capitalize on these opportunities due to defensive pressure."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been consistently posing threats through set pieces and crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:34",
+            "game_time": "39:34",
+            "query": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick.",
+            "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. [TEAM] will have a chance to score from a corner kick.",
+            "history": [
+                {
+                    "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+                    "history_time": "38:56",
+                    "long-term": "They have been creating scoring opportunities, but struggling with the final delivery, as seen in the overpowered pass and the earlier clearance that denied an immediate threat."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "They have been consistently testing the opposition's defense with creative passing plays, but the defensive line has held firm to prevent any clear scoring opportunities."
+                },
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "The teams have shown inconsistent passing, failing to penetrate the opposition's defense and losing the ball to their opponents."
+                },
+                {
+                    "short-term": "Dortmund players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence. The opposition remains compact, waiting to capitalize on an error.",
+                    "history_time": "36:41",
+                    "long-term": "They have been consistently testing the opposition's defense, searching for an opening to create a scoring opportunity."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+                    "history_time": "34:45",
+                    "long-term": "They have been consistently testing the opposition's defense with precise passes into the box, but have been thwarted by timely interventions."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been consistently trying to break down the opposition's defense with crosses and passes, but lack the necessary precision to create clear scoring opportunities."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+                    "history_time": "30:09",
+                    "long-term": "Both teams have been creating scoring opportunities, but their opponents' defenses have been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "He has been posing a threat in the opposition's box, delivering a dangerous pass and almost scoring from a header."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been consistently creating scoring opportunities, using corner kicks and individual efforts to put pressure on the opposition's defense."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been consistently testing the opposition's defense with creative attacking plays, but so far, the final touch has eluded them."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been effective in clearing the ball and preventing immediate danger."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:56",
+            "game_time": "38:56",
+            "query": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+                    "history_time": "38:25",
+                    "long-term": "They have been struggling to create clear scoring opportunities, with overhit passes and interceptions hindering their attacking progress."
+                },
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "Both teams have struggled with their passing accuracy, with multiple chances being wasted due to misplaced passes, hindering their attacking momentum."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+                    "history_time": "34:45",
+                    "long-term": "He has struggled to create scoring opportunities, consistently misplacing passes and allowing the opposing defense to shut down attacks."
+                },
+                {
+                    "short-term": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept. The pass was slightly overhit, making it an easy claim for the goalkeeper.",
+                    "history_time": "33:24",
+                    "long-term": "Both teams have shown moments of sloppy passing in the attacking third, resulting in missed opportunities and easing the pressure on the opposing defense."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been struggling with the accuracy of their long passes, failing to find their teammates on multiple occasions and losing possession as a result."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "They have been creating scoring opportunities, but struggling with the final delivery, either over-hitting passes or narrowly missing the target."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been creating scoring opportunities with agile movements and passes, but the opposing goalkeeper's excellent reflexes have denied them a goal so far."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "Both teams have shown intent in their build-up play, but the final pass has let them down, with overhit passes and interceptions preventing clear scoring opportunities."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been struggling to create clear-cut scoring opportunities, with several overhit passes and miscued shots hindering their attacking efforts."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been struggling to create clear scoring opportunities, with their passes often missing the target or getting intercepted by the defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:25",
+            "game_time": "38:25",
+            "query": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund.",
+            "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+            "query_ano": "[PLAYER] ([TEAM]) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+                    "history_time": "37:57",
+                    "long-term": "The midfield has seen a mix of pivotal interceptions and miscommunications, indicating an intense struggle for possession control between both teams."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+                    "history_time": "34:45",
+                    "long-term": "The opposition's defence has been solid, consistently anticipating and intercepting passes to thwart their attacking attempts."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been struggling to break down the opposition's defense with their passing game, seeing multiple attempts intercepted."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been consistently testing the opposition's defense with creative passing and individual runs, forcing the keeper to make crucial saves."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "He has consistently tried to unlock the opposition's defense with creative passing, but their backline has been solid in reading and intercepting the plays."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been consistently attempting to break through the opposition's defense with creative passing, but the opposing team's backline has shown great awareness to neutralize these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:57",
+            "game_time": "37:57",
+            "query": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund.",
+            "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+                    "history_time": "30:09",
+                    "long-term": "They have struggled to create effective attacking opportunities due to miscommunication and well-positioned defending by their opponents."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "They have shown inconsistent passing accuracy, resulting in lost opportunities, while also posing a threat through well-executed set pieces."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been showing inconsistent attacking prowess, with misplaced passes and impressive individual runs that test the opponent's defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "The teams have shown moments of sloppy passing and struggle to create clear scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out.",
+            "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out.",
+            "history": [
+                {
+                    "short-term": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept. The pass was slightly overhit, making it an easy claim for the goalkeeper.",
+                    "history_time": "33:24",
+                    "long-term": "Both teams have shown difficulties in creating clear-cut chances, with the defenders effectively nullifying the attacking threats so far."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "They have been struggling to create clear attacking opportunities due to precise defensive interventions that have disrupted their passing attempts."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) is adjudged offside. The attacking movement lacked precision, leading to a premature flag from the assistant referee.",
+                    "history_time": "18:59",
+                    "long-term": "They have struggled to create clear-cut chances, with imprecise passing and positioning issues undermining their attacking efforts."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+                    "history_time": "17:42",
+                    "long-term": "They have consistently struggled to break through the opponent's defense, with multiple attempts to send passes into the box being effectively cut out."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:24",
+            "game_time": "33:24",
+            "query": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept.",
+            "short-term": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept. The pass was slightly overhit, making it an easy claim for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept.",
+            "history": [
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+                    "history_time": "32:06",
+                    "long-term": "Both teams have shown intent to create scoring opportunities through long passes, but their delivery has been slightly off, allowing the opposing team's defense to intercept."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+                    "history_time": "30:09",
+                    "long-term": "They have been consistently attempting to break through the defense with through balls, but the opposing goalkeeper and defenders have been able to effectively neutralize the threats so far."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "Both teams have shown promising attacking intent, with precise through balls and strong set piece opportunities, but goalkeepers have been equal to the task so far."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "They have been attempting to create scoring opportunities with through balls and crosses, but the opposing team's defense has been effective in intercepting and neutralizing the threats."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "Both teams have shown intent to create scoring opportunities, but their final passes and shots have lacked precision, leading to missed chances."
+                },
+                {
+                    "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+                    "history_time": "20:53",
+                    "long-term": "They have been consistently testing the goalkeeper with threatening passes, but so far, he has been up to the task, successfully intercepting and claiming the ball to prevent any danger."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:06",
+            "game_time": "32:06",
+            "query": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "They have been utilizing long balls and set pieces to create scoring opportunities, but so far, the end product has been lacking precision."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) takes the corner. The ball swings in, but the defense is alert and quickly clears it out of danger.",
+                    "history_time": "29:02",
+                    "long-term": "They have been utilizing long balls and set pieces to create attacking opportunities, but so far, the opposition's defense has been able to neutralize these threats."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been consistently creating scoring opportunities with clever runs and deliveries, but so far, the opposing team's defense and goalkeeper have managed to thwart their efforts."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "Both teams have been trying to utilize long passes, but their deliveries have been lacking precision and are being effectively cut off by the opposing defenses."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been struggling with the final delivery in their attacks, failing to connect with long passes and showing poor finishing in front of goal."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been trying to utilize long passes to create attacking opportunities but so far, the defense has been able to read and intercept them effectively."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been attempting to utilize long passes to break through the defense, but so far, the deliveries have been lacking precision and power."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked. The ball deflects into a crowded midfield.",
+                    "history_time": "11:43",
+                    "long-term": "He has been struggling to create scoring opportunities with his passing, failing to connect with his teammates on multiple attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:31",
+            "game_time": "30:31",
+            "query": "The resulting corner from Dennis Praet (Anderlecht) is cleared by the opposition's defence.",
+            "short-term": "The resulting corner from Dennis Praet (Anderlecht) is cleared by the opposition's defence. The clearance was firm, pushing the ball away from immediate danger.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+            "history": [
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+                    "history_time": "30:09",
+                    "long-term": "This corner kick came from a pass, but was cleared by the defender and resulted in a corner kick."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "The set pieces have been a crucial aspect of the game, with both teams creating opportunities but lacking the finishing touch to capitalize on them."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "The teams have shown great defensive capabilities, with firm clearances and impressive saves to prevent scoring opportunities. They have also displayed threatening attacking skills, creating chances through runs and shots on goal."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "They have been consistently applying pressure through set pieces and crosses, but the opposition's defense has held firm to repel the attacks."
+                },
+                {
+                    "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+                    "history_time": "23:36",
+                    "long-term": "They have been consistently struggling to capitalize on corner kick opportunities, failing to create significant threats from these set pieces."
+                },
+                {
+                    "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+                    "history_time": "23:03",
+                    "long-term": "He has been consistently creating scoring opportunities for his team, but the opposition's defense has been equally effective in neutralizing the threats."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently pressuring the opposition's defense with set pieces, but the defense has held strong so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:09",
+            "game_time": "30:09",
+            "query": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. Anderlecht have a corner.",
+            "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+                    "history_time": "29:28",
+                    "long-term": "Both teams have shown moments of attacking flair, with Anderlecht and Dortmund trading chances in the form of crosses and set pieces."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "He has shown consistent attempts to create scoring opportunities, but the opposition's defense has been effective in countering his efforts."
+                },
+                {
+                    "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+                    "history_time": "23:36",
+                    "long-term": "They have been consistently applying pressure around the opponent's goal, with crosses and corners creating some opportunities but ultimately repelled by the defense."
+                },
+                {
+                    "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+                    "history_time": "23:03",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid in thwarting their attacks."
+                },
+                {
+                    "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+                    "history_time": "20:53",
+                    "long-term": "They have been consistently applying pressure with crosses and passes into the box, but the defense has held firm so far."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently testing the defense with crosses and passes into the box, but so far, the opposition's backline has held firm."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:28",
+            "game_time": "29:28",
+            "query": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+            "query_ano": "[PLAYER] ([TEAM]) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+                    "history_time": "28:29",
+                    "long-term": "They have been posing a significant threat in the air and on the ground, with a header narrowly missing the target and a spectacular individual run nearly resulting in a goal."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+                    "history_time": "27:29",
+                    "long-term": "The player has been creating scoring opportunities, including a close header, but has yet to capitalize on them."
+                },
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "They have been creating scoring opportunities with set pieces and individual efforts, but lack precision in their finishing."
+                },
+                {
+                    "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+                    "history_time": "23:36",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but so far, have been unable to find the target."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been posing threats through set pieces and clever passing, but the opposition's defense has been astute in reading and countering their attacks."
+                },
+                {
+                    "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+                    "history_time": "20:53",
+                    "long-term": "The players have shown impressive aerial abilities, creating and defending chances with headers and crosses."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "The player has been posing a threat with his powerful headers, while the opposing team has been using set pieces to try and unlock the defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been posing a threat in the air and creating scoring opportunities through set pieces and deliveries into the box."
+                },
+                {
+                    "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+                    "history_time": "14:05",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has been slightly off, with headers going over the bar and passes not quite finding their mark."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "They have been creating scoring opportunities, while also testing the referee's tolerance with some physical play."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:29",
+            "game_time": "28:29",
+            "query": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. [REFEREE] makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "He has shown great initiative in attempting to create scoring opportunities, but the final execution has been lacking."
+                },
+                {
+                    "short-term": "The game is interrupted as Marcel Schmelzer (Dortmund) is flagged offside. He was slightly ahead of the defensive line when the ball was played.",
+                    "history_time": "22:18",
+                    "long-term": "They have been creating scoring opportunities with agile runs and energetic plays, but have yet to capitalize on their chances due to tight defense and sharp goalkeeping."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been posing a significant threat to the opposing team's goal, creating chances through individual skill and clever passing, but the defense has been equal to the task so far."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been posing a significant threat to the opposition's goal, creating chances through impressive individual runs and incisive passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:29",
+            "game_time": "27:29",
+            "query": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted.",
+            "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted.",
+            "history": [
+                {
+                    "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+                    "history_time": "25:54",
+                    "long-term": "Both teams have shown intent to create scoring opportunities, but the final execution has been lacking, with the attackers struggling to find the target or being thwarted by the opposing defense."
+                },
+                {
+                    "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+                    "history_time": "23:36",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and corners, but struggling to find a successful connection."
+                },
+                {
+                    "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+                    "history_time": "23:03",
+                    "long-term": "They have been consistently attempting to create scoring opportunities, using crosses and long-range shots to test the opposition's defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "The teams have shown great defensive awareness, with defenders consistently anticipating and intercepting opposition passes."
+                },
+                {
+                    "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+                    "history_time": "20:53",
+                    "long-term": "They have been consistently attempting to utilize crosses to create scoring opportunities, but the opposing team's defense has been effective in intercepting and neutralizing these efforts."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently trying to create scoring opportunities through crosses and set pieces, but the opposing defense has been able to anticipate and neutralize their efforts."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "He has shown mixed performance so far, struggling to create scoring opportunities while also getting away with aggressive behavior on the field."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:54",
+            "game_time": "25:54",
+            "query": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+                    "history_time": "23:03",
+                    "long-term": "Both teams have shown intent to create scoring opportunities, but the final execution has been lacking, with shots either going wide or being effectively blocked by the defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+                    "history_time": "21:57",
+                    "long-term": "They have been showing promising intent in the attacking third, but the final execution has let them down so far."
+                },
+                {
+                    "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+                    "history_time": "20:53",
+                    "long-term": "Both teams have shown moments of attacking intent, but ultimately struggled to find the end product, with shots going wide and goalkeepers intervening at crucial moments."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "The player has shown moments of individual brilliance, although the team's attacking attempts have been consistently dealt with by the opposing defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been putting pressure on the opposing team's defense with consecutive attacks, although failing to find the final touch to create scoring opportunities."
+                },
+                {
+                    "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+                    "history_time": "14:05",
+                    "long-term": "They have been struggling to create clear-cut scoring opportunities, with poorly executed shots and misplaced passes stifling their attacking momentum."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "The player has shown moments of individual brilliance, however, both teams have also demonstrated tenacious defense and territorial battles."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:10",
+            "game_time": "25:10",
+            "query": "Henrikh Mkhitaryan (Dortmund) makes a strong challenge and Alberto Undiano Mallenco blows for a foul.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) makes a strong challenge and Alberto Undiano Mallenco blows for a foul. The referee had a clear view and immediately stopped play.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game. It was a clumsy challenge in the midfield, stopping the opposition's progress.",
+                    "history_time": "19:50",
+                    "long-term": "They have been displaying aggressive defense, committing multiple fouls and received yellow cards, which might put pressure on their upcoming game strategy."
+                },
+                {
+                    "short-term": "Matthias Ginter (Dortmund) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul. The opposition player stayed on the ground momentarily before getting back up.",
+                    "history_time": "12:10",
+                    "long-term": "They have been putting in some aggressive tackles, committing a couple of fouls as the referee tries to maintain control of the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:56",
+            "game_time": "23:56",
+            "query": "Leander Dendoncker (Anderlecht) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent.",
+            "short-term": "Leander Dendoncker (Anderlecht) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent. The pass finds an open teammate, keeping the play alive.",
+            "query_ano": "[PLAYER] ([TEAM]) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent.",
+            "history": [
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have shown good composure under pressure, maintaining possession effectively, but struggling to create decisive scoring chances from set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:36",
+            "game_time": "23:36",
+            "query": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing.",
+            "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "history": [
+                {
+                    "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+                    "history_time": "23:03",
+                    "long-term": "This corner kick comes from a shot from long range, but it is blocked by the defender and becomes a corner kick."
+                },
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently applying pressure through set pieces, but the opposition's defense has stood firm, effectively clearing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:03",
+            "game_time": "23:03",
+            "query": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently attempting to create scoring opportunities from distance, but the opposition's defense has been effective in blocking and clearing their efforts."
+                },
+                {
+                    "short-term": "Aleksandar Mitrovic (Anderlecht) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper. The shot had power, but the goalkeeper reacted quickly and parried it away.",
+                    "history_time": "11:17",
+                    "long-term": "They have been consistently creating scoring opportunities from distance, but the opposition's defense has been solid in blocking these long-range efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:18",
+            "game_time": "22:18",
+            "query": "The game is interrupted as Marcel Schmelzer (Dortmund) is flagged offside.",
+            "short-term": "The game is interrupted as Marcel Schmelzer (Dortmund) is flagged offside. He was slightly ahead of the defensive line when the ball was played.",
+            "query_ano": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside.",
+            "history": [
+                {
+                    "short-term": "Erik Durm (Dortmund) is adjudged offside. The attacking movement lacked precision, leading to a premature flag from the assistant referee.",
+                    "history_time": "18:59",
+                    "long-term": "They have been struggling with offside traps, as multiple players are getting flagged."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:57",
+            "game_time": "21:57",
+            "query": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game. It was a clumsy challenge in the midfield, stopping the opposition's progress.",
+                    "history_time": "19:50",
+                    "long-term": "He has shown flashes of creativity in his passing but has also been guilty of giving away possession and committing unnecessary fouls."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "They have been trying to break through the defense with clever passes, but the opposing team's backline has been solid in reading and intercepting the attacks."
+                },
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+                    "history_time": "17:42",
+                    "long-term": "They have been struggling to break down the opposing defense with their passing game."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:53",
+            "game_time": "20:53",
+            "query": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball.",
+            "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+                    "history_time": "20:03",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and free kicks, but so far, the goalkeeper and defenders have been able to neutralize the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:03",
+            "game_time": "20:03",
+            "query": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear.",
+            "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the free kick from a long way out but the defender manages to get it clear.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+                    "history_time": "18:45",
+                    "long-term": "Both teams have been utilizing set pieces and long passes to create scoring opportunities, but so far, the opposing defenses have been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities and maintain pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Aleksandar Mitrovic (Anderlecht) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper. The shot had power, but the goalkeeper reacted quickly and parried it away.",
+                    "history_time": "11:17",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid in preventing them from finding the back of the net."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:50",
+            "game_time": "19:50",
+            "query": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game.",
+            "short-term": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game. It was a clumsy challenge in the midfield, stopping the opposition's progress.",
+            "query_ano": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul. The opposition player stayed on the ground momentarily before getting back up.",
+                    "history_time": "12:10",
+                    "long-term": "They have been displaying aggressive defense, committing multiple fouls to halt the opposition's momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:59",
+            "game_time": "18:59",
+            "query": "Erik Durm (Dortmund) is adjudged offside.",
+            "short-term": "Erik Durm (Dortmund) is adjudged offside. The attacking movement lacked precision, leading to a premature flag from the assistant referee.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged offside.",
+            "history": [
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+                    "history_time": "17:42",
+                    "long-term": "They have been struggling to create clear-cut chances, with several attacking moves being called back for offside or thwarted by solid defensive interventions."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:45",
+            "game_time": "18:45",
+            "query": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The ball is behind the touchline and Dortmund will take a throw-in.",
+            "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears. The ball is behind the touchline and [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+                    "history_time": "17:42",
+                    "long-term": "They have been struggling to create clear-cut chances, with passes into the box being consistently intercepted or blocked by the opposing defense."
+                },
+                {
+                    "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+                    "history_time": "14:05",
+                    "long-term": "They have been struggling to create clear scoring opportunities, with passes into the box being cleared or overhit, resulting in a lack of threat to the opposing goal."
+                },
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "The players have shown moments of promising build-up, but lapses in judgment and erratic decision-making have slowed their momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:42",
+            "game_time": "17:42",
+            "query": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "history": [
+                {
+                    "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+                    "history_time": "14:05",
+                    "long-term": "They have struggled to create clear-cut chances, with passes into the box being blocked or overhit, resulting in a lack of attacking cohesion."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked. The ball deflects into a crowded midfield.",
+                    "history_time": "11:43",
+                    "long-term": "They have been struggling to break through the opponent's defense, with multiple attempts at goal being blocked."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:05",
+            "game_time": "14:05",
+            "query": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+                    "history_time": "13:29",
+                    "long-term": "They have shown inconsistent passing and are getting physical in an attempt to regain possession."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked. The ball deflects into a crowded midfield.",
+                    "history_time": "11:43",
+                    "long-term": "They have been struggling to create scoring opportunities due to inaccurate passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:43",
+            "game_time": "11:43",
+            "query": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked.",
+            "short-term": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked. The ball deflects into a crowded midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Mitrovic (Anderlecht) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper. The shot had power, but the goalkeeper reacted quickly and parried it away.",
+                    "history_time": "11:17",
+                    "long-term": "Both teams have shown great intent in attack, with The player's shot for Anderlecht testing the keeper, while Dortmund have had to be patient in possession."
+                }
+            ]
+        }
+    ]
+}

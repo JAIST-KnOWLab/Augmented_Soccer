@@ -1,0 +1,361 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:39",
+            "game_time": "44:32",
+            "query": "Marc Bartra (Dortmund) makes a slide tackle, but referee Wolfgang Stark blows for a foul. RB Leipzig win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "Marc Bartra (Dortmund) makes a slide tackle, but referee Wolfgang Stark blows for a foul. RB Leipzig win a free kick. It's a promising situation for a direct shot. The challenge seemed unnecessary, as the attacking player was not in a dangerous position yet.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "history": [
+                {
+                    "short-term": "Sebastian Rode (Dortmund) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. He had a good opportunity but failed to keep his effort on target, letting the defense off the hook.",
+                    "history_time": "43:03",
+                    "long-term": "They have been creating opportunities but struggling to capitalize, with questionable decisions and inaccurate shots undermining their attacking efforts."
+                },
+                {
+                    "short-term": "Marcel Sabitzer (RB Leipzig) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt. He had time to set himself, but the shot lacked precision.",
+                    "history_time": "41:50",
+                    "long-term": "They have shown aggression in their defense but are struggling with precision in their counterattacks."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The cross was a bit too low, allowing the defense to clear comfortably.",
+                    "history_time": "41:46",
+                    "long-term": "They have shown inconsistency in their defensive strategy, at times taking unnecessary risks, while also demonstrating reliable aerial defense against set pieces."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig. His pace created a dangerous moment, forcing the defender to intervene just in time.",
+                    "history_time": "41:14",
+                    "long-term": "The defense has been put to the test, conceding a free kick and corner kick, as the opposition's pace and aggressive play are creating challenges for them to contain."
+                },
+                {
+                    "short-term": "Stefan Ilsanker (RB Leipzig) trips an opponent with a slide tackle. Wolfgang Stark stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to Dortmund. The challenge was clumsy, but the referee showed leniency, opting for a verbal warning instead.",
+                    "history_time": "33:07",
+                    "long-term": "The referee has been actively managing the physicality of the game, intervening in tackles to maintain order and issue warnings when necessary."
+                },
+                {
+                    "short-term": "Lukas Klostermann (RB Leipzig) jumps into a tackle and Wolfgang Stark blows his whistle for a foul. Dortmund are awarded the free kick. It was a forceful challenge, but the defender protested the decision.",
+                    "history_time": "24:35",
+                    "long-term": "The referee has been actively intervening in tackles, whistle-happy with multiple stoppages and free kicks awarded in the match."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:12",
+            "game_time": "43:03",
+            "query": "Sebastian Rode (Dortmund) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "short-term": "Sebastian Rode (Dortmund) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. He had a good opportunity but failed to keep his effort on target, letting the defense off the hook.",
+            "query_ano": "[PLAYER] ([TEAM]) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Marcel Sabitzer (RB Leipzig) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt. He had time to set himself, but the shot lacked precision.",
+                    "history_time": "41:50",
+                    "long-term": "Both teams have been wasteful with their chances, with their attackers failing to capitalize on rebounds and launching shots off-target."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The cross was a bit too low, allowing the defense to clear comfortably.",
+                    "history_time": "41:46",
+                    "long-term": "Both teams have been creating scoring opportunities, but lack of precision in their finishing has allowed the opposing defenses to stay on top."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:00",
+            "game_time": "41:50",
+            "query": "Marcel Sabitzer (RB Leipzig) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt.",
+            "short-term": "Marcel Sabitzer (RB Leipzig) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt. He had time to set himself, but the shot lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt.",
+            "history": [
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The cross was a bit too low, allowing the defense to clear comfortably.",
+                    "history_time": "41:46",
+                    "long-term": "They have been struggling to create quality scoring chances, with their shots and crosses lacking precision and posing little threat to the opposing team's defense."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig. His pace created a dangerous moment, forcing the defender to intervene just in time.",
+                    "history_time": "41:14",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and quick breaks, but lack precision in their finishing."
+                },
+                {
+                    "short-term": "A cross is clipped into the penalty area by Timo Werner (RB Leipzig) but poses no threat. The delivery lacked precision, making it an easy clearance for the defense.",
+                    "history_time": "36:22",
+                    "long-term": "They have been struggling with accuracy in their long-range shots and crosses, failing to create meaningful scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:34",
+            "game_time": "41:46",
+            "query": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "short-term": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The cross was a bit too low, allowing the defense to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "history": [
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig. His pace created a dangerous moment, forcing the defender to intervene just in time.",
+                    "history_time": "41:14",
+                    "long-term": "This corner kick came from his wonderful run, and was cleared by the defender before he could finish the shot, resulting in a corner kick."
+                },
+                {
+                    "short-term": "A cross is clipped into the penalty area by Timo Werner (RB Leipzig) but poses no threat. The delivery lacked precision, making it an easy clearance for the defense.",
+                    "history_time": "36:22",
+                    "long-term": "They have been struggling to create effective set pieces and crosses, with the defending team consistently clearing the ball with ease."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:24",
+            "game_time": "41:14",
+            "query": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig.",
+            "short-term": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig. His pace created a dangerous moment, forcing the defender to intervene just in time.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "A cross is clipped into the penalty area by Timo Werner (RB Leipzig) but poses no threat. The delivery lacked precision, making it an easy clearance for the defense.",
+                    "history_time": "36:22",
+                    "long-term": "They have been using their speed to put pressure on the opponent's defense, creating chances but struggling with the final delivery."
+                },
+                {
+                    "short-term": "Stefan Ilsanker (RB Leipzig) trips an opponent with a slide tackle. Wolfgang Stark stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to Dortmund. The challenge was clumsy, but the referee showed leniency, opting for a verbal warning instead.",
+                    "history_time": "33:07",
+                    "long-term": "They have been displaying an aggressive playing style, as seen in their rapid counterattacks and strong tackles, testing the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:56",
+            "game_time": "33:07",
+            "query": "Stefan Ilsanker (RB Leipzig) trips an opponent with a slide tackle. Wolfgang Stark stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to Dortmund.",
+            "short-term": "Stefan Ilsanker (RB Leipzig) trips an opponent with a slide tackle. Wolfgang Stark stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to Dortmund. The challenge was clumsy, but the referee showed leniency, opting for a verbal warning instead.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Lukas Klostermann (RB Leipzig) jumps into a tackle and Wolfgang Stark blows his whistle for a foul. Dortmund are awarded the free kick. It was a forceful challenge, but the defender protested the decision.",
+                    "history_time": "24:35",
+                    "long-term": "They have been guilty of some reckless tackles, testing the referee's patience and inviting pressure from set pieces. The players need to be more cautious in their defensive approach to avoid such fouls."
+                },
+                {
+                    "short-term": "An opponent rises to his feet after being downed by Julian Weigl (Dortmund). Wolfgang Stark saw the sliding tackle and blows for a foul. RB Leipzig will take a free kick. The challenge was slightly late, prompting an immediate whistle from the referee.",
+                    "history_time": "22:04",
+                    "long-term": "The referee has been consistent in addressing sliding tackles, giving warnings for clumsy challenges but stopping short of handing out cards. Both teams have been cautioned for ill-timed tackles."
+                },
+                {
+                    "short-term": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal. The referee gave a warning, emphasizing control in midfield battles.",
+                    "history_time": "13:44",
+                    "long-term": "They have been involved in several physical battles, testing the referee's patience and walking a fine line between fair play and cautioned behavior."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:58",
+            "game_time": "32:58",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) is flagged for offside.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) is flagged for offside. His timing was slightly off as he made his run just a moment too early.",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Yussuf Poulsen (RB Leipzig) is adjudged to have been offside when making his run. He mistimed his movement, stepping ahead of the defensive line just before the pass was played.",
+                    "history_time": "22:55",
+                    "long-term": "Both teams have been struggling with offside traps in last few minutes."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:36",
+            "game_time": "27:47",
+            "query": "Andre Schurrle (Dortmund) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "short-term": "Andre Schurrle (Dortmund) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post. The shot had the right idea but lacked the necessary accuracy to find the net.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "history": [
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner. The defenders stayed compact, ensuring no attackers had space to connect with the cross.",
+                    "history_time": "14:42",
+                    "long-term": "They have been creating scoring opportunities with precise passing and deliveries into the box, but the accuracy in the final shot has been lacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:55",
+            "game_time": "24:35",
+            "query": "Lukas Klostermann (RB Leipzig) jumps into a tackle and Wolfgang Stark blows his whistle for a foul. Dortmund are awarded the free kick.",
+            "short-term": "Lukas Klostermann (RB Leipzig) jumps into a tackle and Wolfgang Stark blows his whistle for a foul. Dortmund are awarded the free kick. It was a forceful challenge, but the defender protested the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul. [TEAM] are awarded the free kick.",
+            "history": [
+                {
+                    "short-term": "An opponent rises to his feet after being downed by Julian Weigl (Dortmund). Wolfgang Stark saw the sliding tackle and blows for a foul. RB Leipzig will take a free kick. The challenge was slightly late, prompting an immediate whistle from the referee.",
+                    "history_time": "22:04",
+                    "long-term": "The match has seen a series of rugged challenges and intense tackles, with both teams giving their all in the contest."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner. The defenders stayed compact, ensuring no attackers had space to connect with the cross.",
+                    "history_time": "14:42",
+                    "long-term": "They have shown a mix of defensive and attacking intent, with both teams creating opportunities and the defense staying alert to counter the opponent's threats."
+                },
+                {
+                    "short-term": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal. The referee gave a warning, emphasizing control in midfield battles.",
+                    "history_time": "13:44",
+                    "long-term": "They have been committing several fouls, indicating an aggressive approach to regain possession in midfield."
+                },
+                {
+                    "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+                    "history_time": "11:12",
+                    "long-term": "The match has seen a series of tough tackles from both sides, with the referee having to make some tricky decisions to maintain discipline."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:05",
+            "game_time": "22:55",
+            "query": "Yussuf Poulsen (RB Leipzig) is adjudged to have been offside when making his run.",
+            "short-term": "Yussuf Poulsen (RB Leipzig) is adjudged to have been offside when making his run. He mistimed his movement, stepping ahead of the defensive line just before the pass was played.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+            "history": [
+                {
+                    "short-term": "Flag up against Yussuf Poulsen (RB Leipzig). He had space to move into behind the defence, but he went too soon. The assistant referee immediately raised the flag as he mistimed his run.",
+                    "history_time": "16:50",
+                    "long-term": "He has consistently struggled with timing his runs, getting caught offside multiple times and wasting potential scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:09",
+            "game_time": "22:04",
+            "query": "An opponent rises to his feet after being downed by Julian Weigl (Dortmund). Wolfgang Stark saw the sliding tackle and blows for a foul. RB Leipzig will take a free kick.",
+            "short-term": "An opponent rises to his feet after being downed by Julian Weigl (Dortmund). Wolfgang Stark saw the sliding tackle and blows for a foul. RB Leipzig will take a free kick. The challenge was slightly late, prompting an immediate whistle from the referee.",
+            "query_ano": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul. [TEAM] will take a free kick.",
+            "history": [
+                {
+                    "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+                    "history_time": "11:12",
+                    "long-term": "He has shown a tendency to be overly aggressive with his tackles, resulting in multiple fouls being called against him."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:56",
+            "game_time": "20:50",
+            "query": "Mario Gotze (Dortmund) attempted to pick out a free teammate inside the box, but Peter Gulacsi comes off the line to clear the ball away.",
+            "short-term": "Mario Gotze (Dortmund) attempted to pick out a free teammate inside the box, but Peter Gulacsi comes off the line to clear the ball away. The goalkeeper read the situation well and reacted quickly to prevent any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+            "history": [
+                {
+                    "short-term": "Roman Burki was forced into action to thwart Timo Werner (RB Leipzig). He found himself some space after latching on to a pass and unleashed a shot to the bottom left corner but couldn't beat the keeper. The save was crucial as the shot was well-placed and required a quick reaction.",
+                    "history_time": "19:42",
+                    "long-term": "Both goalkeepers have been sharp and decisive, neutralizing opposition attacks with key saves to keep their teams in the game. The keepers' quick reactions have so far prevented any clear-cut chances from materializing."
+                },
+                {
+                    "short-term": "Mario Gotze (Dortmund) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The clearance was crucial as the opposition had players ready in the box to capitalize on a loose ball.",
+                    "history_time": "14:48",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper and defense have been effective in neutralizing the threats."
+                },
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner. The defenders stayed compact, ensuring no attackers had space to connect with the cross.",
+                    "history_time": "14:42",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense and goalkeeper have been doing a great job of neutralizing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:21",
+            "game_time": "15:11",
+            "query": "Sebastian Rode (Dortmund) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit.",
+            "short-term": "Sebastian Rode (Dortmund) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit. The attempt lacked control, soaring well over the crossbar.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit.",
+            "history": [
+                {
+                    "short-term": "Mario Gotze (Dortmund) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The clearance was crucial as the opposition had players ready in the box to capitalize on a loose ball.",
+                    "history_time": "14:48",
+                    "long-term": "They have been attempting to create scoring opportunities from different angles, but so far, the execution has been lacking precision."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:55",
+            "game_time": "14:48",
+            "query": "Mario Gotze (Dortmund) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "short-term": "Mario Gotze (Dortmund) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The clearance was crucial as the opposition had players ready in the box to capitalize on a loose ball.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner. The defenders stayed compact, ensuring no attackers had space to connect with the cross.",
+                    "history_time": "14:42",
+                    "long-term": "They have consistently shown strong defensive organization, effectively clearing threatening crosses and corners to prevent scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:47",
+            "game_time": "14:42",
+            "query": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner.",
+            "short-term": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner. The defenders stayed compact, ensuring no attackers had space to connect with the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal. The referee gave a warning, emphasizing control in midfield battles.",
+                    "history_time": "13:44",
+                    "long-term": "They have been focusing on controlling the midfield and creating scoring opportunities through set pieces and crosses."
+                },
+                {
+                    "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+                    "history_time": "11:12",
+                    "long-term": "They have been displaying mixed performance in ball possession, creating scoring opportunities but also committing crucial fouls that cost them set pieces."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) sends a promising through ball, but the defence is alert and cuts out the pass. The referee and the linesman both signal a throw-in for RB Leipzig. The defending side anticipated the movement well, preventing any potential breakthrough.",
+                    "history_time": "10:35",
+                    "long-term": "Both teams have shown excellent defensive organization, effectively nullifying the opponent's attacking threats and quickly closing down potential scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:53",
+            "game_time": "13:44",
+            "query": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal.",
+            "short-term": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal. The referee gave a warning, emphasizing control in midfield battles.",
+            "query_ano": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. It's a free kick to [TEAM], but it's in no position for a direct shot on goal.",
+            "history": [
+                {
+                    "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+                    "history_time": "11:12",
+                    "long-term": "The referee has been closely monitoring the intense midfield battles, intervening promptly to maintain control and issuing warnings to prevent the game from getting out of hand."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) sends a promising through ball, but the defence is alert and cuts out the pass. The referee and the linesman both signal a throw-in for RB Leipzig. The defending side anticipated the movement well, preventing any potential breakthrough.",
+                    "history_time": "10:35",
+                    "long-term": "The referee has been closely monitoring the game, keeping control of midfield battles, while RB Leipzig is attempting to create scoring opportunities but faces stiff resistance from the opposing defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:58",
+            "game_time": "11:51",
+            "query": "Dominik Kaiser (RB Leipzig) failed to convert a mid-range free kick and sends the ball narrowly over the bar.",
+            "short-term": "Dominik Kaiser (RB Leipzig) failed to convert a mid-range free kick and sends the ball narrowly over the bar. His technique was solid, but the ball lacked the necessary dip to trouble the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) failed to convert a mid-range free kick and sends the ball narrowly over the bar.",
+            "history": [
+                {
+                    "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+                    "history_time": "11:12",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but have yet to capitalize on these chances, struggling with precision in their finishing."
+                },
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) sends a promising through ball, but the defence is alert and cuts out the pass. The referee and the linesman both signal a throw-in for RB Leipzig. The defending side anticipated the movement well, preventing any potential breakthrough.",
+                    "history_time": "10:35",
+                    "long-term": "He has been involved in a couple of key attacking moments but has yet to find the desired outcome, with both his shot and pass being thwarted."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:34",
+            "game_time": "11:12",
+            "query": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance.",
+            "short-term": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance. The referee quickly reacted, deeming the challenge just on the edge of acceptable physicality.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick from a promising distance.",
+            "history": [
+                {
+                    "short-term": "Dominik Kaiser (RB Leipzig) sends a promising through ball, but the defence is alert and cuts out the pass. The referee and the linesman both signal a throw-in for RB Leipzig. The defending side anticipated the movement well, preventing any potential breakthrough.",
+                    "history_time": "10:35",
+                    "long-term": "The match has seen a mix of promising attacking moves and strong defensive interventions, with neither side giving the other an inch. Both teams have shown alertness in thwarting potential threats."
+                }
+            ]
+        }
+    ]
+}

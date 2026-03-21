@@ -1,0 +1,186 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:59",
+            "game_time": "46:59",
+            "query": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visitors dominated that half and looked more dangerous in attack. The home side are really focusing on a well-organized defence and are happy to let the opposition play their possession football.",
+            "short-term": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visitors dominated that half and looked more dangerous in attack. The home side are really focusing on a well-organized defence and are happy to let the opposition play their possession football.",
+            "query_ano": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visitors dominated that half and looked more dangerous in attack. The home side are really focusing on a well-organized defence and are happy to let the opposition play their possession football."
+        },
+        {
+            "gameTime": "45:47",
+            "game_time": "45:42",
+            "query": "Olivier Giroud (Arsenal) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance!",
+            "short-term": "Olivier Giroud (Arsenal) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance! The goal equalizes the score right before halftime, shifting momentum in Arsenal’s favor.",
+            "query_ano": "[PLAYER] ([TEAM]) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance!"
+        },
+        {
+            "gameTime": "45:42",
+            "game_time": "45:40",
+            "query": "Olivier Giroud (Arsenal) is heading towards the penalty spot to take it.",
+            "short-term": "Olivier Giroud (Arsenal) is heading towards the penalty spot to take it. The tension is high, with they eager to level the score before halftime.",
+            "query_ano": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "44:29",
+            "game_time": "44:18",
+            "query": "Grzegorz Krychowiak (Paris SG) brings an opponent down and Felix Brych interrupts the game. A penalty is given to Arsenal!",
+            "short-term": "Grzegorz Krychowiak (Paris SG) brings an opponent down and Felix Brych interrupts the game. A penalty is given to Arsenal! The foul leading to immediate protests from PSG players.",
+            "query_ano": "[PLAYER] ([TEAM]) brings an opponent down and [PLAYER] interrupts the game. A penalty is given to [TEAM]!"
+        },
+        {
+            "gameTime": "42:44",
+            "game_time": "42:41",
+            "query": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball.",
+            "short-term": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball. Arsenal is starting to push forward more aggressively, searching for an opening before the break.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "41:43",
+            "game_time": "41:40",
+            "query": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick.",
+            "short-term": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick. Arsenal continues to apply pressure, but PSG’s defense remains well-organized, limiting clear-cut chances.",
+            "query_ano": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "39:46",
+            "game_time": "39:54",
+            "query": "Alex Iwobi (Arsenal) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "short-term": "Alex Iwobi (Arsenal) rolls the ball short to a teammate from the corner instead of sending a cross into the box. PSG's defense stays alert, knowing Arsenal has been gradually gaining control of the game.",
+            "query_ano": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "39:34",
+            "game_time": "39:31",
+            "query": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner.",
+            "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. [TEAM] win a corner."
+        },
+        {
+            "gameTime": "29:22",
+            "game_time": "29:19",
+            "query": "Carl Jenkinson (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "short-term": "Carl Jenkinson (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates. PSG’s pressing forces them into making rushed decisions.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "27:43",
+            "game_time": "27:35",
+            "query": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick.",
+            "short-term": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick. The defender times his defensive intervention perfectly, preventing him from capitalizing on pass.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "26:43",
+            "game_time": "26:38",
+            "query": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball.",
+            "short-term": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball. PSG’s defense remains composed, with the defender reacting swiftly to his lofted ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball."
+        },
+        {
+            "gameTime": "26:17",
+            "game_time": "26:14",
+            "query": "Edinson Cavani (Paris SG) fails to beat a perfect example of the offside trap.",
+            "short-term": "Edinson Cavani (Paris SG) fails to beat a perfect example of the offside trap. Arsenal’s defensive line remains disciplined, stepping up just in time to catch Cavani offside as he tries to connect with a pass.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat a perfect example of the offside trap."
+        },
+        {
+            "gameTime": "24:42",
+            "game_time": "24:37",
+            "query": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG.",
+            "short-term": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG. The defense expertly tracks his movement, staying on his feet and cutting out the pass without conceding a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "24:02",
+            "game_time": "23:58",
+            "query": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick.",
+            "short-term": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick. Maxwell tries to advance on the left flank, but Arsenal’s defense holds firm, forcing the ball out of play.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "22:39",
+            "game_time": "22:41",
+            "query": "The linesman signals that Olivier Giroud (Arsenal) is offside and the referee confirms the decision.",
+            "short-term": "The linesman signals that Olivier Giroud (Arsenal) is offside and the referee confirms the decision. He has been a threat against PSG in the past, mistimes his run and is caught offside while trying to exploit space behind the defense.",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "21:39",
+            "game_time": "21:35",
+            "query": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in.",
+            "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "gameTime": "20:43",
+            "game_time": "20:40",
+            "query": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick.",
+            "short-term": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick. His aggressive approach halts PSG’s buildup, but the referee deems it excessive and awards the free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [PLAYER] blows for a foul. [TEAM] win a free kick."
+        },
+        {
+            "gameTime": "19:42",
+            "game_time": "19:42",
+            "query": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear.",
+            "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "19:27",
+            "game_time": "19:14",
+            "query": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box.",
+            "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "18:00",
+            "game_time": "17:48",
+            "query": "It's in the back of the net! Blaise Matuidi is the provider as he slips the ball to Edinson Cavani (Paris SG) who simply steers it home from close range. It's 0:1.",
+            "short-term": "It's in the back of the net! Blaise Matuidi is the provider as he slips the ball to Edinson Cavani (Paris SG) who simply steers it home from close range. It's 0:1. The forward made a sharp run into the box to meet a perfectly timed pass, leaving the defense unable to respond in time.",
+            "query_ano": "It's in the back of the net! [PLAYER] is the provider as he slips the ball to [PLAYER] ([TEAM]) who simply steers it home from close range. It's 0:1."
+        },
+        {
+            "gameTime": "16:08",
+            "game_time": "16:02",
+            "query": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "short-term": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to rise to head the ball away, ensuring they maintain control after their early goal.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "gameTime": "14:48",
+            "game_time": "14:43",
+            "query": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort.",
+            "short-term": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort. He found space between the two central defenders, capitalizing on the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort."
+        },
+        {
+            "gameTime": "14:32",
+            "game_time": "14:37",
+            "query": "Lucas (Paris SG) will deliver the corner kick.",
+            "short-term": "Lucas (Paris SG) will deliver the corner kick. The previous attack, initiated by a cross, forced them into defensive action, leading to this set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "gameTime": "14:15",
+            "game_time": "14:11",
+            "query": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner.",
+            "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "gameTime": "13:19",
+            "game_time": "13:15",
+            "query": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge. The route is cut off before he could release a shot.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "12:55",
+            "game_time": "12:52",
+            "query": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball.",
+            "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        }
+    ]
+}

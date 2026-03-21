@@ -1,0 +1,214 @@
+{
+    "annotations": [
+        {
+            "query": "Neymar (Barcelona) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "game_time": "0:32",
+            "short-term": "Neymar sent a pass into the box, but his attempt was thwarted and quickly cleared by Maxwell. He had dropped his shoulder to get past one of the defender before attempting the delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) is literally asking for a yellow card with his behaviour. The referee agrees and books him.",
+            "game_time": "11:55",
+            "short-term": "Edinson Cavani is acting in a way that could lead to a yellow card, and the referee agrees. He books Cavani for his actions. He appears frustrated as he argues briefly with the referee before walking away.",
+            "query_ano": "[PLAYER] ([TEAM]) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "query": "A through ball from Neymar (Barcelona) fails to reach Lionel Messi as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, Lionel Messi could have got into a promising position.",
+            "game_time": "13:36",
+            "short-term": "A through ball from Neymar (Barcelona) fails to reach Lionel Messi as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, Lionel Messi could have got into a promising position.",
+            "query_ano": "A through ball from [PLAYER] ([TEAM]) fails to reach [PLAYER] as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, [PLAYER] could have got into a promising position."
+        },
+        {
+            "query": "David Luiz (Paris SG) is asking for medical treatment after picking up an injury.",
+            "game_time": "14:18",
+            "short-term": "David Luiz (Paris SG) is asking for medical treatment after picking up an injury. He appears to be in some discomfort as the medical team rushes onto the pitch.",
+            "query_ano": "[PLAYER] ([TEAM]) is asking for medical treatment after picking up an injury."
+        },
+        {
+            "query": "Lucas (Paris SG) goes on a mazy run and tries his luck with a mid-range strike, but one of the defending players steps in and makes a block.",
+            "game_time": "16:13",
+            "short-term": "Lucas went on a mazy run, trying to create space for a mid-range strike. Mathieu Bartra stepped in and blocked the effort with a well-timed header, stopping the attack in its tracks. He looked disappointed as the ball deflected away from goal.",
+            "query_ano": "Lucas ([TEAM]) goes on a mazy run and tries his luck with a mid-range strike, but one of the defending players steps in and makes a block."
+        },
+        {
+            "query": "Substitution. Marco Verratti will be replaced by Javier Pastore (Paris SG).",
+            "game_time": "16:43",
+            "short-term": "Substitution for Paris SG: Marco Verratti is replaced by Javier Pastore. He walks off slowly, exchanging a handshake with his replacement.",
+            "query_ano": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Lucas (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "game_time": "18:19",
+            "short-term": "Lucas (Paris SG) slaloms his way past challenges, but Mathieu does well to get the ball away. He had shown excellent footwork before the defender stepped in to clear.",
+            "query_ano": "Lucas ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "query": "Blaise Matuidi (Paris SG) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball.",
+            "game_time": "19:01",
+            "short-term": "Blaise Matuidi (Paris SG) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball. The keeper quickly looks to launch a counterattack with a long throw.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "query": "Sergio Busquets latches onto a perfect defence-splitting pass from Gerard Pique (Barcelona) and heads towards goal.",
+            "game_time": "19:41",
+            "short-term": "Sergio Busquets latches onto a perfect defence-splitting pass from Gerard Pique and heads towards goal. He looks up, scanning for options as he approaches the penalty area.",
+            "query_ano": "[PLAYER] latches onto a perfect defence-splitting pass from Gerard Pique ([TEAM]) and heads towards goal."
+        },
+        {
+            "query": "Lucas Moura (Paris SG) commits a foul after unfairly battling his opponent for the ball. Barcelona win a free kick and will be able to apply some pressure on the opposition goal.",
+            "game_time": "1:57",
+            "short-term": "Lucas Moura of Paris SG committed a foul by unfairly battling his opponent for the ball. Barcelona were awarded a free kick. He raises his arms in frustration, protesting the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "query": "Pedro (Barcelona) was holding his opponent and can be glad he didn't receive a yellow card. A free kick to Paris SG. They can move closer towards the goal.",
+            "game_time": "1:08",
+            "short-term": "Pedro (Barcelona) was holding his opponent and can be glad he didn't receive a yellow card. A free kick to Paris SG. They can move closer towards the goal. He quickly steps away as the referee gives him a warning.",
+            "query_ano": "[PLAYER] ([TEAM]) was holding his opponent and can be glad he didn't receive a yellow card. A free kick to [TEAM]. They can move closer towards the goal."
+        },
+        {
+            "query": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "game_time": "20:59",
+            "short-term": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break. The team maintains possession, patiently looking for an opening while the opposition remains compact in defense.",
+            "query_ano": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "query": "A substitution has been made. Pedro is replaced by Ivan Rakitic (Barcelona).",
+            "game_time": "22:16",
+            "short-term": "A substitution has been made. Pedro is replaced by Ivan Rakitic. The incoming player jogs onto the field, receiving final instructions from the coaching staff, while the substituted player walks off to applause from the supporters.",
+            "query_ano": "A substitution has been made. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Paris SG are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The referee blows his whistle, Barcelona are awarded a corner kick.",
+            "game_time": "22:40",
+            "short-term": "Paris SG are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The referee blows his whistle, Barcelona are awarded a corner kick. The attacking side quickly moves into position, preparing to capitalize on the set-piece opportunity.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "query": "Ivan Rakitic (Barcelona) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "game_time": "23:14",
+            "short-term": "Ivan Rakitic (Barcelona) takes the corner, but the opposition's defence is ready and clears the ball to safety. The ball is sent towards the edge of the box, where an attacking player attempts to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "query": "Blaise Matuidi (Paris SG) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "game_time": "24:59",
+            "short-term": "Blaise Matuidi (Paris SG) is having a really tough time right now. We are about to find out how serious his injury is. Medical staff rush onto the field as he sits on the ground holding his face, looking visibly in discomfort.",
+            "query_ano": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) commits a rough challenge and Martin Atkinson blows his whistle for an infringement. Barcelona earn a free kick.",
+            "game_time": "27:25",
+            "short-term": "Javier Pastore (Paris SG) commits a rough challenge and Martin Atkinson blows his whistle for an infringement. Barcelona earn a free kick. The fouled player takes a moment to get up, while teammates position themselves for a potential delivery into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough challenge and [PLAYER] blows his whistle for an infringement. [TEAM] earn a free kick."
+        },
+        {
+            "query": "Thiago Silva (Paris SG) makes a bad challenge and the referee blows his whistle for a foul. A free kick has been awarded to Barcelona.",
+            "game_time": "28:26",
+            "short-term": "Thiago Silva (Paris SG) makes a bad challenge and the referee blows his whistle for a foul. A free kick has been awarded to Barcelona. The defensive side protests mildly, but the referee stands firm on his decision.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "query": "Here comes a substitution. Tired Blaise Matuidi (Paris SG) left the pitch, and Ezequiel Lavezzi (Paris SG) is coming on to help his team.",
+            "game_time": "28:57",
+            "short-term": "Here comes a substitution. Tired Blaise Matuidi (Paris SG) left the pitch, and Ezequiel Lavezzi (Paris SG) is coming on to help his team. The departing player receives a pat on the back from a teammate, while the substitute jogs onto the pitch with a determined look.",
+            "query_ano": "Here comes a substitution. Tired [PLAYER] ([TEAM]) left the pitch, and [PLAYER] ([TEAM]) is coming on to help his team."
+        },
+        {
+            "query": "Edinson Cavani latches onto a perfect defence-splitting pass from Lucas (Paris SG) and heads towards goal. Gregory van der Wiel (Paris SG) delivers a promising cross into the box, but it's cleared. The referee points to the corner flag. It's a corner to Paris SG.",
+            "game_time": "3:00",
+            "short-term": "Edinson Cavani latches onto a perfect defence-splitting pass from Lucas (Paris SG) and heads towards goal. Gregory van der Wiel (Paris SG) delivers a promising cross into the box, but it's cleared. The referee points to the corner flag. It's a corner to Paris SG. The attacking side gathers near the penalty area, preparing for the set-piece.",
+            "query_ano": "[PLAYER] latches onto a perfect defence-splitting pass from Lucas ([TEAM]) and heads towards goal. [PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "query": "The resulting corner from Ezequiel Lavezzi (Paris SG) is cleared by the defence.",
+            "game_time": "30:17",
+            "short-term": "The resulting corner from Ezequiel Lavezzi (Paris SG) is cleared by the defence. The ball is deflected toward the edge of the box, where an attacking player tries to regain possession.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence."
+        },
+        {
+            "query": "Goal! Luis Suarez (Barcelona) fires the rebound into the bottom right corner after the ball breaks to him in the box. The score is 3:1.",
+            "game_time": "31:20",
+            "short-term": "Goal! Luis Suarez (Barcelona) fires the rebound into the bottom right corner after the ball breaks to him in the box. The score is 3:1. The goalkeeper stretches but cannot reach the shot as the ball nestles into the net, sending the crowd into a frenzy.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) fires the rebound into the bottom right corner after the ball breaks to him in the box. The score is 3:1."
+        },
+        {
+            "query": "Ivan Rakitic (Barcelona) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Paris SG have a free kick.",
+            "game_time": "34:53",
+            "short-term": "Ivan Rakitic attempted a sliding tackle but caught his opponent’s legs, and the referee immediately blew his whistle for the infringement. Paris SG were awarded a free kick. The defending team quickly set up their defensive line while the attacking side prepared for a possible delivery into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. [TEAM] have a free kick."
+        },
+        {
+            "query": "Ezequiel Lavezzi (Paris SG) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "game_time": "35:45",
+            "short-term": "Ezequiel Lavezzi swung in a dangerous cross from the resulting corner kick. Gerard Piqué was there to head the ball away, clearing the danger for Barcelona. The clearance sent the ball towards the edge of the box, where another battle for possession began.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "query": "Gregory van der Wiel (Paris SG) serves up a nice cross, but Marc-Andre ter Stegen punches the ball away.",
+            "game_time": "36:47",
+            "short-term": "Gregory van der Wiel delivered a nice cross into the box, but Marc-André ter Stegen was alert and punched the ball away. The ball flew out towards the wing, where an attacker rushed to keep the play alive.",
+            "query_ano": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away."
+        },
+        {
+            "query": "Thiago Motta (Paris SG) goes over to take a corner kick after one of the defenders makes a good clearance.",
+            "game_time": "3:36",
+            "short-term": "Thiago Motta (Paris SG) goes over to take a corner kick after one of the defenders makes a good clearance. Players jostled for position inside the box, anticipating the incoming delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) finds enough space to climb high and plants a header way over the bar. What a poor effort.",
+            "game_time": "3:47",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) finds enough space to climb high and plants a header way over the bar. What a poor effort. The forward looked frustrated as he turned away, knowing he could have done better with the opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) finds enough space to climb high and plants a header way over the bar. What a poor effort."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) tries to find Luis Suarez with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance. The referee and his assistant both point at the corner flag. Barcelona will have an opportunity to threaten the opposition's goal.",
+            "game_time": "40:29",
+            "short-term": "Lionel Messi tried to pick out Luis Suárez with a clever through ball from the corner of the box, but the defense, led by David Luiz, was alert and made a timely clearance. The referee and his assistant both pointed to the corner flag, awarding Barcelona a corner. The attacking players quickly moved into position, sensing a chance to capitalize on the set-piece.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to find [PLAYER] with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "query": "That was close by Lionel Messi (Barcelona)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post. The ball goes out of play and Paris SG will have a goal kick.",
+            "game_time": "43:36",
+            "short-term": "Lionel Messi received a pass on the edge of the box and took a shot, but the ball went inches wide of the left post. It was a near miss for Barcelona, and the ball went out of play, giving Paris SG a goal kick. The goalkeeper took a deep breath as he prepared to restart play.",
+            "query_ano": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "query": "Javier Mascherano (Barcelona) makes an overly-aggressive challenge and Martin Atkinson blows his whistle for a foul. Paris SG have a free kick from a promising distance.",
+            "game_time": "45:12",
+            "short-term": "Javier Mascherano made an overly-aggressive challenge, and Martin Atkinson immediately blew his whistle for a foul. Paris SG were awarded a free kick from a promising distance. The fouled player remained on the ground for a moment before getting back to his feet, while the referee positioned himself for the restart.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [PLAYER] blows his whistle for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) was too fierce in his attempt to get the ball from his opponent and Martin Atkinson blows for a foul.",
+            "game_time": "47:20",
+            "short-term": "Edinson Cavani was too fierce in his attempt to win the ball from his opponent, and Martin Atkinson blew the whistle for a foul. The referee had no hesitation in making the call, as Cavani's challenge was clearly reckless, causing frustration among his teammates.",
+            "query_ano": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [PLAYER] blows for a foul."
+        },
+        {
+            "query": "Barcelona are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. Luis Suarez (Barcelona) attempts to outfox the defender, but he only tricks himself after getting caught in the offside trap.",
+            "game_time": "5:20",
+            "short-term": "Luis Suárez attempted to deceive the defender with a trick, but he was caught in the offside trap and the move backfired. The forward looked toward the assistant referee in frustration, realizing he had mistimed his run.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. [PLAYER] ([TEAM]) attempts to outfox the defender, but he only tricks himself after getting caught in the offside trap."
+        },
+        {
+            "query": "A brilliant through ball from Lionel Messi (Barcelona) as he picks out Pedro, who darted into free space to take the pass. Pedro (Barcelona) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball is off of the pitch and it's a goal kick for Paris SG.",
+            "game_time": "6:21",
+            "short-term": "Lionel Messi played a brilliant through ball, picking out Pedro, who had darted into free space to meet the pass. Pedro's first touch was great, but his subsequent cross into the box was poor, failing to meet any of his teammates. Under defensive pressure, he hurried the delivery, and the ball sailed out for a goal kick.",
+            "query_ano": "A brilliant through ball from [PLAYER] ([TEAM]) as he picks out [PLAYER], who darted into free space to take the pass. [PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "query": "The ball is cleared after Lucas (Paris SG) attempted to dribble past an opposing player. Blaise Matuidi (Paris SG) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition.",
+            "game_time": "7:54",
+            "short-term": "Lucas (Paris SG) showed blistering pace to beat his marker and attempted to dribble past an opposing player, but the ball was cleared. Blaise Matuidi was the quickest to react and sent a header goalwards, but an alert defender stepped in to make the block. The goalkeeper scrambled to reposition himself as the ball deflected away from danger.",
+            "query_ano": "The ball is cleared after Lucas ([TEAM]) attempted to dribble past an opposing player. [PLAYER] ([TEAM]) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "query": "The referee blows his whistle after Luis Suarez (Barcelona) does a good impression of a basketball player and handles the ball.",
+            "game_time": "9:30",
+            "short-term": "The referee blew his whistle after Luis Suárez handled the ball, performing an impression of a basketball player. The forward looked momentarily surprised but didn’t protest the decision, as it was an obvious handball that disrupted play.",
+            "query_ano": "The referee blows his whistle after [PLAYER] ([TEAM]) does a good impression of a basketball player and handles the ball."
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "annotations": [
+        {
+            "game_time": "11:12",
+            "query": "Yaya Toure (Manchester City) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Manchester City have been awarded a corner kick.",
+            "short-term": "Yaya Toure attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. He bulldozed his way through before the ball was cleared away.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Kevin De Bruyne is about to take a corner kick, Fernandinho jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him. The ball deflected out for another corner.",
+                    "history_time": "7:50",
+                    "long-term": "They have been consistently applying pressure around the box with several attacking attempts, forcing the opposition's defense to work hard to clear the ball."
+                },
+                {
+                    "short-term": "Kevin De Bruyne whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner. Yaya Toure was waiting at the back post but couldn't reach it.",
+                    "history_time": "7:30",
+                    "long-term": "They consistently applied pressure through targeted passes and crosses into the box but struggled to break through the opposition's defense."
+                },
+                {
+                    "short-term": "Alex Sandro crosses the ball into the box, but one of the defending players averts the threat. The clearance was crucial as an attacker was waiting to pounce.",
+                    "history_time": "3:30",
+                    "long-term": "They have been consistently testing the opponent's defense with passes and crosses into the box, searching for an opening to create a scoring opportunity."
+                }
+            ]
+        },
+        {
+            "game_time": "14:09",
+            "query": "Claudio Marchisio (Juventus) attempts to surprise the keeper with a nice shot, but it lacks more accuracy and goes way wide of the left post.",
+            "short-term": "Claudio Marchisio attempts to surprise the keeper with a shot, but it lacks accuracy and goes way wide of the left post. He struck it with power, but the placement was off.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a nice shot, but it lacks more accuracy and goes way wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Stefano Sturaro squanders a great opportunity after striking the ball onto the post! The rebound fell to a teammate, but the shot was blocked.",
+                    "history_time": "10:00",
+                    "long-term": "They have been creating scoring chances but struggling with accuracy and finishing."
+                },
+                {
+                    "short-term": "Claudio Marchisio tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save. The shot lacked power to trouble the keeper.",
+                    "history_time": "5:59",
+                    "long-term": "He has shown a willingness to take shots from distance, but his accuracy and power have let him down so far."
+                }
+            ]
+        },
+        {
+            "game_time": "15:55",
+            "query": "Bacary Sagna (Manchester City) makes a slide tackle, but referee Felix Brych blows for a foul.",
+            "short-term": "Bacary Sagna makes a slide tackle, but referee Felix Brych blows for a foul. The decision draws some disagreement from the players.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [PLAYER] blows for a foul.",
+            "history": [
+                {
+                    "short-term": "Fernandinho brings his opponent down. Felix Brych has a clear sight of it and blows his whistle for a foul. The challenge was robust but deemed illegal.",
+                    "history_time": "2:00",
+                    "long-term": "The player has shown a tendency to commit fouls, with robust challenges resulting in referee interventions on multiple occasions."
+                }
+            ]
+        },
+        {
+            "game_time": "17:45",
+            "query": "Yaya Toure (Manchester City) sends a long ball in, but Gianluigi Buffon comfortably gathers the ball.",
+            "short-term": "Yaya Toure sends a long ball in, but Gianluigi Buffon comfortably gathers the ball, preventing any danger in the box.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. He bulldozed his way through before the ball was cleared away.",
+                    "history_time": "11:12",
+                    "long-term": "They have been consistently attempting to create scoring opportunities through Yaya Toure's efforts, but the opposition's defense has held firm so far."
+                }
+            ]
+        },
+        {
+            "game_time": "21:34",
+            "query": "Kevin De Bruyne almost found himself in a promising position after Yaya Toure (Manchester City) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception.",
+            "short-term": "Kevin De Bruyne almost found himself in a promising position after Yaya Toure tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception, cutting off the attack.",
+            "query_ano": "[PLAYER] almost found himself in a promising position after [PLAYER] ([TEAM]) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception.",
+            "history": [
+                {
+                    "short-term": "Kevin De Bruyne whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner. Yaya Toure was waiting at the back post but couldn't reach it.",
+                    "history_time": "7:30",
+                    "long-term": "The player has been consistently creating scoring opportunities with precise passing and crosses, but the opposing team's defense has been equally effective in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "game_time": "23:50",
+            "query": "Bacary Sagna (Manchester City) is booked after bringing down an opponent. Felix Brych had an easy decision to make.",
+            "short-term": "Bacary Sagna is booked after bringing down an opponent. Felix Brych had an easy decision to make, as the challenge left little room for debate.",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [PLAYER] had an easy decision to make.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna makes a slide tackle, but referee Felix Brych blows for a foul. The decision draws some disagreement from the players.",
+                    "history_time": "15:55",
+                    "long-term": "He has been involved in a couple of rough tackles, which caught the referee's attention and led to a booking."
+                }
+            ]
+        },
+        {
+            "game_time": "23:55",
+            "query": "Jesus Navas (Manchester City) was probably a bit loose with his words to Felix Brych, who decides to show him a yellow.",
+            "short-term": "Jesus Navas was probably a bit loose with his words to Felix Brych, who decides to show him a yellow. Several Manchester City players protested the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [PLAYER], who decides to show him a yellow.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna is booked after bringing down an opponent. Felix Brych had an easy decision to make, as the challenge left little room for debate.",
+                    "history_time": "23:50",
+                    "long-term": "They have been picking up yellow cards, indicating a high level of aggression and intensity in their play, which may put them at risk of losing a player to a red card or suspension."
+                }
+            ]
+        },
+        {
+            "game_time": "25:00",
+            "query": "Alvaro Morata (Juventus) puts a cross into the box from the free kick but it's cleared.",
+            "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick but it's cleared.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero announces himself with a close-range shot after a cross, but one of the defenders gets in the way to block the attempt. The chance came from a well-placed ball into the box.",
+                    "history_time": "21:56",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, consistently putting pressure on the opposition's defense."
+                }
+            ]
+        },
+        {
+            "game_time": "27:28",
+            "query": "Nothing comes of the resulting corner from Paulo Dybala (Juventus). The defence is alert and manages to cut it out.",
+            "short-term": "Nothing comes of the resulting corner from Paulo Dybala. The defence is alert and manages to clear the ball before any real threat develops.",
+            "query_ano": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out.",
+            "history": [
+                {
+                    "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+                    "history_time": "25:00",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, with the opposition's defense effectively neutralizing their threats."
+                }
+            ]
+        },
+        {
+            "game_time": "28:28",
+            "query": "Claudio Marchisio (Juventus) swings a cross into the box, but it's far too close to Joe Hart, who smothers the ball.",
+            "short-term": "Claudio Marchisio swings a cross into the box, but it's far too close to Joe Hart, who smothers the ball. The delivery lacked power, making it an easy catch for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "history": [
+                {
+                    "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+                    "history_time": "25:00",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but so far, the opposition's defense and goalkeeper have been up to the task of neutralizing these threats."
+                },
+                {
+                    "short-term": "Sergio Aguero announces himself with a close-range shot after a cross, but one of the defenders gets in the way to block the attempt. The chance came from a well-placed ball into the box.",
+                    "history_time": "21:56",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the delivery and finishing have not been clinical enough to yield a goal."
+                },
+                {
+                    "short-term": "Claudio Marchisio attempts to surprise the keeper with a shot, but it lacks accuracy and goes way wide of the left post. He struck it with power, but the placement was off.",
+                    "history_time": "14:09",
+                    "long-term": "He has been struggling to create scoring opportunities, with a cross and shot both failing to trouble the opposition significantly."
+                },
+                {
+                    "short-term": "Claudio Marchisio tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save. The shot lacked power to trouble the keeper.",
+                    "history_time": "5:59",
+                    "long-term": "He has shown great initiative in creating scoring opportunities, but his efforts have been consistently thwarted by the goalkeeper."
+                }
+            ]
+        },
+        {
+            "game_time": "33:23",
+            "query": "Alvaro Morata (Juventus) bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. The scoreline remains the same.",
+            "short-term": "Alvaro Morata bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. He had space to aim for the corner but couldn't find the accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. The scoreline remains the same.",
+            "history": [
+                {
+                    "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+                    "history_time": "25:00",
+                    "long-term": "He has been posing a threat in the attacking third, creating scoring opportunities with his skill and movement, but the final product has been lacking."
+                }
+            ]
+        },
+        {
+            "game_time": "34:15",
+            "query": "Raheem Sterling (Manchester City) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City.",
+            "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Raheem Sterling attempted to dribble past an opposing player. Manchester City earn a corner. The defender reacted quickly to block his progress.",
+                    "history_time": "30:07",
+                    "long-term": "He has been posing a threat on the opposition's defense with consecutive attempts, but the defending players have managed to neutralize his efforts so far."
+                }
+            ]
+        },
+        {
+            "game_time": "34:25",
+            "query": "Kevin De Bruyne (Manchester City) decides to speed play up with a short corner kick.",
+            "short-term": "Kevin De Bruyne decides to speed play up with a short corner kick. The ball took a slight deflection before reaching the intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+            "history": [
+                {
+                    "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+                    "history_time": "34:15",
+                    "long-term": "This corner kick comes after a shot from inside the goalmouth was blocked by a defender, deflecting out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Kevin De Bruyne almost found himself in a promising position after Yaya Toure tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception, cutting off the attack.",
+                    "history_time": "21:34",
+                    "long-term": "They have been attempting to utilize creative set pieces and executing defense-splitting passes to break through the opposition's backline."
+                }
+            ]
+        },
+        {
+            "game_time": "37:22",
+            "query": "Juan Cuadrado (Juventus) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Juan Cuadrado collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball deflected off his leg and went out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+                    "history_time": "34:15",
+                    "long-term": "They have been posing a significant threat through shots on goal, but the opposition's defenders have made crucial blocks to deny them so far."
+                },
+                {
+                    "short-term": "Alvaro Morata bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. He had space to aim for the corner but couldn't find the accuracy.",
+                    "history_time": "33:23",
+                    "long-term": "They have been creating scoring opportunities with individual efforts, but the defensive blocks and goalkeeping have denied them a goal so far."
+                }
+            ]
+        },
+        {
+            "game_time": "36:45",
+            "query": "Massimiliano Allegri has decided to introduce fresh legs, with Juan Cuadrado (Juventus) replacing Paulo Dybala.",
+            "short-term": "Massimiliano Allegri has decided to introduce fresh legs, with Juan Cuadrado replacing Paulo Dybala. Dybala gets a loud ovation from the crowd as he walks off.",
+            "query_ano": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Massimiliano Allegri has decided to make a change. Patrice Evra replaces Alex Sandro. Sandro receives a warm round of applause for his solid performance.",
+                    "history_time": "32:00",
+                    "long-term": "The coach has been actively making tactical substitutions, bringing in fresh players to inject new energy and maintain a strong performance. These changes have been positively received by the crowd."
+                }
+            ]
+        },
+        {
+            "game_time": "38:34",
+            "query": "Gael Clichy (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Gael Clichy sends a cross into the box, but the opposition's defence clears the ball to safety. The clearance was well-timed, preventing any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Juan Cuadrado collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball deflected off his leg and went out for a corner.",
+                    "history_time": "37:22",
+                    "long-term": "They have shown consistent attacking pressure, but the opposition's defense has been solid in clearing and blocking their chances."
+                },
+                {
+                    "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+                    "history_time": "34:15",
+                    "long-term": "They have consistently been putting pressure on the opposition's defense with threatening crosses, but the opposing team has managed to effectively clear the ball and avert any scoring opportunities."
+                },
+                {
+                    "short-term": "Claudio Marchisio swings a cross into the box, but it's far too close to Joe Hart, who smothers the ball. The delivery lacked power, making it an easy catch for the goalkeeper.",
+                    "history_time": "28:28",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposition's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+                    "history_time": "25:00",
+                    "long-term": "The opposition's defence has been solid, consistently clearing crosses and preventing scoring opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "40:13",
+            "query": "The corner from Kevin De Bruyne (Manchester City) is cleared away by the defence.",
+            "short-term": "The corner from Kevin De Bruyne is cleared away by the defence. Manchester City players appeal for a handball, but the referee waves play on.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence.",
+            "history": [
+                {
+                    "short-term": "Gael Clichy sends a cross into the box, but the opposition's defence clears the ball to safety. The clearance was well-timed, preventing any danger.",
+                    "history_time": "38:34",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and corners, but struggling to find a breakthrough."
+                },
+                {
+                    "short-term": "Juan Cuadrado collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball deflected off his leg and went out for a corner.",
+                    "history_time": "37:22",
+                    "long-term": "The team has been putting pressure on the defense with consecutive corners and shots, but their opponents have been doing well to clear the danger so far."
+                },
+                {
+                    "short-term": "Kevin De Bruyne decides to speed play up with a short corner kick. The ball took a slight deflection before reaching the intended target.",
+                    "history_time": "34:25",
+                    "long-term": "The player has been utilizing corner kicks as a strategy to create scoring opportunities, mixing up the delivery to try and catch the defense off guard."
+                },
+                {
+                    "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+                    "history_time": "34:15",
+                    "long-term": "They have been consistently pressuring the defense with crosses and corners, but have yet to find the final breakthrough."
+                },
+                {
+                    "short-term": "The ball is cleared after Raheem Sterling attempted to dribble past an opposing player. Manchester City earn a corner. The defender reacted quickly to block his progress.",
+                    "history_time": "30:07",
+                    "long-term": "They have been consistently pressuring the defense, creating chances through set pieces and individual efforts."
+                },
+                {
+                    "short-term": "Nothing comes of the resulting corner from Paulo Dybala. The defence is alert and manages to clear the ball before any real threat develops.",
+                    "history_time": "27:28",
+                    "long-term": "The set pieces from both teams have failed to pose a significant threat, with the defensive units effectively neutralizing the attacking opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "41:50",
+            "query": "Juan Cuadrado (Juventus) touches the ball with his hand. A free kick is awarded to Manchester City.",
+            "short-term": "Juan Cuadrado touches the ball with his hand. A free kick is awarded to Manchester City. The Juventus players protest, but the referee stands firm.",
+            "query_ano": "[PLAYER] ([TEAM]) touches the ball with his hand. A free kick is awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Juan Cuadrado collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball deflected off his leg and went out for a corner.",
+                    "history_time": "37:22",
+                    "long-term": "He has had a mixed performance so far, with moments of controversy and others of promise in front of goal."
+                }
+            ]
+        },
+        {
+            "game_time": "5:59",
+            "query": "Claudio Marchisio (Juventus) tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save.",
+            "short-term": "Claudio Marchisio tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save. The shot lacked power to trouble the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a long-range effort after receiving a precise pass, but [PLAYER] has a clear view of it and makes a comfortable save.",
+            "history": [
+                {
+                    "short-term": "Alex Sandro crosses the ball into the box, but one of the defending players averts the threat. The clearance was crucial as an attacker was waiting to pounce.",
+                    "history_time": "3:30",
+                    "long-term": "They have been consistently testing the defense with long-range efforts and crosses into the box, but have yet to find a breakthrough."
+                }
+            ]
+        },
+        {
+            "game_time": "7:30",
+            "query": "Kevin De Bruyne (Manchester City) whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner.",
+            "short-term": "Kevin De Bruyne whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner. Yaya Toure was waiting at the back post but couldn't reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and [TEAM] will have a corner.",
+            "history": [
+                {
+                    "short-term": "Alex Sandro crosses the ball into the box, but one of the defending players averts the threat. The clearance was crucial as an attacker was waiting to pounce.",
+                    "history_time": "3:30",
+                    "long-term": "The team has consistently shown their attacking intentions, putting pressure on the opposition's defense with precise crosses into the box."
+                }
+            ]
+        },
+        {
+            "game_time": "7:50",
+            "query": "Kevin De Bruyne (Manchester City) is about to take a corner kick, Fernandinho (Manchester City) jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him.",
+            "short-term": "Kevin De Bruyne is about to take a corner kick, Fernandinho jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him. The ball deflected out for another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick, [PLAYER] ([TEAM]) jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him.",
+            "history": [
+                {
+                    "short-term": "Kevin De Bruyne whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner. Yaya Toure was waiting at the back post but couldn't reach it.",
+                    "history_time": "7:30",
+                    "long-term": "This corner kick comes after a dangerous cross into the box was intercepted by the defense, deflecting out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Claudio Marchisio tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save. The shot lacked power to trouble the keeper.",
+                    "history_time": "5:59",
+                    "long-term": "Both teams have been creating scoring opportunities, but goalkeepers on both ends have made crucial saves to keep the game level. The offenses have been aggressive, but haven't yet found a way to break through the defense."
+                },
+                {
+                    "short-term": "Alex Sandro crosses the ball into the box, but one of the defending players averts the threat. The clearance was crucial as an attacker was waiting to pounce.",
+                    "history_time": "3:30",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense and goalkeeper have made crucial interventions to prevent them from taking the lead."
+                }
+            ]
+        }
+    ]
+}

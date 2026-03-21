@@ -1,0 +1,364 @@
+{
+    "annotations": [
+        {
+            "query": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick.",
+            "game_time": "12:24",
+            "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle. [TEAM] get a free kick.",
+            "history": [
+                {
+                    "short-term": "The assistant referee raises his flag and the referee blows his whistle. Paul Pogba (Juventus) puts the ball into the net, but he is flagged for offside. His teammate was in an offside position, interfering with play, leading to the goal being disallowed despite he being onside.",
+                    "history_time": "11:26",
+                    "long-term": "The game has seen a number of stoppages due to fouls and offside decisions, breaking up the rhythm of the match. The sides are cancelling each other out, with neither able to gain a clear advantage."
+                }
+            ]
+        },
+        {
+            "query": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City.",
+            "game_time": "12:48",
+            "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "The player has been demonstrating his set-piece expertise with nearly precise shots, and his opponent's tactic of aggression resulted in the strategic advantage of a free kick."
+                },
+                {
+                    "short-term": "The assistant referee raises his flag and the referee blows his whistle. Paul Pogba (Juventus) puts the ball into the net, but he is flagged for offside. His teammate was in an offside position, interfering with play, leading to the goal being disallowed despite he being onside.",
+                    "history_time": "11:26",
+                    "long-term": "They have been creating scoring opportunities, but struggling to convert them, with one effort going narrowly wide and another being disallowed due to offside."
+                }
+            ]
+        },
+        {
+            "query": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "game_time": "16:00",
+            "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have shown promising set-piece skills, consistently posing threats through corners and free kicks, though struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "They have been putting pressure on the opponent's defense with consistent attacks, but also shown some careless tackles, resulting in free kicks for the opposing team."
+                }
+            ]
+        },
+        {
+            "query": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus.",
+            "game_time": "22:16",
+            "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+            "query_ano": "[PLAYER] ([TEAM]) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+                    "history_time": "16:00",
+                    "long-term": "They have been posing a threat from outside the box and through set pieces, consistently testing the opposing team's defense."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have shown promising signs of individual brilliance, with players creating solo scoring opportunities, but have struggled with precision in their finishing. The long-range efforts have kept the goalkeepers alert, indicating a closely contested match."
+                },
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "They have been showing aggressive intent, creating scoring opportunities through solo efforts, but also reckless at times, resulting in free kicks for the opposing team."
+                }
+            ]
+        },
+        {
+            "query": "Paul Pogba (Juventus) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "game_time": "21:44",
+            "short-term": "Paul Pogba (Juventus) commits an ugly challenge. The referee sees it and immediately blows his whistle. Yaya Touré slipped just before the foul, but the referee had already spotted Pogba’s infringement.",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "The match has seen a rise in aggressive tackles, with both teams committing reckless fouls in their pursuit of gaining possession."
+                },
+                {
+                    "short-term": "The assistant referee raises his flag and the referee blows his whistle. Paul Pogba (Juventus) puts the ball into the net, but he is flagged for offside. His teammate was in an offside position, interfering with play, leading to the goal being disallowed despite he being onside.",
+                    "history_time": "11:26",
+                    "long-term": "He has shown some reckless behavior and poor decision-making, committing a foul and being part of an offside situation that nullified a goal."
+                }
+            ]
+        },
+        {
+            "query": "Stephan Lichtsteiner (Juventus) trips an opposition player and Damir Skomina signals a foul. Another situation results in a direct free kick for Manchester City.",
+            "game_time": "22:44",
+            "short-term": "Stephan Lichtsteiner (Juventus) trips an opposition player and Damir Skomina signals a foul. Another situation results in a direct free kick for Manchester City. The foul disrupted a potential attacking move on the right wing.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opposition player and [REFEREE] signals a foul. Another situation results in a direct free kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Paul Pogba (Juventus) commits an ugly challenge. The referee sees it and immediately blows his whistle. Yaya Touré slipped just before the foul, but the referee had already spotted Pogba’s infringement.",
+                    "history_time": "21:44",
+                    "long-term": "They have been struggling with discipline, as reckless tackles and trips have resulted in consecutive fouls."
+                },
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "The match has seen an intense physical battle, with both teams committing fouls to win the ball and contain opposition attacks."
+                }
+            ]
+        },
+        {
+            "query": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and his shot goes well wide of the right post. The ball goes out of play and Juventus will have a goal kick.",
+            "game_time": "23:34",
+            "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) stands over the resultant free kick from 32 metres out and his shot goes well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Stephan Lichtsteiner (Juventus) trips an opposition player and Damir Skomina signals a foul. Another situation results in a direct free kick for Manchester City. The foul disrupted a potential attacking move on the right wing.",
+                    "history_time": "22:44",
+                    "long-term": "They have been awarded multiple free kicks, testing Juventus' defense, but the opportunities haven't converted into threatening shots on goal yet."
+                },
+                {
+                    "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+                    "history_time": "22:16",
+                    "long-term": "They have been creating scoring opportunities with set pieces and solo efforts, but are struggling to find the target."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+                    "history_time": "16:00",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense has been solid in denying them a goal."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have shown promise from set pieces, creating chances but struggling to find the precision to break the deadlock."
+                },
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "They have been aggressive in their pursuit of scoring opportunities, but their set-piece attempts have lacked precision and's posed little threat."
+                }
+            ]
+        },
+        {
+            "query": "David Silva (Manchester City) will try to find the head of one of his teammates from a corner kick. Yaya Toure (Manchester City) jumps for a header from the resulting set piece, but it goes way wide of the right post. The ball goes out of play and Juventus will have a goal kick.",
+            "game_time": "27:24",
+            "short-term": "David Silva (Manchester City) delivers a corner towards Yaya Touré, who rises above Paul Pogba to meet it. However, he fails to get the power and direction right, sending his header wide of the right post. Juventus are awarded a goal kick.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick. [PLAYER] ([TEAM]) jumps for a header from the resulting set piece, but it goes way wide of the right post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) dribbles past Lichtsteiner but is halted by Sturaro’s challenge. The ball deflects out, and Manchester City win a corner.",
+                    "history_time": "27:01",
+                    "long-term": "They have been consistently pressuring Juventus with consecutive corners, although struggling to find the accuracy to convert these opportunities into goals."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+                    "history_time": "23:34",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but struggling to find the precision to capitalize on them."
+                },
+                {
+                    "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+                    "history_time": "22:16",
+                    "long-term": "They have been creating scoring opportunities with pace and strength but are struggling to find the final touch."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+                    "history_time": "16:00",
+                    "long-term": "They have been utilizing corner kicks as a means to create scoring opportunities, but the opposing team's defense has been effective in clearing the threats."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have been creating scoring opportunities through set pieces, but lack the precision to capitalize on them."
+                },
+                {
+                    "short-term": "Vincent Kompany (Manchester City) makes a reckless foul in order to win the ball from his opponent. Damir Skomina has a clear sight of it and blows his whistle. Juventus get a free kick. He had driven forward and was tripped just as he reached the final third.",
+                    "history_time": "12:24",
+                    "long-term": "They have been struggling to create clear-cut chances and have been guilty of careless fouls, handing the opposition opportunities to counter-attack."
+                }
+            ]
+        },
+        {
+            "query": "Aleksandar Kolarov (Manchester City) slaloms his way past challenges, but an opposing player does well to get the ball away. Corner kick. Manchester City will have an opportunity.",
+            "game_time": "27:01",
+            "short-term": "Aleksandar Kolarov (Manchester City) dribbles past Lichtsteiner but is halted by Sturaro’s challenge. The ball deflects out, and Manchester City win a corner.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. Corner kick. [TEAM] will have an opportunity.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+                    "history_time": "23:34",
+                    "long-term": "He has shown skill on the ball, beating an opponent before being stopped by another, and has had a good opportunity from a set piece but could not capitalize on it."
+                }
+            ]
+        },
+        {
+            "query": "The effort by Juan Cuadrado (Juventus) failed to trouble the goalkeeper. He smashed the ball in from 24 metres but it went well wide of the left post. The ball is off of the pitch and it's a goal kick for Manchester City.",
+            "game_time": "30:48",
+            "short-term": "Juan Cuadrado (Juventus) unleashes a powerful shot from 24 metres, but the effort lacks direction and flies wide of the left post. Manchester City are awarded a goal kick.",
+            "label": "shoot",
+            "query_ano": "The effort by [PLAYER] ([TEAM]) failed to trouble the goalkeeper. He smashed the ball in from 24 metres but it went well wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "David Silva (Manchester City) delivers a corner towards Yaya Touré, who rises above Paul Pogba to meet it. However, he fails to get the power and direction right, sending his header wide of the right post. Juventus are awarded a goal kick.",
+                    "history_time": "27:24",
+                    "long-term": "Both teams have been creating scoring opportunities with long-range shots and set pieces, but neither has managed to capitalize on these chances, highlighting the intense defensive battle unfolding between them."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) dribbles past Lichtsteiner but is halted by Sturaro’s challenge. The ball deflects out, and Manchester City win a corner.",
+                    "history_time": "27:01",
+                    "long-term": "Both teams have been creating scoring opportunities with powerful shots and swift dribbling, but they lack accuracy and execution in the final touch."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+                    "history_time": "23:34",
+                    "long-term": "Both teams have been trying to create scoring opportunities from distance, but so far, their long-range efforts have been off target."
+                },
+                {
+                    "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+                    "history_time": "22:16",
+                    "long-term": "Both teams have shown willingness to shoot from distance, but their efforts have lacked precision and accuracy, failing to test the opposing goalkeepers effectively."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+                    "history_time": "16:00",
+                    "long-term": "Both teams have been creating scoring opportunities, but they've lacked precision in their finishing, with one team showing strong defensive organization."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful long-range shots, but are struggling to find the accuracy to test the goalkeeper."
+                }
+            ]
+        },
+        {
+            "query": "Aleksandar Kolarov (Manchester City) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "game_time": "34:18",
+            "short-term": "Aleksandar Kolarov (Manchester City) attempts a cross towards Wilfried Bony, but centre back gets in the way to block it. He then clears the ball away, preventing a chance.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) dribbles past Lichtsteiner but is halted by Sturaro’s challenge. The ball deflects out, and Manchester City win a corner.",
+                    "history_time": "27:01",
+                    "long-term": "He has shown impressive skill on the ball, consistently creating opportunities down the flank, but ultimately being repelled by the defense."
+                }
+            ]
+        },
+        {
+            "query": "Bacary Sagna (Manchester City) collects a pass and strikes from about 24 metres out. It's a poor attempt which flies well wide of the right post. The ball goes out of play and Juventus will have a goal kick.",
+            "game_time": "37:42",
+            "short-term": "Bacary Sagna (Manchester City) latched onto a loose ball after an attempted pass towards Wilfried Bony. He struck from 24 metres out, but his shot lacked precision and flew well wide of the right post. Juventus were awarded a goal kick.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and strikes from about 24 metres out. It's a poor attempt which flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Juan Cuadrado (Juventus) unleashes a powerful shot from 24 metres, but the effort lacks direction and flies wide of the left post. Manchester City are awarded a goal kick.",
+                    "history_time": "30:48",
+                    "long-term": "Both teams have shown a willingness to take shots from distance, but so far, their efforts have lacked precision and accuracy."
+                },
+                {
+                    "short-term": "David Silva (Manchester City) delivers a corner towards Yaya Touré, who rises above Paul Pogba to meet it. However, he fails to get the power and direction right, sending his header wide of the right post. Juventus are awarded a goal kick.",
+                    "history_time": "27:24",
+                    "long-term": "They have been creating scoring opportunities, but their finishing has been inconsistent, with shots and headers flying wide of the target."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+                    "history_time": "23:34",
+                    "long-term": "They have been attempting to create scoring opportunities from distance, but so far, their long-range efforts have been off target."
+                },
+                {
+                    "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+                    "history_time": "22:16",
+                    "long-term": "They have been creating scoring opportunities with powerful long-range shots, but precision has been lacking, with both attempts flying off target."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have shown willingness to shoot from distance, but their efforts have lacked the necessary precision to find the back of the net."
+                }
+            ]
+        },
+        {
+            "query": "A rebound falls at the feet of Fernandinho (Manchester City), whose promising strike from long range flies a few inches wide of the right post! What a great effort! The ball is off of the pitch and it's a goal kick for Juventus.",
+            "game_time": "39:38",
+            "short-term": "A rebound falls at the feet of Fernandinho (Manchester City), whose promising strike from long range flies a few inches wide of the right post! What a great effort! The ball is off of the pitch and it's a goal kick for Juventus. He struck the ball cleanly with the outside of his right foot, but his effort faded just wide of the right post. ",
+            "label": "shoot",
+            "query_ano": "A rebound falls at the feet of [PLAYER] ([TEAM]), whose promising strike from long range flies a few inches wide of the right post! What a great effort! The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) attempted to slip a pass into the box for Wilfried Bony, but Giorgio Chiellini stepped in with a crucial interception to block the pass and clear the danger.",
+                    "history_time": "39:19",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and passes into the box, but the opponent's defense has been doing just enough to keep them at bay."
+                },
+                {
+                    "short-term": "Bacary Sagna (Manchester City) latched onto a loose ball after an attempted pass towards Wilfried Bony. He struck from 24 metres out, but his shot lacked precision and flew well wide of the right post. Juventus were awarded a goal kick.",
+                    "history_time": "37:42",
+                    "long-term": "They have been creating long-range scoring opportunities, with both Fernandinho and Bacary Sagna attempting to find the back of the net from distance."
+                },
+                {
+                    "short-term": "Juan Cuadrado (Juventus) unleashes a powerful shot from 24 metres, but the effort lacks direction and flies wide of the left post. Manchester City are awarded a goal kick.",
+                    "history_time": "30:48",
+                    "long-term": "Both teams have shown the ability to create long-range scoring opportunities, but have lacked precision in their finishing."
+                },
+                {
+                    "short-term": "David Silva (Manchester City) delivers a corner towards Yaya Touré, who rises above Paul Pogba to meet it. However, he fails to get the power and direction right, sending his header wide of the right post. Juventus are awarded a goal kick.",
+                    "history_time": "27:24",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and set pieces, but struggling to find the accuracy to capitalize on them."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) stands over the resultant free kick from 32 metres out and takes a left-footed shot. The ball moves away from Buffon’s goal and goes well wide of the right post. Juventus’ captain had it covered, and the ball went out for a goal kick.",
+                    "history_time": "23:34",
+                    "long-term": "They have been creating long-range scoring opportunities, testing the opposition's goalkeeper with powerful shots, although lacking accuracy."
+                },
+                {
+                    "short-term": "Fernandinho (Manchester City) gets a shot away from around 23 metres out after his fine solo run. The ball went just over the top! The ball is off of the pitch and it's a goal kick for Juventus. The shot was powerful but slightly too high, missing the target by inches.",
+                    "history_time": "22:16",
+                    "long-term": "He has been taking advantage of scoring opportunities with long-range shots, consistently coming close to finding the back of the net."
+                },
+                {
+                    "short-term": "Hernanes (Juventus) shoots at goal from the free kick from some 30 metres out. His attempt was quite precise and another few inches and it would have ended up inside the left post. The ball is off of the pitch and it's a goal kick for Manchester City. The effort had good power but lacked the accuracy to trouble the goalkeeper.",
+                    "history_time": "12:48",
+                    "long-term": "Both teams have shown impressive long-range shooting capabilities, but precision has been lacking, resulting in narrow misses on both ends."
+                }
+            ]
+        },
+        {
+            "query": "A pass into the penalty area from Samir Nasri (Manchester City) is intercepted by the defence.",
+            "game_time": "39:19",
+            "short-term": "Samir Nasri (Manchester City) attempted to slip a pass into the box for Wilfried Bony, but Giorgio Chiellini stepped in with a crucial interception to block the pass and clear the danger.",
+            "label": "chance",
+            "query_ano": "A pass into the penalty area from [PLAYER] ([TEAM]) is intercepted by the defence.",
+            "history": [
+                {
+                    "short-term": "Bacary Sagna (Manchester City) latched onto a loose ball after an attempted pass towards Wilfried Bony. He struck from 24 metres out, but his shot lacked precision and flew well wide of the right post. Juventus were awarded a goal kick.",
+                    "history_time": "37:42",
+                    "long-term": "They have been consistently trying to create scoring opportunities through targeted passes and shots, but their efforts have been hindered by precise defensive interventions and inaccuracies in their attacking plays."
+                },
+                {
+                    "short-term": "Patrice Evra (Juventus) attempts to pick out Álvaro Morata inside the box, but the opposition defense intercepts the pass, cutting out the threat.",
+                    "history_time": "33:44",
+                    "long-term": "Both teams have showcased solid defensive work, as evident from the crucial interceptions made by Giorgio Chiellini and the opposition defense, neutralizing potential threats and maintaining a clean sheet so far."
+                },
+                {
+                    "short-term": "Juan Cuadrado (Juventus) unleashes a powerful shot from 24 metres, but the effort lacks direction and flies wide of the left post. Manchester City are awarded a goal kick.",
+                    "history_time": "30:48",
+                    "long-term": "Both teams have shown moments of brilliance in attack, but solid defensive plays have prevented clear scoring opportunities. They are struggling to create clear chances."
+                },
+                {
+                    "short-term": "David Silva (Manchester City) delivers a corner towards Yaya Touré, who rises above Paul Pogba to meet it. However, he fails to get the power and direction right, sending his header wide of the right post. Juventus are awarded a goal kick.",
+                    "history_time": "27:24",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, blocking passes and intercepting the ball to prevent goals."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. Juventus quickly reorganized to prevent any follow-up chance.",
+                    "history_time": "16:00",
+                    "long-term": "They have consistently threatened the opposition's goal with clever passes, but the opposing defense has been equally up to the task in neutralizing these efforts."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:59",
+            "game_time": "48:59",
+            "query": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. The home side dominated this game. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority.",
+            "short-term": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. The home side dominated this game. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority. The final minutes saw the home team calmly manage possession to secure the result.",
+            "query_ano": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. The home side dominated this game. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority."
+        },
+        {
+            "gameTime": "28:42",
+            "game_time": "28:42",
+            "query": "Isco (Real Madrid) floats the ball in from the corner but it's intercepted.",
+            "short-term": "Isco (Real Madrid) floats the ball in from the corner but it's intercepted. The cross was too close to the defense, allowing them to clear easily.",
+            "query_ano": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "28:24",
+            "game_time": "28:24",
+            "query": "Real Madrid are enjoying possession, but one of the opposition players steps in to end the sequence. Real Madrid have a corner.",
+            "short-term": "Real Madrid are enjoying possession, but one of the opposition players steps in to end the sequence. Real Madrid have a corner. The home side continued their passing rhythm, forcing the defense to clear for a set piece.",
+            "query_ano": "[TEAM] are enjoying possession, but one of the opposition players steps in to end the sequence. [TEAM] have a corner."
+        },
+        {
+            "gameTime": "27:46",
+            "game_time": "27:46",
+            "query": "Crossbar! Alvaro Arbeloa (Real Madrid) had a good opportunity when he latched on to a cross from the wing, but his header from around the penalty spot wasn't accurate enough and the ball crashed against the bar!",
+            "short-term": "Crossbar! Alvaro Arbeloa (Real Madrid) had a good opportunity when he latched on to a cross from the wing, but his header from around the penalty spot wasn't accurate enough and the ball crashed against the bar! A close call that had the crowd gasping.",
+            "query_ano": "Crossbar! [PLAYER] ([TEAM]) had a good opportunity when he latched on to a cross from the wing, but his header from around the penalty spot wasn't accurate enough and the ball crashed against the bar!"
+        },
+        {
+            "gameTime": "27:06",
+            "game_time": "27:06",
+            "query": "Gareth Bale (Real Madrid) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Gareth Bale (Real Madrid) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal. Bale hesitated slightly, allowing the defender to close in.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "26:07",
+            "game_time": "26:07",
+            "query": "The referee stops play so that a substitution can be made and Juninho (Ludogorets) replaces Vura.",
+            "short-term": "The referee stops play so that a substitution can be made and Juninho (Ludogorets) replaces Vura. The away side looks to add fresh legs as they chase the game.",
+            "query_ano": "The referee stops play so that a substitution can be made and Juninho ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "23:14",
+            "game_time": "23:14",
+            "query": "Isco (Real Madrid) works the corner short instead of sending the ball into the penalty area.",
+            "short-term": "Isco (Real Madrid) works the corner short instead of sending the ball into the penalty area. A tactical move to retain possession rather than deliver a direct cross.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "22:54",
+            "game_time": "22:54",
+            "query": "Gareth Bale (Real Madrid) fires the ball at goal from inside the area, but it's well blocked. Real Madrid have been awarded a corner kick.",
+            "short-term": "Gareth Bale (Real Madrid) fires the ball at goal from inside the area, but it's well blocked. Real Madrid have been awarded a corner kick. The shot had power but lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "22:39",
+            "game_time": "22:39",
+            "query": "Nothing comes of the resulting corner from Isco (Real Madrid). The defence is alert and manages to cut it out.",
+            "short-term": "Nothing comes of the resulting corner from Isco (Real Madrid). The defence is alert and manages to cut it out. The delivery lacked accuracy, making it an easy clearance for the defenders.",
+            "query_ano": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "22:12",
+            "game_time": "22:12",
+            "query": "Chicharito (Real Madrid) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. Vladislav Stoyanov guesses his intention and denies him with a fine save. Corner kick. Real Madrid will have an opportunity.",
+            "short-term": "Chicharito (Real Madrid) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. Vladislav Stoyanov guesses his intention and denies him with a fine save. Corner kick. Real Madrid will have an opportunity. Chicharito struck cleanly, but the goalkeeper reacted swiftly.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. [PLAYER] guesses his intention and denies him with a fine save. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "gameTime": "21:10",
+            "game_time": "21:10",
+            "query": "A dangerous looking corner kick from Isco (Real Madrid) is cleared to safety by the defence.",
+            "short-term": "A dangerous looking corner kick from Isco (Real Madrid) is cleared to safety by the defence. The ball was aimed towards the near post but lacked the necessary curl.",
+            "query_ano": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "20:41",
+            "game_time": "20:41",
+            "query": "Jese (Real Madrid) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. Real Madrid win a corner.",
+            "short-term": "Jese (Real Madrid) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. Real Madrid win a corner. His quick movement opened space, but the shot was blocked at the last moment.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. [TEAM] win a corner."
+        },
+        {
+            "gameTime": "20:03",
+            "game_time": "20:03",
+            "query": "The linesman signals that Junior Caicara (Ludogorets) is offside and the referee confirms the decision.",
+            "short-term": "The linesman signals that Junior Caicara (Ludogorets) is offside and the referee confirms the decision. He mistimed his run, stepping just beyond the defensive line.",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "17:47",
+            "game_time": "17:47",
+            "query": "The referee stops play so that a substitution can be made and Fabio Espinho trots off the pitch and is replaced by Anicet (Ludogorets).",
+            "short-term": "The referee stops play so that a substitution can be made and Fabio Espinho trots off the pitch and is replaced by Anicet (Ludogorets). The away team looks to inject fresh energy into midfield.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by Anicet ([TEAM])."
+        },
+        {
+            "gameTime": "17:00",
+            "game_time": "17:00",
+            "query": "Marcelo (Real Madrid) tries to pass the ball into the penalty area but it's blocked.",
+            "short-term": "Marcelo (Real Madrid) tries to pass the ball into the penalty area but it's blocked. His low cross was anticipated and cut out by the defenders.",
+            "query_ano": "Marcelo ([TEAM]) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "gameTime": "15:15",
+            "game_time": "15:15",
+            "query": "Georgi Dermendzhiev decides to make a substitution. Mihail Aleksandrov will be replaced by Wanderson (Ludogorets).",
+            "short-term": "Georgi Dermendzhiev decides to make a substitution. Mihail Aleksandrov will be replaced by Wanderson (Ludogorets). The team seeks to add more attacking flair.",
+            "query_ano": "[COACH] decides to make a substitution. Mihail Aleksandrov will be replaced by Wanderson ([TEAM])."
+        },
+        {
+            "gameTime": "14:59",
+            "game_time": "14:59",
+            "query": "Carlo Ancelotti has decided to make a change. Jese (Real Madrid) replaces Toni Kroos.",
+            "short-term": "Carlo Ancelotti has decided to make a change. Jese (Real Madrid) replaces Toni Kroos. A tactical shift to add more pace in the attack.",
+            "query_ano": "[COACH] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "14:43",
+            "game_time": "14:43",
+            "query": "Substitution. Marcelo (Real Madrid) has come on for Fabio Coentrao.",
+            "short-term": "Substitution. Marcelo (Real Madrid) has come on for Fabio Coentrao. A routine change to manage game time for the fullbacks.",
+            "query_ano": "Substitution. Marcelo ([TEAM]) has come on for [PLAYER]."
+        },
+        {
+            "gameTime": "13:02",
+            "game_time": "13:02",
+            "query": "Fabio Espinho (Ludogorets) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+            "short-term": "Fabio Espinho (Ludogorets) takes the corner, but he overhits it and none of his teammates are able to reach the ball. The cross had too much curve, making it easy for the defense to clear.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "gameTime": "12:49",
+            "game_time": "12:49",
+            "query": "Svetoslav Dyakov (Ludogorets) tested Keylor Navas with a strike from just outside the box, but the effort is saved. The ball is out of play. Ludogorets win a corner kick.",
+            "short-term": "Svetoslav Dyakov (Ludogorets) tested Keylor Navas with a strike from just outside the box, but the effort is saved. The ball is out of play. Ludogorets win a corner kick. Navas reacted swiftly despite a deflection off a defender.",
+            "query_ano": "[PLAYER] ([TEAM]) tested [PLAYER] with a strike from just outside the box, but the effort is saved. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "gameTime": "11:36",
+            "game_time": "11:36",
+            "query": "Alvaro Arbeloa (Real Madrid) sends a teasing cross into the area, but Vladislav Stoyanov intercepts the ball.",
+            "short-term": "Alvaro Arbeloa (Real Madrid) sends a teasing cross into the area, but Vladislav Stoyanov intercepts the ball. The goalkeeper read the delivery well and stepped out to claim it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "10:49",
+            "game_time": "10:49",
+            "query": "A crossfield pass from Vura (Ludogorets) fails to find any of his teammates.",
+            "short-term": "A crossfield pass from Vura (Ludogorets) fails to find any of his teammates. His attempt to switch play was miscalculated and easily intercepted.",
+            "query_ano": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates."
+        },
+        {
+            "gameTime": "09:18",
+            "game_time": "9:18",
+            "query": "A cross is clipped into the penalty area by Dani Abalo (Ludogorets) but poses no threat.",
+            "short-term": "A cross is clipped into the penalty area by Dani Abalo (Ludogorets) but poses no threat. The delivery lacked pace, allowing defenders to clear comfortably.",
+            "query_ano": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat."
+        },
+        {
+            "gameTime": "06:58",
+            "game_time": "6:58",
+            "query": "This was a piece of cake for Vladislav Stoyanov. Gareth Bale (Real Madrid) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper.",
+            "short-term": "This was a piece of cake for Vladislav Stoyanov. Gareth Bale (Real Madrid) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper. His attempt lacked power and placement.",
+            "query_ano": "This was a piece of cake for [PLAYER]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper."
+        },
+        {
+            "gameTime": "05:42",
+            "game_time": "5:42",
+            "query": "Fabio Coentrao clips a neat ball into the box towards Alvaro Arbeloa (Real Madrid), whose header from the centre of the box goes narrowly over the crossbar.",
+            "short-term": "Fabio Coentrao clips a neat ball into the box towards Alvaro Arbeloa (Real Madrid), whose header from the centre of the box goes narrowly over the crossbar. Arbeloa positioned himself well but couldn’t keep his header down.",
+            "query_ano": "[PLAYER] clips a neat ball into the box towards [PLAYER] ([TEAM]), whose header from the centre of the box goes narrowly over the crossbar."
+        },
+        {
+            "gameTime": "04:22",
+            "game_time": "4:22",
+            "query": "The keeper doesn't have to worry about this one. Cosmin Moti (Ludogorets) sacrificed accuracy for power, and thus his attempt went well over the bar.",
+            "short-term": "The keeper doesn't have to worry about this one. Cosmin Moti (Ludogorets) sacrificed accuracy for power, the shot had plenty of force but lacked control. His attempt went well over the bar. ",
+            "query_ano": "The keeper doesn't have to worry about this one. [PLAYER] ([TEAM]) sacrificed accuracy for power, and thus his attempt went well over the bar."
+        },
+        {
+            "gameTime": "01:42",
+            "game_time": "1:42",
+            "query": "Isco (Real Madrid) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates.",
+            "short-term": "Isco (Real Madrid) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates. The ball ricocheted off a teammate, nullifying a promising chance.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but the ball is blocked by one of his teammates."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "annotations": [
+        {
+            "game_time": "24:45",
+            "query": "Paul Pogba (Juventus) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "short-term": "Paul Pogba tries to send the ball in front of the goal, but the opposition's defence averts the threat. He had turned smartly to create space, but his pass was intercepted before reaching its target.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. The final ball lacked precision, allowing the defense to clear comfortably.",
+                    "history_time": "22:54",
+                    "long-term": "They have been struggling to break down the opposition's defense with their passing game, with multiple attempts being intercepted or cleared."
+                }
+            ]
+        },
+        {
+            "game_time": "29:10",
+            "query": "Yaya Toure (Manchester City) received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar.",
+            "short-term": "Yaya Toure received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar. The ball had a beautiful curl but just didn't dip in time.",
+            "query_ano": "[PLAYER] ([TEAM]) received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. The final ball lacked precision, allowing the defense to clear comfortably.",
+                    "history_time": "22:54",
+                    "long-term": "They were showing promising signs of creativity in the attacking third, crafting opportunities through a mix of individual brilliance and swift interplay."
+                }
+            ]
+        },
+        {
+            "game_time": "29:55",
+            "query": "Yaya Toure (Manchester City) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post.",
+            "short-term": "Yaya Toure attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post. The effort had power but lacked the precision to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar. The ball had a beautiful curl but just didn't dip in time.",
+                    "history_time": "29:10",
+                    "long-term": "He has been trying to make an impact with his powerful shots, but so far, accuracy has been the missing element in his attempts."
+                },
+                {
+                    "short-term": "Yaya Toure and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. The final ball lacked precision, allowing the defense to clear comfortably.",
+                    "history_time": "22:54",
+                    "long-term": "They have been trying to break down the opposition defense with creative attacks, but so far, the final execution has been lacking precision."
+                }
+            ]
+        },
+        {
+            "game_time": "37:16",
+            "query": "Mario Mandzukic (Juventus) was too forceful with his tackle and Felix Brych interrupted the game to signal a free kick.",
+            "short-term": "Mario Mandzukic was too forceful with his tackle and the referee interrupted the game to signal a free kick. The challenge seemed accidental as he wasn’t even looking at his opponent when the contact occurred.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [PLAYER] interrupted the game to signal a free kick.",
+            "history": [
+                {
+                    "short-term": "Joe Hart was forced into action to thwart Mario Mandzukic. He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. The save was well-executed, with the keeper reacting quickly to parry the effort away.",
+                    "history_time": "27:22",
+                    "long-term": "He has been a significant presence on the field, creating a chance and being involved in a notable physical encounter, demonstrating a high level of aggression and willingness to attack."
+                }
+            ]
+        },
+        {
+            "game_time": "39:35",
+            "query": "Yaya Toure (Manchester City) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "short-term": "Yaya Toure receives a precise pass on the edge of the box and releases a promising effort. He controlled the ball well but couldn’t generate enough accuracy, with his shot drifting painfully close to the right post.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post. The effort had power but lacked the precision to trouble the goalkeeper.",
+                    "history_time": "29:55",
+                    "long-term": "He has been posing a threat with powerful shots but struggling to find the target with precision."
+                },
+                {
+                    "short-term": "Yaya Toure received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar. The ball had a beautiful curl but just didn't dip in time.",
+                    "history_time": "29:10",
+                    "long-term": "He has consistently demonstrated his shooting ability from distance, posing a threat to the opposition with his precision and power."
+                },
+                {
+                    "short-term": "Yaya Toure and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. The final ball lacked precision, allowing the defense to clear comfortably.",
+                    "history_time": "22:54",
+                    "long-term": "They have been attempting to break down the opposition defense with creative combination play, but so far, their efforts have lacked the necessary precision to capitalize on scoring opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "43:44",
+            "query": "Sergio Aguero (Manchester City) shoots from the edge of the penalty area. The ball travels towards the target, but Gianluigi Buffon easily deals with the threat. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Sergio Aguero shoots from the edge of the penalty area. The ball travels towards the target, but the goalkeeper easily deals with the threat, pushing it behind for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the target, but [PLAYER] easily deals with the threat. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "Yaya Toure receives a precise pass on the edge of the box and releases a promising effort. He controlled the ball well but couldn’t generate enough accuracy, with his shot drifting painfully close to the right post.",
+                    "history_time": "39:35",
+                    "long-term": "They have been creating scoring opportunities from outside the box, but their shots lack the precision needed to beat the goalkeeper."
+                },
+                {
+                    "short-term": "Flag goes up against Sergio Aguero and the referee blows his whistle for offside. He tried to break past the last defender, but the timing was slightly off.",
+                    "history_time": "32:30",
+                    "long-term": "He has been struggling to find his mark, as evidenced by a saved shot and being caught offside in a crucial moment."
+                }
+            ]
+        },
+        {
+            "game_time": "44:12",
+            "query": "Kevin De Bruyne (Manchester City) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "short-term": "Kevin De Bruyne puts a cross into the box from the corner but there is no panic from the opposition and they easily clear. The defensive setup was solid, leaving no space for attackers.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero shoots from the edge of the penalty area. The ball travels towards the target, but the goalkeeper easily deals with the threat, pushing it behind for a corner.",
+                    "history_time": "43:44",
+                    "long-term": "This corner kick comes after a shot from the edge of the penalty area was pushed behind by the goalkeeper, conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Kevin De Bruyne shows his brilliant passing ability after picking out Jesus Navas with a fine lofted pass. Navas controlled it beautifully, demonstrating his excellent first touch.",
+                    "history_time": "39:05",
+                    "long-term": "He has been controlling the tempo of the game, consistently delivering precise passes and creating opportunities for his teammates, showcasing his exceptional playmaking skills."
+                }
+            ]
+        },
+        {
+            "game_time": "44:20",
+            "query": "Jesus Navas (Manchester City) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "short-term": "Jesus Navas tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar. There was no conviction in the strike, making it an easy miss.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero shoots from the edge of the penalty area. The ball travels towards the target, but the goalkeeper easily deals with the threat, pushing it behind for a corner.",
+                    "history_time": "43:44",
+                    "long-term": "They have been attempting to create scoring opportunities from distance, but their efforts have lacked conviction and been comfortably dealt with by the opposition's goalkeeper."
+                }
+            ]
+        }
+    ]
+}

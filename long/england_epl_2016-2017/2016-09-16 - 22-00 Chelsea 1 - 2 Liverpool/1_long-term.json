@@ -1,0 +1,284 @@
+{
+    "annotations": [
+        {
+            "game_time": "16:26",
+            "query": "What a hit! Dejan Lovren (Liverpool) shows good composure inside the box to fire a first-time shot inside the left post. 0:1.",
+            "short-term": "What a hit! Dejan Lovren (Liverpool) shows good composure inside the box to fire a first-time shot inside the left post. 0:1. Chelsea's defense was caught off guard, with he left unmarked at the back post, finishing splendidly as Liverpool took an early lead.",
+            "label": "goal",
+            "query_ano": "What a hit! [PLAYER] ([TEAM]) shows good composure inside the box to fire a first-time shot inside the left post. 0:1.",
+            "history": [
+                {
+                    "short-term": "What a miskick by Jordan Henderson (Liverpool). He smashes a volley from long distance that goes into the stands. It was a disappointing follow-up attempt that never threatened the goal.",
+                    "history_time": "13:15",
+                    "long-term": "They have been creating scoring opportunities with well-timed shots, but consistency remains an issue with missed chances due to errors in execution."
+                }
+            ]
+        },
+        {
+            "game_time": "19:56",
+            "query": "The linesman raises his flag. Diego Costa (Chelsea) is adjudged offside.",
+            "short-term": "The linesman raises his flag. Diego Costa (Chelsea) is adjudged offside.",
+            "label": "offside",
+            "query_ano": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "history": [
+                {
+                    "short-term": "Eden Hazard (Chelsea) is offside and the linesman raises his flag. It was a cracking ball over the head of his teammate, but he mistimed his run.",
+                    "history_time": "14:25",
+                    "long-term": "Chelsea's attacking efforts have been hindered by multiple offside calls."
+                }
+            ]
+        },
+        {
+            "game_time": "23:55",
+            "query": "Joel Matip (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to Liverpool.",
+            "short-term": "Joel Matip (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to Liverpool. Liverpool's straightforward approach has been effective in breaking through the opposition's defense.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Their opponent defended well, forcing the ball out for a corner kick to Liverpool.",
+                    "history_time": "12:25",
+                    "long-term": "They have been utilizing a direct approach, which initially allowed them to breach the opponent's defense, but subsequent attempts were well-defended."
+                }
+            ]
+        },
+        {
+            "game_time": "23:05",
+            "query": "David Luiz (Chelsea) seems to be alright and is okay to carry on.",
+            "short-term": "David Luiz (Chelsea) seems to be alright and is okay to carry on.",
+            "label": "injury",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "history": [
+                {
+                    "short-term": "David Luiz (Chelsea) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+                    "history_time": "22:00",
+                    "long-term": "His fitness for future games may be in question, as he twice required attention from the medical staff."
+                }
+            ]
+        },
+        {
+            "game_time": "24:44",
+            "query": "A brilliant individual effort! Daniel Sturridge (Liverpool) tricks his way past challenges into the box and drags his shot narrowly wide of the right post.",
+            "short-term": "A brilliant individual effort! Daniel Sturridge (Liverpool) tricks his way past challenges into the box and drags his shot narrowly wide of the right post. He found a huge space to exploit but failed to hit the target.",
+            "label": "shoot",
+            "query_ano": "A brilliant individual effort! [PLAYER] ([TEAM]) tricks his way past challenges into the box and drags his shot narrowly wide of the right post.",
+            "history": [
+                {
+                    "short-term": "What a hit! Dejan Lovren (Liverpool) shows good composure inside the box to fire a first-time shot inside the left post. 0:1. Chelsea's defense was caught off guard, with he left unmarked at the back post, finishing splendidly as Liverpool took an early lead.",
+                    "history_time": "16:26",
+                    "long-term": "They have shown flashes of brilliance in the attacking third, consistently finding space and creating quality chances, which may prove crucial in securing an advantage."
+                }
+            ]
+        },
+        {
+            "game_time": "27:35",
+            "query": "N'Golo Kante (Chelsea) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "short-term": "N'Golo Kante (Chelsea) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar. It was a questionable decision from Kante, as he had better options available around him.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",
+            "history": [
+                {
+                    "short-term": "Nemanja Matic (Chelsea) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. Chelsea are finally starting to wake up, showing more intent in their attack. However, Liverpool quickly look to counter as Wijnaldum picks up the ball and moves forward at pace.",
+                    "history_time": "26:02",
+                    "long-term": "They have been attempting to create scoring opportunities from distance, but so far, their efforts have been off target or blocked by the opposition's defense."
+                }
+            ]
+        },
+        {
+            "game_time": "30:10",
+            "query": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick.",
+            "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "N'Golo Kante (Chelsea) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar. It was a questionable decision from Kante, as he had better options available around him.",
+                    "history_time": "27:35",
+                    "long-term": "They have been attempting to create scoring opportunities, but their decision-making and execution in the final third have been lacking."
+                },
+                {
+                    "short-term": "Nemanja Matic (Chelsea) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. Chelsea are finally starting to wake up, showing more intent in their attack. However, Liverpool quickly look to counter as Wijnaldum picks up the ball and moves forward at pace.",
+                    "history_time": "26:02",
+                    "long-term": "They have been gradually increasing the intensity of their attack, despite struggling to find a breakthrough, with several blocked efforts and a corner kick opportunity."
+                },
+                {
+                    "short-term": "Joel Matip (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to Liverpool. Liverpool's straightforward approach has been effective in breaking through the opposition's defense.",
+                    "history_time": "23:55",
+                    "long-term": "Both teams have shown glimpses of their attacking capabilities, creating opportunities through precise passing."
+                },
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Their opponent defended well, forcing the ball out for a corner kick to Liverpool.",
+                    "history_time": "12:25",
+                    "long-term": "Both teams have shown great defensive awareness, consistently neutralizing their opponents' attacking efforts and conceding only corner kicks."
+                }
+            ]
+        },
+        {
+            "game_time": "32:30",
+            "query": "Nathaniel Clyne (Liverpool) fouls an opponent. At least that's what referee Martin Atkinson signals. A free kick to Chelsea.",
+            "short-term": "Nathaniel Clyne (Liverpool) fouls an opponent. At least that's what referee Martin Atkinson signals. A free kick to Chelsea. Clyne was just a little late in his challenge, allowing Eden Hazard to beat him to the ball.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. A free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Joel Matip (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to Liverpool. Liverpool's straightforward approach has been effective in breaking through the opposition's defense.",
+                    "history_time": "23:55",
+                    "long-term": "They have shown a mix of rugged and skilled play, committing fouls but also creating scoring opportunities through their direct approach."
+                }
+            ]
+        },
+        {
+            "game_time": "33:23",
+            "query": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him.",
+            "short-term": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him. However, the flag was up for offside, meaning the effort wouldn't have counted.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him.",
+            "history": [
+                {
+                    "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+                    "history_time": "30:10",
+                    "long-term": "They have been posing threats through set pieces, but have yet to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Nemanja Matic (Chelsea) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. Chelsea are finally starting to wake up, showing more intent in their attack. However, Liverpool quickly look to counter as Wijnaldum picks up the ball and moves forward at pace.",
+                    "history_time": "26:02",
+                    "long-term": "They have been showing signs of improvement in their attacking play, creating chances despite struggling to break down the opposing defense."
+                }
+            ]
+        },
+        {
+            "game_time": "35:36",
+            "query": "Jordan Henderson (Liverpool) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes all the way into the top right corner. He makes it 0:1 with this magnificent strike.",
+            "short-term": "Jordan Henderson (Liverpool) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes all the way into the top right corner. He makes it 0:1 with this magnificent strike. Even Thibaut Courtois could do nothing about it, as the ball soared high and curled perfectly into the top corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes all the way into the top right corner. He makes it 0:1 with this magnificent strike.",
+            "history": [
+                {
+                    "short-term": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him. However, the flag was up for offside, meaning the effort wouldn't have counted.",
+                    "history_time": "33:23",
+                    "long-term": "Both teams have shown incredible skill and precision in their attacks, with a fantastic long-range goal and a stellar save underscoring the intensity of the match."
+                }
+            ]
+        },
+        {
+            "game_time": "39:01",
+            "query": "Willian (Chelsea) prepares to take a corner kick.",
+            "short-term": "Willian (Chelsea) prepares to take a corner kick.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Willian (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Chelsea need to be more precise in their deliveries.",
+                    "history_time": "38:03",
+                    "long-term": "They have been trying to create scoring opportunities through corner kicks, but so far, the opposition's defense has been solid in clearing the ball."
+                },
+                {
+                    "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+                    "history_time": "30:10",
+                    "long-term": "The player has been focusing on set pieces, delivering multiple attempts into the box but has yet to create a scoring opportunity."
+                }
+            ]
+        },
+        {
+            "game_time": "38:03",
+            "query": "Willian (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "short-term": "Willian (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Chelsea need to be more precise in their deliveries.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Jordan Henderson (Liverpool) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes all the way into the top right corner. He makes it 0:1 with this magnificent strike. Even Thibaut Courtois could do nothing about it, as the ball soared high and curled perfectly into the top corner.",
+                    "history_time": "35:36",
+                    "long-term": "After the opponent scored, their offense still had no threat and did not create any scoring opportunities."
+                },
+                {
+                    "short-term": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him. However, the flag was up for offside, meaning the effort wouldn't have counted.",
+                    "history_time": "33:23",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but so far, the opposition's defense and goalkeeper have managed to neutralize these threats."
+                },
+                {
+                    "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+                    "history_time": "30:10",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and corners, but lacking precision in their final deliveries."
+                },
+                {
+                    "short-term": "Nemanja Matic (Chelsea) weaves his way through opponents and strikes the ball from the edge of the area, but it's blocked by a defender. Chelsea are finally starting to wake up, showing more intent in their attack. However, Liverpool quickly look to counter as Wijnaldum picks up the ball and moves forward at pace.",
+                    "history_time": "26:02",
+                    "long-term": "They have been attempting to increase the pressure, but so far, the opposition's defense has been effective in neutralizing their attacking threats."
+                }
+            ]
+        },
+        {
+            "game_time": "38:08",
+            "query": "Eden Hazard (Chelsea) looks to break free, but an opposing player clears the ball away. Chelsea force their opponents to concede a corner.",
+            "short-term": "Eden Hazard (Chelsea) looks to break free, but an opposing player clears the ball away. Chelsea force their opponents to concede a corner. This marks their most sustained spell of pressure since the restart.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] force their opponents to concede a corner.",
+            "history": [
+                {
+                    "short-term": "Willian (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Chelsea need to be more precise in their deliveries.",
+                    "history_time": "38:03",
+                    "long-term": "They have been consistently applying pressure, yet struggling to create clear-cut chances due to imprecise deliveries into the box."
+                },
+                {
+                    "short-term": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him. However, the flag was up for offside, meaning the effort wouldn't have counted.",
+                    "history_time": "33:23",
+                    "long-term": "They have been piling on the pressure, creating opportunities through set pieces and threatening the opposition's goal."
+                },
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) fouls an opponent. At least that's what referee Martin Atkinson signals. A free kick to Chelsea. Clyne was just a little late in his challenge, allowing Eden Hazard to beat him to the ball.",
+                    "history_time": "32:30",
+                    "long-term": "They have maintained possession and created scoring opportunities, resulting in consecutive set pieces that have pinned their opponents back."
+                },
+                {
+                    "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+                    "history_time": "30:10",
+                    "long-term": "They have consistently applied pressure and created scoring opportunities, winning multiple corners in the process."
+                }
+            ]
+        },
+        {
+            "game_time": "42:50",
+            "query": "Diego Costa (Chelsea) races towards goal but the defender gets back well to make a challenge. Chelsea earn a corner.",
+            "short-term": "Diego Costa (Chelsea) races towards goal but the defender gets back well to make a challenge. Chelsea earn a corner. He showed great pace to reach the byline, but his final touch allowed the defender to intervene just in time.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "Eden Hazard (Chelsea) looks to break free, but an opposing player clears the ball away. Chelsea force their opponents to concede a corner. This marks their most sustained spell of pressure since the restart.",
+                    "history_time": "38:08",
+                    "long-term": "They have been consistently applying pressure, resulting in consecutive corners."
+                },
+                {
+                    "short-term": "Willian (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Chelsea need to be more precise in their deliveries.",
+                    "history_time": "38:03",
+                    "long-term": "They have been creating opportunities to attack, but the opposing team's defense has been effective in countering their advances. Chelsea needs to improve their delivery in the final third to create clearer chances."
+                },
+                {
+                    "short-term": "David Luiz (Chelsea) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up inside the right post, but Simon Mignolet pulls off a decent save to thwart him. However, the flag was up for offside, meaning the effort wouldn't have counted.",
+                    "history_time": "33:23",
+                    "long-term": "They have been posing a threat through speedy breaks and quality set-piece deliveries, testing the opposition's defense consistently."
+                },
+                {
+                    "short-term": "Willian (Chelsea) fails to send a pass into the box as his effort is cut out. The ball deflects off a defender and into the side netting, resulting in a corner kick for Chelsea.",
+                    "history_time": "30:10",
+                    "long-term": "They have been consistently aggressive in their pursuit of goal-scoring opportunities, despite the defenders' efforts to intervene."
+                }
+            ]
+        },
+        {
+            "game_time": "43:55",
+            "query": "N'Golo Kante (Chelsea) tackles a bit over-zealously and Martin Atkinson blows for a foul. Liverpool are awarded a free kick. Let's see what they create from this.",
+            "short-term": "N'Golo Kante (Chelsea) tackles a bit over-zealously and Martin Atkinson blows for a foul. Liverpool are awarded a free kick. He had no choice but to foul as Philippe Coutinho was about to slip a pass through to his teammate.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul. [TEAM] are awarded a free kick. Let's see what they create from this.",
+            "history": [
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) fouls an opponent. At least that's what referee Martin Atkinson signals. A free kick to Chelsea. Clyne was just a little late in his challenge, allowing Eden Hazard to beat him to the ball.",
+                    "history_time": "32:30",
+                    "long-term": "The match is seeing a rise in intensity, with both teams committing fouls in their eagerness to gain possession, indicating a highly competitive and physical contest."
+                }
+            ]
+        }
+    ]
+}

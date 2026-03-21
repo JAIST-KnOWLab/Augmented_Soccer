@@ -1,0 +1,904 @@
+{
+    "annotations": [
+        {
+            "gameTime": "47:08",
+            "game_time": "47:08",
+            "query": "It's a goal! Olivier Giroud (Arsenal) scores with a brilliant shot into the bottom left corner after being released inside the box by a superb lofted pass from Nacho Monreal. The score is now 1:3.",
+            "short-term": "It's a goal! Olivier Giroud (Arsenal) scores with a brilliant shot into the bottom left corner after being released inside the box by a superb lofted pass from Nacho Monreal. This game has been extremely open, with at least six clear scoring chances.",
+            "query_ano": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the bottom left corner after being released inside the box by a superb lofted pass from [PLAYER]. The score is now 1:3.",
+            "history": [
+                {
+                    "short-term": "Goal! Leonardo Ulloa provides Jamie Vardy (Leicester) with a nice pass inside the box. It allows him to finish with a precise effort inside the right post. This goal makes him the top scorer in the League.",
+                    "history_time": "43:40",
+                    "long-term": "The players have showcased exceptional skill in their finishing, both sides scored goals in just a few minutes."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:40",
+            "game_time": "43:40",
+            "query": "Goal! Leonardo Ulloa provides Jamie Vardy (Leicester) with a nice pass inside the box. It allows him to finish with a precise effort inside the right post. 2:4.",
+            "short-term": "Goal! Leonardo Ulloa provides Jamie Vardy (Leicester) with a nice pass inside the box. It allows him to finish with a precise effort inside the right post. This goal makes him the top scorer in the League.",
+            "query_ano": "Goal! [PLAYER] provides [PLAYER] ([TEAM]) with a nice pass inside the box. It allows him to finish with a precise effort inside the right post. 2:4.",
+            "history": [
+                {
+                    "short-term": "A precise lofted cross finds its target inside the box, where a well-timed strike is unleashed towards the bottom left corner. However, the effort is denied by a superb save, keeping the score unchanged. The opposition keeps pressing despite being behind.",
+                    "history_time": "43:30",
+                    "long-term": "He has demonstrated exceptional goal-scoring form, continued to pose a threat in front of the opponent's goal, testing the opposition's defense with relentless pressure."
+                },
+                {
+                    "short-term": "Leonardo Ulloa (Leicester) misses a good chance to score. An inch-perfect cross into the box finds him rising for a header, but he sends the ball well over the bar. Earlier, a similar header had struck the bar.",
+                    "history_time": "40:59",
+                    "long-term": "He continued to pose a threat in front of the opponent's goal, and finally scored a goal after his last header went wide."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:30",
+            "game_time": "43:30",
+            "query": "A precise lofted cross finds its target inside the box, where a well-timed strike is unleashed towards the bottom left corner. However, the effort is denied by a superb save, keeping the score unchanged.",
+            "short-term": "A precise lofted cross finds its target inside the box, where a well-timed strike is unleashed towards the bottom left corner. However, the effort is denied by a superb save, keeping the score unchanged. The opposition keeps pressing despite being behind.",
+            "query_ano": "A precise lofted cross finds its target inside the box, where a well-timed strike is unleashed towards the bottom left corner. However, the effort is denied by a superb save, keeping the score unchanged.",
+            "history": [
+                {
+                    "short-term": "A corner is launched into the penalty area, but a well-placed defender rises highest to clear the danger. A crucial aerial duel in the box.",
+                    "history_time": "41:24",
+                    "long-term": "They have been putting pressure on the opposing team's defense with consecutive attacking chances, but the defense has shown resilience in fending off these threats."
+                },
+                {
+                    "short-term": "Leonardo Ulloa (Leicester) misses a good chance to score. An inch-perfect cross into the box finds him rising for a header, but he sends the ball well over the bar. Earlier, a similar header had struck the bar.",
+                    "history_time": "40:59",
+                    "long-term": "They have been creating quality scoring opportunities through precise crosses, but the finishing touch has eluded them so far."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+                    "history_time": "39:35",
+                    "long-term": "They have consistently threatened the opposition's goal with precise crosses and well-timed strikes, but the goalkeeper's exceptional saves have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save. The chance came from a long clearance, Leicester's best of the second half.",
+                    "history_time": "38:18",
+                    "long-term": "They have been creating quality chances but struggling to capitalize, with opposition goalkeepers making crucial saves to deny them."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:24",
+            "game_time": "41:24",
+            "query": "A corner is launched into the penalty area, but a well-placed defender rises highest to clear the danger.",
+            "short-term": "A corner is launched into the penalty area, but a well-placed defender rises highest to clear the danger. A crucial aerial duel in the box.",
+            "query_ano": "A corner is launched into the penalty area, but a well-placed defender rises highest to clear the danger.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner, but it's intercepted by the defender. Arsenal's defense, despite its struggles this season, manages to clear the threat.",
+                    "history_time": "40:03",
+                    "long-term": "The team's defense has shown resilience in dealing with set pieces."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+                    "history_time": "39:35",
+                    "long-term": "They have been posing a threat from set pieces and aerial duels, and their persistence in attack has forced the opposing goalkeeper into key saves."
+                },
+                {
+                    "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+                    "history_time": "31:18",
+                    "long-term": "They have shown vulnerabilities in their defense, particularly in handling aerial threats and maintaining pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:59",
+            "game_time": "40:59",
+            "query": "Leonardo Ulloa (Leicester) misses a good chance to score. An inch-perfect cross into the box finds him rising for a header, but he sends the ball well over the bar.",
+            "short-term": "Leonardo Ulloa (Leicester) misses a good chance to score. An inch-perfect cross into the box finds him rising for a header, but he sends the ball well over the bar. Earlier, a similar header had struck the bar.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds him rising for a header, but he sends the ball well over the bar.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+                    "history_time": "39:35",
+                    "long-term": "They have been creating quality scoring opportunities, but struggling to capitalize on them, with shots either going off target or being expertly saved by the goalkeeper."
+                },
+                {
+                    "short-term": "The resulting corner from Riyad Mahrez (Leicester) comes to nothing. They have not given up.",
+                    "history_time": "39:22",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but have yet to capitalize on them."
+                },
+                {
+                    "short-term": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save. The chance came from a long clearance, Leicester's best of the second half.",
+                    "history_time": "38:18",
+                    "long-term": "They have been creating scoring opportunities but failing to capitalize, missing headers and shots due to either poor accuracy or insufficient power."
+                },
+                {
+                    "short-term": "Ritchie De Laet (Leicester) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball. Leicester is struggling in the second half, with some midfielders showing signs of fatigue.",
+                    "history_time": "33:28",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, and showing signs of fatigue may further impact their performance."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:03",
+            "game_time": "40:03",
+            "query": "Riyad Mahrez (Leicester) takes the corner, but it's intercepted by the defender.",
+            "short-term": "Riyad Mahrez (Leicester) takes the corner, but it's intercepted by the defender. Arsenal's defense, despite its struggles this season, manages to clear the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but it's intercepted by the defender.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+                    "history_time": "39:35",
+                    "long-term": "This corner kick came from a great save by the goalkeeper, preventing a possible goal."
+                },
+                {
+                    "short-term": "The resulting corner from Riyad Mahrez (Leicester) comes to nothing. They have not given up.",
+                    "history_time": "39:22",
+                    "long-term": "They have had a lot of corner kicks recently, but none of them turned into goals."
+                },
+                {
+                    "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+                    "history_time": "31:18",
+                    "long-term": "Last time their opponent then kicked the corner out of bounds, let's see how they will execute the tactics this time."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently creating chances from corner kicks, but the opposition's defense has been effective in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:35",
+            "game_time": "39:35",
+            "query": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+            "short-term": "Riyad Mahrez (Leicester) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and Leicester manage to earn a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the bottom right corner. Petr Cech guesses his intention and denies him with a fine save. The ball is out of play and [TEAM] manage to earn a corner.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Riyad Mahrez (Leicester) comes to nothing. They have not given up.",
+                    "history_time": "39:22",
+                    "long-term": "He has been posing a threat in the attacking end, testing the goalkeeper with a great chance and consistently delivering set pieces."
+                },
+                {
+                    "short-term": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save. The chance came from a long clearance, Leicester's best of the second half.",
+                    "history_time": "38:18",
+                    "long-term": "They have been creating quality chances but struggling to capitalize, with two of their best opportunities denied by crucial saves from the opposing goalkeeper."
+                },
+                {
+                    "short-term": "Ritchie De Laet (Leicester) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball. Leicester is struggling in the second half, with some midfielders showing signs of fatigue.",
+                    "history_time": "33:28",
+                    "long-term": "They have maintained an attacking presence, but the opposition's goalkeeper has made crucial saves to deny them a breakthrough."
+                },
+                {
+                    "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+                    "history_time": "31:18",
+                    "long-term": "They have been consistently testing the opposing team's defense with creative attacking plays."
+                },
+                {
+                    "short-term": "Good touch by Kante (Leicester) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right. The team has struggled to find openings, having been deprived of possession for long periods.",
+                    "history_time": "22:08",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's goalkeeper has been equal to the task."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "He has been posing a threat in the attacking third."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:22",
+            "game_time": "39:22",
+            "query": "The resulting corner from Riyad Mahrez (Leicester) comes to nothing.",
+            "short-term": "The resulting corner from Riyad Mahrez (Leicester) comes to nothing. They have not given up.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "history": [
+                {
+                    "short-term": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save. The chance came from a long clearance, Leicester's best of the second half.",
+                    "history_time": "38:18",
+                    "long-term": "They have been pushing hard for a breakthrough, coming close on several occasions but struggling to capitalize on their best chances."
+                },
+                {
+                    "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+                    "history_time": "31:18",
+                    "long-term": "The players on both sides were under tremendous pressure, which led to mistakes in corner kick tactics."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "His last corner kick landed very well and created a threat, but this time there was no result."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:18",
+            "game_time": "38:18",
+            "query": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save.",
+            "short-term": "Jamie Vardy (Leicester) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save. The chance came from a long clearance, Leicester's best of the second half.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the bottom left corner. His effort, however, lacks power and the goalkeeper dives to make a stunning save.",
+            "history": [
+                {
+                    "short-term": "Ritchie De Laet (Leicester) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball. Leicester is struggling in the second half, with some midfielders showing signs of fatigue.",
+                    "history_time": "33:28",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with players starting to show signs of fatigue in the second half."
+                },
+                {
+                    "short-term": "Good touch by Kante (Leicester) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right. The team has struggled to find openings, having been deprived of possession for long periods.",
+                    "history_time": "22:08",
+                    "long-term": "They have been creating some scoring opportunities, but lack the finishing touches, failing to capitalize on their limited chances amidst struggling to maintain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:11",
+            "game_time": "34:11",
+            "query": "It's time for a substitution. Olivier Giroud (Arsenal) comes on in place of Theo Walcott.",
+            "short-term": "It's time for a substitution. Olivier Giroud (Arsenal) comes on in place of Theo Walcott. The change comes after an intense effort from the attack, with fatigue possibly affecting decision-making.",
+            "query_ano": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Substitution. Alex Oxlade-Chamberlain (Arsenal) on for Aaron Ramsey. Arsenal looks to add fresh legs, bringing on a faster player to exploit spaces.",
+                    "history_time": "31:38",
+                    "long-term": "They are opting for fresh legs to inject energy into the game, as fatigue seems to be impacting their attacking plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:28",
+            "game_time": "33:28",
+            "query": "Ritchie De Laet (Leicester) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball.",
+            "short-term": "Ritchie De Laet (Leicester) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball. Leicester is struggling in the second half, with some midfielders showing signs of fatigue.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball.",
+            "history": [
+                {
+                    "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+                    "history_time": "31:18",
+                    "long-term": "They have been exposing defensive weaknesses, as the opponents are failing to cope with the increasing pressure and struggling to maintain their intensity, particularly in midfield."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:18",
+            "game_time": "31:18",
+            "query": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play.",
+            "short-term": "The resulting corner comes to nothing as Alexis Sanchez (Arsenal) sends it out of play. The match is showing defensive limits for the opposing side, struggling to contain pressure.",
+            "query_ano": "The resulting corner comes to nothing as [PLAYER] ([TEAM]) sends it out of play.",
+            "history": [
+                {
+                    "short-term": "Arsenal force a corner. Their opponents will face another attacking threat. The defence had a hard time blocking out the strike from Mesut Ozil (Arsenal). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.The defense struggled but managed to block a strong attempt from distance.",
+                    "history_time": "31:06",
+                    "long-term": "They have been consistently pressuring the opponent's defense, exposing their vulnerabilities and creating multiple scoring opportunities."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The opposition looks frustrated with missed opportunities earlier in the game. Leicester will take a free kick.",
+                    "history_time": "29:02",
+                    "long-term": "They have shown a mix of strong attacking pressure and aggressive defensive plays, but also moments of recklessness that led to opposition free kicks. The opposing side is struggling to contain the pressure but has opportunities to counterattack."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by Kasper Schmeichel. The opposition appears physically drained as Arsenal continues pressing forward.",
+                    "history_time": "26:06",
+                    "long-term": "They have been consistently pressuring the opposition's defense, testing their limits and exposing their vulnerabilities, but the opposing goalkeeper has been doing well to keep them at bay."
+                },
+                {
+                    "short-term": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down. The midfield battle remains intense, with key interceptions preventing attacking threats.",
+                    "history_time": "24:25",
+                    "long-term": "His performance has declined and he made a pass error last time."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "Both sides stepped up their offensive and deployed a large number of manpower in the corner attack."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "They have been consistently pressuring the opposing team's defense, creating multiple scoring opportunities, but are struggling to capitalize on them."
+                },
+                {
+                    "short-term": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The attacking sequence was built from a fast transition, utilizing Walcott’s speed to unsettle the defense.",
+                    "history_time": "7:10",
+                    "long-term": "His contribution in attack is very good, and he just made a great shot."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:06",
+            "game_time": "31:06",
+            "query": "Arsenal force a corner. Their opponents will face another attacking threat. The defence had a hard time blocking out the strike from Mesut Ozil (Arsenal). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "short-term": "Arsenal force a corner. Their opponents will face another attacking threat. The defence had a hard time blocking out the strike from Mesut Ozil (Arsenal). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.The defense struggled but managed to block a strong attempt from distance.",
+            "query_ano": "[TEAM] force a corner. Their opponents will face another attacking threat. The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "history": [
+                {
+                    "short-term": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down. The midfield battle remains intense, with key interceptions preventing attacking threats.",
+                    "history_time": "24:25",
+                    "long-term": "They have maintained an aggressive strategy, but the opposing team's defense and interceptions have disrupted their flow of attack."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "The player has been consistently creating scoring opportunities with his shots, but the defense has managed to block them so far."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "They have consistently posed a threat to their opponents through relentless attacking and creation of scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:02",
+            "game_time": "29:02",
+            "query": "Alexis Sanchez (Arsenal) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. ",
+            "short-term": "Alexis Sanchez (Arsenal) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The opposition looks frustrated with missed opportunities earlier in the game. Leicester will take a free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. ",
+            "history": [
+                {
+                    "short-term": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down. The midfield battle remains intense, with key interceptions preventing attacking threats.",
+                    "history_time": "24:25",
+                    "long-term": "His performance has declined. He just made a pass error and now he has a foul."
+                },
+                {
+                    "short-term": "Mikel Arteta (Arsenal) infringed the rules and goes into the book. Craig Pawson pulls out a yellow card. The match tempo remains high as tactical fouls become more frequent.",
+                    "history_time": "23:01",
+                    "long-term": "They have been resorting to tactical fouls, collecting yellow cards and conceding free kicks, a trend that might harm their momentum. The growing number of infringements indicates their desperation to regain control."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:57",
+            "game_time": "27:57",
+            "query": "Aaron Ramsey (Arsenal) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammates.",
+            "short-term": "Aaron Ramsey (Arsenal) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammates. Arsenal is dominating tactically, making the match increasingly difficult for the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammates.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by Kasper Schmeichel. The opposition appears physically drained as Arsenal continues pressing forward.",
+                    "history_time": "26:06",
+                    "long-term": "He had several chances to score in a few minutes, but his shots were not very effective."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. The goalkeeper had to deal with the sun in his eyes, but remained composed to help clear the threat.",
+                    "history_time": "18:53",
+                    "long-term": "They have been dictating the pace of the game, creating chances through clever positioning, but have been let down by miscommunication and a lack of finishing touches."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "They have been dictating the pace of the game, creating numerous scoring opportunities through precise passing and intelligent positioning, putting consistent pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They have been dominating the match with impressive teamwork, creating scoring opportunities through swift passes and clever positioning, only to be denied by last-ditch defensive efforts. Their tactics have put the opposition under significant pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:06",
+            "game_time": "26:06",
+            "query": "Aaron Ramsey (Arsenal) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by Kasper Schmeichel.",
+            "short-term": "Aaron Ramsey (Arsenal) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by Kasper Schmeichel. The opposition appears physically drained as Arsenal continues pressing forward.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by [PLAYER].",
+            "history": [
+                {
+                    "short-term": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down. The midfield battle remains intense, with key interceptions preventing attacking threats.",
+                    "history_time": "24:25",
+                    "long-term": "They have maintained an aggressive offense, creating multiple scoring opportunities, while the opposition's defense, led by the goalkeeper, has been crucial in neutralizing these threats."
+                },
+                {
+                    "short-term": "What an amazing save by Kasper Schmeichel! Theo Walcott (Arsenal) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails. The defensive line has been frequently misaligned, allowing repeated dangerous runs in behind.",
+                    "history_time": "21:11",
+                    "long-term": "They have been consistently testing the opposition's defense with powerful strikes, but the goalkeeper has been equal to the task, and the defense has shown vulnerability to runs in behind."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "The teams have been exchanging attacking opportunities, with one side's energetic press countered by the other's well-organized defense, leading to a stalemate."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. The goalkeeper had to deal with the sun in his eyes, but remained composed to help clear the threat.",
+                    "history_time": "18:53",
+                    "long-term": "They have been consistently aggressive in their pursuit of a goal, applying constant pressure on the opposition's defense."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "They have been consistently threatening the opposition's goal, displaying sharp attacking movements and swift passing combinations that are causing problems for the defense."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "They have been dictating the pace of the game, creating a string of scoring opportunities and pinning the opposition back with relentless pressure. The opposition's defense has been tested time and again, with the goalkeeper being called upon to make crucial saves."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "They have been consistently aggressive in their pursuit of a goal, forcing the opposition to defend under pressure."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They have maintained intense pressure on the opponent's defense with consecutive powerful shots on goal, showing their strong attacking momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:25",
+            "game_time": "24:25",
+            "query": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down.",
+            "short-term": "A pass from Alexis Sanchez (Arsenal) is intercepted by Kasper Schmeichel and the move breaks down. The midfield battle remains intense, with key interceptions preventing attacking threats.",
+            "query_ano": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "His contribution in attack was brilliant, he just headed the ball in the penalty area and caused a corner kick."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:08",
+            "game_time": "22:08",
+            "query": "Good touch by Kante (Leicester) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",
+            "short-term": "Good touch by Kante (Leicester) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right. The team has struggled to find openings, having been deprived of possession for long periods.",
+            "query_ano": "Good touch by Kante ([TEAM]) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",
+            "history": [
+                {
+                    "short-term": "What an amazing save by Kasper Schmeichel! Theo Walcott (Arsenal) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails. The defensive line has been frequently misaligned, allowing repeated dangerous runs in behind.",
+                    "history_time": "21:11",
+                    "long-term": "They have shown flashes of brilliance on the counterattack but ultimately struggled to create clear-cut scoring opportunities and contain opposition's dangerous runs."
+                },
+                {
+                    "short-term": "That was close by Andy King (Leicester)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post. The opportunity arose from a well-timed delivery, as the team began increasing their presence in the attacking third.",
+                    "history_time": "20:29",
+                    "long-term": "They have been attempting to create scoring opportunities with long-range shots, but so far, they haven't found the target, and possession has been a challenge for the team."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "They have been attempting to create scoring opportunities through various means, but the opposition's defense has been able to anticipate and neutralize their attacks."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. The goalkeeper had to deal with the sun in his eyes, but remained composed to help clear the threat.",
+                    "history_time": "18:53",
+                    "long-term": "The teams have shown intent to create attacking opportunities, but the final product has been lacking, with both sides struggling to find a breakthrough in the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:11",
+            "game_time": "21:11",
+            "query": "What an amazing save by Kasper Schmeichel! Theo Walcott (Arsenal) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails.",
+            "short-term": "What an amazing save by Kasper Schmeichel! Theo Walcott (Arsenal) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails. The defensive line has been frequently misaligned, allowing repeated dangerous runs in behind.",
+            "query_ano": "What an amazing save by [PLAYER]! [PLAYER] ([TEAM]) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "The defense has shown vulnerability, being frequently misaligned and struggling to cope with pace, although they have made some crucial interventions, such as adapting to the opposition's set-piece strategy."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "They have been putting pressure on the defense with their speed and passing combinations, creating multiple scoring opportunities and testing the keeper's skills. The defensive line has shown vulnerability, often being misaligned and allowing opponents to make threatening runs behind them."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "He has had several chances to score recently, but his shooting skills are not good enough to convert them into the penalty area."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:29",
+            "game_time": "20:29",
+            "query": "That was close by Andy King (Leicester)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post.",
+            "short-term": "That was close by Andy King (Leicester)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post. The opportunity arose from a well-timed delivery, as the team began increasing their presence in the attacking third.",
+            "query_ano": "That was close by [PLAYER] ([TEAM])! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently creating scoring opportunities, particularly through well-delivered passes and set pieces, but the opposition's defense has been able to contain the threat so far."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "Both teams have been creating scoring opportunities, but their shots have lacked the precision needed to break the deadlock, a testament to the solid defensive lines on display."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:09",
+            "game_time": "20:09",
+            "query": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Riyad Mahrez (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The team has been consistently aiming for near-post deliveries, though the defense has adapted to this strategy.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Andy King (Leicester) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and his assistant both point at the corner flag. Leicester will have an opportunity to threaten the opposition's goal. The defense has been strong in aerial duels, consistently clearing incoming crosses.",
+                    "history_time": "19:47",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. The goalkeeper had to deal with the sun in his eyes, but remained composed to help clear the threat.",
+                    "history_time": "18:53",
+                    "long-term": "The teams have been using corner kicks as a primary attacking strategy, but the opposing defenses have shown resilience in dealing with these threats."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "The teams have been displaying strong set-piece strategies, particularly in the delivery and positioning."
+                },
+                {
+                    "short-term": "A cross into the box from Riyad Mahrez (Leicester) is cleared. The defensive line remains disciplined, effectively handling wide deliveries.",
+                    "history_time": "17:19",
+                    "long-term": "He made some great crosses in these attacks, but failed to convert them into goals."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "They have been pushing forward, consistently creating scoring opportunities with clever set pieces and deliveries into the box, but the opposition's defense has so far managed to neutralize these threats."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended. The defending team remained compact, anticipating the delivery and quickly clearing the ball to regain control.",
+                    "history_time": "9:14",
+                    "long-term": "The teams have been heavily relying on set pieces, particularly corner kicks, but the opposition's defenses have so far been able to anticipate and counter these strategies effectively."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and crosses, but the opposition's defense has been solid in clearing the danger."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:47",
+            "game_time": "19:47",
+            "query": "Andy King (Leicester) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and his assistant both point at the corner flag. Leicester will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Andy King (Leicester) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and his assistant both point at the corner flag. Leicester will have an opportunity to threaten the opposition's goal. The defense has been strong in aerial duels, consistently clearing incoming crosses.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "The teams have been exchanging attacking opportunities, with Leicester utilizing crosses to test the opposition's aerial defense and Arsenal exploiting quick passing combinations to create goal-scoring chances."
+                },
+                {
+                    "short-term": "A cross into the box from Riyad Mahrez (Leicester) is cleared. The defensive line remains disciplined, effectively handling wide deliveries.",
+                    "history_time": "17:19",
+                    "long-term": "The opposition's defense has shown remarkable resilience in dealing with crosses, consistently intercepting and clearing deliveries into the box."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "Both teams have shown great intent in utilizing crosses to create scoring opportunities."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opposition's defense has held strong in dealing with these aerial threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:53",
+            "game_time": "18:53",
+            "query": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "short-term": "Mesut Ozil (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. The goalkeeper had to deal with the sun in his eyes, but remained composed to help clear the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+                    "history_time": "18:08",
+                    "long-term": "He has been creating scoring opportunities with his passing and positioning, but the defense has so far managed to counter his efforts."
+                },
+                {
+                    "short-term": "A cross into the box from Riyad Mahrez (Leicester) is cleared. The defensive line remains disciplined, effectively handling wide deliveries.",
+                    "history_time": "17:19",
+                    "long-term": "The teams have shown solid defensive organization, effectively nullifying threats from set pieces and crosses."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity! He has been exploiting spaces with his speed, proving to be a constant threat.",
+                    "history_time": "15:30",
+                    "long-term": "They have been creating scoring opportunities, but the final delivery has let them down so far."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "They have been consistently applying pressure through set pieces and maintaining an attacking presence, although lacking the decisive finish to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended. The defending team remained compact, anticipating the delivery and quickly clearing the ball to regain control.",
+                    "history_time": "9:14",
+                    "long-term": "His consecutive corner kicks failed to pose enough threat"
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "They have been consistently creating scoring opportunities, but struggling to capitalize on set pieces and crosses into the box."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box. The quick play aimed to catch the defense off guard, but they reacted swiftly to neutralize the attack.",
+                    "history_time": "7:32",
+                    "long-term": "They have been utilizing corner kicks as a means to create scoring opportunities, but so far, the opposition's defense has managed to effectively counter their attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:08",
+            "game_time": "18:08",
+            "query": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner.",
+            "short-term": "Mesut Ozil (Arsenal) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now Arsenal have a corner. The defense is struggling to cope with quick passing combinations, leading to more pressure in their box.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Now [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity! He has been exploiting spaces with his speed, proving to be a constant threat.",
+                    "history_time": "15:30",
+                    "long-term": "They have been consistently creating scoring opportunities through quick passing combinations and speedy exploitation of spaces, putting immense pressure on the defense."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "They have been consistently pressuring the opponent's defense with agile passing and quick attacks, creating several scoring opportunities."
+                },
+                {
+                    "short-term": "Mesut Ozil showcases his great technique and produces a beautiful lofted cross into the box. Alexis Sanchez (Arsenal) meets the cross and gets himself onto the scoresheet with a header inside the right post. It's 1:3. The buildup play has been fluid, stretching the defense and creating space for the attackers.",
+                    "history_time": "11:26",
+                    "long-term": "He was active in attack and his previous cross was also very exciting, but it was a pity that this opportunity was not converted into a goal."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended. The defending team remained compact, anticipating the delivery and quickly clearing the ball to regain control.",
+                    "history_time": "9:14",
+                    "long-term": "They have been consistently pressuring the defense with effective passing combinations and creating scoring opportunities, particularly through Mesut Ozil's efforts."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They had many chances in the final third, but none of them turned into goals, and their shots were always blocked."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:19",
+            "game_time": "17:19",
+            "query": "A cross into the box from Riyad Mahrez (Leicester) is cleared.",
+            "short-term": "A cross into the box from Riyad Mahrez (Leicester) is cleared. The defensive line remains disciplined, effectively handling wide deliveries.",
+            "query_ano": "A cross into the box from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses into the box, but the defensive line has held firm so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:30",
+            "game_time": "15:30",
+            "query": "Theo Walcott (Arsenal) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!",
+            "short-term": "Theo Walcott (Arsenal) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity! He has been exploiting spaces with his speed, proving to be a constant threat.",
+            "query_ano": "[PLAYER] ([TEAM]) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+                    "history_time": "14:04",
+                    "long-term": "He has been presented with a couple of promising scoring opportunities but has been unable to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:04",
+            "game_time": "14:04",
+            "query": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save.",
+            "short-term": "Theo Walcott (Arsenal) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save. The team has been dominant in attack, forcing the opposition into deeper defensive positioning.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [PLAYER] pulls off an easy save.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil showcases his great technique and produces a beautiful lofted cross into the box. Alexis Sanchez (Arsenal) meets the cross and gets himself onto the scoresheet with a header inside the right post. It's 1:3. The buildup play has been fluid, stretching the defense and creating space for the attackers.",
+                    "history_time": "11:26",
+                    "long-term": "They have maintained a strong attacking presence, consistently creating scoring opportunities and pressuring the opposition's defense throughout this period."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "The teams have been exchanging attacking opportunities."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They have been consistently pressuring the opposition's defense with potent attacking plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:26",
+            "game_time": "11:26",
+            "query": "Mesut Ozil showcases his great technique and produces a beautiful lofted cross into the box. Alexis Sanchez (Arsenal) meets the cross and gets himself onto the scoresheet with a header inside the right post. It's 1:3.",
+            "short-term": "Mesut Ozil showcases his great technique and produces a beautiful lofted cross into the box. Alexis Sanchez (Arsenal) meets the cross and gets himself onto the scoresheet with a header inside the right post. It's 1:3. The buildup play has been fluid, stretching the defense and creating space for the attackers.",
+            "query_ano": "[PLAYER] showcases his great technique and produces a beautiful lofted cross into the box. [PLAYER] ([TEAM]) meets the cross and gets himself onto the scoresheet with a header inside the right post. It's 1:3.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended. The defending team remained compact, anticipating the delivery and quickly clearing the ball to regain control.",
+                    "history_time": "9:14",
+                    "long-term": "He continued to use corner kicks and crosses to try and create scoring chances."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, and their attacker's positioning in the box has caused problems for the opposing defense."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and clever positioning in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:14",
+            "game_time": "9:14",
+            "query": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended.",
+            "short-term": "Mesut Ozil (Arsenal) takes the resulting corner which is well defended. The defending team remained compact, anticipating the delivery and quickly clearing the ball to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+                    "history_time": "8:38",
+                    "long-term": "This corner kick came from his teammate's wonderful shot that was blocked"
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box. The quick play aimed to catch the defense off guard, but they reacted swiftly to neutralize the attack.",
+                    "history_time": "7:32",
+                    "long-term": "They have been utilizing corners as a means to create scoring opportunities, with varied approaches to unsettle the defense, but have yet to find success."
+                },
+                {
+                    "short-term": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The attacking sequence was built from a fast transition, utilizing Walcott’s speed to unsettle the defense.",
+                    "history_time": "7:10",
+                    "long-term": "They have been consistently pressuring the opposition's defense with multiple set pieces and swift counterattacks, yet lacking the final touch to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "Both teams have shown solid defensive organization, effectively dealing with opposition set pieces and crosses into the box."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:38",
+            "game_time": "8:38",
+            "query": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner.",
+            "short-term": "Alexis Sanchez (Arsenal) meets a cross inside the box, but his header is blocked by an opposing player. Arsenal have a corner. Walcott’s speed created the initial opening, but Sanchez couldn’t generate enough power in his header.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a cross inside the box, but his header is blocked by an opposing player. [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box. The quick play aimed to catch the defense off guard, but they reacted swiftly to neutralize the attack.",
+                    "history_time": "7:32",
+                    "long-term": "They had consecutive corner kicks but none of them resulted in a goal. Last time they tried a short corner"
+                },
+                {
+                    "short-term": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The attacking sequence was built from a fast transition, utilizing Walcott’s speed to unsettle the defense.",
+                    "history_time": "7:10",
+                    "long-term": "They had consecutive corner kicks but none of them resulted in a goal."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+                    "history_time": "5:45",
+                    "long-term": "Both teams have shown moments of brilliance in their attacking play, but have been matched by solid defensive efforts from their opponents, making it a tightly contested match. They have both created scoring opportunities through clever crosses, but the defensive units have been equal to the task."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They have been creating scoring opportunities, but struggling to finish, with two of his attempts being blocked by the defense."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "They have consistently targeted the box with crosses, but struggled to convert these opportunities into scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:47",
+            "game_time": "7:47",
+            "query": "Santi Cazorla (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Santi Cazorla (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The defense closed in quickly, forcing him to hesitate before losing possession.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box. The quick play aimed to catch the defense off guard, but they reacted swiftly to neutralize the attack.",
+                    "history_time": "7:32",
+                    "long-term": "They have been attempting to create scoring opportunities through individual efforts and clever tactics, but the opposition's defense has been solid in thwarting their attacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:32",
+            "game_time": "7:32",
+            "query": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box.",
+            "short-term": "Santi Cazorla (Arsenal) decides to take a short corner instead of crossing into the box. The quick play aimed to catch the defense off guard, but they reacted swiftly to neutralize the attack.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to take a short corner instead of crossing into the box.",
+            "history": [
+                {
+                    "short-term": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The attacking sequence was built from a fast transition, utilizing Walcott’s speed to unsettle the defense.",
+                    "history_time": "7:10",
+                    "long-term": "This corner kick came from his teammate's shot, which was blocked by the defender."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:10",
+            "game_time": "7:10",
+            "query": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "short-term": "The linesman points to the corner flag, Arsenal are going to take it. Alexis Sanchez (Arsenal) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The attacking sequence was built from a fast transition, utilizing Walcott’s speed to unsettle the defense.",
+            "query_ano": "The linesman points to the corner flag, [TEAM] are going to take it. [PLAYER] ([TEAM]) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "He has had a couple of promising moments in front of goal but has failed to capitalize on them. His effort was blocked last time."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "He has had a couple of promising moments in front of goal but has failed to capitalize on them. His effort was blocked last time."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:45",
+            "game_time": "5:45",
+            "query": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "short-term": "Marc Albrighton (Leicester) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Moments earlier, a risky touch near the defensive zone almost led to a dangerous loss of possession.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+                    "history_time": "4:44",
+                    "long-term": "Both teams have shown moments of brilliance in attack, but their opposing defenses have been equal to the task."
+                },
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "The teams have both displayed effective defensive reactions, negating potentially threatening crosses into the box with precise clearances."
+                }
+            ]
+        },
+        {
+            "gameTime": "04:44",
+            "game_time": "4:44",
+            "query": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Alexis Sanchez (Arsenal) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The buildup involved quick exchanges between Walcott and Ozil, setting up Sanchez for a close-range attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "A promising cross into the box is nearly received by the lurking Alexis Sanchez (Arsenal), but one of the defending players cuts it out to avert the threat. The defending player had previously struggled in similar situations, missing a clearance that led to a goal earlier in the match.",
+                    "history_time": "2:51",
+                    "long-term": "He has been presented with a couple of promising scoring opportunities but has been unable to capitalize on them."
+                }
+            ]
+        }
+    ]
+}

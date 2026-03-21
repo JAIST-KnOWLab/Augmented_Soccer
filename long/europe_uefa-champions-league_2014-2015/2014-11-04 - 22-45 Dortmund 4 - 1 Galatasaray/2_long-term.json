@@ -1,0 +1,716 @@
+{
+    "annotations": [
+        {
+            "gameTime": "49:12",
+            "game_time": "49:12",
+            "query": "Wesley Sneijder (Galatasaray) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "short-term": "Wesley Sneijder (Galatasaray) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery lacked precision, allowing the defense to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "history": [
+                {
+                    "short-term": "Selcuk Inan (Galatasaray) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The ball goes out for a corner. Galatasaray can continue in their attacking effort. They are pressing hard in the final moments.",
+                    "history_time": "48:53",
+                    "long-term": "They have been consistently applying pressure with consecutive crosses, attempting to break through the defense's stronghold in the air."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+                    "history_time": "24:02",
+                    "long-term": "They have consistently applied pressure through crosses and passes into the box but struggled to find the final touch, allowing the defense to clear the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "48:53",
+            "game_time": "48:53",
+            "query": "Selcuk Inan (Galatasaray) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The ball goes out for a corner. Galatasaray can continue in their attacking effort.",
+            "short-term": "Selcuk Inan (Galatasaray) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The ball goes out for a corner. Galatasaray can continue in their attacking effort. They are pressing hard in the final moments.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "history": [
+                {
+                    "short-term": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted. The defense read the play well.",
+                    "history_time": "31:43",
+                    "long-term": "They have consistently applied pressure in the opponent's half with repeated attempts to find an opening through crosses."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence. That is  consecutive corner kicks within a few minutes. Their continuous attack is suffocating.",
+                    "history_time": "28:10",
+                    "long-term": "They have been maintaining intense pressure on the opposition's defense with consecutive corner kicks and relentless attacking efforts."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been consistently pressing the opposition's defense, creating chances through set pieces, but the final delivery has lacked precision."
+                }
+            ]
+        },
+        {
+            "gameTime": "45:03",
+            "game_time": "45:03",
+            "query": "Half-chance! Pierre-Emerick Aubameyang (Dortmund) plays a pass into the box, but Fernando Muslera reacts well to snuff out the attack.",
+            "short-term": "Half-chance! Pierre-Emerick Aubameyang (Dortmund) plays a pass into the box, but Fernando Muslera reacts well to snuff out the attack. Muslera read the play perfectly and intercepted before any danger. The striker tried to play straight now.",
+            "query_ano": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but Fernando Muslera reacts well to snuff out the attack.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box,  one of the player clears the ball directly, the pass is not very effective. The referee signals a corner kick to Dortmund.",
+                    "history_time": "38:42",
+                    "long-term": "He has been consistently attempting to break through the defense with passes into the box, but the opposing team's goalkeeper has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball was intercepted before it could find its target.",
+                    "history_time": "38:10",
+                    "long-term": "They consistently tested the opponent's defense with crosses and passes into the box, but the goalkeeper and defenders were up to the task, neutralizing the threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The quick defensive reaction denied him a clear chance.",
+                    "history_time": "37:46",
+                    "long-term": "He has been consistently creating scoring opportunities, but the opposition's defense has been effective in neutralizing his threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+                    "history_time": "35:12",
+                    "long-term": "He has consistently posed a threat in the box, but the goalkeeper's impressive reflexes have denied him a goal on multiple occasions."
+                },
+                {
+                    "short-term": "A good lofted pass from Pierre-Emerick Aubameyang finds Ciro Immobile (Dortmund) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up low in the middle of the goal. A textbook counterattack from Dortmund. That is what they do best.",
+                    "history_time": "28:54",
+                    "long-term": "They have consistently demonstrated their ability to create scoring opportunities through swift and precise counterattacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:42",
+            "game_time": "38:42",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. ",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box,  one of the player clears the ball directly, the pass is not very effective. The referee signals a corner kick to Dortmund.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a low pass into the box, but it's blocked and cleared. ",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball was intercepted before it could find its target.",
+                    "history_time": "38:10",
+                    "long-term": "He has been attempting to create scoring opportunities, but his efforts have been consistently thwarted by the opposing team's defense."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The quick defensive reaction denied him a clear chance.",
+                    "history_time": "37:46",
+                    "long-term": "He has been consistently creating scoring opportunities, despite the defenders' efforts to neutralize his attacks."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+                    "history_time": "35:12",
+                    "long-term": "He has been struggling to create scoring opportunities, with his passes and shots lacking effectiveness and being denied by the opposition's defense."
+                },
+                {
+                    "short-term": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund. This cross is so high and floating, giving the opponent a goal kick.",
+                    "history_time": "33:32",
+                    "long-term": "Both teams have shown inaccuracies in their passing and crossing, struggling to create effective attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:10",
+            "game_time": "38:10",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball was intercepted before it could find its target.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The quick defensive reaction denied him a clear chance.",
+                    "history_time": "37:46",
+                    "long-term": "They were creating scoring opportunities through crosses and passes into the box but faced stiff resistance from the opposing team's defense. The player's efforts were consistently being thwarted by timely interventions."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) swings a cross into the box, but it's far too close to Roman Weidenfeller, who smothers the ball. The cross lacked precision, too close to the goalkeeper",
+                    "history_time": "35:56",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the defending players and goalkeepers have been doing well to neutralize these threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+                    "history_time": "35:12",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, yet the defense has shown resilience in countering these attempts."
+                },
+                {
+                    "short-term": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund. This cross is so high and floating, giving the opponent a goal kick.",
+                    "history_time": "33:32",
+                    "long-term": "Both teams have been utilizing crosses in their attacking strategy, but so far, they've been unable to find their mark, resulting in wasted opportunities."
+                },
+                {
+                    "short-term": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted. The defense read the play well.",
+                    "history_time": "31:43",
+                    "long-term": "The teams have been using crosses as a key attacking strategy, but the defenses have been effective in intercepting them so far."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence. That is  consecutive corner kicks within a few minutes. Their continuous attack is suffocating.",
+                    "history_time": "28:10",
+                    "long-term": "Both teams have been putting pressure on each other with consecutive attacking opportunities, yet neither can capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:46",
+            "game_time": "37:46",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The quick defensive reaction denied him a clear chance.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+                    "history_time": "35:12",
+                    "long-term": "He has consistently posed a threat in the attacking third, creating and capitalizing on scoring opportunities but lacking the clinical finish."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:56",
+            "game_time": "35:56",
+            "query": "Hamit Altintop (Galatasaray) swings a cross into the box, but it's far too close to Roman Weidenfeller, who smothers the ball.",
+            "short-term": "Hamit Altintop (Galatasaray) swings a cross into the box, but it's far too close to Roman Weidenfeller, who smothers the ball. The cross lacked precision, too close to the goalkeeper",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to Roman Weidenfeller, who smothers the ball.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+                    "history_time": "35:12",
+                    "long-term": "Both teams have been creating opportunities through crosses, but the goalkeepers have been equal to the task, preventing any breakthroughs so far."
+                },
+                {
+                    "short-term": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund. This cross is so high and floating, giving the opponent a goal kick.",
+                    "history_time": "33:32",
+                    "long-term": "They have been struggling with the accuracy of their crosses into the box, failing to create a significant threat due to poor delivery."
+                },
+                {
+                    "short-term": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted. The defense read the play well.",
+                    "history_time": "31:43",
+                    "long-term": "They have been struggling to create scoring opportunities with their crosses, failing to find the right target in the box."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) flights in the cross, but the defender is alert and clears to safety. The cross was not high enough and did not pass the defender in front. It will be a corner kick for Galatasaray.",
+                    "history_time": "28:08",
+                    "long-term": "He has consistently shown his ability to create chances with his crosses, but they have lacked the necessary precision to create real threats."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but have yet to find the right precision to break through the defense."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+                    "history_time": "24:02",
+                    "long-term": "They have been consistently applying pressure in the attacking third, despite struggling to find the perfect final delivery."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "He has consistently attempted to create scoring opportunities with his crosses and passes, but the opposition's defense has been well-placed to neutralize the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:12",
+            "game_time": "35:12",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera. No pressure behind that header but lacked power.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Fernando Muslera.",
+            "history": [
+                {
+                    "short-term": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund. This cross is so high and floating, giving the opponent a goal kick.",
+                    "history_time": "33:32",
+                    "long-term": "Both teams have shown promising attacking intent, but struggles with precision and power in their finishing have hindered their ability to capitalize on scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:32",
+            "game_time": "33:32",
+            "query": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund.",
+            "short-term": "A cross by Blerim Dzemaili (Galatasaray) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for Dortmund. This cross is so high and floating, giving the opponent a goal kick.",
+            "query_ano": "A cross by [PLAYER] ([TEAM]) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted. The defense read the play well.",
+                    "history_time": "31:43",
+                    "long-term": "They have been struggling to create effective crosses into the box, consistently failing to find their target and instead handing possession back to the opponent. This misfiring crossing strategy has mitigated their attacking threat so far."
+                },
+                {
+                    "short-term": "A good lofted pass from Pierre-Emerick Aubameyang finds Ciro Immobile (Dortmund) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up low in the middle of the goal. A textbook counterattack from Dortmund. That is what they do best.",
+                    "history_time": "28:54",
+                    "long-term": "They have struggled to create scoring opportunities through crosses, but have found success with swift counterattacks, exploiting spaces left by their opponents."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence. That is  consecutive corner kicks within a few minutes. Their continuous attack is suffocating.",
+                    "history_time": "28:10",
+                    "long-term": "They have been maintaining pressure through consecutive set pieces, seeking to break through the opponent's defense with aggressive attacks."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) comes to nothing. No player touched the ball and the quality of the serve was quite poor.",
+                    "history_time": "27:31",
+                    "long-term": "They have been struggling with set pieces, delivering inaccurate crosses and failing to create scoring opportunities from corners and wide areas. Their service into the box has been consistently poor, allowing the opponent to easily clear the ball."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the delivery has been inconsistent, allowing the opposition's defense to clear the ball."
+                },
+                {
+                    "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+                    "history_time": "24:52",
+                    "long-term": "They have shown varying degrees of accuracy in their set pieces, from a poorly aimed cross to a precisely executed corner that resulted in a goal."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have been consistently using crosses and passes to put pressure on the opponent's defense, but haven't been able to find their intended target yet."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+                    "history_time": "9:35",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the delivery has been lacking precision so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:43",
+            "game_time": "31:43",
+            "query": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted.",
+            "short-term": "Selcuk Inan (Galatasaray) crosses the ball forward but it is intercepted. The defense read the play well.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence. That is  consecutive corner kicks within a few minutes. Their continuous attack is suffocating.",
+                    "history_time": "28:10",
+                    "long-term": "They have been maintaining pressure with consecutive corner kicks and crosses into the box, testing the opponent's defense."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) flights in the cross, but the defender is alert and clears to safety. The cross was not high enough and did not pass the defender in front. It will be a corner kick for Galatasaray.",
+                    "history_time": "28:08",
+                    "long-term": "They have consistently attempted to utilize crosses to create scoring opportunities, but the opposing defense has been effective in intercepting and clearing these attempts."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) comes to nothing. No player touched the ball and the quality of the serve was quite poor.",
+                    "history_time": "27:31",
+                    "long-term": "They have been struggling to create effective attacking opportunities, with their efforts consistently thwarted by the opposing defense."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposition's defense has been effective in neutralizing these attempts."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "The player's set pieces have been consistently dealt with by the opposition's defense, struggling to create significant threats from these situations."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have consistently attempted to create scoring opportunities through crosses and passes into the penalty area, but the opposing defense has been effective in intercepting these efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:54",
+            "game_time": "28:54",
+            "query": "A good lofted pass from Pierre-Emerick Aubameyang finds Ciro Immobile (Dortmund) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up low in the middle of the goal. The score is now 2:0.",
+            "short-term": "A good lofted pass from Pierre-Emerick Aubameyang finds Ciro Immobile (Dortmund) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up low in the middle of the goal. A textbook counterattack from Dortmund. That is what they do best.",
+            "query_ano": "A good lofted pass from [PLAYER] finds [PLAYER] ([TEAM]) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up low in the middle of the goal. The score is now 2:0.",
+            "history": [
+                {
+                    "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+                    "history_time": "24:52",
+                    "long-term": "Both teams have demonstrated exceptional attacking prowess, showcasing the ability to capitalize on scoring opportunities with precision and skill."
+                },
+                {
+                    "short-term": "Goal! Sokratis (Dortmund) fires the rebound low into the middle of the goal after the ball breaks to him in the box. Dortmund capitalizes on their aerial dominance from a set piece.",
+                    "history_time": "10:19",
+                    "long-term": "They have demonstrated exceptional counterattacking prowess and the ability to capitalize on set pieces, showing their comprehensive threat."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:10",
+            "game_time": "28:10",
+            "query": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence.",
+            "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) is cleared by the defence. That is  consecutive corner kicks within a few minutes. Their continuous attack is suffocating.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the defence.",
+            "history": [
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) flights in the cross, but the defender is alert and clears to safety. The cross was not high enough and did not pass the defender in front. It will be a corner kick for Galatasaray.",
+                    "history_time": "28:08",
+                    "long-term": "This corner kick came from a cross, but it was cleared by the defender."
+                },
+                {
+                    "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) comes to nothing. No player touched the ball and the quality of the serve was quite poor.",
+                    "history_time": "27:31",
+                    "long-term": "They have been consistently aggressive in their corner kicks, despite varying degrees of success, keeping the defensive line under constant pressure."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "They have been maintaining a high level of pressure through sustained attacks and consecutive corner kicks, consistently testing the opponent's defense."
+                },
+                {
+                    "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+                    "history_time": "24:52",
+                    "long-term": "They have been consistently pressuring the opponent's defense with consecutive corner kicks, ultimately capitalizing on one with a precise header, demonstrating the effectiveness of their attacking strategy."
+                },
+                {
+                    "short-term": "Galatasaray have been awarded a corner kick. A chance to deliver another dangerous ball into the box.",
+                    "history_time": "24:15",
+                    "long-term": "They have been maintaining the pressure with consecutive corner kicks and testing the defense's resolve."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+                    "history_time": "24:02",
+                    "long-term": "They have been maintaining intense pressure through consecutive corner kicks and relentless attacks."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have consistently utilized corner kicks to pressure the defense, although they struggled to find the right delivery, allowing the opposing team to clear the threat."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have been maintaining a high level of pressure through successive corner kicks and penetrative passes, but the opponent's defense has managed to hold its ground."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:08",
+            "game_time": "28:08",
+            "query": "Hamit Altintop (Galatasaray) flights in the cross, but the defender is alert and clears to safety. ",
+            "short-term": "Hamit Altintop (Galatasaray) flights in the cross, but the defender is alert and clears to safety. The cross was not high enough and did not pass the defender in front. It will be a corner kick for Galatasaray.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. ",
+            "history": [
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, despite the defense's ability to clear the ball."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been consistently posing threats from the flanks, delivering crosses into the box but struggling to find the desired precision."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "He has consistently been trying to break through the defense with precise passes and crosses, but the opposing team's defense has been solid in blocking these attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:31",
+            "game_time": "27:31",
+            "query": "The resulting corner from Wesley Sneijder (Galatasaray) comes to nothing.",
+            "short-term": "The resulting corner from Wesley Sneijder (Galatasaray) comes to nothing. No player touched the ball and the quality of the serve was quite poor.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing.",
+            "history": [
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+                    "history_time": "27:18",
+                    "long-term": "He has been consistently delivering set pieces, but so far, they have not yielded any significant threats, with the opposition's defense effectively clearing the danger."
+                },
+                {
+                    "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+                    "history_time": "24:52",
+                    "long-term": "He has shown inconsistency with his corner kicks, initially delivering a poor serve but later finding his target with precision, resulting in a goal."
+                },
+                {
+                    "short-term": "Galatasaray have been awarded a corner kick. A chance to deliver another dangerous ball into the box.",
+                    "history_time": "24:15",
+                    "long-term": "They have been consistently trying to create scoring opportunities from set pieces, but the delivery has been lacking quality so far."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+                    "history_time": "24:02",
+                    "long-term": "They have consistently applied pressure in the attacking third, even though their set pieces and deliveries into the box have yet to yield a tangible result."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been struggling with set pieces, delivering two poorly executed corners that failed to create any scoring opportunities."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with consecutive corners, but lacked quality in the delivery."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:18",
+            "game_time": "27:18",
+            "query": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The linesman makes the right call and Galatasaray will have a corner.",
+            "short-term": "Wesley Sneijder (Galatasaray) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is deflected out, and Galatasaray wins another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The linesman makes the right call and [TEAM] will have a corner.",
+            "history": [
+                {
+                    "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+                    "history_time": "24:52",
+                    "long-term": "He has been posing a threat from set pieces, first testing the defense with a cross and then expertly delivering a corner that led to a goal."
+                },
+                {
+                    "short-term": "Galatasaray have been awarded a corner kick. A chance to deliver another dangerous ball into the box.",
+                    "history_time": "24:15",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses and corner kicks."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+                    "history_time": "24:02",
+                    "long-term": "The player has been consistently creating scoring opportunities with his crosses, but the opposition's defence has managed to counter the threats so far."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with crosses and corners, but the opposition has done well to clear the threats so far."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have consistently applied pressure through crosses, forcing consecutive corners and testing the opposition's defensive solidity."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+                    "history_time": "9:35",
+                    "long-term": "Both teams have been utilizing crosses and corners to create scoring opportunities, but the opposing defenses have so far held firm."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:52",
+            "game_time": "24:52",
+            "query": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. The score is now 1:0.",
+            "short-term": "Wesley Sneijder takes over corner duties and expertly finds Hakan Balta (Galatasaray), who jumps highest and coolly plants a bullet header into the left side of the goal. A well-placed header that leaves the keeper helpless.",
+            "query_ano": "[PLAYER] takes over corner duties and expertly finds [PLAYER] ([TEAM]), who jumps highest and coolly plants a bullet header into the left side of the goal. The score is now 1:0.",
+            "history": [
+                {
+                    "short-term": "Galatasaray have been awarded a corner kick. A chance to deliver another dangerous ball into the box.",
+                    "history_time": "24:15",
+                    "long-term": "They have consistently utilized set pieces as an attacking threat, creating quality scoring opportunities through well-delivered corners."
+                },
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have shown varying degrees of effectiveness on set pieces, scoring a crucial goal but also being repelled easily on another occasion."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have been consistently posing threats from set pieces, highlighted by the well-executed corner that led to the goal and now another corner won."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:15",
+            "game_time": "24:15",
+            "query": "Galatasaray have been awarded a corner kick.",
+            "short-term": "Galatasaray have been awarded a corner kick. A chance to deliver another dangerous ball into the box.",
+            "query_ano": "[TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been creating opportunities from set pieces."
+                },
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "They have been consistently pressuring the opponent's defense with set pieces and crosses into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:02",
+            "game_time": "24:02",
+            "query": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "short-term": "Wesley Sneijder (Galatasaray) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Galatasaray continues to press, keeping the ball in the attacking third.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+                    "history_time": "23:44",
+                    "long-term": "They have been consistently pressuring the opponent's defense, creating opportunities but lacking precision in their delivery."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:44",
+            "game_time": "23:44",
+            "query": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Selcuk Inan (Galatasaray) only finds one of the defenders, who heads it out of danger. The delivery lacked precision, making it easy for the defence to clear.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+            "history": [
+                {
+                    "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+                    "history_time": "23:21",
+                    "long-term": "This corner kick came from a cross into the penalty area, but was intercepted by the defender, resulting in a corner kick."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:21",
+            "game_time": "23:21",
+            "query": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The referee and one of his assistants signal for a corner kick to Galatasaray.",
+            "short-term": "Hamit Altintop (Galatasaray) sends a pass into the penalty area, but the opponent manages to cut it out. The defensive line was well-positioned to intercept, forcing another corner for Galatasaray.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "An opponent rises to his feet after being downed by Aurelien Chedjou (Galatasaray). Pavel Kralovec saw the sliding tackle and blows for a foul. Dortmund wins a free kick in a promising position. The defense from one of player, then bring the ball back to then center.",
+                    "history_time": "12:20",
+                    "long-term": "They have been displaying a mix of well-coordinated defensive plays and committed attacking efforts throughout this period."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:29",
+            "game_time": "12:29",
+            "query": "Marco Reus (Dortmund) produces a shot from a long-range free kick, but it flies well wide of the left post.",
+            "short-term": "Marco Reus (Dortmund) produces a shot from a long-range free kick, but it flies well wide of the left post. This is very easy for the goalkeeper and poses no threat at all.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a shot from a long-range free kick, but it flies well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Marco Reus (Dortmund) works the corner short. He rises in the box and sets up Sokratis, who makes no mistake in converting the chance.",
+                    "history_time": "10:10",
+                    "long-term": "He has been actively creating scoring opportunities, initially missing from a distance but then setting up a crucial conversion."
+                },
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) gets a shot away from distance, but wasn't really set to take it and fires well wide of the left post. A rushed attempt that never troubled the keeper.",
+                    "history_time": "2:10",
+                    "long-term": "Both teams have been trying to create chances through long-range shots, but so far, none of them have posed a real threat to the goalkeepers."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:20",
+            "game_time": "12:20",
+            "query": "An opponent rises to his feet after being downed by Aurelien Chedjou (Galatasaray). Pavel Kralovec saw the sliding tackle and blows for a foul. A free kick has been awarded to Dortmund.",
+            "short-term": "An opponent rises to his feet after being downed by Aurelien Chedjou (Galatasaray). Pavel Kralovec saw the sliding tackle and blows for a foul. Dortmund wins a free kick in a promising position. The defense from one of player, then bring the ball back to then center.",
+            "query_ano": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul. A free kick has been awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+                    "history_time": "9:35",
+                    "long-term": "The opponent found it difficult to maintain their offensive pressure and had to resort to fouls."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) delivers a low pass into the box which is intercepted. The ball is out of play and the linesman points at the corner flag. Dortmund continues to push forward.",
+                    "history_time": "6:29",
+                    "long-term": "The opponent was under great pressure from their constant passing and had to resort to fouls."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:19",
+            "game_time": "10:19",
+            "query": "Goal! Sokratis (Dortmund) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 2:0.",
+            "short-term": "Goal! Sokratis (Dortmund) fires the rebound low into the middle of the goal after the ball breaks to him in the box. Dortmund capitalizes on their aerial dominance from a set piece.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 2:0.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+                    "history_time": "9:35",
+                    "long-term": "They have been utilizing set pieces effectively, creating scoring opportunities and netting a crucial goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:10",
+            "game_time": "10:10",
+            "query": "Marco Reus (Dortmund) works the corner short.",
+            "short-term": "Marco Reus (Dortmund) works the corner short. He rises in the box and sets up Sokratis, who makes no mistake in converting the chance.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+                    "history_time": "9:35",
+                    "long-term": "They have been consistently threatening from set pieces, executing well-crafted corners to create scoring opportunities."
+                },
+                {
+                    "short-term": "This corner kick is taken with a short pass by Sebastian Kehl (Dortmund). Dortmund attempts a set-piece variation to break the defensive line.",
+                    "history_time": "1:37",
+                    "long-term": "They have been utilizing set-piece variations to create scoring opportunities, showcasing their effective strategy in dead-ball situations."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:35",
+            "game_time": "9:35",
+            "query": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. The ball goes out of play. Dortmund are awarded a corner kick.",
+            "short-term": "Shinji Kagawa (Dortmund) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. Dortmund is maintaining pressure with another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross from the corner, but Fernando Muslera reads it well and gathers the ball. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) delivers a low pass into the box which is intercepted. The ball is out of play and the linesman points at the corner flag. Dortmund continues to push forward.",
+                    "history_time": "6:29",
+                    "long-term": "They have been consistently applying pressure, threatening the opposition's goal with multiple crosses and corners."
+                },
+                {
+                    "short-term": "Erik Durm (Dortmund) is disappointed with himself because he got into a good area but produced a poor cross. The ball drifts out, wasting a decent attacking move.",
+                    "history_time": "5:44",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses, although the execution has been lacking accuracy at times."
+                },
+                {
+                    "short-term": "This corner kick is taken with a short pass by Sebastian Kehl (Dortmund). Dortmund attempts a set-piece variation to break the defensive line.",
+                    "history_time": "1:37",
+                    "long-term": "They have been consistently applying pressure through set pieces, displaying their threat from corners and trying different variations to break the defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) sends a sweet pass into the penalty area. The ball flew towards the far post but was cleared in the air. Dortmund keeps pressing with another set-piece opportunity.",
+                    "history_time": "1:02",
+                    "long-term": "They have been consistently applying pressure with consecutive set-piece opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:29",
+            "game_time": "6:29",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) delivers a low pass into the box which is intercepted. The ball is out of play and the linesman points at the corner flag. Corner to Dortmund.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) delivers a low pass into the box which is intercepted. The ball is out of play and the linesman points at the corner flag. Dortmund continues to push forward.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "This corner kick is taken with a short pass by Sebastian Kehl (Dortmund). Dortmund attempts a set-piece variation to break the defensive line.",
+                    "history_time": "1:37",
+                    "long-term": "They have been consistently pressuring the defense with deliveries into the box and varying their set-piece approach."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) sends a sweet pass into the penalty area. The ball flew towards the far post but was cleared in the air. Dortmund keeps pressing with another set-piece opportunity.",
+                    "history_time": "1:02",
+                    "long-term": "They have consistently maintained pressure on the opponent's defense with precise passing and created multiple scoring opportunities. Dortmund's persistent attacks have earned them consecutive set-piece chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:44",
+            "game_time": "5:44",
+            "query": "Erik Durm (Dortmund) is disappointed with himself because he got into a good area but produced a poor cross. The ball is off of the pitch and it's a goal kick for Galatasaray.",
+            "short-term": "Erik Durm (Dortmund) is disappointed with himself because he got into a good area but produced a poor cross. The ball drifts out, wasting a decent attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Wesley Sneijder (Galatasaray) gets a shot away from distance, but wasn't really set to take it and fires well wide of the left post. A rushed attempt that never troubled the keeper.",
+                    "history_time": "2:10",
+                    "long-term": "Both teams have shown intent in attack, but poor execution has let them down, with crosses and shots from distance failing to threaten the goalkeepers. They will need to improve their final ball delivery to create clear-cut scoring opportunities."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) sends a sweet pass into the penalty area. The ball flew towards the far post but was cleared in the air. Dortmund keeps pressing with another set-piece opportunity.",
+                    "history_time": "1:02",
+                    "long-term": "They have been consistently creating scoring opportunities, but the final delivery has let them down so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "01:37",
+            "game_time": "1:37",
+            "query": "This corner kick is taken with a short pass by Sebastian Kehl (Dortmund).",
+            "short-term": "This corner kick is taken with a short pass by Sebastian Kehl (Dortmund). Dortmund attempts a set-piece variation to break the defensive line.",
+            "query_ano": "This corner kick is taken with a short pass by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) sends a sweet pass into the penalty area. The ball flew towards the far post but was cleared in the air. Dortmund keeps pressing with another set-piece opportunity.",
+                    "history_time": "1:02",
+                    "long-term": "This corner kick came from a high cross, but was cleared in the air, resulting in a corner kick."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,713 @@
+{
+    "annotations": [
+        {
+            "query": "Alberto Moreno (Liverpool) unleashes a shot from the edge of the box, but it goes straight at Iker Casillas.",
+            "target": "[player]Casillas[player] has to make a save the shot on target from [player]Alberto Moreno[player].",
+            "game_time": "10:40",
+            "short-term": "Alberto Moreno took a shot from the edge of the box, but it was straight at Iker Casillas. The goalkeeper had to react quickly to make a routine save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from the edge of the box, but it goes straight at [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo connected with a pass around the edge of the box, aimed, and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and kept it out with his feet. Despite the solid movement, Ronaldo couldn’t get the power he needed on the shot.",
+                    "history_time": "3:25",
+                    "long-term": "Both teams have created promising scoring opportunities, but goalkeepers on both ends have made crucial saves to keep the scoreline intact."
+                }
+            ]
+        },
+        {
+            "query": "Alberto Moreno slides a brilliant pass into Adam Lallana (Liverpool), but his shot from inside the box goes a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "target": "Right now it's a good ball to [player]Lallana[player].",
+            "game_time": "12:15",
+            "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] slides a brilliant pass into [PLAYER] ([TEAM]), but his shot from inside the box goes a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Alberto Moreno took a shot from the edge of the box, but it was straight at Iker Casillas. The goalkeeper had to react quickly to make a routine save.",
+                    "history_time": "10:40",
+                    "long-term": "He has been creating scoring opportunities with precise passing and making efforts on goal, but hasn't quite found the target yet."
+                },
+                {
+                    "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+                    "history_time": "8:47",
+                    "long-term": "He has shown moments of brilliance in playmaking, but also exhibited carelessness in his movements."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a cross into the penalty area, but the opposition defense clears the ball away to safety. The ball goes out of play, and Real Madrid are awarded a corner kick.",
+                    "history_time": "7:11",
+                    "long-term": "Both teams have been creating scoring opportunities, but have been unable to capitalize on them, with missed shots and effective defensive clearances being a recurring theme."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo connected with a pass around the edge of the box, aimed, and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and kept it out with his feet. Despite the solid movement, Ronaldo couldn’t get the power he needed on the shot.",
+                    "history_time": "3:25",
+                    "long-term": "Both teams have created promising scoring opportunities, but precise finishing has been lacking, with efforts either narrowly missing the target or being denied by the goalkeeper."
+                }
+            ]
+        },
+        {
+            "query": "A yellow card for a tackle by Sergio Ramos (Real Madrid). Viktor Kassai doesn't hesitate at all to make this decision. Liverpool earn a free kick which could lead to a goal-scoring opportunity.",
+            "target": "",
+            "game_time": "14:28",
+            "short-term": "Viktor Kassai didn't hesitate to show a yellow card to Sergio Ramos for his tackle. Liverpool earned a free kick in a promising position.",
+            "label": "foul-card",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [PLAYER] doesn't hesitate at all to make this decision. [TEAM] earn a free kick which could lead to a goal-scoring opportunity.",
+            "history": [
+                {
+                    "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+                    "history_time": "8:47",
+                    "long-term": "The referee has been actively enforcing discipline, issuing a yellow card and awarding free kicks for minor infractions. The teams are also engaging in tactical battles, trying to gain advantages through set pieces."
+                },
+                {
+                    "short-term": "Viktor Kassai books Martin Skrtel for a tough tackle early in the second half. The defender protested, claiming he won the ball, but the referee was firm in his decision. Real Madrid have a free kick.",
+                    "history_time": "1:37",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "query": "Adam Lallana (Liverpool) whips in a cross from the corner, but Iker Casillas is well positioned and punches the ball away.",
+            "target": "[player]Casillas[player].",
+            "game_time": "16:25",
+            "short-term": "Adam Lallana whipped in a cross from the corner, but Iker Casillas was well positioned and punched the ball away to safety.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) whips in a cross from the corner, but Iker Casillas is well positioned and punches the ball away.",
+            "history": [
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "He has been creating scoring opportunities with precise deliveries and generating chances, but the accuracy of his finishes has let him down so far."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a cross into the penalty area, but the opposition defense clears the ball away to safety. The ball goes out of play, and Real Madrid are awarded a corner kick.",
+                    "history_time": "7:11",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the opposing goalkeepers and defenses have been up to the task to neutralize these threats."
+                }
+            ]
+        },
+        {
+            "query": "Alberto Moreno (Liverpool) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "target": "[player]Alberto Moreno[player] brandishing that hammer of her left foot again.",
+            "game_time": "20:14",
+            "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Adam Lallana whipped in a cross from the corner, but Iker Casillas was well positioned and punched the ball away to safety.",
+                    "history_time": "16:25",
+                    "long-term": "They have been trying to create scoring opportunities from distance and set pieces, but so far, the efforts have lacked precision."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "They have been creating scoring opportunities with powerful shots, but struggling with accuracy, missing the target on multiple occasions."
+                },
+                {
+                    "short-term": "Alberto Moreno took a shot from the edge of the box, but it was straight at Iker Casillas. The goalkeeper had to react quickly to make a routine save.",
+                    "history_time": "10:40",
+                    "long-term": "He has been consistently attempting to score from distance, though his shots have lacked accuracy and been comfortably handled by the goalkeeper."
+                },
+                {
+                    "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+                    "history_time": "8:47",
+                    "long-term": "He has shown flashes of his attacking prowess, but lacked precision and made mistakes that gave the opposing team set pieces."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Corner kick. Real Madrid will have an opportunity.",
+            "target": "More space for [team]Madrid[team] to counterattack into [player]Ronaldo[player] to [player]Benzema[player], back to [player]Ronaldo[player]. Is this the moment for him? [player]Kolo Tour[player] was able to get a block and he just moved it a little bit too far to the right to absolutely take the maximum from the situation.",
+            "game_time": "22:03",
+            "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Corner kick. [TEAM] will have an opportunity.",
+            "history": [
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have been creating scoring opportunities through individual efforts and clever combinations, but struggling to convert them into goals due to defensive interventions and poor accuracy."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "Both teams have shown excellent creativity in the attacking third, but their finishing touches have been lacking precision, as they've struggled to capitalize on scoring opportunities."
+                },
+                {
+                    "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+                    "history_time": "8:47",
+                    "long-term": "They have been posing threats in the attacking third, showcasing their ability to create scoring opportunities through intricate combinations."
+                }
+            ]
+        },
+        {
+            "query": "Karim Benzema (Real Madrid) does well to meet a cross from Marcelo, but he directs his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for Liverpool.",
+            "target": "[player]Marcelo[player].",
+            "game_time": "23:09",
+            "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) does well to meet a cross from [PLAYER], but he directs his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+                    "history_time": "22:49",
+                    "long-term": "They have been creating scoring opportunities with precise crosses, but the opposition's defense has been effective in nullifying the threats so far."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They have been posing a threat in the attacking third, creating a couple of promising chances but struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "Both teams have been creating scoring opportunities with crosses and long-range shots, but their finishing has let them down so far. They have shown flashes of attacking intent but need to improve their accuracy."
+                },
+                {
+                    "short-term": "Adam Lallana whipped in a cross from the corner, but Iker Casillas was well positioned and punched the ball away to safety.",
+                    "history_time": "16:25",
+                    "long-term": "Both teams have been creating scoring opportunities, with good deliveries into the box, but they've struggled to capitalize on these chances so far."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "Both teams have created promising scoring opportunities, but struggled with accuracy in their finishing, narrowly missing the target on multiple occasions."
+                },
+                {
+                    "short-term": "Alberto Moreno took a shot from the edge of the box, but it was straight at Iker Casillas. The goalkeeper had to react quickly to make a routine save.",
+                    "history_time": "10:40",
+                    "long-term": "Both teams have created scoring opportunities, with each side taking shots that tested the opposing goalkeeper."
+                }
+            ]
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "target": "[player]Kroos[player].",
+            "game_time": "22:49",
+            "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "history": [
+                {
+                    "short-term": "Adam Lallana whipped in a cross from the corner, but Iker Casillas was well positioned and punched the ball away to safety.",
+                    "history_time": "16:25",
+                    "long-term": "The teams have been utilizing set pieces effectively to create scoring opportunities, but the defensive units have shown great resilience in negating these threats."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa delivers a cross into the penalty area, but the opposition defense clears the ball away to safety. The ball goes out of play, and Real Madrid are awarded a corner kick.",
+                    "history_time": "7:11",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposition defense has been effective in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "query": "It is time for a substitution. Steven Gerrard (Liverpool) is on for Lucas Leiva.",
+            "target": "[player]Steven Gerrard[player].And this will be some story. If [player]Steven Gerrard[player] can inspire [team]Liverpool[team] to get back into this game, he brings, of course past experience.",
+            "game_time": "23:57",
+            "short-term": "Steven Gerrard comes on for Lucas Leiva in a substitution for Liverpool. With his wealth of experience, Gerrard has the chance to inspire his team and influence the game.",
+            "label": "substitution",
+            "query_ano": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Raheem Sterling replaces Lazar Markovic as Liverpool make a substitution. Sterling, known for his pace and attacking threat, is expected to add energy to the game.",
+                    "history_time": "23:56",
+                    "long-term": "They are bringing on experienced and skilled players to boost their attacking presence and energy on the field. This could signal a more aggressive approach for the remainder of the game."
+                }
+            ]
+        },
+        {
+            "query": "What a chance that is! Gareth Bale (Real Madrid) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "target": "There is a panel that is outside the penalty area. [player]Marcelo[player], the choice of his crossing tonight has been superb.",
+            "game_time": "25:15",
+            "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+            "label": "shoot",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "history": [
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "The team has been consistently creating scoring opportunities with precise crosses, but their finishing has let them down so far."
+                },
+                {
+                    "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+                    "history_time": "22:49",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses, but struggling to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Viktor Kassai blows the whistle, Emre Can (Liverpool) is penalised for a foul. Real Madrid have a free kick from a promising distance.",
+            "target": "",
+            "game_time": "25:44",
+            "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+            "label": "foul",
+            "query_ano": "[PLAYER] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] have a free kick from a promising distance.",
+            "history": [
+                {
+                    "short-term": "Raheem Sterling replaces Lazar Markovic as Liverpool make a substitution. Sterling, known for his pace and attacking threat, is expected to add energy to the game.",
+                    "history_time": "23:56",
+                    "long-term": "The momentum of the game is shifting, with Real Madrid gaining an advantage through a free kick and Liverpool responding by introducing a pacey attacker in Raheem Sterling. This substitution may signal a change in Liverpool's strategy, looking to add more attacking flair to the match."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They have been creating scoring opportunities, including a threatening free kick and a well-crafted cross that nearly led to a goal."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They have been creating scoring opportunities through clever combinations and earning set pieces in promising positions."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have had mixed results in terms of set pieces and long-range shots, winning a free kick but failing to capitalize on a scoring opportunity from distance."
+                },
+                {
+                    "short-term": "Viktor Kassai didn't hesitate to show a yellow card to Sergio Ramos for his tackle. Liverpool earned a free kick in a promising position.",
+                    "history_time": "14:28",
+                    "long-term": "The referee has been actively involved in managing the game, calling fouls and issuing yellow cards to maintain discipline, which may impact the teams' strategies."
+                },
+                {
+                    "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+                    "history_time": "8:47",
+                    "long-term": "Real Madrid has been given favorable opportunities with two free kicks, courtesy of fouls committed by the opposing team."
+                },
+                {
+                    "short-term": "Viktor Kassai books Martin Skrtel for a tough tackle early in the second half. The defender protested, claiming he won the ball, but the referee was firm in his decision. Real Madrid have a free kick.",
+                    "history_time": "1:37",
+                    "long-term": "The referee has been strict in his decision-making, quickly blowing the whistle for fouls and issuing bookings when necessary, giving Real Madrid opportunities to create danger from set pieces. This could potentially impact the flow of the game and affect the players' aggression in tackles."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) sets the ball for the free kick from 18 metres out. His attempt is aimed towards the middle of the goal, but Simon Mignolet is alert and makes a comfortable save.",
+            "target": "There's always a possibility that this could be it, but it's a six man wall from [player]Mignolet[player], but [player]Ronaldo[player] takes on the goalkeeper.",
+            "game_time": "26:14",
+            "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) sets the ball for the free kick from 18 metres out. His attempt is aimed towards the middle of the goal, but [PLAYER] is alert and makes a comfortable save.",
+            "history": [
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They have been creating scoring opportunities, but the finishing touches have been lacking, with two recent chances saved and going wide respectively."
+                },
+                {
+                    "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+                    "history_time": "22:49",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposing team's defense has been solid in responding to these threats."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "He has been posing a significant threat from set pieces and combining well with his teammates to create scoring opportunities."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo connected with a pass around the edge of the box, aimed, and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and kept it out with his feet. Despite the solid movement, Ronaldo couldn’t get the power he needed on the shot.",
+                    "history_time": "3:25",
+                    "long-term": "He has consistently posed a threat from set pieces and around the box, but the goalkeeper has thwarted his best efforts on multiple occasions."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo attempted to curl the ball over the defensive wall from the free kick, but his effort failed to reach the goal. The shot lacked enough dip to trouble the goalkeeper.",
+                    "history_time": "2:35",
+                    "long-term": "He has been struggling to find success with his free kicks, having had two attempts saved or miss the target."
+                }
+            ]
+        },
+        {
+            "query": "Gareth Bale (Real Madrid) unleashes a shot from long range but it's well blocked. The ball goes out of play. Real Madrid are awarded a corner kick.",
+            "target": "With [player]Bale[player] on now. [player]Touré[player] in the way again. A lot of gallantry at the back.",
+            "game_time": "27:39",
+            "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+            "label": "shoot",
+            "query_ano": "Gareth Bale ([TEAM]) unleashes a shot from long range but it's well blocked. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+                    "history_time": "26:14",
+                    "long-term": "They have been consistently aggressive in their attack, creating scoring opportunities from distance but struggling to break through the opposition's defense."
+                },
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "They have been consistently creating scoring opportunities with effective shots and set pieces, putting pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+                    "history_time": "25:15",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and crosses into the box, but so far, the opposing team's defense has been equal to the task."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They have been creating scoring opportunities with shots from outside the box and crosses into the box, but have been unable to find the back of the net so far."
+                },
+                {
+                    "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+                    "history_time": "22:49",
+                    "long-term": "They have been consistently threatening from outside the box and through set pieces, but the defense has shown impressive resilience to counter their attacks."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots, but the defense has been equally effective in blocking their efforts. Real Madrid's attack has been dynamic, with players linking up well to create chances."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have been trying to create scoring chances from distance, but so far, their long-range shots have been unsuccessful."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "Both teams have created promising scoring opportunities from distance and through clever passing, but defensive blocks and narrow misses have prevented them from capitalizing."
+                }
+            ]
+        },
+        {
+            "query": "A cross from the corner kick arrives at the feet of Toni Kroos (Real Madrid), giving him an opportunity to shoot. He misses completely, well to the left of the goal.",
+            "game_time": "28:47",
+            "short-term": "A cross from the corner kick arrived at the feet of Toni Kroos, giving him an opportunity to shoot, but he missed completely, sending it well to the left of the goal. It was a difficult shot to take, especially with the ball coming across his body.",
+            "query_ano": "A cross from the corner kick arrives at the feet of [PLAYER] ([TEAM]), giving him an opportunity to shoot. He misses completely, well to the left of the goal.",
+            "history": [
+                {
+                    "short-term": "Marcelo wriggled into space and fired the ball from the edge of the area, but one of the defenders was there to block the effort. The ball went out of play, and Real Madrid won a corner kick. His attempt had power, but the defender was well-positioned to make the block.",
+                    "history_time": "28:20",
+                    "long-term": "They have been creating scoring opportunities, but struggling to find the finishing touch, with shots going wide or being blocked by the defense."
+                },
+                {
+                    "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+                    "history_time": "27:39",
+                    "long-term": "They have been creating scoring opportunities, but struggling with accuracy and facing stiff defensive resistance."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+                    "history_time": "26:14",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on set pieces and crucial shots."
+                },
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "They have been creating scoring opportunities, but struggling to convert them, and also drawing fouls in threatening areas of the pitch."
+                },
+                {
+                    "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+                    "history_time": "25:15",
+                    "long-term": "They have been creating quality scoring chances from set pieces and crosses, but the finishing touches have been lacking, resulting in missed opportunities."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They have been creating scoring opportunities with precise crosses, but the finishing touches have been lacking accuracy."
+                },
+                {
+                    "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+                    "history_time": "22:49",
+                    "long-term": "Toni Kroos has been actively involved in set-piece situations, delivering threatening crosses, but so far, his efforts haven't resulted in success."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They have been creating scoring opportunities through a combination of set pieces and clever link-up play, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have been creating scoring opportunities, but the final touches have let them down, with shots flying wide of the target on multiple occasions. The midfielders are taking shots from varying distances, but accuracy remains a concern."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "They have been creating scoring opportunities, but struggling with accuracy in their finishing, missing shots and failing to capitalize on key chances."
+                }
+            ]
+        },
+        {
+            "query": "Marcelo (Real Madrid) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball is out of play. Real Madrid win a corner kick.",
+            "game_time": "28:20",
+            "short-term": "Marcelo wriggled into space and fired the ball from the edge of the area, but one of the defenders was there to block the effort. The ball went out of play, and Real Madrid won a corner kick. His attempt had power, but the defender was well-positioned to make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball is out of play. [TEAM] win a corner kick.",
+            "history": [
+                {
+                    "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+                    "history_time": "27:39",
+                    "long-term": "They consistently posed a threat from distance, but the opposing defense made crucial blocks to deny them a breakthrough."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+                    "history_time": "26:14",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, neutralizing their attacking threats."
+                },
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "They have been creating scoring opportunities, forcing the opponents' defense to make crucial blocks, and now have a chance to capitalize on a free kick from a promising position."
+                },
+                {
+                    "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+                    "history_time": "25:15",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and powerful shots, but the finishing touch has been lacking."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They consistently threatened the opponent's goal with skillful attempts, and although the shots were ultimately blocked or wide, their aggressive playmaking is showing promise."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They consistently pressured the defense with powerful shots, but struggled to break through due to well-timed blocks."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have been attempting to create scoring opportunities from outside the box, but so far, the efforts have been met with blocks or gone off target."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "Both teams have created promising scoring opportunities, but each has been let down by the slightest of margins, with shots either being blocked or narrowly missing the target."
+                }
+            ]
+        },
+        {
+            "query": "A substitution has been made. Emre Can goes off and Philippe Coutinho (Liverpool) comes on.",
+            "game_time": "29:10",
+            "short-term": "A substitution has been made. Emre Can goes off and Philippe Coutinho comes on. Brendan Rodgers made another attacking move, hoping to increase Liverpool’s offensive presence.",
+            "query_ano": "A substitution has been made. Emre Can goes off and Philippe Coutinho ([TEAM]) comes on.",
+            "history": [
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "Emre Can's departure from the game may be part of a broader tactical shift by Brendan Rodgers, but before that, he had a critical moment when committing a foul that resulted in a free kick for the opposing team."
+                },
+                {
+                    "short-term": "Raheem Sterling replaces Lazar Markovic as Liverpool make a substitution. Sterling, known for his pace and attacking threat, is expected to add energy to the game.",
+                    "history_time": "23:56",
+                    "long-term": "The manager has been actively making attacking substitutions, signaling a clear intent to intensify the team's offense in pursuit of a result."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and the score remained the same.",
+            "game_time": "3:25",
+            "short-term": "Cristiano Ronaldo connected with a pass around the edge of the box, aimed, and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and kept it out with his feet. Despite the solid movement, Ronaldo couldn’t get the power he needed on the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER] was alert and the score remained the same.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo attempted to curl the ball over the defensive wall from the free kick, but his effort failed to reach the goal. The shot lacked enough dip to trouble the goalkeeper.",
+                    "history_time": "2:35",
+                    "long-term": "He has shown great intent in his shots but struggled to find the necessary power and finesse to score."
+                }
+            ]
+        },
+        {
+            "query": "This yellow card was deserved. The tackle by Marcelo (Real Madrid) was quite harsh and Viktor Kassai didn't hesitate to show him a yellow card.",
+            "game_time": "30:30",
+            "short-term": "This yellow card was deserved. The tackle by Marcelo was quite harsh, and Viktor Kassai didn't hesitate to show him a yellow card. Marcelo came in from behind with no attempt to play the ball, making the challenge reckless.",
+            "query_ano": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [PLAYER] didn't hesitate to show him a yellow card.",
+            "history": [
+                {
+                    "short-term": "The foul by Fabio Borini was seen by Viktor Kassai, who didn't hesitate to blow the whistle. Borini attempted to continue play, but the referee had already stopped the action.",
+                    "history_time": "29:32",
+                    "long-term": "The referee has been strict with his disciplinary actions, quickly calling fouls to maintain game order and doling out a yellow card for the harsh tackle this time."
+                }
+            ]
+        },
+        {
+            "query": "Steven Gerrard (Liverpool) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and Real Madrid will have a goal kick.",
+            "game_time": "33:45",
+            "short-term": "Steven Gerrard attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play, and Real Madrid will have a goal kick. It was an ambitious attempt, but the weight of the pass made it unreachable.",
+            "query_ano": "Steven Gerrard ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "A cross from the corner kick arrived at the feet of Toni Kroos, giving him an opportunity to shoot, but he missed completely, sending it well to the left of the goal. It was a difficult shot to take, especially with the ball coming across his body.",
+                    "history_time": "28:47",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has been lacking precision, with passes and shots not quite finding their mark."
+                },
+                {
+                    "short-term": "Marcelo wriggled into space and fired the ball from the edge of the area, but one of the defenders was there to block the effort. The ball went out of play, and Real Madrid won a corner kick. His attempt had power, but the defender was well-positioned to make the block.",
+                    "history_time": "28:20",
+                    "long-term": "They have been creating scoring opportunities with clever individual efforts, but the final pass or shot has lacked precision."
+                },
+                {
+                    "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+                    "history_time": "27:39",
+                    "long-term": "They have been creating scoring opportunities with ambitious passing and long-range shots, but so far, the end product has been lacking precision."
+                },
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "They have struggled to create clear scoring opportunities, with some ambitious passes not paying off and an occasional defensive lapse offering the opponent a promising set piece."
+                },
+                {
+                    "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+                    "history_time": "25:15",
+                    "long-term": "They have been creating scoring opportunities with excellent passes and crosses, but the finishing touches have been slightly off."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "Both teams have shown moments of promise in their passing and attacking play, but accuracy has been an issue, with overhit passes and narrowly missed shots."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+                    "history_time": "22:03",
+                    "long-term": "They have been showing flashes of creative brilliance in their build-up play, but the final execution has been lacking precision."
+                },
+                {
+                    "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+                    "history_time": "20:14",
+                    "long-term": "They have been trying to create scoring opportunities with ambitious long-range passes and shots, but so far, their efforts have been off target and failed to threaten the goalkeeper."
+                },
+                {
+                    "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+                    "history_time": "12:15",
+                    "long-term": "They have been creating scoring opportunities with clever passes, but the final execution has been slightly off, preventing them from capitalizing on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Gareth Bale (Real Madrid) takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but Simon Mignolet is alert and keeps the ball out.",
+            "game_time": "39:50",
+            "short-term": "Gareth Bale takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but Simon Mignolet is alert and keeps the ball out. The shot had power but was too central, making it easier for Mignolet to react.",
+            "query_ano": "Gareth Bale ([TEAM]) takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but [PLAYER] is alert and keeps the ball out.",
+            "history": [
+                {
+                    "short-term": "Steven Gerrard attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play, and Real Madrid will have a goal kick. It was an ambitious attempt, but the weight of the pass made it unreachable.",
+                    "history_time": "33:45",
+                    "long-term": "They have been creating scoring opportunities, but the finishing and final passes have lacked precision."
+                },
+                {
+                    "short-term": "A cross from the corner kick arrived at the feet of Toni Kroos, giving him an opportunity to shoot, but he missed completely, sending it well to the left of the goal. It was a difficult shot to take, especially with the ball coming across his body.",
+                    "history_time": "28:47",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but struggling to capitalize on them due to accurate goalkeeping and rushed finishing."
+                },
+                {
+                    "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+                    "history_time": "27:39",
+                    "long-term": "He has been posing a significant threat from distance, but the opposition's defense and goalkeeper have been equal to the task, neutralizing his powerful efforts."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+                    "history_time": "26:14",
+                    "long-term": "They have been creating scoring opportunities from set pieces, but the goalkeeper's excellent positioning has denied them a goal so far."
+                },
+                {
+                    "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+                    "history_time": "25:15",
+                    "long-term": "He has been creating scoring opportunities with impressive set pieces and crosses into the box, but struggling to capitalize on these chances."
+                },
+                {
+                    "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+                    "history_time": "23:09",
+                    "long-term": "They have been creating scoring opportunities with precise set pieces and crosses, but struggling to capitalize on them."
+                }
+            ]
+        },
+        {
+            "query": "Viktor Kassai shows a yellow card to Alberto Moreno (Liverpool), who isn't surprised as the tackle was really hard and late. Real Madrid are awarded a free kick from a dangerous position.",
+            "game_time": "39:00",
+            "short-term": "Viktor Kassai shows a yellow card to Alberto Moreno, who isn't surprised as the tackle was really hard and late. Real Madrid are awarded a free kick from a dangerous position. Moreno had little chance of winning the ball, making the challenge reckless and unnecessary.",
+            "query_ano": "[PLAYER] shows a yellow card to Alberto Moreno ([TEAM]), who isn't surprised as the tackle was really hard and late. [TEAM] are awarded a free kick from a dangerous position.",
+            "history": [
+                {
+                    "short-term": "Steven Gerrard attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play, and Real Madrid will have a goal kick. It was an ambitious attempt, but the weight of the pass made it unreachable.",
+                    "history_time": "33:45",
+                    "long-term": "They have shown inconsistent decision-making, with one player being booked for a reckless tackle and another player misjudging a pass, resulting in lost opportunities."
+                },
+                {
+                    "short-term": "Marcelo wriggled into space and fired the ball from the edge of the area, but one of the defenders was there to block the effort. The ball went out of play, and Real Madrid won a corner kick. His attempt had power, but the defender was well-positioned to make the block.",
+                    "history_time": "28:20",
+                    "long-term": "Real Madrid have been putting pressure on their opponents, winning set pieces in crucial areas and testing their defense with powerful attempts."
+                },
+                {
+                    "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+                    "history_time": "27:39",
+                    "long-term": "They have been putting pressure on the defense with risky tackles and long-range shots, resulting in gaining set-piece opportunities."
+                },
+                {
+                    "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+                    "history_time": "25:44",
+                    "long-term": "They have been committing several fouls, resulting in free kicks in dangerous positions for the opposing team, which may put pressure on their defense."
+                },
+                {
+                    "short-term": "Viktor Kassai didn't hesitate to show a yellow card to Sergio Ramos for his tackle. Liverpool earned a free kick in a promising position.",
+                    "history_time": "14:28",
+                    "long-term": "The referee has been strict with his disciplinary actions, handing out yellow cards for reckless tackles, emphasizing the need for players to be cautious in their challenges."
+                }
+            ]
+        },
+        {
+            "query": "Fabio Borini (Liverpool) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "game_time": "41:20",
+            "short-term": "Fabio Borini finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "The linesman signals that Fabio Borini is offside, and the referee confirms the decision. It was a marginal call, with he slightly ahead of the defensive line as Liverpool pushed forward.",
+                    "history_time": "17:55",
+                    "long-term": "He has had multiple attempts thwarted by offside decisions, indicating a pattern of aggressive positioning that, while close, isn't quite in sync with the defensive line."
+                }
+            ]
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) brings his opponent down. Viktor Kassai has a clear sight of it and blows his whistle for a foul.",
+            "game_time": "42:24",
+            "short-term": "Toni Kroos brings his opponent down with a tackle. Viktor Kassai had a clear sight of it and immediately blew his whistle for a foul. There was no card given for the challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [PLAYER] has a clear sight of it and blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Viktor Kassai shows a yellow card to Alberto Moreno, who isn't surprised as the tackle was really hard and late. Real Madrid are awarded a free kick from a dangerous position. Moreno had little chance of winning the ball, making the challenge reckless and unnecessary.",
+                    "history_time": "39:00",
+                    "long-term": "The referee has been closely monitoring challenges and is not hesitating to intervene when necessary, showing a strict stance on tackles in the match.."
+                },
+                {
+                    "short-term": "The foul by Fabio Borini was seen by Viktor Kassai, who didn't hesitate to blow the whistle. Borini attempted to continue play, but the referee had already stopped the action.",
+                    "history_time": "29:32",
+                    "long-term": "The referee has been consistently vigilant in calling fouls, quickly blowing the whistle on infractions to maintain control of the match."
+                }
+            ]
+        },
+        {
+            "query": "Alvaro Arbeloa (Real Madrid) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "game_time": "7:11",
+            "short-term": "Alvaro Arbeloa delivers a cross into the penalty area, but the opposition defense clears the ball away to safety. The ball goes out of play, and Real Madrid are awarded a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo attempted to curl the ball over the defensive wall from the free kick, but his effort failed to reach the goal. The shot lacked enough dip to trouble the goalkeeper.",
+                    "history_time": "2:35",
+                    "long-term": "They have been consistently creating scoring opportunities, but the final touch and precision have been lacking, allowing the opposition to clear or counter their efforts."
+                }
+            ]
+        },
+        {
+            "query": "James Rodriguez (Real Madrid) sees a yellow card from Viktor Kassai after he sent one of the opposing players to the ground.",
+            "game_time": "7:34",
+            "short-term": "James Rodriguez received a yellow card from Viktor Kassai after a clumsy challenge in which he sent one of the opposing players to the ground. It was more a result of his lack of control than intentional aggression.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [PLAYER] after he sent one of the opposing players to the ground.",
+            "history": [
+                {
+                    "short-term": "Viktor Kassai books Martin Skrtel for a tough tackle early in the second half. The defender protested, claiming he won the ball, but the referee was firm in his decision. Real Madrid have a free kick.",
+                    "history_time": "1:37",
+                    "long-term": "The referee has been strict with his bookings, issuing yellow cards for robust challenges, and the players will need to be cautious to avoid further punishment."
+                }
+            ]
+        },
+        {
+            "query": "Alberto Moreno (Liverpool) touches the ball with his hand. Real Madrid will take a free kick.",
+            "game_time": "8:47",
+            "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+            "query_ano": "Alberto Moreno ([TEAM]) touches the ball with his hand. [TEAM] will take a free kick.",
+            "history": [
+                {
+                    "short-term": "Viktor Kassai books Martin Skrtel for a tough tackle early in the second half. The defender protested, claiming he won the ball, but the referee was firm in his decision. Real Madrid have a free kick.",
+                    "history_time": "1:37",
+                    "long-term": "They are struggling with discipline, as seen in the handball and tough tackle incidents, which have both resulted in free kicks for the opposing team."
+                }
+            ]
+        }
+    ]
+}

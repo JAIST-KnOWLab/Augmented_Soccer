@@ -1,0 +1,124 @@
+{
+    "annotations": [
+        {
+            "query": "Arda Turan (Atl. Madrid) brings his opponent down with a tackle and Felix Brych blows his whistle for a foul.",
+            "game_time": "10:25",
+            "short-term": "Arda Turan (Atl. Madrid) brings his opponent down with a tackle and Felix Brych blows his whistle for a foul. He was attempting to stop the attack but mistimed his challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) slams the ball goalwards from 18 metres out, but his decent effort flies a whisker wide of the right post.",
+            "game_time": "13:06",
+            "short-term": "Cristiano Ronaldo (Real Madrid) slams the ball goalwards from 18 metres out, but his decent effort flies a whisker wide of the right post. He had space to shoot but couldn’t quite find the target.",
+            "query_ano": "[PLAYER] ([TEAM]) slams the ball goalwards from 18 metres out, but his decent effort flies a whisker wide of the right post."
+        },
+        {
+            "query": "Koke (Atl. Madrid) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "game_time": "14:56",
+            "short-term": "Koke (Atl. Madrid) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar. A frustrating miss for the midfielder.",
+            "query_ano": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar."
+        },
+        {
+            "query": "Isco (Real Madrid) sends a lofted cross into the box which is headed clear.",
+            "game_time": "16:00",
+            "short-term": "Isco (Real Madrid) sends a lofted cross into the box which is headed clear. The defender positioned himself well to deal with the aerial threat.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "query": "Felix Brych blows his whistle and it's Sergio Ramos (Real Madrid) who is penalised for an offensive foul. Good decision by the referee.",
+            "game_time": "17:41",
+            "short-term": "Felix Brych blows his whistle and it's Sergio Ramos (Real Madrid) who is penalised for an offensive foul. The referee's decision was clear, as the challenge disrupted play.",
+            "query_ano": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "query": "Jesus Gamez (Atl. Madrid) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The ball has crossed the sideline. Atl. Madrid are taking a throw-in.",
+            "game_time": "19:42",
+            "short-term": "Jesus Gamez (Atl. Madrid) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The ball crosses the sideline, leading to an Atletico throw-in.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "query": "Antoine Griezmann (Atl. Madrid) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The linesman points to the corner flag, Atl. Madrid are going to take it.",
+            "game_time": "20:04",
+            "short-term": "Antoine Griezmann (Atl. Madrid) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The linesman points to the corner flag, signaling an Atletico Madrid corner.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The linesman points to the corner flag, [TEAM] are going to take it."
+        },
+        {
+            "query": "Felix Brych couldn't ignore the rough tackle by Cristiano Ronaldo (Real Madrid) and blew his whistle.",
+            "game_time": "20:59",
+            "short-term": "Felix Brych couldn't ignore the rough tackle by Cristiano Ronaldo (Real Madrid) and blew his whistle. Ronaldo's challenge was deemed excessive, resulting in a free kick for the opposing team.",
+            "query_ano": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "query": "Koke (Atl. Madrid) fails to find any of his teammates inside the box as his pass is blocked.",
+            "game_time": "23:11",
+            "short-term": "Koke (Atl. Madrid) fails to find any of his teammates inside the box as his pass is blocked. The ball deflects out of play, earning Atlético Madrid a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "query": "Jesus Gamez (Atl. Madrid) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the right post is, however, superbly saved by Iker Casillas!",
+            "game_time": "28:13",
+            "short-term": "Jesus Gamez (Atl. Madrid) creates some space and tries his luck from distance. His shot towards the right post is superbly saved by Iker Casillas. It was the first significant save Casillas had to make in the match, showcasing his quick reflexes.",
+            "query_ano": "[PLAYER] ([TEAM]) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the right post is, however, superbly saved by [PLAYER]!"
+        },
+        {
+            "query": "Chicharito (Real Madrid) meets a cross inside the box, but his header is blocked by an opposing player. Real Madrid force their opponents to concede a corner.",
+            "game_time": "30:13",
+            "short-term": "Chicharito (Real Madrid) meets a cross inside the box, but his header is blocked by a defender. The ball goes out for a corner. Hernandez would have celebrated a goal if not for the timely block by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a cross inside the box, but his header is blocked by an opposing player. [TEAM] force their opponents to concede a corner."
+        },
+        {
+            "query": "Felix Brych shows a yellow card to Arda Turan (Atl. Madrid), who isn't surprised as the tackle was really hard and late. A free kick to Real Madrid.",
+            "game_time": "30:50",
+            "short-term": "Felix Brych shows a yellow card to Arda Turan (Atl. Madrid) for a hard and late tackle. The referee had no hesitation in awarding the free kick to Real Madrid and issuing the caution, as the foul was quite severe.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late. A free kick to [TEAM]."
+        },
+        {
+            "query": "Jan Oblak reacts well to deny a long-range free kick from Cristiano Ronaldo (Real Madrid) towards the bottom right corner. Real Madrid have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "game_time": "31:39",
+            "short-term": "Jan Oblak reacts superbly to deny a long-range free kick from Cristiano Ronaldo (Real Madrid) aimed at the bottom right corner. The clever shot bounced in front of the keeper, adding difficulty, but Oblak managed to save it. Real Madrid were awarded a corner kick following the save.",
+            "query_ano": "[PLAYER] reacts well to deny a long-range free kick from [PLAYER] ([TEAM]) towards the bottom right corner. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "query": "James Rodriguez (Real Madrid) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "game_time": "33:48",
+            "short-term": "James Rodriguez (Real Madrid) takes a corner and sends it into the penalty area, but the opposition's defense clears the danger effectively.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "query": "Miranda (Atl. Madrid) makes a rough challenge and Felix Brych blows his whistle for a foul. A mid-range free kick is awarded to Real Madrid out wide and from this angle a cross into the box is likely.",
+            "game_time": "36:41",
+            "short-term": "Miranda commits a rough challenge, and the referee, Felix Brych, blows for a foul. Real Madrid is awarded a mid-range free kick out wide, setting up a likely cross into the box. Miranda may argue it was unintentional, but the referee had no choice but to penalize the defender.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul. A mid-range free kick is awarded to [TEAM] out wide and from this angle a cross into the box is likely."
+        },
+        {
+            "query": "James Rodriguez (Real Madrid) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "game_time": "37:37",
+            "short-term": "James Rodriguez (Real Madrid) takes the resulting free kick from outside the box. He sends a nice cross into the box, but Jan Oblak shows excellent anticipation and composure to come off his line and collect the ball. It was not an easy save, but keeper made it look routine.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "query": "Saul (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Felix Brych has a clear sight of it and blows his whistle.",
+            "game_time": "39:59",
+            "short-term": "Saul (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Referee has a clear sight of it and blows his whistle. A free kick is awarded to the opposing team.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) crosses the ball into the box, but one of the defending players averts the threat. Corner kick. Real Madrid will have an opportunity.",
+            "game_time": "42:30",
+            "short-term": "Cristiano Ronaldo (Real Madrid) crosses the ball into the box, but one of the defending players averts the threat. Corner kick. Real Madrid will have an opportunity. His cross was well-placed, he's asking why there's nobody filling that gap.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "query": "Jan Oblak pulls off a great save to deny Cristiano Ronaldo (Real Madrid), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal. Real Madrid earn a corner.",
+            "game_time": "43:52",
+            "short-term": "Jan Oblak pulls off a great save to deny Cristiano Ronaldo (Real Madrid), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal. Real Madrid earn a corner. Keeper reacts quickly, diving to his left to make a great save, preventing him from giving his team the lead.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal. [TEAM] earn a corner."
+        },
+        {
+            "query": "Raphael Varane (Real Madrid) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",
+            "game_time": "44:47",
+            "short-term": "Raphael Varane (Real Madrid) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The chance for Real Madrid goes begging.",
+            "query_ano": "[PLAYER] ([TEAM]) gets his head on the corner, but he can't find the target as his header flies high over the crossbar."
+        }
+    ]
+}

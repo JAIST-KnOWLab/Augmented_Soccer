@@ -1,0 +1,263 @@
+{
+    "annotations": [
+        {
+            "query": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner.",
+            "game_time": "10:08",
+            "short-term": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner. The defender reacted quickly to prevent any danger.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "The game is interrupted as Thomas Muller (Bayern Munich) is flagged offside. He had space to run into but mistimed his movement, leading to the call.",
+                    "history_time": "09:35",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been effective in preventing them from capitalizing on these chances."
+                },
+                {
+                    "short-term": "Philipp Lahm receives a short pass from Thomas Muller (Bayern Munich), but the opposition's defence thwarts his effort, blocking any clear path forward.",
+                    "history_time": "8:40",
+                    "long-term": "They have maintained a strong attacking presence, but the opposing defense has consistently blocked their efforts to create scoring opportunities."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+                    "history_time": "1:50",
+                    "long-term": "They have been creating scoring opportunities, particularly from set pieces, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been creating scoring opportunities, particularly from set pieces, with a corner and a free kick providing them chances to get on the scoreboard."
+                }
+            ]
+        },
+        {
+            "query": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "game_time": "10:34",
+            "short-term": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The flick from a Bayern player wasn’t enough to trouble the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "history": [
+                {
+                    "short-term": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner. The defender reacted quickly to prevent any danger.",
+                    "history_time": "10:08",
+                    "long-term": "This corner kick comes after an attempted cross was swiftly cleared by the defender, sending the ball out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Marc-Andre ter Stegen leaps to collect the ball from the corner which was sent over by Thiago Alcantara (Bayern Munich). He showed great composure in securing the ball under pressure.",
+                    "history_time": "2:16",
+                    "long-term": "They have consistently utilized corner kicks as a means to threaten the opposing team's defense, yet so far, they haven't been able to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+                    "history_time": "1:50",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposition's defense has managed to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been creating opportunities through set pieces, but so far, the opposing defense has managed to effectively clear the threats."
+                }
+            ]
+        },
+        {
+            "query": "Manuel Neuer is alert and has a clear sight of a long through ball from Lionel Messi (Barcelona). Easy save!",
+            "game_time": "15:49",
+            "short-term": "Manuel Neuer is alert and has a clear sight of a long through ball from Lionel Messi (Barcelona). Easy save! The goalkeeper anticipated the pass early and positioned himself well to collect it.",
+            "query_ano": "[PLAYER] is alert and has a clear sight of a long through ball from [PLAYER] ([TEAM]). Easy save!",
+            "history": [
+                {
+                    "short-term": "Lionel Messi (Barcelona) picks up a pass, lines up a shot, and strikes from 18 metres out, but Manuel Neuer thwarts the effort, reading the shot well and making a comfortable save.",
+                    "history_time": "12:07",
+                    "long-term": "The goalkeeper has been consistently anticipating and responding well to their attacking plays, showing a good read on their offense."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot flew well over the bar.",
+            "game_time": "18:31",
+            "short-term": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot and flew well over the bar. The goalkeeper had anticipated the move and was well-positioned.",
+            "query_ano": "[PLAYER] ([TEAM]) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot flew well over the bar.",
+            "history": [
+                {
+                    "short-term": "Jerome Boateng (Bayern Munich) jumps into a tackle and Nicola Rizzoli blows his whistle for a foul. The player protested the decision, but the referee remained firm.",
+                    "history_time": "17:10",
+                    "long-term": "They have shown moments of individual brilliance and tenacious defending, but errors in execution and decision-making have impacted their overall performance."
+                },
+                {
+                    "short-term": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The flick from a Bayern player wasn’t enough to trouble the defense.",
+                    "history_time": "10:34",
+                    "long-term": "Both teams have shown flashes of creativity in their attacking play, but ultimately lacked the precision to capitalize on scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall. The ball is out of play. A goal-scoring opportunity from a corner for Bayern Munich.",
+            "game_time": "1:50",
+            "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+            "query_ano": "[PLAYER] ([TEAM]) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been creating scoring opportunities, particularly from set pieces, but have yet to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Bayern Munich are awarded a mid-range free kick.",
+            "game_time": "21:49",
+            "short-term": "Bayern Munich are awarded a mid-range free kick. The goalkeeper is setting up a defensive wall to block the attempt.",
+            "query_ano": "[TEAM] are awarded a mid-range free kick.",
+            "history": [
+                {
+                    "short-term": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner. The defender reacted quickly to prevent any danger.",
+                    "history_time": "10:08",
+                    "long-term": "They have been creating scoring opportunities through set pieces, posing a threat to the opposing team's defense."
+                },
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been presented with consecutive set-piece opportunities, offering them a significant chance to break through the opponent's defense."
+                }
+            ]
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball is out of play and Bayern Munich manage to earn a corner.",
+            "game_time": "22:01",
+            "short-term": "Xabi Alonso (Bayern Munich) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball deflects out, and Bayern Munich earn a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball is out of play and [TEAM] manage to earn a corner.",
+            "history": [
+                {
+                    "short-term": "Bayern Munich are awarded a mid-range free kick. The goalkeeper is setting up a defensive wall to block the attempt.",
+                    "history_time": "21:49",
+                    "long-term": "They have been creating scoring opportunities from set pieces, with the recent free kick and corner kick providing promising chances to take the lead."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot and flew well over the bar. The goalkeeper had anticipated the move and was well-positioned.",
+                    "history_time": "18:31",
+                    "long-term": "Both teams have shown flashes of brilliance on the attack, but the defensive lines have been resolute in nullifying these threats."
+                },
+                {
+                    "short-term": "Manuel Neuer is alert and has a clear sight of a long through ball from Lionel Messi (Barcelona). Easy save! The goalkeeper anticipated the pass early and positioned himself well to collect it.",
+                    "history_time": "15:49",
+                    "long-term": "The team's set pieces have posed threats, but the opposition's defense has shown organization and control, mitigating these opportunities effectively."
+                },
+                {
+                    "short-term": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The flick from a Bayern player wasn’t enough to trouble the defense.",
+                    "history_time": "10:34",
+                    "long-term": "They have been consistently posing threats from set pieces, delivering quality crosses and corners that are testing the opponent's defense."
+                },
+                {
+                    "short-term": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner. The defender reacted quickly to prevent any danger.",
+                    "history_time": "10:08",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces, but the opposing defense has done well to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+                    "history_time": "1:50",
+                    "long-term": "They have been creating scoring opportunities from set pieces, particularly from free kicks, but have been unable to capitalize on them."
+                },
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been creating scoring opportunities through set pieces, particularly with their free kicks, which could potentially unlock the opponent's defense."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "game_time": "26:40",
+            "short-term": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It was an ambitious attempt to break through the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "history": [
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball deflects out, and Bayern Munich earn a corner.",
+                    "history_time": "22:01",
+                    "long-term": "Both teams have been showing great attacking intent, although the defenders have been solid in preventing clear scoring opportunities so far."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot and flew well over the bar. The goalkeeper had anticipated the move and was well-positioned.",
+                    "history_time": "18:31",
+                    "long-term": "They have been attempting to break through the defense with clever passes and quick shots, but the opposing team's backline has been solid in response."
+                },
+                {
+                    "short-term": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The flick from a Bayern player wasn’t enough to trouble the defense.",
+                    "history_time": "10:34",
+                    "long-term": "Both teams have been attempting to exploit each other's defenses with creative passes, but their opponents' solid defensive work has prevented them from capitalizing on these opportunities."
+                }
+            ]
+        },
+        {
+            "query": "The ball is cleared after Andres Iniesta (Barcelona) attempted to dribble past an opposing player.",
+            "game_time": "28:01",
+            "short-term": "The ball is cleared after Andres Iniesta (Barcelona) attempted to dribble past an opposing player. A well-timed defensive intervention stopped his progress.",
+            "query_ano": "The ball is cleared after Andres Iniesta ([TEAM]) attempted to dribble past an opposing player.",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It was an ambitious attempt to break through the defense.",
+                    "history_time": "26:40",
+                    "long-term": "They have been consistently testing the opposition's defense with creative plays, but the defensive line has held firm so far."
+                }
+            ]
+        },
+        {
+            "query": "Marc-Andre ter Stegen leaps to collect the ball from the corner which was sent over by Thiago Alcantara (Bayern Munich).",
+            "game_time": "2:16",
+            "short-term": "Marc-Andre ter Stegen leaps to collect the ball from the corner which was sent over by Thiago Alcantara (Bayern Munich). He showed great composure in securing the ball under pressure.",
+            "query_ano": "[PLAYER] leaps to collect the ball from the corner which was sent over by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+                    "history_time": "1:50",
+                    "long-term": "This corner kick comes after a free kick attempt was blocked by the defensive wall, deflecting out of play and creating another opportunity from a set-piece."
+                },
+                {
+                    "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+                    "history_time": "00:60",
+                    "long-term": "They have been trying to create scoring opportunities, particularly in the second half, and are working to apply pressure on the opponent's defense."
+                }
+            ]
+        },
+        {
+            "query": "Goal! Dani Alves slips it to Lionel Messi (Barcelona) on the edge of the box and he finds the right side of the net with a great effort. The score is 1:0.",
+            "game_time": "31:47",
+            "short-term": "Goal! Dani Alves slips it to Lionel Messi (Barcelona) on the edge of the box and he finds the right side of the net with a great effort. Despite the goalkeeper’s quick reaction, the ball had too much pace to be stopped.",
+            "query_ano": "Goal! [PLAYER] slips it to [PLAYER] ([TEAM]) on the edge of the box and he finds the right side of the net with a great effort. The score is 1:0.",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It was an ambitious attempt to break through the defense.",
+                    "history_time": "26:40",
+                    "long-term": "They have consistently shown exceptional attacking prowess, exemplified by a key goal and an ambitious attempt to pierce the defense with a through ball."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "game_time": "38:09",
+            "short-term": "Luis Suarez (Barcelona) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. He looks frustrated with himself after missing the target.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It was an ambitious attempt to break through the defense.",
+                    "history_time": "26:40",
+                    "long-term": "He has been showing flashes of creativity in his attempts to unlock the defense, but precision has been lacking in the final moments."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot and flew well over the bar. The goalkeeper had anticipated the move and was well-positioned.",
+                    "history_time": "18:31",
+                    "long-term": "They have been creating scoring opportunities but struggling with accuracy in their finishing, missing the target on multiple occasions."
+                }
+            ]
+        },
+        {
+            "query": "Goal! Lionel Messi puts the ball on a plate for Neymar (Barcelona), who scores with a simple close-range finish. It's 3:0.",
+            "game_time": "48:05",
+            "short-term": "Goal! Lionel Messi puts the ball on a plate for Neymar (Barcelona), who scores with a simple close-range finish. Barcelona extends their lead with another well-executed attack.",
+            "query_ano": "Goal! [PLAYER] puts the ball on a plate for [PLAYER] ([TEAM]), who scores with a simple close-range finish. It's 3:0.",
+            "history": [
+                {
+                    "short-term": "Goal! Dani Alves slips it to Lionel Messi (Barcelona) on the edge of the box and he finds the right side of the net with a great effort. Despite the goalkeeper’s quick reaction, the ball had too much pace to be stopped.",
+                    "history_time": "31:47",
+                    "long-term": "They have been clinical in their attacking plays, with back-to-back goals showcasing their offensive prowess and smooth execution."
+                }
+            ]
+        }
+    ]
+}

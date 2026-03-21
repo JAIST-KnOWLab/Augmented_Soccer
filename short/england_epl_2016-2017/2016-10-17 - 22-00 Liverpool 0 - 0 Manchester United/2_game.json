@@ -1,0 +1,200 @@
+{
+    "annotations": [
+        {
+            "game_time": "11:10",
+            "query": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. A free kick to Liverpool.",
+            "short-term": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. The midfielder was visibly frustrated, feeling he had pulled out of the challenge, but the decision stood.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down. A free kick to [TEAM]."
+        },
+        {
+            "game_time": "11:40",
+            "query": "The free kick from Philippe Coutinho (Liverpool) failed to provide any scoring opportunity, as one of the defenders did a good job and knocked it out.",
+            "short-term": "The free kick from Philippe Coutinho (Liverpool) failed to provide any scoring opportunity, as one of the defenders did a good job and knocked it out. It was a bit too far out for his liking, and similar to an earlier attempt from an opposition player that was also wasted.",
+            "label": "free-kick",
+            "query_ano": "The free kick from [PLAYER] ([TEAM]) failed to provide any scoring opportunity, as one of the defenders did a good job and knocked it out."
+        },
+        {
+            "game_time": "13:08",
+            "query": "David de Gea pulls off a great save to deny Emre Can (Liverpool), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner.",
+            "short-term": "David de Gea pulls off a great save to deny Emre Can (Liverpool), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner. The keeper reacted quickly, getting down to make the stop and keeping the score level.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner."
+        },
+        {
+            "game_time": "15:42",
+            "query": "Zlatan Ibrahimovic (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Zlatan Ibrahimovic (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The defender stepped in well to halt the attack, and possession changed hands.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "game_time": "16:37",
+            "query": "Adam Lallana (Liverpool) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post.",
+            "short-term": "Adam Lallana (Liverpool) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post. Despite the miss, his movement added energy to the attack.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post."
+        },
+        {
+            "game_time": "17:30",
+            "query": "Anthony Taylor blows his whistle as Philippe Coutinho (Liverpool) used excessive force in the tackle during an attack.",
+            "short-term": "Anthony Taylor blows his whistle as Philippe Coutinho (Liverpool) used excessive force in the tackle during an attack. He initially lost possession but quickly won it back, only for the referee to penalize him. The team’s pressing style was evident in the challenge.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows his whistle as [PLAYER] ([TEAM]) used excessive force in the tackle during an attack."
+        },
+        {
+            "game_time": "20:37",
+            "query": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The ball goes out for a corner. Liverpool can continue in their attacking effort.",
+            "short-term": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The deflection takes it out for a corner, allowing them to maintain attacking pressure.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) and [PLAYER] attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "game_time": "25:50",
+            "query": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. David de Gea pulls off a decent save to stop the effort going into the top right corner. The referee points to the corner flag and Liverpool will take a corner.",
+            "short-term": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. The effort was well-struck and heading toward the top right corner, but the keeper reacted quickly, diving to his left to push it away for a corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a shot from 28 metres out. [PLAYER] pulls off a decent save to stop the effort going into the top right corner. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "game_time": "26:27",
+            "query": "James Milner (Liverpool) is having a really tough time right now. We are about to find out how serious his injury is.",
+            "short-term": "James Milner is having a tough time, lying face down and not moving, indicating the seriousness of the situation. Another player is also down with cramps, while Milner appears to have suffered a head injury. The medical team rushes in to assess him.",
+            "label": "injury",
+            "query_ano": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "game_time": "26:13",
+            "query": "Philippe Coutinho (Liverpool) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "short-term": "Philippe Coutinho delivers a corner kick, but the defense reacts well, with a player rising highest to head the ball away and clear the danger.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "game_time": "27:43",
+            "query": "James Milner (Liverpool) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+            "short-term": "James Milner suffered a minor knock but has received treatment and is back on the pitch, avoiding any serious injury.",
+            "label": "injury",
+            "query_ano": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "game_time": "28:33",
+            "query": "Roberto Firmino (Liverpool) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "short-term": "Roberto Firmino lifts a cross into the box, looking for a teammate, but a defender steps in and clears the danger effectively.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "game_time": "30:32",
+            "query": "Philippe Coutinho (Liverpool) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "short-term": "Philippe Coutinho receives a pass at the edge of the box and looks to strike, but a well-positioned defender steps in to block his effort.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "game_time": "32:35",
+            "query": "The defence had a hard time blocking out the strike from Nathaniel Clyne (Liverpool). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",
+            "short-term": "Nathaniel Clyne quickly takes a shot from outside the box after receiving a pass, but the defense struggles before managing to get a crucial block in.",
+            "label": "shoot",
+            "query_ano": "The defence had a hard time blocking out the strike from [PLAYER] ([TEAM]). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "game_time": "35:17",
+            "query": "Antonio Valencia (Manchester United) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Manchester Utd force their opponents to concede a corner.",
+            "short-term": "Antonio Valencia delivers a dangerous cross into the box, but the defense reacts well, clearing the ball out for a corner as they remain under pressure.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Manchester Utd force their opponents to concede a corner."
+        },
+        {
+            "game_time": "35:48",
+            "query": "Marouane Fellaini (Manchester United) connects with the corner kick around the penalty spot, but steers his header just wide of the right post.",
+            "short-term": "Marouane Fellaini gets on the end of a corner near the penalty spot but fails to direct his header on target, sending it wide of the right post.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) connects with the corner kick around the penalty spot, but steers his header just wide of the right post."
+        },
+        {
+            "game_time": "38:10",
+            "query": "Roberto Firmino nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from Philippe Coutinho (Liverpool), but one of the defenders makes a clearance to snuff out the chance.",
+            "short-term": "Roberto Firmino almost breaks free for a one-on-one after a clever through ball, but a defender makes a brilliant last-ditch tackle to deny him.",
+            "label": "goal",
+            "query_ano": "[PLAYER] nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from [PLAYER] ([TEAM]), but one of the defenders makes a clearance to snuff out the chance."
+        },
+        {
+            "game_time": "37:41",
+            "query": "Nathaniel Clyne (Liverpool) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "short-term": "Nathaniel Clyne receives a well-placed pass near the box and fires a shot, but a defender is positioned well to block the attempt.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "game_time": "39:49",
+            "query": "Substitution. Roberto Firmino will be replaced by Divock Origi (Liverpool).",
+            "short-term": "Substitution: Roberto Firmino makes way for Divock Origi, who offers a different attacking presence in the final minutes.",
+            "label": "substitution",
+            "query_ano": "Substitution. [PLAYER] will be replaced by Divock Origi ([TEAM])."
+        },
+        {
+            "game_time": "3:40",
+            "query": "Zlatan Ibrahimovic (Manchester United) is caught offside by the linesman and it looks like it is the right decision despite being a very close call.",
+            "short-term": "Zlatan Ibrahimovic is caught offside by the linesman and it looks like it is the right decision despite being a very close call.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "game_time": "44:21",
+            "query": "Zlatan Ibrahimovic (Manchester United) is booked after bringing down an opponent. Anthony Taylor had an easy-decision to make.",
+            "short-term": "Zlatan Ibrahimovic is booked after bringing down an opponent. He had played the ball forward just before committing the foul, making it an easy decision for the referee.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make."
+        },
+        {
+            "game_time": "45:46",
+            "query": "Marouane Fellaini (Manchester United) gets booked for the first time in this match.",
+            "short-term": "Marouane Fellaini gets booked for the first time in this match. He had kicked the ball away in frustration, leading to the yellow card.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) gets booked for the first time in this match."
+        },
+        {
+            "game_time": "46:13",
+            "query": "Here's the change. Ashley Young leaves the pitch and Luke Shaw (Manchester United) comes on as a substitute.",
+            "short-term": "Here's the change. Ashley Young leaves the pitch and Luke Shaw comes on as a substitute, providing fresh legs for the remainder of the match.",
+            "label": "substitution",
+            "query_ano": "Here's the change. [PLAYER] leaves the pitch and Luke Shaw ([TEAM]) comes on as a substitute."
+        },
+        {
+            "game_time": "4:44",
+            "query": "Daniel Sturridge (Liverpool) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "short-term": "Daniel Sturridge nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. He had tried to link up with a forward making a run, but the ball was slightly off target.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "game_time": "5:21",
+            "query": "Sadio Mane (Liverpool) commits a foul and Anthony Taylor immediately signals a free kick.",
+            "short-term": "Sadio Mane commits a foul and Anthony Taylor immediately signals a free kick. The opposition had several players back, crowding the space before the foul occurred.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "game_time": "6:49",
+            "query": "Ander Herrera (Manchester United) fails to pick a body out in the box with an over-hit chip pass.",
+            "short-term": "Ander Herrera fails to pick a body out in the box with an over-hit chip pass. The ball floated too far, making it an easy clearance for the opposition.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "game_time": "8:02",
+            "query": "Marouane Fellaini (Manchester United) makes a bad challenge and the referee blows his whistle for a foul.",
+            "short-term": "Marouane Fellaini makes a bad challenge and the referee blows his whistle for a foul. He had been trying to stop an advancing opponent but mistimed his tackle.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "game_time": "9:00",
+            "query": "Zlatan Ibrahimovic (Manchester United) meets a cross from Paul Pogba, but he cannot keep his header on target. It goes well wide of the right post.",
+            "short-term": "Zlatan Ibrahimovic meets a cross from Paul Pogba, but he cannot keep his header on target. He attempted to guide it toward the far post but misjudged the contact, sending it wide.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) meets a cross from [PLAYER], but he cannot keep his header on target. It goes well wide of the right post."
+        }
+    ]
+}

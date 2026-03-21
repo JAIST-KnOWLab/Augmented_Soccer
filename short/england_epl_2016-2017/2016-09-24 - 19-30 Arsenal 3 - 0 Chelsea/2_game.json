@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "game_time": "0:40",
+            "query": "Alex Iwobi (Arsenal) is caught offside!",
+            "short-term": "Alex Iwobi (Arsenal) is caught offside! They have been looking to continue their attacking rhythm from the first half, but he mistimed his run.",
+            "query_ano": "Alex Iwobi ([TEAM]) is caught offside!"
+        },
+        {
+            "game_time": "8:48",
+            "query": "The linesman raises his flag as one of the players from Chelsea was in an offside position.",
+            "short-term": "The linesman raises his flag as one of the players from Chelsea was in an offside position. It was Eden Hazard who strayed too early, stopping their attacking move.",
+            "query_ano": "The linesman raises his flag as one of the players from [TEAM] was in an offside position."
+        },
+        {
+            "game_time": "12:01",
+            "query": "Santi Cazorla (Arsenal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "short-term": "Santi Cazorla (Arsenal) takes the corner but fails to find any of his teammates. The ball was cleared away before they could make contact.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "game_time": "15:05",
+            "query": "Petr Cech doesn't have to worry about that one. Cesar Azpilicueta puts a cross in towards Diego Costa (Chelsea), who is unable to keep his header on target from the centre of the box. He sends the ball well wide of the left post.",
+            "short-term": "Petr Cech doesn't have to worry about that one. Cesar Azpilicueta puts a cross in towards Diego Costa (Chelsea), who is unable to keep his header on target from the centre of the box. He had to adjust his position awkwardly, and his header floated well wide of the left post.",
+            "query_ano": "[PLAYER] doesn't have to worry about that one. [PLAYER] puts a cross in towards [PLAYER] ([TEAM]), who is unable to keep his header on target from the centre of the box. He sends the ball well wide of the left post."
+        },
+        {
+            "game_time": "18:40",
+            "query": "The Chelsea players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The Chelsea players keep the ball and are exchanging a combination of passes. Arsenal, however, have dropped deep, forming a compact defensive line, making it difficult for Chelsea to find a breakthrough.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "game_time": "23:05",
+            "query": "What a sweet touch by Theo Walcott (Arsenal) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for Thibaut Courtois to hold. Arsenal have been awarded a corner kick.",
+            "short-term": "What a sweet touch by Theo Walcott (Arsenal) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for Thibaut Courtois to hold. The Chelsea defense had momentarily switched off, allowing him to get his shot away before keeper comfortably gathered it.",
+            "query_ano": "What a sweet touch by [PLAYER] ([TEAM]) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for [PLAYER] to hold. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "game_time": "32:54",
+            "query": "Arsene Wenger has decided to substitute Alexis Sanchez and he is replaced by Olivier Giroud (Arsenal).",
+            "short-term": "Arsene Wenger has decided to substitute Alexis Sanchez and he is replaced by Olivier Giroud (Arsenal). Giroud is given the last 12 minutes of the match as Arsenal look to see out their lead.",
+            "query_ano": "[COACH] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "36:05",
+            "query": "Pedro (Chelsea) takes the free kick but it is cleared by the first defender.",
+            "short-term": "Pedro (Chelsea) takes the free kick but it is cleared by the first defender. Granit Xhaka rose highest to meet the ball with a firm defensive header, preventing Chelsea from creating a goal-scoring chance.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "game_time": "37:32",
+            "query": "Diego Costa (Chelsea) was probably a bit loose with his words to Michael Oliver, who decides to show him a yellow.",
+            "short-term": "Diego Costa (Chelsea) was probably a bit loose with his words to Michael Oliver, who decides to show him a yellow. There was a slight foul after the ball had gone, and Costa’s reaction earned him the booking.",
+            "query_ano": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow."
+        },
+        {
+            "game_time": "38:13",
+            "query": "Petr Cech is a nightmare for the offensive players! Michy Batshuayi (Chelsea) meets a cross on the edge of the penalty area, takes a good first touch and fires a rocket of a shot towards the bottom left corner, but the goalkeeper produces a wonderful save. The linesman makes the right call and Chelsea will have a corner.",
+            "short-term": "Petr Cech is a nightmare for the offensive players! Michy Batshuayi (Chelsea) meets a cross on the edge of the penalty area, takes a good first touch and fires a rocket of a shot towards the bottom left corner, but the goalkeeper produces a wonderful save. He looked disappointed not to convert after a brilliant pass.",
+            "query_ano": "[PLAYER] is a nightmare for the offensive players! [PLAYER] ([TEAM]) meets a cross on the edge of the penalty area, takes a good first touch and fires a rocket of a shot towards the bottom left corner, but the goalkeeper produces a wonderful save. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "game_time": "39:20",
+            "query": "Close! Olivier Giroud (Arsenal) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post.",
+            "short-term": "Close! Olivier Giroud (Arsenal) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post. He holds his head in frustration, knowing he had a great chance to extend Arsenal’s lead.",
+            "query_ano": "Close! [PLAYER] ([TEAM]) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post."
+        },
+        {
+            "game_time": "38:49",
+            "query": "Pedro (Chelsea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",
+            "short-term": "Pedro (Chelsea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat. He rises highest to meet it, heading clear before any Chelsea attacker could pounce.",
+            "query_ano": "[PLAYER] ([TEAM]) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "game_time": "40:25",
+            "query": "Pedro (Chelsea) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",
+            "short-term": "Pedro (Chelsea) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar. He had worked the opening well, but his finish lacked composure.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "game_time": "7:20",
+            "query": "Theo Walcott (Arsenal) fails to pick a body out in the box with an over-hit chip pass.",
+            "short-term": "Theo Walcott (Arsenal) fails to pick a body out in the box with an over-hit chip pass. He had space to combine with his teammate but seemed caught between passing and shooting, leading to a wasted opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "game_time": "8:53",
+            "query": "It is time for a substitution. Marcos Alonso (Chelsea) is on for Cesc Fabregas.",
+            "short-term": "It is time for a substitution. Marcos Alonso (Chelsea) is on for Cesc Fabregas. He had struggled to make an impact, and this marks an unhappy return to the this staduim for him.",
+            "query_ano": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:59",
+            "game_time": "45:59",
+            "query": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The tactic of the home side is slow build-up play, while the away team's main priority is a flawless defence.",
+            "short-term": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The tactic of the home side is slow build-up play, while the away team's main priority is a flawless defence.",
+            "query_ano": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The tactic of the home side is slow build-up play, while the away team's main priority is a flawless defence."
+        },
+        {
+            "gameTime": "44:32",
+            "game_time": "44:32",
+            "query": "Angel Di Maria (Paris SG) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "short-term": "Angel Di Maria takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The delivery aimed towards the near post was slightly under-hit, making it easier for the defender to head it away. PSG players show frustration as they struggle to capitalize on their corner of the match.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "44:21",
+            "game_time": "44:21",
+            "query": "The ball goes behind for a corner. Paris SG will have an opportunity to threaten the opposition's goal. Gregory van der Wiel (Paris SG) sends a teasing cross into the area, but Johan Wiland intercepts the ball.",
+            "short-term": "The ball goes behind for a corner. Paris SG will have an opportunity to threaten the opposition's goal. Gregory van der Wiel sends a teasing cross into the area, but Johan Wiland intercepts the ball. The goalkeeper anticipated the delivery well, stepping off his line to claim the cross confidently, neutralizing PSG’s attack.",
+            "query_ano": "The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal. [PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "41:22",
+            "game_time": "41:22",
+            "query": "The free kick from a promising distance is taken by Zlatan Ibrahimovic (Paris SG), who fires in a direct effort inches over the crossbar. What a chance!",
+            "short-term": "The free kick from a promising distance is taken by Zlatan Ibrahimovic, who fires in a direct effort inches over the crossbar. What a chance! The ball had enough dip but just couldn’t come down in time. Keeper stood motionless, relieved as the ball sailed narrowly over the bar.",
+            "query_ano": "The free kick from a promising distance is taken by [PLAYER] ([TEAM]), who fires in a direct effort inches over the crossbar. What a chance!"
+        },
+        {
+            "gameTime": "40:29",
+            "game_time": "40:29",
+            "query": "Kari Arnason (Malmo FF) pulls the shirt of his opponent and the referee stops play for a foul. Paris SG are awarded a free kick from a dangerous position.",
+            "short-term": "Kari Arnason pulls the shirt of his opponent and the referee stops play for a foul. Paris SG are awarded a free kick from a dangerous position. The defender got caught as he struggled to keep up with Cavani, leading to a blatant tug on the jersey just outside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul. [TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "39:43",
+            "game_time": "39:43",
+            "query": "David Luiz (Paris SG) is penalised after knocking an opponent down.",
+            "short-term": "David Luiz is penalised after knocking an opponent down. He stepped in aggressively to challenge for the ball but mistimed it, clattering into the forward. The referee had no hesitation in awarding the free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "38:20",
+            "game_time": "38:20",
+            "query": "Thiago Motta (Paris SG) jumps into a tackle and Sergey Karasev blows his whistle for a foul.",
+            "short-term": "Thiago Motta jumps into a tackle and Sergey Karasev blows his whistle for a foul. He gestures in frustration, arguing his case.",
+            "query_ano": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "36:54",
+            "game_time": "36:54",
+            "query": "Angel Di Maria (Paris SG) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "short-term": "Angel Di Maria attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The delivery was aimed towards Cavani, but the defender positioned himself well, stretching to make an important clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention."
+        },
+        {
+            "gameTime": "36:12",
+            "game_time": "36:12",
+            "query": "Kari Arnason gives away a foul for a clumsy challenge. Referee saw the whole situation.",
+            "short-term": "Kari Arnason gives away a foul for a clumsy challenge. Referee  saw the whole situation. The Malmo defender was a fraction late, clipping the legs of his opponent, who went down immediately.",
+            "query_ano": "[PLAYER] gives away a foul for a clumsy challenge. Referee saw the whole situation."
+        },
+        {
+            "gameTime": "35:09",
+            "game_time": "35:09",
+            "query": "Angel Di Maria (Paris SG) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Angel Di Maria overhits the corner kick, sending it beyond the far post where no PSG player can make contact. The ball drifts out harmlessly, wasting an attacking opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Angel Di Maria (Paris SG) tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner.",
+            "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] earn a corner."
+        },
+        {
+            "gameTime": "34:26",
+            "game_time": "34:26",
+            "query": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence.",
+            "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Maxwell (Paris SG) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG.",
+            "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "33:34",
+            "game_time": "33:34",
+            "query": "Wasted opportunity. Nikola Djurdjic gets to the rebound inside the box and smashes the ball just wide of the right post.",
+            "short-term": "Wasted opportunity. Nikola Djurdjic reacts quickly to a loose ball inside the box, striking it first-time, but his effort flashes just wide of the right post, letting PSG off the hook.",
+            "query_ano": "Wasted opportunity. [PLAYER] gets to the rebound inside the box and smashes the ball just wide of the right post."
+        },
+        {
+            "gameTime": "32:44",
+            "game_time": "32:44",
+            "query": "What a chance that is! Angel Di Maria (Paris SG) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post."
+        },
+        {
+            "gameTime": "31:17",
+            "game_time": "31:17",
+            "query": "Blaise Matuidi (Paris SG) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger. The clearance was well-timed, preventing any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "29:52",
+            "game_time": "29:52",
+            "query": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders. The delivery lacked precision, allowing the opposition to clear comfortably.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "29:30",
+            "game_time": "29:30",
+            "query": "Marco Verratti (Paris SG) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Paris SG win a corner.",
+            "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. [TEAM] win a corner."
+        },
+        {
+            "gameTime": "35:09",
+            "game_time": "35:09",
+            "query": "Angel Di Maria (Paris SG) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Angel Di Maria overhits the corner kick and none of his teammates can get their head on it. The ball sails past the far post and drifts harmlessly out of play.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Angel Di Maria (Paris SG) tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner.",
+            "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] earn a corner."
+        },
+        {
+            "gameTime": "34:26",
+            "game_time": "34:26",
+            "query": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence.",
+            "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Maxwell (Paris SG) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG.",
+            "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "33:34",
+            "game_time": "33:34",
+            "query": "Wasted opportunity. Nikola Djurdjic (Malmo FF) gets to the rebound inside the box and smashes the ball just wide of the right post.",
+            "short-term": "Wasted opportunity. Nikola Djurdjic gets to the rebound inside the box and smashes the ball just wide of the right post. The forward puts his hands on his head in frustration as he realizes how close he came to pulling one back.",
+            "query_ano": "Wasted opportunity. [PLAYER] ([TEAM]) gets to the rebound inside the box and smashes the ball just wide of the right post."
+        },
+        {
+            "gameTime": "32:44",
+            "game_time": "32:44",
+            "query": "What a chance that is! Angel Di Maria (Paris SG) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post."
+        },
+        {
+            "gameTime": "31:17",
+            "game_time": "31:17",
+            "query": "Blaise Matuidi (Paris SG) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "29:52",
+            "game_time": "29:52",
+            "query": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "19:54",
+            "game_time": "19:54",
+            "query": "Zlatan Ibrahimovic (Paris SG) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "short-term": "Zlatan Ibrahimovic makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. Di Maria’s cross found him well, but he couldn’t generate enough force. The goalkeeper reacted quickly, diving low to stop the weak shot before gathering it safely.",
+            "query_ano": "[PLAYER] ([TEAM]) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out."
+        },
+        {
+            "gameTime": "18:56",
+            "game_time": "18:56",
+            "query": "Zlatan Ibrahimovic (Paris SG) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "short-term": "Zlatan Ibrahimovic pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. He rushed the shot, leaning back slightly, which sent the ball soaring well over the target. Frustrated, he turns away, knowing that was a big chance wasted.",
+            "query_ano": "[PLAYER] ([TEAM]) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar."
+        },
+        {
+            "gameTime": "17:39",
+            "game_time": "17:39",
+            "query": "The flag is raised by the referee's assistant. Zlatan Ibrahimovic (Paris SG) is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position.",
+            "short-term": "The flag is raised by the referee's assistant. Zlatan Ibrahimovic is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position. He gestures in frustration, feeling that the timing of his run was perfect.",
+            "query_ano": "The flag is raised by the referee's assistant. [PLAYER] ([TEAM]) is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position."
+        },
+        {
+            "gameTime": "16:56",
+            "game_time": "16:56",
+            "query": "Jo Inge Berget (Malmo FF) slides a pass forward, but one of the defenders cuts it out.",
+            "short-term": "Jo Inge Berget slides a pass forward, but one of the defenders cuts it out. The Malmo player was looking for a through ball, but the PSG backline was well-positioned, with David Luiz stepping in to intercept just before the attacker could latch onto it.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "15:59",
+            "game_time": "15:59",
+            "query": "This was a piece of cake for Johan Wiland. Zlatan Ibrahimovic (Paris SG) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper.",
+            "short-term": "This was a piece of cake for Johan Wiland. Zlatan Ibrahimovic found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper. The goalkeeper barely had to move, comfortably collecting the ball as Ibrahimovic’s shot lacked placement and power.",
+            "query_ano": "This was a piece of cake for [PLAYER]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper."
+        },
+        {
+            "gameTime": "14:28",
+            "game_time": "14:28",
+            "query": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic (Paris SG), whose header floated just over the bar.",
+            "short-term": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic, whose header floated just over the bar. The ball was delivered perfectly onto his head, but he couldn't keep it down. The Swedish striker looked frustrated, knowing he had a golden opportunity to score.",
+            "query_ano": "What a wasted chance that is! A precise cross into the box found [PLAYER] ([TEAM]), whose header floated just over the bar."
+        },
+        {
+            "gameTime": "13:30",
+            "game_time": "13:30",
+            "query": "Gregory van der Wiel (Paris SG) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "short-term": "Gregory van der Wiel performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Van der Wiel misjudged his challenge, arriving slightly late after pushing the ball too far forward.",
+            "query_ano": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "12:54",
+            "game_time": "12:54",
+            "query": "Nikola Djurdjic (Malmo FF) makes a slide tackle, but referee Sergey Karasev blows for a foul.",
+            "short-term": "Nikola Djurdjic makes a slide tackle, but referee Sergey Karasev blows for a foul. Djurdjic was eager to win the ball but mistimed his challenge, clipping the PSG player’s ankles.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul."
+        },
+        {
+            "gameTime": "12:10",
+            "game_time": "12:10",
+            "query": "Zlatan Ibrahimovic (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "short-term": "Zlatan Ibrahimovic finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The striker had made a sharp movement to get behind the defense, but he mistimed his run by just a fraction.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "10:29",
+            "game_time": "10:29",
+            "query": "David Luiz (Paris SG) sends a long ball in, but Johan Wiland comfortably gathers the ball.",
+            "short-term": "David Luiz sends a long ball in, but Johan Wiland comfortably gathers the ball. The Brazilian defender attempted a lofted pass over the defense, aiming for Matuidi’s run. However, the ball carried too much weight.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        }
+    ]
+}

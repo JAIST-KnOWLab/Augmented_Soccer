@@ -1,0 +1,151 @@
+{
+    "annotations": [
+        {
+            "gameTime": "49:59",
+            "game_time": "49:59",
+            "query": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The hosts were largely in control of the game today. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority.",
+            "short-term": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The home team maintained possession, but the away side focused on solid defensive structure.",
+            "query_ano": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The hosts were largely in control of the game today. The home team made a lot of passes and attempted to maintain possession, while the away side made defence their highest priority."
+        },
+        {
+            "gameTime": "43:32",
+            "game_time": "43:32",
+            "query": "Alvaro Negredo (Middlesbrough) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Alvaro Negredo (Middlesbrough) races towards goal but the defender gets back well to make a challenge. He attempted to beat Laurent Koscielny with a deceptive move, but the experienced defender stood his ground.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "40:37",
+            "game_time": "40:37",
+            "query": "Adam Forshaw (Middlesbrough) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post.",
+            "short-term": "Adam Forshaw (Middlesbrough) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His shot was completely off target, disappointing the fans.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post."
+        },
+        {
+            "gameTime": "39:59",
+            "game_time": "39:59",
+            "query": "Here is a change. Gaston Ramirez is going off and Aitor Karanka de la Hoz gives the last tactical orders to Stewart Downing (Middlesbrough).",
+            "short-term": "Here is a change. Gaston Ramirez is going off and Aitor Karanka de la Hoz gives the last tactical orders to Stewart Downing (Middlesbrough). The coach is making final adjustments, hoping to impact the closing minutes of the game.",
+            "query_ano": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to Stewart Downing ([TEAM])."
+        },
+        {
+            "gameTime": "34:27",
+            "game_time": "34:27",
+            "query": "Mesut Ozil (Arsenal) sends a cross into the box, but Victor Valdes comes off his line to gather the ball.",
+            "short-term": "Mesut Ozil (Arsenal) sends a cross into the box, but Victor Valdes comes off his line to gather the ball. The cross is too close to the goalkeeper, who make a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but Victor Valdes comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "28:51",
+            "game_time": "28:51",
+            "query": "The referee stops play so that a substitution can be made and Mohamed Elneny leaves the pitch and Alex Oxlade-Chamberlain (Arsenal) comes on.",
+            "short-term": "The referee stops play so that a substitution can be made and Mohamed Elneny leaves the pitch and Alex Oxlade-Chamberlain (Arsenal) comes on. They are looking to inject more attacking energy in the support zone, as Middlesbrough has been disrupting their midfield.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "gameTime": "27:41",
+            "game_time": "27:41",
+            "query": "Gaston Ramirez (Middlesbrough) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+            "short-term": "Gaston Ramirez (Middlesbrough) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is go out for the side.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "25:59",
+            "game_time": "25:59",
+            "query": "Mesut Ozil (Arsenal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "short-term": "Mesut Ozil (Arsenal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. They remain well-organized defensively, limiting opponent's attacking threats.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "21:59",
+            "game_time": "21:59",
+            "query": "Substitution. Alex Iwobi walks off the pitch and Lucas Perez (Arsenal) comes on as a substitute.",
+            "short-term": "Substitution. Alex Iwobi walks off the pitch and Lucas Perez (Arsenal) comes on as a substitute.",
+            "query_ano": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+        },
+        {
+            "gameTime": "21:09",
+            "game_time": "21:09",
+            "query": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him.",
+            "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him. The chance came after Walcott was waiting for an opportunity to strike but was dispossessed.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him."
+        },
+        {
+            "gameTime": "18:59",
+            "game_time": "18:59",
+            "query": "Michael Dean shows the yellow card to Shkodran Mustafi (Arsenal) for a heavy challenge.",
+            "short-term": "Michael Dean shows the yellow card to Shkodran Mustafi (Arsenal) for a heavy challenge. He lunged into the striker and appeared to slip slightly, making the tackle look more reckless.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "gameTime": "16:49",
+            "game_time": "16:49",
+            "query": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "short-term": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety. Their defense held firm and stronger, who fearless on the goal line.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "13:39",
+            "game_time": "13:39",
+            "query": "Middlesbrough force their opponents to concede a corner.",
+            "short-term": "Middlesbrough force their opponents to concede a corner. The ball was contested heavily, and Sanchez was closely marked, limiting his movement.",
+            "query_ano": "[TEAM] force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "13:11",
+            "game_time": "13:11",
+            "query": "Benjamin Gibson (Middlesbrough) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the left side of the target as Petr Cech produces a good save.",
+            "short-term": "Benjamin Gibson (Middlesbrough) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the left side of the target as Petr Cech produces a good save. Arsenal's defense was momentarily exposed, allowing Gibson a rare chance.",
+            "query_ano": "[PLAYER] ([TEAM]) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the left side of the target as Petr Cech produces a good save."
+        },
+        {
+            "gameTime": "11:12",
+            "game_time": "11:12",
+            "query": "Adam Forshaw (Middlesbrough) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Adam Forshaw (Middlesbrough) overhits the corner kick and none of his teammates can their head on it. The ball sails past everyone and is cleared, as Bellarin's speed helps secure the defensive position.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "10:56",
+            "game_time": "10:56",
+            "query": "Antonio Barragan (Middlesbrough) serves up a nice cross, but the defence clears the danger. The referee and his assistant both point at the corner flag. ",
+            "short-term": "Antonio Barragan (Middlesbrough) serves up a nice cross, but the defence clears the danger. The referee and his assistant both point at the corner flag. Middlesbrough will have an opportunity to threaten the opposition's goal. The defender struggled to contain Traoré, who was aggressive on the wing.",
+            "query_ano": "[PLAYER] ([TEAM]) serves up a nice cross, but the defence clears the danger. The referee and his assistant both point at the corner flag. "
+        },
+        {
+            "gameTime": "08:59",
+            "game_time": "8:59",
+            "query": "Mesut Ozil (Arsenal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",
+            "short-term": "Mesut Ozil (Arsenal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick. The goalkeeper, who appeared to be in some discomfort earlier, will have to be alert.",
+            "query_ano": "[PLAYER] ([TEAM]) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "08:30",
+            "game_time": "8:30",
+            "query": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick.",
+            "short-term": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick. It wasn’t so easy for goalkeeper to make this impressive, spectacular jump",
+            "query_ano": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "07:02",
+            "game_time": "7:02",
+            "query": "Alexis Sanchez (Arsenal) sends the resulting free kick a whisker wide of the left post!",
+            "short-term": "Alexis Sanchez (Arsenal) sends the resulting free kick a whisker wide of the left post! He struck with power, but goalkeeper seemed to have it covered.",
+            "query_ano": "[PLAYER] ([TEAM]) sends the resulting free kick a whisker wide of the left post!"
+        },
+        {
+            "gameTime": "05:29",
+            "game_time": "5:29",
+            "query": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "short-term": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box. One of the defender pulled out his leg, preventing a dangerous situation.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "gameTime": "03:16",
+            "game_time": "3:16",
+            "query": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass.",
+            "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. Middlesbrough defenders crowded the area, making it difficult for them to find space.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        }
+    ]
+}

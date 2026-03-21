@@ -1,0 +1,360 @@
+{
+    "annotations": [
+        {
+            "gameTime": "41:50",
+            "game_time": "41:50",
+            "query": "Laurent Koscielny (Arsenal) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort.",
+            "short-term": "Laurent Koscielny (Arsenal) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort. Unsuccessfully.",
+            "query_ano": "[PLAYER] ([TEAM]) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) wastes a huge opportunity to score from the penalty spot. He goes for the bottom left corner, but Eldin Jakupovic anticipates it well and makes a brilliant stop. Very unfortunate.",
+                    "history_time": "40:58",
+                    "long-term": "They have been creating quality scoring chances but struggling to capitalize on them, with the opposition goalkeeper making key saves to deny them."
+                },
+                {
+                    "short-term": "The players claim that Jake Livermore (Hull City) handled the ball inside the box and it seems they are right.  It's a penalty for Arsenal! The referee shows red cardwithout hesitation.",
+                    "history_time": "39:25",
+                    "long-term": "They have been posing a significant threat in the opponent's box, creating scoring opportunities through set pieces and intense pressure."
+                },
+                {
+                    "short-term": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save! The goalkeeper chose his position well.",
+                    "history_time": "35:17",
+                    "long-term": "Both teams have created clear-cut chances, but outstanding goalkeeping has prevented them from capitalizing on these opportunities."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+                    "history_time": "18:40",
+                    "long-term": "They have been consistently posing threats from set pieces, forcing the opposition's defense to make crucial blocks and clearances."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:58",
+            "game_time": "40:58",
+            "query": "Alexis Sanchez (Arsenal) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the bottom left corner, but Eldin Jakupovic pulls off a superb save.",
+            "short-term": "Alexis Sanchez (Arsenal) wastes a huge opportunity to score from the penalty spot. He goes for the bottom left corner, but Eldin Jakupovic anticipates it well and makes a brilliant stop. Very unfortunate.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the bottom left corner, but Eldin Jakupovic pulls off a superb save.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) steps up to take the penalty. He appears focused, readying himself for the strike.",
+                    "history_time": "40:52",
+                    "long-term": "He has had significant chances to score but hasn't been able to capitalize on them, notably missing a crucial penalty."
+                },
+                {
+                    "short-term": "The players claim that Jake Livermore (Hull City) handled the ball inside the box and it seems they are right.  It's a penalty for Arsenal! The referee shows red cardwithout hesitation.",
+                    "history_time": "39:25",
+                    "long-term": "They have been presented with a crucial chance to score but have failed to capitalize, with the player missing a penalty, while the opposing team's defense has shown composure under pressure."
+                },
+                {
+                    "short-term": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save! The goalkeeper chose his position well.",
+                    "history_time": "35:17",
+                    "long-term": "Both teams have had significant scoring opportunities but were thwarted by exceptional goalkeeping, leaving the game tightly poised."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save! The goalkeeper positioned himself perfectly and reacted in time.",
+                    "history_time": "23:08",
+                    "long-term": "They have been struggling to capitalize on crucial scoring opportunities, with the opposing goalkeeper consistently making key saves."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "He has been struggling with his finishing, missing two significant scoring opportunities, one from the penalty spot and another from inside the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:17",
+            "game_time": "35:17",
+            "query": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save!",
+            "short-term": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save! The goalkeeper chose his position well.",
+            "query_ano": "[PLAYER] ([TEAM]) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save!",
+            "history": [
+                {
+                    "short-term": "Half-chance! Adama Diomande (Hull City) plays a pass into the box, but Petr Cech reacts well to snuff out the attack. Cech anticipated the play and stepped out early to collect the ball.",
+                    "history_time": "24:16",
+                    "long-term": "They had several clear chances to score in the last few minutes, but the opposing goalkeeper's outstanding reflexes have prevented them from capitalizing on these chances."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save! The goalkeeper positioned himself perfectly and reacted in time.",
+                    "history_time": "23:08",
+                    "long-term": "Both teams have had clear-cut chances with exceptional saves from the goalkeepers being the highlight."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:16",
+            "game_time": "24:16",
+            "query": "Half-chance! Adama Diomande (Hull City) plays a pass into the box, but Petr Cech reacts well to snuff out the attack.",
+            "short-term": "Half-chance! Adama Diomande (Hull City) plays a pass into the box, but Petr Cech reacts well to snuff out the attack. Cech anticipated the play and stepped out early to collect the ball.",
+            "query_ano": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but Petr Cech reacts well to snuff out the attack.",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save! The goalkeeper positioned himself perfectly and reacted in time.",
+                    "history_time": "23:08",
+                    "long-term": "Both goalkeepers have been sharp and proactive, reading the game well to deny their opponents clear-cut scoring chances."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The defender rose highest and cleared the ball safely.",
+                    "history_time": "20:58",
+                    "long-term": "Both teams have been creating opportunities, but the goalkeepers and defenders have been doing well to neutralize the threats and prevent any clear scoring chances."
+                },
+                {
+                    "short-term": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post. He attempted a powerful shot after finding space outside the box.",
+                    "history_time": "20:03",
+                    "long-term": "They have been creating opportunities to score but struggling to find the target with their shots."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+                    "history_time": "18:40",
+                    "long-term": "Both teams have shown flashes of creativity in their attacking play, but the defensive units have been alert and made crucial interventions to prevent scoring opportunities."
+                },
+                {
+                    "short-term": "Adama Diomande (Hull City) picks up a long through ball, but Petr Cech deserves praise for a brilliant reaction and interception. The goalkeeper rushed out just in time to claim possession.",
+                    "history_time": "10:15",
+                    "long-term": "They consistently created scoring opportunities, but the opposing goalkeeper thwarted their efforts with impressive reflexes and positioning."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:08",
+            "game_time": "23:08",
+            "query": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save!",
+            "short-term": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save! The goalkeeper positioned himself perfectly and reacted in time.",
+            "query_ano": "[PLAYER] ([TEAM]) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save!",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The defender rose highest and cleared the ball safely.",
+                    "history_time": "20:58",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense and goalkeeper have been doing well to neutralize their attacks."
+                },
+                {
+                    "short-term": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post. He attempted a powerful shot after finding space outside the box.",
+                    "history_time": "20:03",
+                    "long-term": "Both teams have had significant scoring opportunities, but excellent goalkeeping and inaccurate shooting have so far prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+                    "history_time": "18:40",
+                    "long-term": "They have been creating quality scoring chances, but the opposing team's defense and goalkeeper have made crucial interventions to deny them."
+                },
+                {
+                    "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+                    "history_time": "16:09",
+                    "long-term": "They have been posing significant threats to the opponent's goal. After scoring a goal, they continued to create opportunities and this time they almost scored."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:12",
+            "game_time": "22:12",
+            "query": "Robert Snodgrass (Hull City) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. Arsenal have a free kick.",
+            "short-term": "Robert Snodgrass (Hull City) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. Arsenal have a free kick in a dangerous area.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. [TEAM] have a free kick.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick. The play looked promising but was disrupted by a last-second challenge.",
+                    "history_time": "20:52",
+                    "long-term": "They have been committing several fouls in this period. Last time they interrupted their opponent's wonderful cooperation by fouling"
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+                    "history_time": "18:14",
+                    "long-term": "They put a lot of pressure on the opponent through continuous attack during this period, and they surrendered free kicks under continuous attack."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:58",
+            "game_time": "20:58",
+            "query": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "short-term": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The defender rose highest and cleared the ball safely.",
+            "query_ano": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick. The play looked promising but was disrupted by a last-second challenge.",
+                    "history_time": "20:52",
+                    "long-term": "They have been consistently applying pressure through crosses and clever combinations, but the final touch is still missing."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+                    "history_time": "18:14",
+                    "long-term": "They constantly use tricks and long shots to force defenders to make mistakes in an attempt to score another goal."
+                },
+                {
+                    "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+                    "history_time": "16:09",
+                    "long-term": "They also tried to keep pressing the opponent after scoring the goal. This corner kick attack was very effective, but failed to convert it into a second goal."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses into the box."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "They have been consistently aggressive in their set pieces and inside the box, but lack of composure has prevented them from capitalizing on these opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:52",
+            "game_time": "20:52",
+            "query": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick.",
+            "short-term": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick. The play looked promising but was disrupted by a last-second challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+                    "history_time": "18:40",
+                    "long-term": "They have been consistently applying pressure through creative plays and set pieces, but the opposition's defense has managed to neutralize these threats so far."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+                    "history_time": "18:14",
+                    "long-term": "They have been consistently creating scoring opportunities with effective passing combinations, but struggling to overcome the opponent's defensive interventions."
+                },
+                {
+                    "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+                    "history_time": "16:09",
+                    "long-term": "They have been consistently creating scoring opportunities, utilizing their teamwork and movement after the last goal."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "They have been creating scoring opportunities with intricate passing combinations, but have yet to capitalize on these chances due to well-timed interventions from the opposing team."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:03",
+            "game_time": "20:03",
+            "query": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post.",
+            "short-term": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post. He attempted a powerful shot after finding space outside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+                    "history_time": "18:40",
+                    "long-term": "Both teams have been creating scoring opportunities, with the opposition's defence holding strong against set pieces and his long-range effort going wide and "
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "Both teams have been creating scoring opportunities, but neither has been able to capitalize on them, resulting in a stalemate so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:40",
+            "game_time": "18:40",
+            "query": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+                    "history_time": "18:14",
+                    "long-term": "This corner kick comes from a clearance by a defender when they were trying to dribble past a defender in the final third."
+                },
+                {
+                    "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+                    "history_time": "16:09",
+                    "long-term": "After they scored a goal, they continued to attack and tried to score another goal."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes into the box, but the opposition's defense has been able to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Robert Snodgrass (Hull City) races towards goal but the defender gets back well to make a challenge. Hull have a corner. The defender's last-ditch tackle forced the ball out of play.",
+                    "history_time": "13:27",
+                    "long-term": "Both teams have been creating scoring opportunities, with well-placed corner kicks and swift counterattacks testing each other's defenses."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "They have been consistently creating scoring opportunities with well-delivered set pieces and testing the opposition's defense, but lack the finishing touches."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:14",
+            "game_time": "18:14",
+            "query": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal.",
+            "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+                    "history_time": "16:09",
+                    "long-term": "He has been posing a threat to the opposing team, creating chances with his impressive runs and eventually being involved in the breakthrough goal."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "They have shown impressive skill on the ball, creating opportunities through clever movement and passing, but have been unable to capitalize due to solid defensive interventions."
+                },
+                {
+                    "short-term": "Robert Snodgrass (Hull City) races towards goal but the defender gets back well to make a challenge. Hull have a corner. The defender's last-ditch tackle forced the ball out of play.",
+                    "history_time": "13:27",
+                    "long-term": "Both teams have shown impressive defensive skills, with key interventions preventing promising attacking opportunities from developing into clear shots on goal."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "He has shown flashes of brilliance with his runs, but struggled to capitalize on scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:09",
+            "game_time": "16:09",
+            "query": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1.",
+            "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+            "query_ano": "Goal! Alex Iwobi takes aim and his effort deflects off [PLAYER] ([TEAM]) to beat the goalkeeper. 0:1.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+                    "history_time": "15:30",
+                    "long-term": "They have been consistently creating scoring opportunities with clever link-up play and swift movements in the attacking third."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "He has been actively involved in creating scoring opportunities, initially unable to replicate the success with a rushed effort, then benefiting from a deflection to score."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:30",
+            "game_time": "15:30",
+            "query": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+                    "history_time": "11:59",
+                    "long-term": "They have shown flashes of creativity in their attacking play, but a lack of composure in key moments has let them down."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:45",
+            "game_time": "13:45",
+            "query": "Robert Snodgrass (Hull City) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Robert Snodgrass (Hull City) overhits the corner kick and none of his teammates can their head on it. The ball sails harmlessly beyond the far post.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it.",
+            "history": [
+                {
+                    "short-term": "Robert Snodgrass (Hull City) races towards goal but the defender gets back well to make a challenge. Hull have a corner. The defender's last-ditch tackle forced the ball out of play.",
+                    "history_time": "13:27",
+                    "long-term": "This corner kick was caused by the opponent's defensive player clearing the ball when he was dribbling towards the goal."
+                }
+            ]
+        }
+    ]
+}

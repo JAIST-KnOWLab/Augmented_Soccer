@@ -1,0 +1,124 @@
+{
+    "annotations": [
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid.",
+            "game_time": "11:47",
+            "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "game_time": "13:52",
+            "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players."
+        },
+        {
+            "query": "Ever Banega (Sevilla) hammers the ball from far out, but his shot is blocked by an opposition player.",
+            "game_time": "15:38",
+            "short-term": "Ever Banega hammers the ball from far out, but his shot is blocked by an opposition player. The deflection slows down the attack, allowing the defense to reorganize.",
+            "query_ano": "[PLAYER] ([TEAM]) hammers the ball from far out, but his shot is blocked by an opposition player."
+        },
+        {
+            "query": "Daniel Carvajal (Real Madrid) pulls the jersey of one of the opposition players and Jose Luis Gonzalez blows his whistle for a foul.",
+            "game_time": "16:49",
+            "short-term": "Daniel Carvajal pulls the jersey of one of the opposition players and Jose Luis Gonzalez blows his whistle for a foul. It was a moment of frustration as Carvajal struggled to keep up with the attacker.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "query": "Chicharito (Real Madrid) starts his run too early and the referee blows for offside.",
+            "game_time": "20:10",
+            "short-term": "Chicharito starts his run too early and the referee blows for offside. He pings the ball towards goal, but the flag was already raised.",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "game_time": "19:50",
+            "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "query": "Carlos Bacca (Sevilla) dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him.",
+            "game_time": "20:55",
+            "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+            "query_ano": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him."
+        },
+        {
+            "query": "Chicharito (Real Madrid) tries to pass the ball into the penalty area but it's blocked.",
+            "game_time": "21:25",
+            "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "game_time": "23:30",
+            "short-term": "Aleix Vidal finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. Bacca had been lurking nearby, waiting for an opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "query": "Isco (Real Madrid) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "game_time": "24:30",
+            "short-term": "Isco blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball deflects out for a corner, keeping the pressure on the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "query": "Carlos Bacca (Sevilla) is forced to stop his attacking move after the linesman signals for offside.",
+            "game_time": "26:45",
+            "short-term": "Carlos Bacca is forced to stop his attacking move after the linesman signals for offside. He had timed his run well, but the assistant referee thought otherwise.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "query": "Grzegorz Krychowiak (Sevilla) picks up an injury.",
+            "game_time": "29:50",
+            "short-term": "Grzegorz Krychowiak picks up an injury. He appears to be bleeding from the nose, forcing Sevilla to play with 10 men temporarily while he receives treatment.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up an injury."
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",
+            "game_time": "31:23",
+            "short-term": "Aleix Vidal passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and clears the ball to safety.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "game_time": "32:52",
+            "short-term": "Cristiano Ronaldo delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball had been intended for Chicharito, but Sevilla defended well.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "query": "Jose Luis Gonzalez couldn't ignore the rough tackle by Raphael Varane (Real Madrid) and blew his whistle.",
+            "game_time": "34:10",
+            "short-term": "Jose Luis Gonzalez couldn't ignore the rough tackle by Raphael Varane and blew his whistle. No yellow cards were given, but the free kick was awarded.",
+            "query_ano": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+        },
+        {
+            "query": "Goal! Chicharito gets to the ball and heads it over the defence to Cristiano Ronaldo (Real Madrid), who meets it nicely and fires in into the back of the net. 0:2.",
+            "game_time": "36:40",
+            "short-term": "Goal! Chicharito gets to the ball and heads it over the defence to Cristiano Ronaldo, who meets it nicely and fires it into the back of the net. 0:2.",
+            "query_ano": "Goal! [PLAYER] gets to the ball and heads it over the defence to [PLAYER] ([TEAM]), who meets it nicely and fires in into the back of the net. 0:2."
+        },
+        {
+            "query": "Stephane Mbia (Sevilla) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar.",
+            "game_time": "39:16",
+            "short-term": "Stephane Mbia unleashed a powerful shot towards the goal, but his effort was high and wide. He caught the ball well, but it was a disappointing effort that went high over the bar.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) makes an overly-aggressive challenge and Jose Luis Gonzalez blows his whistle for a foul. Sevilla have a free kick.",
+            "game_time": "43:50",
+            "short-term": "Sergio Ramos makes an overly-aggressive challenge, blocking Mbia from Sevilla. The referee blows his whistle for a foul, and Sevilla are awarded a free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "query": "Jose Luis Gonzalez blows his whistle after Sergio Ramos (Real Madrid) brings one of his opponents down with a strong tackle. The referee makes a call and blows his whistle for an infringement. Sevilla are awarded a penalty.",
+            "game_time": "45:41",
+            "short-term": "Jose Luis Gonzalez blows his whistle after Sergio Ramos brings Aleix Vidal down with a strong tackle. There was no contact with the ball, and Ramos missed by centimeters. The referee calls for a penalty in favor of Sevilla.",
+            "query_ano": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. The referee makes a call and blows his whistle for an infringement. [TEAM] are awarded a penalty."
+        },
+        {
+            "query": "Yellow card! It's like Sergio Ramos (Real Madrid) was asking for a caution with his behaviour. Jose Luis Gonzalez agrees and books him.",
+            "game_time": "45:46",
+            "short-term": "Yellow card! Sergio Ramos was asking for a caution with his behavior. Jose Luis Gonzalez agrees and books him. Ramos appears to want to explain something to the referee.",
+            "query_ano": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him."
+        }
+    ]
+}

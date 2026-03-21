@@ -1,0 +1,142 @@
+{
+    "annotations": [
+        {
+            "query": "That's a well-taken pass by Adil Rami (AC Milan). He unleashes a strike from the edge of the box, but blazes it high over the bar.",
+            "game_time": "0:40",
+            "short-term": "That's a well-taken pass by Adil Rami (AC Milan). He unleashes a strike from the edge of the box, but blazes it high over the bar. He found himself in space but couldn't keep his shot under control.",
+            "query_ano": "That's a well-taken pass by [PLAYER] ([TEAM]). He unleashes a strike from the edge of the box, but blazes it high over the bar."
+        },
+        {
+            "query": "Elseid Hysaj (Empoli) races towards goal but the defender gets back well to make a challenge. The ball is out of play and the linesman points at the corner flag. Corner to Empoli.",
+            "game_time": "11:20",
+            "short-term": "Elseid Hysaj (Empoli) races towards goal but the defender gets back well to make a challenge. The ball is out of play and the linesman points at the corner flag. Corner to Empoli. The defender timed his intervention perfectly to prevent a shooting opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "query": "Keisuke Honda (AC Milan) tackles a bit over-zealously and Paolo Valeri blows for a foul.",
+            "game_time": "13:30",
+            "short-term": "Keisuke Honda (AC Milan) tackles a bit over-zealously and Paolo Valeri blows for a foul. He was competing for the ball but mistimed his challenge, making contact with his opponent.",
+            "query_ano": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+        },
+        {
+            "query": "Simone Verdi (Empoli) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the right post. His effort, however, lacks power and the goalkeeper dives to make a stunning save.",
+            "game_time": "14:14",
+            "short-term": "Simone Verdi (Empoli) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the right post. His effort, however, lacks power and the goalkeeper dives to make a stunning save. He arrived late into the box but couldn't generate enough force on the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the right post. His effort, however, lacks power and the goalkeeper dives to make a stunning save."
+        },
+        {
+            "query": "Daniele Croce (Empoli) swings a cross into the box, but it's far too close to Diego Lopez, who smothers the ball.",
+            "game_time": "17:11",
+            "short-term": "Daniele Croce (Empoli) swings a cross into the box, but it's far too close to Diego Lopez, who smothers the ball. He had time to deliver but put too much power behind the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "query": "The game has come to an end for Manuel Pucciarelli. He has contributed as much as he could today. He will be replaced by the fresh legs of Francesco Tavano (Empoli).",
+            "game_time": "18:42",
+            "short-term": "The game has come to an end for Manuel Pucciarelli. He has contributed as much as he could today. He will be replaced by the fresh legs of Francesco Tavano (Empoli). He put in a solid shift, and the fresh leg will now look to make an impact in the final moments.",
+            "query_ano": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Luca Antonelli (AC Milan) will have to be careful for the rest of the match as he is shown a yellow card.",
+            "game_time": "18:10",
+            "short-term": "Luca Antonelli (AC Milan) will have to be careful for the rest of the match as he is shown a yellow card. He mistimed his challenge but was fortunate not to receive a harsher punishment.",
+            "query_ano": "[PLAYER] ([TEAM]) will have to be careful for the rest of the match as he is shown a yellow card."
+        },
+        {
+            "query": "Andrea Poli (AC Milan) brings his opponent down with a tackle and Paolo Valeri blows his whistle for a foul.",
+            "game_time": "1:15",
+            "short-term": "Andrea Poli (AC Milan) brings his opponent down with a tackle and Paolo Valeri blows his whistle for a foul. Poli accepted the referee’s decision without protest.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "query": "Goal! 1:1! Elseid Hysaj sends a precise lofted pass into the box, Massimo Maccarone (Empoli) rises above the defenders to meet the ball near the penalty spot and heads it straight into the bottom left corner.",
+            "game_time": "22:49",
+            "short-term": "Goal! 1:1! Elseid Hysaj sends a precise lofted pass into the box, Massimo Maccarone (Empoli) rises above the defenders to meet the ball near the penalty spot and heads it straight into the bottom left corner. He timed his jump perfectly and directed his header beyond the goalkeeper’s reach.",
+            "query_ano": "Goal! 1:1! [PLAYER] sends a precise lofted pass into the box, [PLAYER] ([TEAM]) rises above the defenders to meet the ball near the penalty spot and heads it straight into the bottom left corner."
+        },
+        {
+            "query": "Mirko Valdifiori (Empoli) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "game_time": "25:45",
+            "short-term": "Mirko Valdifiori (Empoli) commits an ugly tackle on his opponent, but there is no caution from the referee. He was slightly late on the challenge but avoided a booking.",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "query": "A yellow card for a tackle by Adil Rami (AC Milan). Paolo Valeri doesn't hesitate at all to make this decision.",
+            "game_time": "2:50",
+            "short-term": "A yellow card for a tackle by Adil Rami (AC Milan). Paolo Valeri doesn't hesitate at all to make this decision. His challenge was aggressive, leaving the referee with no choice but to book him.",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "query": "A yellow card for a tackle by Adil Rami (AC Milan). Paolo Valeri doesn't hesitate at all to make this decision.",
+            "game_time": "2:50",
+            "short-term": "A yellow card for a tackle by Adil Rami (AC Milan). Paolo Valeri doesn't hesitate at all to make this decision. His challenge was aggressive, leaving the referee with no choice but to book him.",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "query": "Mario Rui (Empoli) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again.",
+            "game_time": "30:12",
+            "short-term": "Mario Rui (Empoli) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. Hewas slightly out of position and had to commit the foul to stop the counterattack.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "query": "Simone Verdi (Empoli) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Paolo Valeri didn't think twice about pulling it out of his pocket.",
+            "game_time": "32:38",
+            "short-term": "Simone Verdi (Empoli) can't expect anything else than a yellow card for his hard tackle. He didn't think twice about pulling it out of his pocket. The challenge was forceful, leaving the referee with no alternative but to book him.",
+            "query_ano": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "query": "Today's referee Paolo Valeri rightly decides to book Gabriel Paletta (AC Milan) for his harsh tackle.",
+            "game_time": "34:45",
+            "short-term": "Today's referee Paolo Valeri rightly decides to book Gabriel Paletta (AC Milan) for his harsh tackle. It was a professional foul that stopped a developing attack, making the decision straightforward.",
+            "query_ano": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "query": "Today's match ends for Keisuke Honda who will be replaced by Alessio Cerci (AC Milan).",
+            "game_time": "34:00",
+            "short-term": "Today's match ends for Keisuke Honda who will be replaced by Alessio Cerci (AC Milan). The substitution aims to bring fresh energy and attacking options for the final phase of the game.",
+            "query_ano": "Today's match ends for [PLAYER] who will be replaced by Alessio Cerci ([TEAM])."
+        },
+        {
+            "query": "Maurizio Sarri has decided to make a change. Franco Signorelli (Empoli) replaces Daniele Croce.",
+            "game_time": "36:55",
+            "short-term": "Maurizio Sarri has decided to make a change. Franco Signorelli (Empoli) replaces Daniele Croce. This tactical switch provides fresh legs in midfield to maintain their pressing intensity.",
+            "query_ano": "Maurizio Sarri has decided to make a change. Franco Signorelli ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "query": "The referee blows his whistle, a clear handball by Diego Lopez (AC Milan).",
+            "game_time": "37:39",
+            "short-term": "The referee blows his whistle, a clear handball by Diego Lopez (AC Milan). His attempt to intervene outside the box was deemed illegal, giving the opposition a dangerous free kick.",
+            "query_ano": "The referee blows his whistle, a clear handball by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "A strict call by Paolo Valeri! He pulls out the red card and sends Diego Lopez (AC Milan) off the pitch.",
+            "game_time": "37:55",
+            "short-term": "A strict call by Paolo Valeri! He pulls out the red card and sends Diego Lopez (AC Milan) off the pitch. His team is now reduced to ten men, putting them under significant pressure for the remainder of the match.",
+            "query_ano": "A strict call by [REFEREE]! He pulls out the red card and sends [PLAYER] ([TEAM]) off the pitch."
+        },
+        {
+            "query": "Gabriel Paletta (AC Milan) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio.",
+            "game_time": "42:30",
+            "short-term": "Gabriel Paletta (AC Milan) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio. He appeared to be in discomfort, clutching his leg before signaling to the bench.",
+            "query_ano": "[PLAYER] ([TEAM]) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "query": "Lorenzo Tonelli (Empoli) gets a yellow card.",
+            "game_time": "45:39",
+            "short-term": "Lorenzo Tonelli (Empoli) gets a yellow card. His mistimed challenge left the referee with no choice but to issue the booking.",
+            "query_ano": "[PLAYER] ([TEAM]) gets a yellow card."
+        },
+        {
+            "query": "A clumsy foul by Mattia Destro (AC Milan) and Paolo Valeri blows his whistle.",
+            "game_time": "5:32",
+            "short-term": "A clumsy foul by Mattia Destro (AC Milan) and Paolo Valeri blows his whistle. The challenge resulted in both players momentarily down, but the referee quickly signaled for play to resume.",
+            "query_ano": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle."
+        },
+        {
+            "query": "The manager makes a substitution with Simone Verdi (Empoli) coming on for Matias Vecino.",
+            "game_time": "8:50",
+            "short-term": "The manager makes a substitution with Simone Verdi (Empoli) coming on for Matias Vecino. This change is likely aimed at maintaining midfield stability while keeping the team fresh.",
+            "query_ano": "The manager makes a substitution with [PLAYER] ([TEAM]) coming on for Matias Vecino."
+        }
+    ]
+}

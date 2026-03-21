@@ -1,0 +1,361 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:44",
+            "game_time": "48:44",
+            "query": "Michael Duff (Burnley) fails to find a teammate across the pitch with a long ball.",
+            "short-term": "Michael Duff (Burnley) fails to find a teammate across the pitch with a long ball. It was a desperate attempt as the match approached its final moments.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "gameTime": "47:51",
+            "game_time": "47:51",
+            "query": "Here is a change. Alexis Sanchez is going off and Arsene Wenger gives the last tactical orders to Calum Chambers (Arsenal).",
+            "short-term": "Here is a change. Alexis Sanchez is going off and Arsene Wenger gives the last tactical orders to Calum Chambers (Arsenal). The substitution is primarily to waste time as Arsenal look to close out the match.",
+            "query_ano": "Here is a change. [PLAYER] is going off and Arsene Wenger gives the last tactical orders to Calum Chambers ([TEAM])."
+        },
+        {
+            "gameTime": "47:29",
+            "game_time": "47:29",
+            "query": "It is time for a substitution. Matthew Taylor (Burnley) is on for David Jones.",
+            "short-term": "It is time for a substitution. Matthew Taylor (Burnley) is on for David Jones. Taylor has not played since August due to injury, making his return in the final minutes of the game.",
+            "query_ano": "It is time for a substitution. Matthew Taylor ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "gameTime": "45:56",
+            "game_time": "45:56",
+            "query": "Danny Welbeck (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Arsenal will have a throw-in.",
+            "short-term": "Danny Welbeck (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Arsenal will have a throw-in. Chambers is ready to enter the pitch.",
+            "query_ano": "[PLAYER] goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "gameTime": "44:49",
+            "game_time": "44:49",
+            "query": "Ben Mee (Burnley) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+            "short-term": "Ben Mee (Burnley) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The home crowd urged Burnley on, but the attack lacked efficiency.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "43:55",
+            "game_time": "43:55",
+            "query": "Hector Bellerin (Arsenal) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "short-term": "Hector Bellerin (Arsenal) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. Alexis jumps, but there with a height deficit.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+        },
+        {
+            "gameTime": "43:16",
+            "game_time": "43:16",
+            "query": "Ashley Barnes (Burnley) attempted to pick out a free teammate inside the box, but David Ospina comes off the line to clear the ball away.",
+            "short-term": "Ashley Barnes (Burnley) attempted to pick out a free teammate inside the box, but David Ospina comes off the line to clear the ball away. Ospina has had a comfortable game with little pressure from Burnley.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "41:52",
+            "game_time": "41:52",
+            "query": "Danny Welbeck (Arsenal) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",
+            "short-term": "Danny Welbeck (Arsenal) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. Arsenal continues to apply pressure as they search for another goal.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "40:23",
+            "game_time": "40:23",
+            "query": "The resulting corner, taken by Mesut Ozil (Arsenal), comes to nothing.",
+            "short-term": "The resulting corner, taken by Mesut Ozil (Arsenal), comes to nothing. He aimed towards the near post, but the delivery lacked precision.",
+            "query_ano": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "gameTime": "39:41",
+            "game_time": "39:41",
+            "query": "Scott Arfield (Burnley) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "short-term": "Scott Arfield (Burnley) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. He was pressed quickly and it was not a bad option to generate danger there. Arsenal quickly regained possession and launched a counterattack",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "gameTime": "38:15",
+            "game_time": "38:15",
+            "query": "Hector Bellerin (Arsenal) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "short-term": "Hector Bellerin (Arsenal) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. Arsenal has been controlling the game for 10-15 minutes, forcing the opponent to stay compact in their half.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "37:58",
+            "game_time": "37:58",
+            "query": "Arsenal are showcasing great team work and neat passing moves.",
+            "short-term": "Arsenal are showcasing great team work and neat passing moves. They have dominated possession, forcing the opposition to defend deep and limiting their counterattack opportunities.",
+            "query_ano": "[TEAM] are showcasing great team work and neat passing moves."
+        },
+        {
+            "gameTime": "36:19",
+            "game_time": "36:19",
+            "query": "Substitution. Olivier Giroud will be replaced by Danny Welbeck (Arsenal).",
+            "short-term": "Substitution. Olivier Giroud will be replaced by Danny Welbeck (Arsenal). Giroud leaves after a streak of six consecutive scoring games, as Arsenal makes a tactical switch.",
+            "query_ano": "Substitution. [PLAYER] will be replaced by Danny Welbeck ([TEAM])."
+        },
+        {
+            "gameTime": "35:42",
+            "game_time": "35:42",
+            "query": "Francis Coquelin (Arsenal) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt.",
+            "short-term": "Francis Coquelin (Arsenal) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. His shot was rushed after a deflection at the near post.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt."
+        },
+        {
+            "gameTime": "35:12",
+            "game_time": "35:12",
+            "query": "The resulting corner from Alexis Sanchez (Arsenal) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Alexis Sanchez (Arsenal) only finds one of the defenders, who heads it out of danger. The ball was deflected at the near post but lacked direction.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "34:59",
+            "game_time": "34:59",
+            "query": "Aaron Ramsey (Arsenal) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. The ball is out of play. Arsenal will have a chance to score from a corner.",
+            "short-term": "Aaron Ramsey (Arsenal) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. The ball is out of play. Arsenal will have a chance to score from a corner. ",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "34:06",
+            "game_time": "34:06",
+            "query": "Nacho Monreal (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down.",
+            "short-term": "Nacho Monreal (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The opposing defense anticipated well and cut off the passing lane.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down."
+        },
+        {
+            "gameTime": "31:54",
+            "game_time": "31:54",
+            "query": "Santi Cazorla (Arsenal) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands.",
+            "short-term": "Santi Cazorla (Arsenal) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands. He tried it there with that shot from the front but lacked accuracy and went too high.",
+            "query_ano": "[PLAYER] ([TEAM]) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box into the stands."
+        },
+        {
+            "gameTime": "31:36",
+            "game_time": "31:36",
+            "query": "Mesut Ozil (Arsenal) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "short-term": "Mesut Ozil (Arsenal) puts a dangerous cross into the box, but the corner is cleared by the first man. The delivery lacked power and was easily cleared. More fluid from Arsenal and above all with more offensive presence",
+            "query_ano": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "31:28",
+            "game_time": "31:28",
+            "query": "Olivier Giroud (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. Arsenal are awarded a corner kick.",
+            "short-term": "Olivier Giroud (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. Arsenal are awarded a corner kick. Giroud made a strong run into the box, but his final move was well defended.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "31:04",
+            "game_time": "31:04",
+            "query": "Aaron Ramsey (Arsenal) delivers a low pass into the box which is intercepted.",
+            "short-term": "Aaron Ramsey (Arsenal) delivers a low pass into the box which is intercepted. He was looking for Ozil, but the defender reacted quickly to cut it out.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "gameTime": "30:42",
+            "game_time": "30:42",
+            "query": "Mesut Ozil (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball.",
+            "short-term": "Mesut Ozil (Arsenal) whips a promising cross into the box, but the opposition's defence intercepts the ball. The delivery was aimed at Alexis, but the defender stepped in just in time.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "29:50",
+            "game_time": "29:50",
+            "query": "Mesut Ozil (Arsenal) and Alexis Sanchez attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",
+            "short-term": "Mesut Ozil (Arsenal) and Alexis Sanchez attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The quick interplay was read well by the defenders, breaking the momentum.",
+            "query_ano": "[PLAYER] ([TEAM]) and [PLAYER] attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "28:49",
+            "game_time": "28:49",
+            "query": "Arsenal are enjoying a spell of pressure at the moment, but one of the defenders gets it clear.",
+            "short-term": "Arsenal are enjoying a spell of pressure at the moment, but one of the defenders gets it clear. Their attacking movements were fluid, but space was too limited to create a real chance.",
+            "query_ano": "[TEAM] are enjoying a spell of pressure at the moment, but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "27:36",
+            "game_time": "27:36",
+            "query": "Danny Ings (Burnley) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save.",
+            "short-term": "Danny Ings (Burnley) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save. He recieved a long pass and shoot, but the keeper reacted superbly.",
+            "query_ano": "[PLAYER] ([TEAM]) hammers a powerful first-time shot from close range, sending the ball towards the middle of the target, but the goalkeeper stops it with a miraculous save."
+        },
+        {
+            "gameTime": "26:54",
+            "game_time": "26:54",
+            "query": "Francis Coquelin (Arsenal) and Santi Cazorla exchange crossfield passes in an attempt to shake up the opposition's defence, but the last pass is not up to the mark and is stolen by the defender. Well read.",
+            "short-term": "Francis Coquelin (Arsenal) and Santi Cazorla exchange crossfield passes in an attempt to shake up the opposition's defence, but the last pass is not up to the mark and is stolen by the defender. Before this, Arsenal was controlling possession, trying to build attacks, while Burnley stayed compact and cleared long balls.",
+            "query_ano": "[PLAYER] ([TEAM]) and [PLAYER] exchange crossfield passes in an attempt to shake up the opposition's defence, but the last pass is not up to the mark and is stolen by the defender. Well read."
+        },
+        {
+            "gameTime": "24:33",
+            "game_time": "24:33",
+            "query": "Ben Mee (Burnley) breaks past challenges inside the box, but puts too much pace on his pass to George Boyd.",
+            "short-term": "Ben Mee (Burnley) breaks past challenges inside the box, but puts too much pace on his pass to George Boyd. Just before this, Burnley had a clear chance, but Boyd failed to connect properly with the ball. ",
+            "query_ano": "[PLAYER] ([TEAM]) breaks past challenges inside the box, but puts too much pace on his pass to George Boyd."
+        },
+        {
+            "gameTime": "23:39",
+            "game_time": "23:39",
+            "query": "Danny Ings (Burnley) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Danny Ings (Burnley) looks to break free, but an opposing player clears the ball away. Monreal reacts quickly to move that ball over the sideline.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "23:10",
+            "game_time": "23:10",
+            "query": "Alexis Sanchez (Arsenal) tries to create a chance, but puts too much weight on his pass.",
+            "short-term": "Alexis Sanchez (Arsenal) tries to create a chance, but puts too much weight on his pass. The ball goes to other player.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass."
+        },
+        {
+            "gameTime": "19:54",
+            "game_time": "19:54",
+            "query": "Danny Ings (Burnley) fails to beat the offside trap and the linesman puts his flag up.",
+            "short-term": "Danny Ings (Burnley) fails to beat the offside trap and the linesman puts his flag up. The position is superior to Arsenal but their is no chance to goal.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "19:26",
+            "game_time": "19:26",
+            "query": "Santi Cazorla (Arsenal) unleashes a shot from 25 metres out but is unable to find the target and it goes high over the crossbar.",
+            "short-term": "Santi Cazorla (Arsenal) unleashes a shot from 25 metres out but is unable to find the target and it goes high over the crossbar. He receives the ball from his mate who have no time to controll the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 25 metres out but is unable to find the target and it goes high over the crossbar."
+        },
+        {
+            "gameTime": "19:18",
+            "game_time": "19:18",
+            "query": "Aaron Ramsey (Arsenal) takes the corner with a short pass.",
+            "short-term": "Aaron Ramsey (Arsenal) takes the corner with a short pass. They need another goal to clearly clarify its path in this match ",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "18:54",
+            "game_time": "18:54",
+            "query": "Hector Bellerin (Arsenal) crosses the ball into the box, but one of the defending players averts the threat. Arsenal get a corner.",
+            "short-term": "Hector Bellerin (Arsenal) crosses the ball into the box, but one of the defending players averts the threat. Arsenal get a corner. Trippier almost deflected the ball into his own goal while attempting a clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. [TEAM] get a corner."
+        },
+        {
+            "gameTime": "18:32",
+            "game_time": "18:32",
+            "query": "Aaron Ramsey (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "Aaron Ramsey (Arsenal) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. He received the ball from Ozil after a good team play, but the defender arrived in time to make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "gameTime": "16:03",
+            "game_time": "16:03",
+            "query": "Alexis Sanchez (Arsenal) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "short-term": "Alexis Sanchez (Arsenal) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. He tried a through ball for Bellerín, but the defense intercepted and launched a counterattack.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "gameTime": "15:45",
+            "game_time": "15:45",
+            "query": "Sam Vokes (Burnley) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked.",
+            "short-term": "Sam Vokes (Burnley) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked. Arsenal's defense stayed compact, with Koscielny closing down quickly to prevent a clear attempt on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked."
+        },
+        {
+            "gameTime": "14:17",
+            "game_time": "14:17",
+            "query": "Ashley Barnes (Burnley) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar.",
+            "short-term": "Ashley Barnes (Burnley) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar. He took a quick shot after a loose ball but couldn't keep it on target.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar."
+        },
+        {
+            "gameTime": "12:30",
+            "game_time": "12:30",
+            "query": "Alexis Sanchez (Arsenal) takes the ball on and fires in a shot from 20 metres out. Tom Heaton stops the effort which is headed for the bottom left corner.",
+            "short-term": "Alexis Sanchez (Arsenal) takes the ball on and fires in a shot from 20 metres out. Tom Heaton stops the effort which is headed for the bottom left corner. He received a clever backheel pass from Ozil before taking the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the ball on and fires in a shot from 20 metres out. [PLAYER] stops the effort which is headed for the bottom left corner."
+        },
+        {
+            "gameTime": "11:58",
+            "game_time": "11:58",
+            "query": "Aaron Ramsey (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It's a throw-in for Burnley.",
+            "short-term": "Aaron Ramsey (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Arsenal plays in a comfortable zone but struggles to break down Burnley's defense.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It's a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "10:09",
+            "game_time": "10:09",
+            "query": "Olivier Giroud (Arsenal) gets on the ball and beats an opponent, but his run is stopped by the referee Michael Dean who sees an offensive foul. It's a free kick to Burnley, but they probably won't attempt a direct shot on goal from here.",
+            "short-term": "Olivier Giroud (Arsenal) gets on the ball and beats an opponent, but his run is stopped by the referee Michael Dean who sees an offensive foul. It's a free kick to Burnley, but they probably won't attempt a direct shot on goal from here.",
+            "query_ano": "[PLAYER] ([TEAM]) gets on the ball and beats an opponent, but his run is stopped by the referee [REFEREE] who sees an offensive foul. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "09:05",
+            "game_time": "9:05",
+            "query": "A pass by Scott Arfield (Burnley) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for Arsenal.",
+            "short-term": "A pass by Scott Arfield (Burnley) ends up in no man's land, and the attacking effort comes to an end. The pass was too strong and went out for an Arsenal throw-in. One of the player was already offering to go out on the wing, but that pass was too strong",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "07:21",
+            "game_time": "7:21",
+            "query": "The corner from Mesut Ozil (Arsenal) is cleared away by the defence.",
+            "short-term": "The corner from Mesut Ozil (Arsenal) is cleared away by the defence. Barnes' intense play won Burnley the defensive opportunity before the clearance.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "gameTime": "07:06",
+            "game_time": "7:06",
+            "query": "The ball is cleared after Ashley Barnes (Burnley) attempted to dribble past an opposing player. Burnley have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "short-term": "The ball is cleared after Ashley Barnes (Burnley) attempted to dribble past an opposing player. Burnley have been awarded a corner kick. Barnes drove forward with intensity before his cross was deflected for a corner.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "05:25",
+            "game_time": "5:25",
+            "query": "Ashley Barnes (Burnley) is adjudged to have been offside when making his run.",
+            "short-term": "Ashley Barnes (Burnley) is adjudged to have been offside when making his run. He doesn't deceive since his style of play is already well established .",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "05:00",
+            "game_time": "5:00",
+            "query": "Alexis Sanchez (Arsenal) is caught offside!",
+            "short-term": "Alexis Sanchez (Arsenal) is caught offside! He attempted to receive a pass behind the defense but was flagged.",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside!"
+        },
+        {
+            "gameTime": "04:37",
+            "game_time": "4:37",
+            "query": "Ashley Barnes (Burnley) collects a rebound and produces a mid-range attempt. The ball goes to the right side of the target, but David Ospina keeps it out with an amazing save.",
+            "short-term": "Ashley Barnes (Burnley) collects a rebound and produces a mid-range attempt. The ball goes to the right side of the target, but David Ospina keeps it out with an amazing save. ",
+            "query_ano": "[PLAYER] ([TEAM]) collects a rebound and produces a mid-range attempt. The ball goes to the right side of the target, but [PLAYER] keeps it out with an amazing save."
+        },
+        {
+            "gameTime": "04:15",
+            "game_time": "4:15",
+            "query": "The referee awards a corner and Kieran Trippier (Burnley) goes over to take it.",
+            "short-term": "The referee awards a corner and Kieran Trippier (Burnley) goes over to take it. His touch deflected the cross, results a corner.",
+            "query_ano": "The referee awards a corner and [PLAYER] ([TEAM]) goes over to take it."
+        },
+        {
+            "gameTime": "04:06",
+            "game_time": "4:06",
+            "query": "Kieran Trippier (Burnley) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out for a corner. Burnley can continue in their attacking effort.",
+            "short-term": "Kieran Trippier (Burnley) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out for a corner. Monreal got the last touch, conceding a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "gameTime": "03:56",
+            "game_time": "3:56",
+            "query": "Ben Mee (Burnley) sends the ball into the box from the side of the pitch, but his cross is blocked.",
+            "short-term": "Ben Mee (Burnley) sends the ball into the box from the side of the pitch, but his cross is blocked. He aimed for [PLAYER] at the far side, but the defense intervened.",
+            "query_ano": "[PLAYER] ([TEAM]) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "gameTime": "01:26",
+            "game_time": "1:26",
+            "query": "Kieran Trippier (Burnley) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "short-term": "Kieran Trippier (Burnley) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. [PLAYER] reacts quickly to intercept and Arsenal transitions into attack.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "00:32",
+            "game_time": "0:32",
+            "query": "Ben Mee (Burnley) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "short-term": "Ben Mee (Burnley) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. [PLAYER] arrived from the left wing unexpectedly, but the delivery was too short.",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        }
+    ]
+}

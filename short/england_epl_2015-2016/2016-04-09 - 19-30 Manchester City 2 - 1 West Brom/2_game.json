@@ -1,0 +1,270 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:55",
+            "game_time": "48:55",
+            "query": "James McClean (West Brom) unleashes a decent effort from just outside the box which goes narrowly wide of the left post.",
+            "short-term": "James McClean (West Brom) unleashes a decent effort from just outside the box which goes narrowly wide of the left post. It curled just past the target, leaving the goalkeeper untroubled.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a decent effort from just outside the box which goes narrowly wide of the left post."
+        },
+        {
+            "gameTime": "48:53",
+            "game_time": "48:53",
+            "query": "The corner from Craig Gardner (West Brom) is intercepted by Joe Hart.",
+            "short-term": "The corner from Craig Gardner (West Brom) is intercepted by Joe Hart. The delivery was aimed towards the center of the box, but keeper read it well and collected the ball confidently.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is intercepted by [PLAYER]."
+        },
+        {
+            "gameTime": "44:22",
+            "game_time": "44:22",
+            "query": "Manuel Pellegrini has decided to introduce fresh legs, with Gael Clichy (Manchester City) replacing Sergio Aguero.",
+            "short-term": "Manuel Pellegrini has decided to introduce fresh legs, with Gael Clichy (Manchester City) replacing Sergio Aguero. The substitution is likely a tactical move to preserve this striker.",
+            "query_ano": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "gameTime": "42:52",
+            "game_time": "42:52",
+            "query": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball.",
+            "short-term": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball. Leko's delivery aimed towards the far post, but Hart was quick off his line to claim it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "41:50",
+            "game_time": "41:50",
+            "query": "West Brom enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+            "short-term": "West Brom enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike. The team circulated the ball across midfield, looking for gaps in the defensive shape.",
+            "query_ano": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "38:52",
+            "game_time": "38:52",
+            "query": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders.",
+            "short-term": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders. The delivery lacked precision, allowing the opposition to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "38:26",
+            "game_time": "38:26",
+            "query": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. West Brom will have a chance to score from a corner.",
+            "short-term": "Joe Hart reacts well to deny a long-range free kick from Craig Gardner (West Brom) towards the roof of the net. Gardner's powerful strike was on target, forcing Hart into a full-stretch save to tip the ball over the bar. West Brom will have a chance to score from a corner.",
+            "query_ano": "[PLAYER] reacts well to deny a long-range free kick from [PLAYER] ([TEAM]) towards the roof of the net. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "37:53",
+            "game_time": "37:53",
+            "query": "Mike Jones blows his whistle for a foul after Nicolas Otamendi (Manchester City) hacks down one of his opponents. That's a free kick to West Brom.",
+            "short-term": "Mike Jones blows his whistle for a foul after Nicolas Otamendi (Manchester City) hacks down one of his opponents. The challenge was aggressive, who showed his frustration after the call.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. That's a free kick to [TEAM]."
+        },
+        {
+            "gameTime": "36:54",
+            "game_time": "36:54",
+            "query": "A brilliant individual effort! Samir Nasri (Manchester City) tricks his way past challenges into the box and drags his shot narrowly wide of the right post.",
+            "short-term": "A brilliant individual effort! Samir Nasri (Manchester City) tricks his way past challenges into the box and drags his shot narrowly wide of the right post. His curling effort had the crowd gasping.",
+            "query_ano": "A brilliant individual effort! [PLAYER] ([TEAM]) tricks his way past challenges into the box and drags his shot narrowly wide of the right post."
+        },
+        {
+            "gameTime": "34:59",
+            "game_time": "34:59",
+            "query": "Substitution. Stephane Sessegnon makes way for Jonathan Leko (West Brom).",
+            "short-term": "Substitution. Stephane Sessegnon makes way for Jonathan Leko (West Brom). Leko, a promising young talent, enters the pitch looking to make an impact in the final minutes.",
+            "query_ano": "Substitution. [PLAYER] makes way for [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "34:42",
+            "game_time": "34:42",
+            "query": "Chance! Saido Berahino (West Brom) was in a good position inside the box, but he couldn't connect with the pass as it was overhit.",
+            "short-term": "Chance! Saido Berahino (West Brom) was in a good position inside the box, but he couldn't connect with the pass as it was overhit. The ball zipped past him at the penalty spot, missing a potential scoring opportunity.",
+            "query_ano": "Chance! [PLAYER] ([TEAM]) was in a good position inside the box, but he couldn't connect with the pass as it was overhit."
+        },
+        {
+            "gameTime": "32:43",
+            "game_time": "32:43",
+            "query": "James McClean (West Brom) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box.",
+            "short-term": "James McClean (West Brom) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. The effort had power, but a defender blocked it before it could trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box."
+        },
+        {
+            "gameTime": "31:30",
+            "game_time": "31:30",
+            "query": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him.",
+            "short-term": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him. The striker received a well-weighted ball while the defense was caught off guard.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but [PLAYER] is alert and denies him."
+        },
+        {
+            "gameTime": "29:57",
+            "game_time": "29:57",
+            "query": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom).",
+            "short-term": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom). The ball was delivered too close to the goalkeeper, making for a comfortable save.",
+            "query_ano": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "28:30",
+            "game_time": "28:30",
+            "query": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post.",
+            "short-term": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post. The striker found space inside the box but couldn't keep his shot on target.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post."
+        },
+        {
+            "gameTime": "26:30",
+            "game_time": "26:30",
+            "query": "The West Brom players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The West Brom players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up, probing the opposition's defensive line with quick passes.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "25:49",
+            "game_time": "25:49",
+            "query": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post.",
+            "short-term": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post. His shot lacked precision, failing to challenge the keeper.",
+            "query_ano": "Ambitious effort from [PLAYER] ([TEAM]). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post."
+        },
+        {
+            "gameTime": "24:37",
+            "game_time": "24:37",
+            "query": "A pass by Jesus Navas (Manchester City) ends up in no man's land, and the attacking effort comes to an end.",
+            "short-term": "A pass by Jesus Navas (Manchester City) ends up in no man's land, and the attacking effort comes to an end. He attempted to link up with a teammate inside the area, but the ball was overhit.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "21:30",
+            "game_time": "21:30",
+            "query": "Kevin De Bruyne (Manchester City) is offside and the linesman raises his flag.",
+            "short-term": "Kevin De Bruyne (Manchester City) is offside and the linesman raises his flag. He mistimed his run while attempting to latch onto a through ball.",
+            "query_ano": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "20:52",
+            "game_time": "20:52",
+            "query": "Goal 2:1! Samir Nasri (Manchester City) taps home from close range after the rebound fell kindly into his path.",
+            "short-term": "Goal 2:1! Samir Nasri (Manchester City) taps home from close range after the rebound fell kindly into his path. He reacted quickly to finish after Agüero’s effort was blocked, capitalizing on the loose ball.",
+            "query_ano": "Goal 2:1! [PLAYER] ([TEAM]) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "20:50",
+            "game_time": "20:50",
+            "query": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked.",
+            "short-term": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked. He received a pass from Jesús Navas and aimed for goal, but the defender made a crucial intervention.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "20:09",
+            "game_time": "20:09",
+            "query": "The Manchester City players are exchanging short passes in an attempt to create a shooting opportunity.",
+            "short-term": "The Manchester City players are exchanging short passes in an attempt to create a shooting opportunity. They are dominating possession, trying to find a gap in West Brom's defensive shape.",
+            "query_ano": "The [TEAM] players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "gameTime": "17:52",
+            "game_time": "17:52",
+            "query": "Sergio Aguero (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Sergio Aguero (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. He attempted a one-two with Yaya Touré but was dispossessed before he could get a shot away.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "17:36",
+            "game_time": "17:36",
+            "query": "Jesus Navas (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post.",
+            "short-term": "Jesus Navas (Manchester City) fails to pick a body out in the box with an over-hit cross to the back post. His delivery was too strong, making it difficult for his teammates to reach the ball inside the area.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post."
+        },
+        {
+            "gameTime": "16:17",
+            "game_time": "16:17",
+            "query": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up.",
+            "short-term": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up. The right-back mistimed his run, making it an easy call for the assistant referee.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "14:57",
+            "game_time": "14:57",
+            "query": "Manuel Pellegrini has decided to make a change. Yaya Toure (Manchester City) replaces Fabian Delph.",
+            "short-term": "Manuel Pellegrini has decided to make a change. Yaya Toure (Manchester City) replaces Fabian Delph. Toure moves into midfield, offering more physicality and attacking presence.",
+            "query_ano": "[COACH] has decided to make a change. Yaya Toure ([TEAM]) replaces Fabian Delph."
+        },
+        {
+            "gameTime": "14:37",
+            "game_time": "14:37",
+            "query": "The substitution has been made. Kevin De Bruyne (Manchester City) has replaced Wilfried Bony.",
+            "short-term": "The substitution has been made. Kevin De Bruyne (Manchester City) has replaced Wilfried Bony. This change signals an attacking shift, with De Bruyne expected to support their attack more directly.",
+            "query_ano": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "gameTime": "13:53",
+            "game_time": "13:53",
+            "query": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post.",
+            "short-term": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post. He attempted a powerful strike, but the shot lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post."
+        },
+        {
+            "gameTime": "12:59",
+            "game_time": "12:59",
+            "query": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed but lacked enough pace to trouble the defenders.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "12:50",
+            "game_time": "12:50",
+            "query": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "short-term": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball was floated towards the far post but lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "gameTime": "11:51",
+            "game_time": "11:51",
+            "query": "Sandro receives a sweet cross inside the box from Stephane Sessegnon (West Brom), but one of the defenders rushes in bravely to intercept the ball.",
+            "short-term": "Sandro receives a sweet cross inside the box from Stephane Sessegnon (West Brom), but one of the defenders rushes in bravely to intercept the ball. The defender took a risk, making slight contact. The players demand a penalty,.",
+            "query_ano": "Sandro receives a sweet cross inside the box from [PLAYER] ([TEAM]), but one of the defenders rushes in bravely to intercept the ball."
+        },
+        {
+            "gameTime": "09:48",
+            "game_time": "9:48",
+            "query": "The resulting corner, taken by Aleksandar Kolarov (Manchester City), comes to nothing.",
+            "short-term": "The resulting corner, taken by Aleksandar Kolarov (Manchester City), comes to nothing. The delivery lacked precision, allowing the defense to clear with ease.",
+            "query_ano": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "gameTime": "09:15",
+            "game_time": "9:15",
+            "query": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. ",
+            "short-term": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The shot had power and a bounce in front of the goalkeeper, forcing a good save.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass, lines up a shot and strikes from 25 metres out, but [PLAYER] thwarts the effort which is headed to the bottom left corner. "
+        },
+        {
+            "gameTime": "07:30",
+            "game_time": "7:30",
+            "query": "Wilfried Bony (Manchester City) receives a good pass just outside the box, unleashes a strike from a promising position",
+            "short-term": "Wilfried Bony (Manchester City) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender and rolled harmlessly to the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a good pass just outside the box, unleashes a strike from a promising position"
+        },
+        {
+            "gameTime": "06:27",
+            "game_time": "6:27",
+            "query": "Manchester City are seeing far more of the ball now.",
+            "short-term": "Manchester City are seeing far more of the ball now. The team is circulating possession with patience, looking for an opening.",
+            "query_ano": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "gameTime": "04:51",
+            "game_time": "4:51",
+            "query": "Fernando (Manchester City) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",
+            "short-term": "Fernando (Manchester City) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Darren Fletcher was already advancing with the ball, forcing Fernando to make the challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "gameTime": "03:37",
+            "game_time": "3:37",
+            "query": "Stephane Sessegnon (West Brom) is unable to feed an accurate cross into the box.",
+            "short-term": "Stephane Sessegnon (West Brom) is unable to feed an accurate cross into the box. His delivery was rushed under defensive pressure, leading to a clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "01:37",
+            "game_time": "1:37",
+            "query": "Jonny Evans (West Brom) robs an opponent of the ball and explodes in anger when Mike Jones blows for a foul.",
+            "short-term": "Jonny Evans (West Brom) robs an opponent of the ball and explodes in anger when Mike Jones blows for a foul. He felt he had cleanly won the ball but the referee thought otherwise.",
+            "query_ano": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:35",
+            "game_time": "43:35",
+            "query": "Marc Albrighton (Leicester) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play.",
+            "short-term": "Marc Albrighton (Leicester) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play. His mate was unable to reach it due to slight contact.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play.",
+            "history": [
+                {
+                    "short-term": "Mikel Arteta (Arsenal) fouls an opponent. At least that's what referee Craig Pawson signals. Leicester are given an advantage. They have a free kick in a dangerous position.",
+                    "history_time": "42:32",
+                    "long-term": "They have been creating opportunities from set pieces, with the recent free kick chance showing promise, although they have struggled to find the target."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball. It was too close to the goalkeeper.",
+                    "history_time": "26:29",
+                    "long-term": "He has been consistently delivering crosses into the box, although the efforts have been met with opposition from the goalkeeper or sailed out of play."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+                    "history_time": "22:21",
+                    "long-term": "He has consistently utilized crosses to create scoring opportunities, but it didn't work."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:32",
+            "game_time": "42:32",
+            "query": "Mikel Arteta (Arsenal) fouls an opponent. At least that's what referee Craig Pawson signals. Leicester are given an advantage. They have a free kick.",
+            "short-term": "Mikel Arteta (Arsenal) fouls an opponent. At least that's what referee Craig Pawson signals. Leicester are given an advantage. They have a free kick in a dangerous position.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. [TEAM] are given an advantage. They have a free kick.",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick. Leicester earns a chance to send the ball into the danger area.",
+                    "history_time": "25:35",
+                    "long-term": "They have been struggling with discipline, committing multiple fouls that have resulted in free kicks in critical areas, giving their opponents advantageous opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:33",
+            "game_time": "40:33",
+            "query": "Shinji Okazaki (Leicester) passes the ball onto Riyad Mahrez, but one of the defenders dispossesses him.",
+            "short-term": "Shinji Okazaki (Leicester) passes the ball onto Riyad Mahrez, but one of the defenders dispossesses him. Arsenal’s defense reacts quickly to cut out the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball onto [PLAYER], but one of the defenders dispossesses him.",
+            "history": [
+                {
+                    "short-term": "Shinji Okazaki (Leicester) looks to break free, but an opposing player clears the ball away. The defender positions himself well to block the run.",
+                    "history_time": "35:51",
+                    "long-term": "Their offense has been contained by the opponent's defense in recent times and cannot be carried out effectively."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:21",
+            "game_time": "31:21",
+            "query": "Jeffrey Schlupp (Leicester) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Jeffrey Schlupp (Leicester) races towards goal but the defender gets back well to make a challenge. Ramsey tracks back in time to stop the attack.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "history": [
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball. It was too close to the goalkeeper.",
+                    "history_time": "26:29",
+                    "long-term": "They have shown great intent in their attacking plays, but the defense has been solid."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+                    "history_time": "22:21",
+                    "long-term": "They have shown some promising attacking movements, but the opponent's defense has been solid in thwarting their goal-scoring opportunities."
+                },
+                {
+                    "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+                    "history_time": "21:34",
+                    "long-term": "He has shown great energy in his attacking runs but hasn't yet found the space to make a significant impact due to well-timed defensive challenges."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:29",
+            "game_time": "26:29",
+            "query": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball.",
+            "short-term": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball. It was too close to the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick. Leicester earns a chance to send the ball into the danger area.",
+                    "history_time": "25:35",
+                    "long-term": "The match has seen both teams creating chances, with Leicester attempting to utilize crosses and set pieces to break through Arsenal's defense."
+                },
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+                    "history_time": "22:21",
+                    "long-term": "He played a huge role in the last few attacks, attempting several threatening crosses but failed to convert them into goals."
+                },
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner with a short pass. Arsenal anticipates and quickly launches a counterattack.",
+                    "history_time": "22:11",
+                    "long-term": "They have shown creativity in their set pieces, but have yet to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+                    "history_time": "21:34",
+                    "long-term": "They have been consistently aggressive in their attacks, but they need to improve the accuracy of their passes to create better scoring opportunities."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. Leicester needs to be more attentive in marking Ramsey, who continues to look for space.",
+                    "history_time": "19:34",
+                    "long-term": "The player has been making efforts to find openings in the opponent's defense, particularly utilizing crosses to create chances, but so far, they've been well-contained by the goalkeeper."
+                },
+                {
+                    "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+                    "history_time": "17:22",
+                    "long-term": "The tide of the match has shifted as both teams are creating significant scoring opportunities, with Arsenal capitalizing on theirs to gain momentum."
+                },
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "Both goalkeepers have been sharp, each making key interceptions to deny threatening crosses and defense-splitting passes, keeping the score level for now."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:35",
+            "game_time": "25:35",
+            "query": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick.",
+            "short-term": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick. Leicester earns a chance to send the ball into the danger area.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "history": [
+                {
+                    "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+                    "history_time": "22:21",
+                    "long-term": "The visitors have been trying to create chances through set pieces, but the home team's defense has been resolute in dealing with these threats."
+                },
+                {
+                    "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+                    "history_time": "21:34",
+                    "long-term": "They have been creating opportunities through set pieces, with several chances to send the ball into the danger area."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:21",
+            "game_time": "22:21",
+            "query": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.",
+            "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Riyad Mahrez (Leicester) takes the corner with a short pass. Arsenal anticipates and quickly launches a counterattack.",
+                    "history_time": "22:11",
+                    "long-term": "They have been utilizing crosses and corners to create scoring opportunities, but the opposition's goalkeeper has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+                    "history_time": "21:34",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses and passes, but need to improve the accuracy of their deliveries to create more scoring opportunities."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. Leicester needs to be more attentive in marking Ramsey, who continues to look for space.",
+                    "history_time": "19:34",
+                    "long-term": "The player has been creating scoring opportunities through crosses, but the opposing team's goalkeeper has been proactive in mitigating these threats."
+                },
+                {
+                    "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+                    "history_time": "17:22",
+                    "long-term": "The momentum has shifted in their favor as they transitioned from a near concession to a swift equalizer, demonstrating their attacking resilience."
+                },
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "Both goalkeepers have shown incredible reflexes, making crucial saves to deny scoring opportunities and keeping their teams in the game. The keepers' performances have been a highlight of this match."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:11",
+            "game_time": "22:11",
+            "query": "Riyad Mahrez (Leicester) takes the corner with a short pass.",
+            "short-term": "Riyad Mahrez (Leicester) takes the corner with a short pass. Arsenal anticipates and quickly launches a counterattack.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+            "history": [
+                {
+                    "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+                    "history_time": "21:34",
+                    "long-term": "This corner kick came from a great block by a defensive player."
+                },
+                {
+                    "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+                    "history_time": "17:22",
+                    "long-term": "They've shown great adaptability in shifting the momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:34",
+            "game_time": "21:34",
+            "query": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick.",
+            "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "The player has been creating scoring opportunities for his team but struggling to capitalize on them due to errors in positioning and the opponent's solid defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:34",
+            "game_time": "19:34",
+            "query": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "short-term": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. Leicester needs to be more attentive in marking Ramsey, who continues to look for space.",
+            "query_ano": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "history": [
+                {
+                    "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+                    "history_time": "17:22",
+                    "long-term": "They used long passes during this period, which were very effective after the goal, but this time it went out of bounds."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:22",
+            "game_time": "17:22",
+            "query": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post.",
+            "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+            "query_ano": "After receiving a beautiful pass, [PLAYER] ([TEAM]) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post.",
+            "history": [
+                {
+                    "short-term": "A neat pass is well received by Santi Cazorla (Arsenal), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot. Arsenal is gradually finding their rhythm but lacks the necessary speed and risk-taking to break down Leicester’s defense.",
+                    "history_time": "16:18",
+                    "long-term": "They have been displaying a strong attacking performance, leveling the match and creating promising chances."
+                },
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "He has been a key threat in the opposition's box, scoring a crucial equalizer and forcing a great save from the goalkeeper on another occasion."
+                },
+                {
+                    "short-term": "What a chance that is! Jamie Vardy (Leicester) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post! Mahrez was in a great position for the rebound but hesitated to shoot with his right foot.",
+                    "history_time": "10:20",
+                    "long-term": "Both teams have been capitalizing on opportunities, consistently creating scoring chances and getting shots on target."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:19",
+            "game_time": "17:19",
+            "query": "What a chance that is! Jamie Vardy (Leicester) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar!",
+            "short-term": "What a chance that is! Jamie Vardy (Leicester) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar! He had already hit the post earlier, showing their attacking intent.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar!",
+            "history": [
+                {
+                    "short-term": "What a chance that is! Jamie Vardy (Leicester) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post! Mahrez was in a great position for the rebound but hesitated to shoot with his right foot.",
+                    "history_time": "10:20",
+                    "long-term": "He has been consistently creating scoring opportunities, hitting the post and crossbar, but struggling to convert these chances into goals."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:18",
+            "game_time": "16:18",
+            "query": "A neat pass is well received by Santi Cazorla (Arsenal), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot.",
+            "short-term": "A neat pass is well received by Santi Cazorla (Arsenal), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot. Arsenal is gradually finding their rhythm but lacks the necessary speed and risk-taking to break down Leicester’s defense.",
+            "query_ano": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot.",
+            "history": [
+                {
+                    "short-term": "Nothing comes of the resulting corner from Santi Cazorla (Arsenal). The defence is alert and manages to cut it out. Kasper Schmeichel had earlier denied Cazorla, keeping Leicester’s defense organized.",
+                    "history_time": "15:50",
+                    "long-term": "He has been creating scoring opportunities with precise passing and shots on goal, but the opposing team's defense and goalkeeper have been resilient in denying him."
+                },
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "They have been consistently creating scoring opportunities, but have been thwarted by excellent goalkeeping, highlighting their struggles to break down the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:50",
+            "game_time": "15:50",
+            "query": "Nothing comes of the resulting corner from Santi Cazorla (Arsenal). The defence is alert and manages to cut it out.",
+            "short-term": "Nothing comes of the resulting corner from Santi Cazorla (Arsenal). The defence is alert and manages to cut it out. Kasper Schmeichel had earlier denied Cazorla, keeping Leicester’s defense organized.",
+            "query_ano": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out.",
+            "history": [
+                {
+                    "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+                    "history_time": "15:20",
+                    "long-term": "The goalkeeper has been crucial in preventing the opposition from scoring, making multiple key saves and keeping his team's defense organized under intense pressure."
+                }
+            ]
+        }
+    ]
+}

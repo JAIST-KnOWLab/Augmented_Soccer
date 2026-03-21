@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "game_time": "12:53",
+            "query": "Aaron Ramsey (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and one of his assistants signal for a corner kick to Arsenal.",
+            "short-term": "Aaron Ramsey (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. He looks disappointed as the ball deflects out of play, and the referee, along with one of his assistants, signals for a corner kick to Arsenal.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "game_time": "15:30",
+            "query": "Ragnar Klavan (Liverpool) makes a strong challenge and Michael Oliver blows for a foul.",
+            "short-term": "Ragnar Klavan (Liverpool) makes a strong challenge and Michael Oliver blows for a foul. Klavan raises his hands in frustration as the referee awards a free kick to the opposition in a promising position.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "game_time": "21:30",
+            "query": "Aaron Ramsey (Arsenal) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "short-term": "Aaron Ramsey (Arsenal) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar. He puts his hands on his head, realizing he wasted a good chance.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "game_time": "25:27",
+            "query": "Michael Oliver shows a yellow card to Adam Lallana (Liverpool), who isn't surprised as the tackle was really hard and late.",
+            "short-term": "Michael Oliver shows a yellow card to Adam Lallana (Liverpool), who isn't surprised as the tackle was really hard and late. Lallana gives a slight nod, accepting the referee’s decision without protest.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "game_time": "27:44",
+            "query": "Alberto Moreno (Liverpool) was trying to get to the ball but clattered into the legs of the opponent as well. Michael Oliver blows his whistle for an infringement. PENALTY! Wonderful opportunity to score for Arsenal.",
+            "short-term": "Alberto Moreno (Liverpool) was trying to get to the ball but clattered into the legs of the opponent as well. Michael Oliver blows his whistle for an infringement. PENALTY! The Arsenal players immediately appeal, and the referee wastes no time pointing to the spot.",
+            "query_ano": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement. PENALTY! Wonderful opportunity to score for [TEAM]."
+        },
+        {
+            "game_time": "29:00",
+            "query": "Theo Walcott (Arsenal) will take the responsibility and he is already preparing the ball.",
+            "short-term": "Theo Walcott (Arsenal) will take the responsibility and he is already preparing the ball. He takes a deep breath, places the ball carefully, and looks up at the goalkeeper, ready to take the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "game_time": "29:09",
+            "query": "Theo Walcott (Arsenal) has a great chance to score from the penalty. He shoots to the left post, but Simon Mignolet leaps out to thwart his attempt.",
+            "short-term": "Theo Walcott (Arsenal) has a great chance to score from the penalty. He shoots to the left post, but Simon Mignolet leaps out to thwart his attempt. The Arsenal forward watches in disbelief as the goalkeeper denies him.",
+            "query_ano": "[PLAYER] ([TEAM]) has a great chance to score from the penalty. He shoots to the left post, but [PLAYER] leaps out to thwart his attempt."
+        },
+        {
+            "game_time": "28:40",
+            "query": "Alberto Moreno (Liverpool) gets a yellow card.",
+            "short-term": "Alberto Moreno (Liverpool) gets a yellow card. He gestures in protest, but the referee stands firm, warning him to be more careful with his tackles.",
+            "query_ano": "[PLAYER] ([TEAM]) gets a yellow card."
+        },
+        {
+            "game_time": "34:10",
+            "query": "Roberto Firmino (Liverpool) unleashes a shot from 22 metres out but is unable to find the target and it goes well wide of the left post.",
+            "short-term": "Roberto Firmino (Liverpool) unleashes a shot from 22 metres out but is unable to find the target and it goes well wide of the left post. He looks frustrated, shaking his head as he jogs back into position.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 22 metres out but is unable to find the target and it goes well wide of the left post."
+        },
+        {
+            "game_time": "42:24",
+            "query": "Jordan Henderson (Liverpool) pulls the shirt of his opponent and the referee stops play for a foul. Arsenal have a free kick from a promising distance.",
+            "short-term": "Jordan Henderson (Liverpool) pulls the shirt of his opponent and the referee stops play for a foul. Arsenal have a free kick from a promising distance. Henderson spreads his arms in frustration as the referee explains his decision.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "game_time": "46:00",
+            "query": "Philippe Coutinho (Liverpool) scores a beautiful goal from the resulting free kick. He bends the ball into the top left corner. A technically stunning goal.",
+            "short-term": "Philippe Coutinho (Liverpool) scores a beautiful goal from the resulting free kick. He bends the ball into the top left corner. The goalkeeper watches helplessly as the ball curls into the net, and the crowd erupts in celebration.",
+            "query_ano": "[PLAYER] ([TEAM]) scores a beautiful goal from the resulting free kick. He bends the ball into the top left corner. A technically stunning goal."
+        },
+        {
+            "game_time": "36:30",
+            "query": "The foul by Francis Coquelin (Arsenal) is worthy of a card and a yellow is duly shown by Michael Oliver.",
+            "short-term": "The foul by Francis Coquelin (Arsenal) is worthy of a card and a yellow is duly shown by Michael Oliver. Coquelin raises his arms in frustration but quickly accepts the decision, knowing it was a deserved booking.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "game_time": "40:50",
+            "query": "Michael Oliver shows a yellow card to Dejan Lovren (Liverpool) for a tough tackle.",
+            "short-term": "Michael Oliver shows a yellow card to Dejan Lovren (Liverpool) for a tough tackle. Lovren swept the opponent with his right leg, prompting the referee to quickly intervene. He looks displeased with the decision but walks away without further argument.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "game_time": "41:50",
+            "query": "Philippe Coutinho (Liverpool) sends a teasing cross into the area, but Petr Cech intercepts the ball.",
+            "short-term": "Philippe Coutinho (Liverpool) sends a teasing cross into the area, but Petr Cech intercepts the ball. The cross had a bit of curl, but not enough to trouble the goalkeeper, who calmly gathers it without any difficulty.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "game_time": "43:18",
+            "query": "Alexis Sanchez (Arsenal) attempts to curl the ball over the defensive wall from the free kick, but his effort fails to reach the goal. Arsenal will have a chance to score from a corner kick.",
+            "short-term": "Alexis Sanchez (Arsenal) attempts to curl the ball over the defensive wall from the free kick, but his effort fails to reach the goal. The ball takes a slight deflection, and Arsenal will now have a chance to capitalize from the resulting corner.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to curl the ball over the defensive wall from the free kick, but his effort fails to reach the goal. [TEAM] will have a chance to score from a corner kick."
+        }
+    ]
+}

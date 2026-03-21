@@ -1,0 +1,584 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:44",
+            "game_time": "46:44",
+            "query": "The ball is whipped in from the corner by Craig Gardner (West Brom), but one of the defenders gets it clear.",
+            "short-term": "The ball is whipped in from the corner by Craig Gardner (West Brom), but one of the defenders gets it clear. The clearance came from the near post, preventing a potential header.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear.",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. His pass was aimed towards the penalty spot, but was intercepted, leading to a corner.",
+                    "history_time": "46:10",
+                    "long-term": "This corner kick came from a cross from outside the box, but was cleared by the defender."
+                },
+                {
+                    "short-term": "Samir Nasri sends a lovely lofted pass forward that flies over the top of the defence and into the path of Wilfried Bony (Manchester City), but he can't direct his header on target as it flies well wide of the left post. The ball lacked power, making it difficult for Bony to control his effort at the penalty spot.",
+                    "history_time": "44:35",
+                    "long-term": "Both teams have been utilizing crosses and passes to create scoring opportunities, but their finishing has been off the mark so far."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Multiple attackers were positioned near the centre of the box.",
+                    "history_time": "44:10",
+                    "long-term": "Both teams have been utilizing crosses and corners to create scoring opportunities, but the defenders have been up to the task, effectively clearing the threats."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man. The defender was well positioned at the near post to make the clearance.",
+                    "history_time": "41:59",
+                    "long-term": "They have been consistently delivering quality set pieces, but the defense has been equally effective in clearing the danger."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick but the ball only finds the head of an opponent. The delivery was targeted at the penalty spot, but the defender outjumped his marker to clear the danger.",
+                    "history_time": "39:17",
+                    "long-term": "The teams have been utilizing corner kicks as a primary attacking strategy, but the defenders have been effective in clearing the threats so far."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+                    "history_time": "38:54",
+                    "long-term": "Both teams have shown promise on set pieces, with Craig Gardner and Aleksandar Kolarov delivering dangerous balls into the box that were well cleared by the opposition's defense."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+                    "history_time": "32:45",
+                    "long-term": "The player's set pieces have been lacking effectiveness, with the opposition defense dealing with them comfortably so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:10",
+            "game_time": "46:10",
+            "query": "Craig Dawson (West Brom) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. West Brom force a corner. They send men into the box.",
+            "short-term": "Craig Dawson (West Brom) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. His pass was aimed towards the penalty spot, but was intercepted, leading to a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. [TEAM] force a corner. They send men into the box.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri sends a lovely lofted pass forward that flies over the top of the defence and into the path of Wilfried Bony (Manchester City), but he can't direct his header on target as it flies well wide of the left post. The ball lacked power, making it difficult for Bony to control his effort at the penalty spot.",
+                    "history_time": "44:35",
+                    "long-term": "Both teams have shown glimpses of creative playmaking, but the finishing touches have been lacking, with shots and headers sailing wide or being intercepted by the opposing defense."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Multiple attackers were positioned near the centre of the box.",
+                    "history_time": "44:10",
+                    "long-term": "Both teams have shown intent to create scoring opportunities, but their opposing defenses have been equally effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man. The defender was well positioned at the near post to make the clearance.",
+                    "history_time": "41:59",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with a series of crosses and passes into the box."
+                },
+                {
+                    "short-term": "James McClean (West Brom) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. His pass was aimed towards the right side of the penalty area, but the defense stepped in just in time to deflect it out for a corner.",
+                    "history_time": "41:51",
+                    "long-term": "They have been consistently trying to break through the opposition's defense with clever passes, but the opposing team's backline has been equal to the task, intercepting multiple attempts and limiting their scoring opportunities."
+                },
+                {
+                    "short-term": "James McClean (West Brom) fails to find any of his teammates inside the box as his pass is blocked. He tried to cut the ball back near the penalty spot, but it was cleared away.",
+                    "history_time": "40:00",
+                    "long-term": "They have been struggling to break through the opposition's defense, with multiple attempted passes being intercepted or blocked."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+                    "history_time": "38:54",
+                    "long-term": "Both teams have shown glimpses of their attacking capabilities, but the defensive units have ultimately prevailed, preventing clear scoring opportunities. The match has been marked by a pattern of probing attacks and resolute defending."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+                    "history_time": "32:45",
+                    "long-term": "They have been struggling to break through the opposition's defense, with multiple attacking attempts being intercepted or blocked."
+                },
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with precise passes into the box, but the opposing defense has been equally effective in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:35",
+            "game_time": "44:35",
+            "query": "Samir Nasri sends a lovely lofted pass forward that flies over the top of the defence and into the path of Wilfried Bony (Manchester City), but he can't direct his header on target as it flies well wide of the left post.",
+            "short-term": "Samir Nasri sends a lovely lofted pass forward that flies over the top of the defence and into the path of Wilfried Bony (Manchester City), but he can't direct his header on target as it flies well wide of the left post. The ball lacked power, making it difficult for Bony to control his effort at the penalty spot.",
+            "query_ano": "[PLAYER] sends a lovely lofted pass forward that flies over the top of the defence and into the path of [PLAYER] ([TEAM]), but he can't direct his header on target as it flies well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Multiple attackers were positioned near the centre of the box.",
+                    "history_time": "44:10",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man. The defender was well positioned at the near post to make the clearance.",
+                    "history_time": "41:59",
+                    "long-term": "The players have shown moments of brilliance with their long passes and crosses, but the final touch in the attacking third has been lacking precision and quality."
+                },
+                {
+                    "short-term": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The defence positioned near the penalty spot, reacted quickly to head the ball away before any attacker could reach it.",
+                    "history_time": "35:35",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:10",
+            "game_time": "44:10",
+            "query": "Sergio Aguero (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "short-term": "Sergio Aguero (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Multiple attackers were positioned near the centre of the box.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+            "history": [
+                {
+                    "short-term": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man. The defender was well positioned at the near post to make the clearance.",
+                    "history_time": "41:59",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but the defensive units have been effective in clearing the danger so far."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+                    "history_time": "38:54",
+                    "long-term": "They consistently pressured the opponent's defense with crosses into the box, but the defense held strong to prevent any clear scoring opportunities."
+                },
+                {
+                    "short-term": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The defence positioned near the penalty spot, reacted quickly to head the ball away before any attacker could reach it.",
+                    "history_time": "35:35",
+                    "long-term": "During this period, he continuously sent crosses into the opponent's penalty area, but the landing points were not good and they were directly cleared."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:59",
+            "game_time": "41:59",
+            "query": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "short-term": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man. The defender was well positioned at the near post to make the clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) takes the corner kick but the ball only finds the head of an opponent. The delivery was targeted at the penalty spot, but the defender outjumped his marker to clear the danger.",
+                    "history_time": "39:17",
+                    "long-term": "Both teams have shown promising set-piece threats, but solid defensive positioning has so far thwarted their attempts to capitalize."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+                    "history_time": "38:54",
+                    "long-term": "Both teams have shown a willingness to use crosses to create scoring opportunities, but the defending teams have been alert to clear the danger so far."
+                },
+                {
+                    "short-term": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The defence positioned near the penalty spot, reacted quickly to head the ball away before any attacker could reach it.",
+                    "history_time": "35:35",
+                    "long-term": "Both teams have shown glimpses of promising attacking play, but the defensive units have been solid, neutralizing threats with timely clearances."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+                    "history_time": "32:45",
+                    "long-term": "They have been creating scoring opportunities with set pieces, but the defending team has been effective in clearing the threats so far."
+                },
+                {
+                    "short-term": "An accurate pass to the edge of the box is well taken by Craig Gardner (West Brom), whose instinctive shot towards goal flashes inches wide of the right post. He received the ball in stride and struck first-time, but his weaker left foot let him down.",
+                    "history_time": "28:18",
+                    "long-term": "He has been posing a threat on the opposition's defense with his deliveries into the box and attempt on goal, but lacks the precision to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses into the box, but the opposing team's defense has been effective in clearing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:51",
+            "game_time": "41:51",
+            "query": "James McClean (West Brom) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball.",
+            "short-term": "James McClean (West Brom) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. His pass was aimed towards the right side of the penalty area, but the defense stepped in just in time to deflect it out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "James McClean (West Brom) fails to find any of his teammates inside the box as his pass is blocked. He tried to cut the ball back near the penalty spot, but it was cleared away.",
+                    "history_time": "40:00",
+                    "long-term": "He has been struggling to create scoring opportunities, with his passes being consistently intercepted by the opposing defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:17",
+            "game_time": "39:17",
+            "query": "Samir Nasri (Manchester City) takes the corner kick but the ball only finds the head of an opponent.",
+            "short-term": "Samir Nasri (Manchester City) takes the corner kick but the ball only finds the head of an opponent. The delivery was targeted at the penalty spot, but the defender outjumped his marker to clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+                    "history_time": "38:54",
+                    "long-term": "This corner kick comes from a cross that created a chance, but was cleared by the defender, resulting in a corner kick."
+                },
+                {
+                    "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+                    "history_time": "23:59",
+                    "long-term": "They have been consistently threatening from set pieces, with both corners creating opportunities for headers, but lacking the final touch to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:54",
+            "game_time": "38:54",
+            "query": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick.",
+            "short-term": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick. The clearance was made near the edge of the six-yard box before any attacker could connect.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The defence positioned near the penalty spot, reacted quickly to head the ball away before any attacker could reach it.",
+                    "history_time": "35:35",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opponent's defense has been effective in clearing the ball."
+                },
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+                    "history_time": "32:45",
+                    "long-term": "Both teams have been creating scoring opportunities, but are struggling to find the accuracy to capitalize on them."
+                },
+                {
+                    "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+                    "history_time": "23:59",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, but lack the finishing touch to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The shot had power but lacked precision, striking a defender stationed near the penalty spot and deflecting out for a corner.",
+                    "history_time": "23:51",
+                    "long-term": "They have been consistently applying pressure through crosses and shots from outside the box, but the defending team has managed to clear the threats so far."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) takes the resulting corner which is well defended. The cross was driven into a crowded penalty area, but the defense positioned well to head the danger away.",
+                    "history_time": "11:57",
+                    "long-term": "The player has been posing a threat with his deliveries from the flank, but the opposition's defense has so far been able to neutralize the danger."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "They have consistently utilized crosses and passes to create scoring opportunities, maintaining pressure on the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:35",
+            "game_time": "35:35",
+            "query": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "short-term": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The defence positioned near the penalty spot, reacted quickly to head the ball away before any attacker could reach it.",
+            "query_ano": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "history": [
+                {
+                    "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+                    "history_time": "32:45",
+                    "long-term": "Both teams have been creating opportunities from set pieces and crosses, but the finishing touch has been lacking, leading to a series of missed chances."
+                },
+                {
+                    "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+                    "history_time": "23:59",
+                    "long-term": "They have been consistently posing threats through set pieces and crosses, although the final touch has eluded them so far."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The shot had power but lacked precision, striking a defender stationed near the penalty spot and deflecting out for a corner.",
+                    "history_time": "23:51",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses and shots, but the opposing team's backline has shown resilience in clearing and blocking their attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:30",
+            "game_time": "34:30",
+            "query": "Long passes, short passes and one-two passes. Manchester City are showcasing great teamwork by keeping possession and producing pin-point passes from player to player. ",
+            "short-term": "Long passes, short passes and one-two passes. Manchester City are showcasing great teamwork by keeping possession and producing pin-point passes from player to player. The sequence involved Aguero, Nasri, and Kolarov, attempting to break through two compact defensive lines.",
+            "query_ano": "Long passes, short passes and one-two passes. [TEAM] are showcasing great teamwork by keeping possession and producing pin-point passes from player to player. ",
+            "history": [
+                {
+                    "short-term": "Manchester City are showing great team chemistry. They are passing the ball around seamlessly. The movement off the ball was sharp, creating space as they advanced into the final third.",
+                    "history_time": "20:18",
+                    "long-term": "They have consistently demonstrated exceptional teamwork and coordination, maintaining possession with precise passing and creating scoring opportunities through well-executed movements."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:58",
+            "game_time": "32:58",
+            "query": "The foul by Craig Gardner (West Brom) is worthy of a card and a yellow is duly shown by Mike Jones.",
+            "short-term": "The foul by Craig Gardner (West Brom) is worthy of a card and a yellow is duly shown by Mike Jones. The challenge on Jesús Navas was late, and the crowd briefly called for a harsher punishment.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE].",
+            "history": [
+                {
+                    "short-term": "Mike Jones has a clear sight and sees a foul from Fabian Delph (Manchester City). West Brom are awarded a free kick from a dangerous position. The infringement occurred just outside the box as Delph attempted to stop Berahino from advancing.",
+                    "history_time": "30:56",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:45",
+            "game_time": "32:45",
+            "query": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall, saving the goalkeeper a lot of effort.",
+            "short-term": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall. The shot lacked power and was aimed at mid-height, making it an easy block for the defenders.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall, saving the goalkeeper a lot of effort.",
+            "history": [
+                {
+                    "short-term": "An accurate pass to the edge of the box is well taken by Craig Gardner (West Brom), whose instinctive shot towards goal flashes inches wide of the right post. He received the ball in stride and struck first-time, but his weaker left foot let him down.",
+                    "history_time": "28:18",
+                    "long-term": "He had several free kick opportunities in the past few minutes, but they were not in the right places and were cleared by the defenders."
+                },
+                {
+                    "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+                    "history_time": "23:59",
+                    "long-term": "Both teams have been creating set-piece opportunities, but the deliveries have lacked precision and power."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The shot had power but lacked precision, striking a defender stationed near the penalty spot and deflecting out for a corner.",
+                    "history_time": "23:51",
+                    "long-term": "Both teams have shown a willingness to take shots from distance."
+                },
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "They have been consistently posing threats through set pieces and crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:18",
+            "game_time": "28:18",
+            "query": "An accurate pass to the edge of the box is well taken by Craig Gardner (West Brom), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "short-term": "An accurate pass to the edge of the box is well taken by Craig Gardner (West Brom), whose instinctive shot towards goal flashes inches wide of the right post. He received the ball in stride and struck first-time, but his weaker left foot let him down.",
+            "query_ano": "An accurate pass to the edge of the box is well taken by [PLAYER] ([TEAM]), whose instinctive shot towards goal flashes inches wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+                    "history_time": "23:59",
+                    "long-term": "Both teams have shown moments of attacking flair, with shots flashing wide of the posts at both ends."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:59",
+            "game_time": "25:59",
+            "query": "The Manchester City players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession.",
+            "short-term": "The Manchester City players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession. Allowed West Brom to intercept and launch a counter-attack.",
+            "query_ano": "The [TEAM] players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession.",
+            "history": [
+                {
+                    "short-term": "West Brom are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. Manchester City are taking a throw-in. The sequence included quick interplay, but the final pass lacked accuracy, allowing City to regain possession.",
+                    "history_time": "16:18",
+                    "long-term": "Both teams have shown periods of controlled possession, but mistakes have led to a back-and-forth exchange, with neither side able to capitalize on the other's errors."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:59",
+            "game_time": "23:59",
+            "query": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post.",
+            "short-term": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. He rose well at the penalty spot but failed to generate enough power to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The shot had power but lacked precision, striking a defender stationed near the penalty spot and deflecting out for a corner.",
+                    "history_time": "23:51",
+                    "long-term": "They have been creating scoring opportunities through set pieces and powerful shots but lack the precision to convert them into goals."
+                },
+                {
+                    "short-term": "James McClean (West Brom) swings in the corner, but it's comfortably cleared away. The delivery aimed for the near post, but the defense reacted quickly to clear the ball before an attacker could reach it.",
+                    "history_time": "22:38",
+                    "long-term": "The set pieces have not been effectively utilized by either team, with both sides struggling to create significant scoring opportunities from corners."
+                },
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "Both teams have been creating opportunities from set pieces, but so far, they have failed to capitalize on these chances."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. The defender reacted quickly, stretching his leg to deflect the ball away.",
+                    "history_time": "20:28",
+                    "long-term": "They have been creating scoring opportunities, but the lack of precision in their finishing has hindered their ability to capitalize on these chances."
+                },
+                {
+                    "short-term": "A cross by James Chester (West Brom) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The delivery had too much height, sailing over the attacking players and straight into the opposition's clearance zone.",
+                    "history_time": "14:13",
+                    "long-term": "Both teams have been utilizing crosses and set pieces to create scoring opportunities, but the quality of delivery has let them down so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:51",
+            "game_time": "23:51",
+            "query": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "short-term": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The shot had power but lacked precision, striking a defender stationed near the penalty spot and deflecting out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "Both teams have been creating opportunities from crosses, but the finishing touch has been lacking, leading to a series of missed chances."
+                },
+                {
+                    "short-term": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. The defender reacted quickly, stretching his leg to deflect the ball away.",
+                    "history_time": "20:28",
+                    "long-term": "They have been creating scoring opportunities with powerful shots from outside the box."
+                },
+                {
+                    "short-term": "Sergio Aguero (Manchester City) leaves the keeper helpless with his precise penalty shot inside the right post. The striker placed it perfectly, just beyond the goalkeeper's reach, securing his 18th goal of the season.",
+                    "history_time": "18:41",
+                    "long-term": "They have been consistently aggressive in their attacking efforts, creating scoring opportunities through multiple channels, including long-range shots and set pieces."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "He has been consistently involved in creating scoring opportunities for his team."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:38",
+            "game_time": "22:38",
+            "query": "James McClean (West Brom) swings in the corner, but it's comfortably cleared away.",
+            "short-term": "James McClean (West Brom) swings in the corner, but it's comfortably cleared away. The delivery aimed for the near post, but the defense reacted quickly to clear the ball before an attacker could reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "history": [
+                {
+                    "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+                    "history_time": "22:15",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses into the box in these few minutes, but the defense has been equal to the task so far."
+                },
+                {
+                    "short-term": "James McClean (West Brom) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman signals a throw-in for West Brom. The ball was aimed at the near post, but the defense reacted quickly to head it away.",
+                    "history_time": "13:45",
+                    "long-term": "They have consistently utilized crosses and corners to create scoring opportunities, but the opposing defense has effectively countered these attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:15",
+            "game_time": "22:15",
+            "query": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The pass was intended for a teammate making a run towards the far post, but the clearance was well-timed to prevent a shot on goal.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. The defender reacted quickly, stretching his leg to deflect the ball away.",
+                    "history_time": "20:28",
+                    "long-term": "Both teams have shown promising attacking intent, but defenses have been solid, with crucial blocks and interceptions preventing potential scoring opportunities. The midfield battle is intense, with both sides creating chances."
+                },
+                {
+                    "short-term": "James McClean (West Brom) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman signals a throw-in for West Brom. The ball was aimed at the near post, but the defense reacted quickly to head it away.",
+                    "history_time": "13:45",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:28",
+            "game_time": "20:28",
+            "query": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "short-term": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender. The defender reacted quickly, stretching his leg to deflect the ball away.",
+            "query_ano": "[PLAYER] ([TEAM]) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Manchester City force a corner. Their opponents will face another attacking threat. Nasri’s delivery was well-placed, but the defenders timed their jumps effectively to prevent a clear header.",
+                    "history_time": "11:21",
+                    "long-term": "He was very involved in the attack during this period, trying to pass and shoot continuously."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "They have been consistently testing the opponent's defense with their aggressive attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:41",
+            "game_time": "18:41",
+            "query": "Sergio Aguero (Manchester City) leaves the keeper helpless with his precise penalty shot inside the right post.",
+            "short-term": "Sergio Aguero (Manchester City) leaves the keeper helpless with his precise penalty shot inside the right post. The striker placed it perfectly, just beyond the goalkeeper's reach, securing his 18th goal of the season.",
+            "query_ano": "[PLAYER] ([TEAM]) leaves the keeper helpless with his precise penalty shot inside the right post.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero (Manchester City) is going to take the penalty! The Argentine has a strong record from the spot, and the crowd watches intently as he prepares his shot.",
+                    "history_time": "18:20",
+                    "long-term": "He has consistently demonstrated his skill and composure in critical situations, as seen in his clinical penalty conversions."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:54",
+            "game_time": "17:54",
+            "query": "Stephane Sessegnon (West Brom) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The referee gives a penalty kick to Manchester City!!",
+            "short-term": "Stephane Sessegnon (West Brom) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The referee gives a penalty kick to Manchester City! The challenge looked clumsy, clipping the attacker's foot and leaving the referee with little choice.",
+            "query_ano": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The referee gives a penalty kick to [TEAM]!!",
+            "history": [
+                {
+                    "short-term": "James McClean (West Brom) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman signals a throw-in for West Brom. The ball was aimed at the near post, but the defense reacted quickly to head it away.",
+                    "history_time": "13:45",
+                    "long-term": "They have been showing signs of struggle in their defensive efforts, with a penalty conceded and an inability to create a clear scoring chance from a cross."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:13",
+            "game_time": "14:13",
+            "query": "A cross by James Chester (West Brom) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor.",
+            "short-term": "A cross by James Chester (West Brom) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. The delivery had too much height, sailing over the attacking players and straight into the opposition's clearance zone.",
+            "query_ano": "A cross by James Chester ([TEAM]) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor.",
+            "history": [
+                {
+                    "short-term": "James McClean (West Brom) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman signals a throw-in for West Brom. The ball was aimed at the near post, but the defense reacted quickly to head it away.",
+                    "history_time": "13:45",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the delivery has been inconsistent and the opposition's defense has been effective in clearing the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:57",
+            "game_time": "11:57",
+            "query": "Aleksandar Kolarov (Manchester City) takes the resulting corner which is well defended.",
+            "short-term": "Aleksandar Kolarov (Manchester City) takes the resulting corner which is well defended. The cross was driven into a crowded penalty area, but the defense positioned well to head the danger away.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended.",
+            "history": [
+                {
+                    "short-term": "Samir Nasri (Manchester City) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Manchester City force a corner. Their opponents will face another attacking threat. Nasri’s delivery was well-placed, but the defenders timed their jumps effectively to prevent a clear header.",
+                    "history_time": "11:21",
+                    "long-term": "This corner kick came from a dangerous cross, which was well cleared by the defender."
+                },
+                {
+                    "short-term": "The corner kick from Samir Nasri (Manchester City) is headed out of the penalty area by one of the defenders. Manchester City have been awarded a corner kick. The delivery was aimed at the penalty spot, but the defense reacted swiftly to clear the danger.",
+                    "history_time": "10:58",
+                    "long-term": "They have been consistently posing threats through set pieces, with consecutive corner kicks creating pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "They have been consistently creating scoring opportunities, particularly through corners and passes into the box, but the opposing defense has been equal to the task, effectively neutralizing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:21",
+            "game_time": "11:21",
+            "query": "Samir Nasri (Manchester City) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Manchester City force a corner. Their opponents will face another attacking threat.",
+            "short-term": "Samir Nasri (Manchester City) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Manchester City force a corner. Their opponents will face another attacking threat. Nasri’s delivery was well-placed, but the defenders timed their jumps effectively to prevent a clear header.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "history": [
+                {
+                    "short-term": "The corner kick from Samir Nasri (Manchester City) is headed out of the penalty area by one of the defenders. Manchester City have been awarded a corner kick. The delivery was aimed at the penalty spot, but the defense reacted swiftly to clear the danger.",
+                    "history_time": "10:58",
+                    "long-term": "His continuous crosses and corner kicks over the past few minutes did not result in any scoring opportunities."
+                },
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "They have been consistently posing threats through crosses and corners, putting pressure on the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:58",
+            "game_time": "10:58",
+            "query": "The corner kick from Samir Nasri (Manchester City) is headed out of the penalty area by one of the defenders. Manchester City have been awarded a corner kick.",
+            "short-term": "The corner kick from Samir Nasri (Manchester City) is headed out of the penalty area by one of the defenders. Manchester City have been awarded a corner kick. The delivery was aimed at the penalty spot, but the defense reacted swiftly to clear the danger.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. The defender intervened just in time as Bony was ready to meet the pass near the six-yard box.",
+                    "history_time": "10:21",
+                    "long-term": "They have been consistently creating scoring opportunities from set pieces, particularly corner kicks, and threatening the opposition's goal."
+                }
+            ]
+        }
+    ]
+}

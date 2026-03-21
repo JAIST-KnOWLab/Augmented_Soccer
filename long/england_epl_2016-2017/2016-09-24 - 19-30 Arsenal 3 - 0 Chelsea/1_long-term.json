@@ -1,0 +1,151 @@
+{
+    "annotations": [
+        {
+            "game_time": "13:12",
+            "query": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. 2:0.",
+            "short-term": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. Arsenal extend their lead with a well-worked team goal.",
+            "query_ano": "What a goal! [PLAYER] plays it to [PLAYER] ([TEAM]), who finds himself unmarked inside the box and slots a first-time shot past [PLAYER]. 2:0.",
+            "history": [
+                {
+                    "short-term": "Goal! The ball breaks to Alexis Sanchez (Arsenal) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He kept his cool to score in his 100th appearance for Arsenal.",
+                    "history_time": "10:30",
+                    "long-term": "They have consistently demonstrated exceptional teamwork and composure in front of goal, leading to well-executed finishes."
+                }
+            ]
+        },
+        {
+            "game_time": "18:50",
+            "query": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "short-term": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post. He looks frustrated as he sees the opportunity wasted.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. Arsenal extend their lead with a well-worked team goal.",
+                    "history_time": "13:12",
+                    "long-term": "They have maintained an aggressive offense, creating multiple scoring opportunities despite some initial frustration with missed shots."
+                },
+                {
+                    "short-term": "Goal! The ball breaks to Alexis Sanchez (Arsenal) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He kept his cool to score in his 100th appearance for Arsenal.",
+                    "history_time": "10:30",
+                    "long-term": "After scoring a goal, he still tried to create a scoring opportunity in front of the goal, and this time he almost scored his second goal."
+                }
+            ]
+        },
+        {
+            "game_time": "20:28",
+            "query": "CHANCE! Eden Hazard finds Willian (Chelsea) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post!",
+            "short-term": "CHANCE! Eden Hazard finds Willian (Chelsea) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post! A promising moment for Chelsea as they push forward.",
+            "query_ano": "CHANCE! [PLAYER] finds [PLAYER] ([TEAM]) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post. He looks frustrated as he sees the opportunity wasted.",
+                    "history_time": "18:50",
+                    "long-term": "Both teams have been creating scoring opportunities, but lack of precision in their finishing has prevented them from taking the lead."
+                }
+            ]
+        },
+        {
+            "game_time": "23:32",
+            "query": "This shall not pass! Eden Hazard (Chelsea) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "This shall not pass! Eden Hazard (Chelsea) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by Laurent Koscielny. Arsenal's defense stands firm.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "CHANCE! Eden Hazard finds Willian (Chelsea) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post! A promising moment for Chelsea as they push forward.",
+                    "history_time": "20:28",
+                    "long-term": "He continued to create chances in attack, including passing to teammates and attempting long shots, but none of them turned into goals."
+                }
+            ]
+        },
+        {
+            "game_time": "24:37",
+            "query": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee points to the corner flag and Arsenal will take a corner.",
+            "short-term": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee awards a corner, giving Arsenal another chance to attack.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "This shall not pass! Eden Hazard (Chelsea) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by Laurent Koscielny. Arsenal's defense stands firm.",
+                    "history_time": "23:32",
+                    "long-term": "Both teams have shown great defensive solidity, with key blocks made by defenders."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post. He looks frustrated as he sees the opportunity wasted.",
+                    "history_time": "18:50",
+                    "long-term": "They have been consistently aggressive in their attacking efforts, but the opposing team's defense has been equally effective in neutralizing these attempts."
+                },
+                {
+                    "short-term": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. Arsenal extend their lead with a well-worked team goal.",
+                    "history_time": "13:12",
+                    "long-term": "He remained aggressive after scoring a goal and this time his shot almost went in."
+                }
+            ]
+        },
+        {
+            "game_time": "25:20",
+            "query": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger. Arsenal’s attackers look disappointed as the ball is cleared.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+            "history": [
+                {
+                    "short-term": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee awards a corner, giving Arsenal another chance to attack.",
+                    "history_time": "24:37",
+                    "long-term": "This corner kick came from their shot, which was blocked by the defender."
+                }
+            ]
+        },
+        {
+            "game_time": "29:54",
+            "query": "The corner kick from Mesut Ozil (Arsenal) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Mesut Ozil (Arsenal) is headed out of the penalty area by one of the defenders. Arsenal retain possession and look to build another attack.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "The free kick from the edge of the box is taken by Alexis Sanchez (Arsenal), but he hits it straight in the defensive wall. The Chelsea defenders stood firm, and Arsenal win a corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently applying pressure through set pieces, though struggling to break through the defensive wall."
+                },
+                {
+                    "short-term": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger. Arsenal’s attackers look disappointed as the ball is cleared.",
+                    "history_time": "25:20",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, but the opposing defense has managed to handle the pressure so far."
+                },
+                {
+                    "short-term": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee awards a corner, giving Arsenal another chance to attack.",
+                    "history_time": "24:37",
+                    "long-term": "They have been consistently pressuring the defense with set pieces and sustained attacks, testing the opponent's resolve and creating scoring opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "29:30",
+            "query": "The free kick from the edge of the box is taken by Alexis Sanchez (Arsenal), but he hits it straight in the defensive wall. Arsenal have been awarded a corner kick.",
+            "short-term": "The free kick from the edge of the box is taken by Alexis Sanchez (Arsenal), but he hits it straight in the defensive wall. The Chelsea defenders stood firm, and Arsenal win a corner.",
+            "query_ano": "The free kick from the edge of the box is taken by [PLAYER] ([TEAM]), but he hits it straight in the defensive wall. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger. Arsenal’s attackers look disappointed as the ball is cleared.",
+                    "history_time": "25:20",
+                    "long-term": "They have been struggling to capitalize on set-piece opportunities, with their recent free kick and corner both being effectively neutralized by the opposing defense."
+                },
+                {
+                    "short-term": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee awards a corner, giving Arsenal another chance to attack.",
+                    "history_time": "24:37",
+                    "long-term": "They have been consistently threatening the opponent's goal with multiple scoring chances, but the defense has been able to counter their attacks so far."
+                }
+            ]
+        },
+        {
+            "game_time": "39:40",
+            "query": "It's a goal! Mesut Ozil (Arsenal) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from Alexis Sanchez. The score is 3:0.",
+            "short-term": "It's a goal! Mesut Ozil (Arsenal) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from Alexis Sanchez. Arsenal extend their lead.",
+            "query_ano": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from [PLAYER]. The score is 3:0.",
+            "history": [
+                {
+                    "short-term": "Goal! The ball breaks to Alexis Sanchez (Arsenal) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He kept his cool to score in his 100th appearance for Arsenal.",
+                    "history_time": "10:30",
+                    "long-term": "They have demonstrated exceptional attacking prowess, capitalizing on scoring opportunities with precise passing and clinical finishing to extend their lead."
+                }
+            ]
+        }
+    ]
+}

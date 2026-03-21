@@ -1,0 +1,281 @@
+{
+    "annotations": [
+        {
+            "game_time": "14:10",
+            "query": "Sergio Aguero (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Sergio Aguero tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. Aguero was looking for an opening, but the defender anticipated well.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "Marcus Rashford collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The deflection could have caused trouble, but the defense managed to clear it.",
+                    "history_time": "9:03",
+                    "long-term": "Both teams have shown great attacking intent, creating opportunities but facing stiff defensive resistance, setting the stage for an intense battle."
+                }
+            ]
+        },
+        {
+            "game_time": "16:27",
+            "query": "Wilfried Bony (Manchester City) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",
+            "short-term": "Wilfried Bony fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates. He was trying to work a quick one-two with a teammate, but the shot was inadvertently stopped.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. Aguero was looking for an opening, but the defender anticipated well.",
+                    "history_time": "14:10",
+                    "long-term": "They have been creating scoring opportunities with inventive plays, but so far, haven't managed to capitalize on these chances due to intervention from both the opposition and their own teammates."
+                },
+                {
+                    "short-term": "Daley Blind takes the corner but only sends it into a huddle of defenders. One of them makes a good clearance, ensuring the attacking team couldn't capitalize.",
+                    "history_time": "9:40",
+                    "long-term": "They have been struggling to create clear-cut scoring opportunities, with shots being blocked and set pieces not yielding the desired outcome."
+                },
+                {
+                    "short-term": "Marcus Rashford collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The deflection could have caused trouble, but the defense managed to clear it.",
+                    "history_time": "9:03",
+                    "long-term": "They have been creating scoring opportunities with some promising link-up play, but struggling to convert them due to robust defensive interventions."
+                },
+                {
+                    "short-term": "Wilfried Bony latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save. He seemed to mistime his jump, preventing a stronger connection.",
+                    "history_time": "8:34",
+                    "long-term": "He has been attempting to create scoring opportunities, but his efforts have been hindered by misfortune and imperfect execution."
+                }
+            ]
+        },
+        {
+            "game_time": "18:13",
+            "query": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Wilfried Bony collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The forward had positioned himself well, but the defender reacted quickly to deny him. Players appealed for a corner, but the referee ruled it a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Wilfried Bony fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates. He was trying to work a quick one-two with a teammate, but the shot was inadvertently stopped.",
+                    "history_time": "16:27",
+                    "long-term": "He has been posing a threat in the attacking third, testing the defense with his shooting, but hasn't found the breakthrough yet."
+                },
+                {
+                    "short-term": "Daley Blind takes the corner but only sends it into a huddle of defenders. One of them makes a good clearance, ensuring the attacking team couldn't capitalize.",
+                    "history_time": "9:40",
+                    "long-term": "The attacking team has been creating scoring opportunities but struggling to find the final breakthrough due to the defending team's resolute last line of defense."
+                },
+                {
+                    "short-term": "Wilfried Bony latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save. He seemed to mistime his jump, preventing a stronger connection.",
+                    "history_time": "8:34",
+                    "long-term": "He has consistently posed a threat in the box, creating chances through his positioning and aerial ability, but has yet to find the breakthrough."
+                }
+            ]
+        },
+        {
+            "game_time": "26:40",
+            "query": "Wow, what an escape. Wilfried Bony (Manchester City) has an effort from inside the box but it's brilliantly blocked. The ball is out of play. Manchester City will have a chance to score from a corner.",
+            "short-term": "Wow, what an escape. Wilfried Bony has an effort from inside the box but it's brilliantly blocked. The ball is out of play. Manchester City will have a chance to score from a corner. A crucial defensive intervention kept the scoreline unchanged.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas takes the resulting corner which is well defended. Manchester City will take a corner kick. The outswinging delivery was dangerous, but the defense stayed firm.",
+                    "history_time": "26:32",
+                    "long-term": "The defense has been solid, making crucial blocks and clearances to deny Manchester City scoring opportunities, while also dealing effectively with set pieces."
+                },
+                {
+                    "short-term": "Wilfried Bony collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The forward had positioned himself well, but the defender reacted quickly to deny him. Players appealed for a corner, but the referee ruled it a goal kick.",
+                    "history_time": "18:13",
+                    "long-term": "He has shown great positioning in the box, creating a couple of scoring opportunities, but has been met with brilliant defensive work."
+                },
+                {
+                    "short-term": "Wilfried Bony fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates. He was trying to work a quick one-two with a teammate, but the shot was inadvertently stopped.",
+                    "history_time": "16:27",
+                    "long-term": "He has shown great intent in front of goal, but his efforts have been consistently thwarted by blocks."
+                },
+                {
+                    "short-term": "Sergio Aguero tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. Aguero was looking for an opening, but the defender anticipated well.",
+                    "history_time": "14:10",
+                    "long-term": "They have been creating scoring opportunities, particularly from corners, but the opposition's defense has been making crucial interventions to prevent them from taking the lead."
+                }
+            ]
+        },
+        {
+            "game_time": "26:32",
+            "query": "Jesus Navas (Manchester City) takes the resulting corner which is well defended. Manchester City will take a corner kick.",
+            "short-term": "Jesus Navas takes the resulting corner which is well defended. Manchester City will take a corner kick. The outswinging delivery was dangerous, but the defense stayed firm.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Sergio Aguero tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. Aguero was looking for an opening, but the defender anticipated well.",
+                    "history_time": "14:10",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with repeated corner kicks, but the defense has held firm so far."
+                }
+            ]
+        },
+        {
+            "game_time": "29:17",
+            "query": "Jesus Navas (Manchester City) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar.",
+            "short-term": "Jesus Navas strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar. Lacking confidence, he failed to keep the shot down despite having time to set himself.",
+            "query_ano": "[PLAYER] ([TEAM]) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas takes the resulting corner which is well defended. Manchester City will take a corner kick. The outswinging delivery was dangerous, but the defense stayed firm.",
+                    "history_time": "26:32",
+                    "long-term": "He has struggled to create scoring opportunities, with his shots and crosses lacking the necessary precision and quality to trouble the opposition's defense."
+                },
+                {
+                    "short-term": "Wilfried Bony collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The forward had positioned himself well, but the defender reacted quickly to deny him. Players appealed for a corner, but the referee ruled it a goal kick.",
+                    "history_time": "18:13",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them, with shots either going off target or being effectively blocked by the defense."
+                }
+            ]
+        },
+        {
+            "game_time": "30:56",
+            "query": "Michael Carrick (Manchester United) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "short-term": "Michael Carrick delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked precision and didn’t trouble the well-organized defense.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar. Lacking confidence, he failed to keep the shot down despite having time to set himself.",
+                    "history_time": "29:17",
+                    "long-term": "They have been wasteful with their set pieces and scoring opportunities, lacking precision and confidence in their finishing."
+                }
+            ]
+        },
+        {
+            "game_time": "33:17",
+            "query": "Fernando (Manchester City) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post.",
+            "short-term": "Fernando wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post. The delivery was well-placed, but the execution let him down.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Michael Carrick delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked precision and didn’t trouble the well-organized defense.",
+                    "history_time": "30:56",
+                    "long-term": "They have been struggling with set pieces, failing to capitalize on two promising opportunities with poor execution and delivery."
+                },
+                {
+                    "short-term": "Jesus Navas strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar. Lacking confidence, he failed to keep the shot down despite having time to set himself.",
+                    "history_time": "29:17",
+                    "long-term": "They have been creating scoring opportunities but struggling to convert them, with inaccurate finishing letting them down on multiple occasions."
+                },
+                {
+                    "short-term": "Sergio Aguero connects with a cross from out wide in the six-yard box, but only plants his header onto the right post. It was inches away from leveling the score, but the ball bounced away harmlessly.",
+                    "history_time": "20:20",
+                    "long-term": "They have been creating scoring opportunities with well-placed crosses, but the finishing touches have been lacking precision, failing to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "game_time": "41:10",
+            "query": "Fernandinho (Manchester City) brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Manchester Utd are awarded a free kick.",
+            "short-term": "Fernandinho brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Manchester Utd are awarded a free kick. The fouled player did well to draw the challenge and win possession for his team.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] are awarded a free kick.",
+            "history": [
+                {
+                    "short-term": "Eliaquim Mangala is booked after bringing down an opponent. Michael Oliver had an easy decision to make. There is a free kick near the sideline to Manchester Utd. A late challenge left the referee with no hesitation in issuing the yellow card.",
+                    "history_time": "30:14",
+                    "long-term": "They have been committing several fouls, resulting in free kicks and a yellow card in these few minutes."
+                }
+            ]
+        },
+        {
+            "game_time": "42:28",
+            "query": "Jesus Navas (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Jesus Navas takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attacking side had loaded the box, but the defenders remained composed.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Fernando wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post. The delivery was well-placed, but the execution let him down.",
+                    "history_time": "33:17",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the finishing and execution in the box have let them down so far."
+                },
+                {
+                    "short-term": "Michael Carrick delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked precision and didn’t trouble the well-organized defense.",
+                    "history_time": "30:56",
+                    "long-term": "The attacking side has been consistently applying pressure through set pieces."
+                },
+                {
+                    "short-term": "Jesus Navas strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar. Lacking confidence, he failed to keep the shot down despite having time to set himself.",
+                    "history_time": "29:17",
+                    "long-term": "They have been creating scoring opportunities, but the final delivery has let them down, with both a corner kick and a shot from the edge of the box failing to trouble the opposition."
+                },
+                {
+                    "short-term": "Jesus Navas takes the resulting corner which is well defended. Manchester City will take a corner kick. The outswinging delivery was dangerous, but the defense stayed firm.",
+                    "history_time": "26:32",
+                    "long-term": "The player's set pieces have been threatening, consistently delivering dangerous balls into the box, but the opposition's defense has held strong so far."
+                }
+            ]
+        },
+        {
+            "game_time": "45:28",
+            "query": "Sergio Aguero (Manchester City) misses a great chance after he found some space in the box! His effort goes inches wide of the left post.",
+            "short-term": "Sergio Aguero misses a great chance after he found some space in the box! His effort goes inches wide of the left post. He looked frustrated as he knew that was an opportunity to level the score.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a great chance after he found some space in the box! His effort goes inches wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attacking side had loaded the box, but the defenders remained composed.",
+                    "history_time": "42:28",
+                    "long-term": "They have been creating scoring opportunities, but the final touch has been lacking, with chances going wide and defenses holding firm."
+                },
+                {
+                    "short-term": "Fernando wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post. The delivery was well-placed, but the execution let him down.",
+                    "history_time": "33:17",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with their efforts often going wide of the post."
+                }
+            ]
+        },
+        {
+            "game_time": "46:30",
+            "query": "A lofted cross from Gael Clichy (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and Manchester City have been awarded a corner kick.",
+            "short-term": "A lofted cross from Gael Clichy is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and Manchester City have been awarded a corner kick. The clearance was well-timed to prevent any danger.",
+            "query_ano": "A lofted cross from Gael Clichy ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Jesus Navas takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attacking side had loaded the box, but the defenders remained composed.",
+                    "history_time": "42:28",
+                    "long-term": "They have been consistently applying pressure through crosses and corners, but the opponent's defense has been resilient in coping with the aerial threats."
+                },
+                {
+                    "short-term": "Fernandinho brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Manchester Utd are awarded a free kick. The fouled player did well to draw the challenge and win possession for his team.",
+                    "history_time": "41:10",
+                    "long-term": "They have been creating opportunities through crosses and set pieces, but also giving away free kicks with tackles."
+                },
+                {
+                    "short-term": "Fernando wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post. The delivery was well-placed, but the execution let him down.",
+                    "history_time": "33:17",
+                    "long-term": "They have been creating scoring opportunities through crosses, but struggling to capitalize on them due to timely defensive interventions and inaccurate finishing."
+                },
+                {
+                    "short-term": "Michael Carrick delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked precision and didn’t trouble the well-organized defense.",
+                    "history_time": "30:56",
+                    "long-term": "The team's set pieces have been dealt with comfortably by the opposing defense so far, failing to create meaningful scoring opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "7:08",
+            "query": "Substitution. Wilfried Bony (Manchester City) in, Martin Demichelis out.",
+            "short-term": "Substitution. Wilfried Bony comes in, replacing Martin Demichelis. The defender endured a tough time on the pitch and is taken off for a more attacking approach.",
+            "query_ano": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out.",
+            "history": [
+                {
+                    "short-term": "Joe Hart is substituted due to injury. Manuel Pellegrini gives a chance to Wilfredo Caballero. The home fans acknowledge his previous heroics with a warm reception.",
+                    "history_time": "3:27",
+                    "long-term": "The manager is making tactical changes to impact the game's outcome, shifting from defense to offense and adapting to an injury."
+                }
+            ]
+        },
+        {
+            "game_time": "9:40",
+            "query": "Daley Blind (Manchester United) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "short-term": "Daley Blind takes the corner but only sends it into a huddle of defenders. One of them makes a good clearance, ensuring the attacking team couldn't capitalize.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Marcus Rashford collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The deflection could have caused trouble, but the defense managed to clear it.",
+                    "history_time": "9:03",
+                    "long-term": "They have been creating scoring opportunities but the defense has been solid, neutralizing their threats effectively."
+                },
+                {
+                    "short-term": "Wilfried Bony latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save. He seemed to mistime his jump, preventing a stronger connection.",
+                    "history_time": "8:34",
+                    "long-term": "They have been creating opportunities from set pieces and crosses but struggling to find the finishing touch, allowing the opposing team's defense to hold strong."
+                }
+            ]
+        }
+    ]
+}

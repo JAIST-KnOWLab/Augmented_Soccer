@@ -1,0 +1,220 @@
+{
+    "annotations": [
+        {
+            "game_time": "10:09",
+            "query": "Goal - 1:3! Nathaniel Clyne laid the ball off to Philippe Coutinho (Liverpool), who slots it into the back of the net from close range, leaving the goalkeeper helpless.",
+            "short-term": "Goal - 1:3! Nathaniel Clyne laid the ball off to Philippe Coutinho (Liverpool), who slots it into the back of the net from close range, leaving the goalkeeper helpless. His driving run from right-back and perfectly placed cross made the finish easy for his teammate, while defenders looked dejected.",
+            "query_ano": "Goal - 1:3! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who slots it into the back of the net from close range, leaving the goalkeeper helpless.",
+            "history": [
+                {
+                    "short-term": "Goal! Georginio Wijnaldum displays great vision and sends a pass to Adam Lallana (Liverpool), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. A well-taken goal that puts Liverpool ahead.",
+                    "history_time": "3:26",
+                    "long-term": "They scored two goals in a matter of minutes and their offensive momentum never slowed down."
+                }
+            ]
+        },
+        {
+            "game_time": "17:59",
+            "query": "Sadio Mane (Liverpool) finishes his beautiful individual effort with a superb strike from inside the box. Petr Cech is just a bystander as the ball flies into the top left corner. The score is 1:4.",
+            "short-term": "Sadio Mane (Liverpool) finishes his beautiful individual effort with a superb strike from inside the box. Petr Cech is just a bystander as the ball flies into the top left corner. Mane's pace and skill were breathtaking, leaving Arsenal’s defenders stranded as he extended Liverpool’s lead.",
+            "query_ano": "[PLAYER] ([TEAM]) finishes his beautiful individual effort with a superb strike from inside the box. [PLAYER] is just a bystander as the ball flies into the top left corner. The score is 1:4.",
+            "history": [
+                {
+                    "short-term": "Goal - 1:3! Nathaniel Clyne laid the ball off to Philippe Coutinho (Liverpool), who slots it into the back of the net from close range, leaving the goalkeeper helpless. His driving run from right-back and perfectly placed cross made the finish easy for his teammate, while defenders looked dejected.",
+                    "history_time": "10:09",
+                    "long-term": "They have displayed exceptional attacking prowess, scoring two impressive goals that highlight their speed, skill, and finishing ability."
+                },
+                {
+                    "short-term": "Goal! Georginio Wijnaldum displays great vision and sends a pass to Adam Lallana (Liverpool), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. A well-taken goal that puts Liverpool ahead.",
+                    "history_time": "3:26",
+                    "long-term": "They have consistently demonstrated exceptional attacking prowess, scoring impressive goals through individual skill and clever team play."
+                }
+            ]
+        },
+        {
+            "game_time": "18:36",
+            "query": "It's a goal! Alex Oxlade-Chamberlain (Arsenal) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded Simon Mignolet. 2:4.",
+            "short-term": "It's a goal! Alex Oxlade-Chamberlain (Arsenal) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded Simon Mignolet. 2:4. Arsenal players quickly grab the ball, eager to restart play and push for another goal.",
+            "query_ano": "It's a goal! [PLAYER] ([TEAM]) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded [PLAYER]. 2:4.",
+            "history": [
+                {
+                    "short-term": "Sadio Mane (Liverpool) finishes his beautiful individual effort with a superb strike from inside the box. Petr Cech is just a bystander as the ball flies into the top left corner. Mane's pace and skill were breathtaking, leaving Arsenal’s defenders stranded as he extended Liverpool’s lead.",
+                    "history_time": "17:59",
+                    "long-term": "Both teams have shown flashes of brilliance in attack, with their pace and skill on display, making for a highly entertaining and dynamic match."
+                },
+                {
+                    "short-term": "Goal - 1:3! Nathaniel Clyne laid the ball off to Philippe Coutinho (Liverpool), who slots it into the back of the net from close range, leaving the goalkeeper helpless. His driving run from right-back and perfectly placed cross made the finish easy for his teammate, while defenders looked dejected.",
+                    "history_time": "10:09",
+                    "long-term": "Both teams have shown incredible attacking prowess, with lightning-quick movements and precision passing creating scoring opportunities."
+                },
+                {
+                    "short-term": "Goal! Georginio Wijnaldum displays great vision and sends a pass to Adam Lallana (Liverpool), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. A well-taken goal that puts Liverpool ahead.",
+                    "history_time": "3:26",
+                    "long-term": "Both teams have shown exceptional attacking prowess, with The players exhibiting impressive skill and composure in front of goal, resulting in a flurry of scoring opportunities."
+                }
+            ]
+        },
+        {
+            "game_time": "20:30",
+            "query": "Nacho Monreal (Arsenal) delivers a low pass into the box which is intercepted. Corner kick. Arsenal will have an opportunity.",
+            "short-term": "Nacho Monreal (Arsenal) delivers a low pass into the box which is intercepted. Corner kick. Arsenal will have an opportunity. He signals to his teammates, urging them to position themselves well for the set piece.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted. Corner kick. [TEAM] will have an opportunity.",
+            "history": [
+                {
+                    "short-term": "Arsenal hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break. The fans are urging them forward, sensing the need for a goal.",
+                    "history_time": "18:51",
+                    "long-term": "They have been maintaining possession and creating scoring opportunities, which could ultimately lead to a breakthrough in the opposition's defense."
+                },
+                {
+                    "short-term": "It's a goal! Alex Oxlade-Chamberlain (Arsenal) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded Simon Mignolet. 2:4. Arsenal players quickly grab the ball, eager to restart play and push for another goal.",
+                    "history_time": "18:36",
+                    "long-term": "They have consistently applied pressure in the opponent's half, finally breaking through with a moment of individual brilliance to take the lead."
+                }
+            ]
+        },
+        {
+            "game_time": "29:35",
+            "query": "Santi Cazorla (Arsenal) takes a direct free kick.",
+            "short-term": "Santi Cazorla (Arsenal) takes a direct free kick. He carefully lines up his shot, looking to curl the ball past the defensive wall.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a direct free kick.",
+            "history": [
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Arsenal are awarded a free kick. He continues to protest the decision.",
+                    "history_time": "29:25",
+                    "long-term": "They have been creating scoring opportunities from set pieces, including a recent free kick, and winning crucial fouls in strategic positions."
+                }
+            ]
+        },
+        {
+            "game_time": "29:40",
+            "query": "The ball is whipped in from the free kick and finds the head of Calum Chambers (Arsenal), who rises and produces an amazing header inside the right post.",
+            "short-term": "The ball is whipped in from the free kick and finds the head of Calum Chambers (Arsenal), who rises and produces an amazing header inside the right post. The goalkeeper stretches but can't reach it as the ball nestles into the net.",
+            "query_ano": "The ball is whipped in from the free kick and finds the head of [PLAYER] ([TEAM]), who rises and produces an amazing header inside the right post.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes a direct free kick. He carefully lines up his shot, looking to curl the ball past the defensive wall.",
+                    "history_time": "29:35",
+                    "long-term": "They have been posing a significant threat from set pieces, with clever deliveries and well-executed finishes catching the opponents off guard."
+                },
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Arsenal are awarded a free kick. He continues to protest the decision.",
+                    "history_time": "29:25",
+                    "long-term": "They have capitalized on set pieces effectively, scoring a crucial goal, and benefiting from a free kick to create another scoring chance."
+                },
+                {
+                    "short-term": "It's a goal! Alex Oxlade-Chamberlain (Arsenal) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded Simon Mignolet. 2:4. Arsenal players quickly grab the ball, eager to restart play and push for another goal.",
+                    "history_time": "18:36",
+                    "long-term": "They have demonstrated exceptional skill and determination in front of goal, scoring with both individual brilliance and set-piece expertise."
+                }
+            ]
+        },
+        {
+            "game_time": "29:25",
+            "query": "Nathaniel Clyne (Liverpool) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Arsenal are awarded a free kick. Let's see what they create from this.",
+            "short-term": "Nathaniel Clyne (Liverpool) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Arsenal are awarded a free kick. He continues to protest the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul. [TEAM] are awarded a free kick. Let's see what they create from this.",
+            "history": [
+                {
+                    "short-term": "Nacho Monreal (Arsenal) delivers a low pass into the box which is intercepted. Corner kick. Arsenal will have an opportunity. He signals to his teammates, urging them to position themselves well for the set piece.",
+                    "history_time": "20:30",
+                    "long-term": "They have shown aggressive defense and are creating scoring opportunities through set pieces."
+                }
+            ]
+        },
+        {
+            "game_time": "36:45",
+            "query": "Santi Cazorla (Arsenal) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "short-term": "Santi Cazorla (Arsenal) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. Arsenal’s attackers look disappointed as the opportunity is wasted.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Theo Walcott (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Arsenal win a corner, and they look determined to make this one count.",
+                    "history_time": "36:25",
+                    "long-term": "They have been consistently creating scoring opportunities with set pieces."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Calum Chambers (Arsenal), who rises and produces an amazing header inside the right post. The goalkeeper stretches but can't reach it as the ball nestles into the net.",
+                    "history_time": "29:40",
+                    "long-term": "They have been utilizing set pieces effectively to create scoring opportunities."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes a direct free kick. He carefully lines up his shot, looking to curl the ball past the defensive wall.",
+                    "history_time": "29:35",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, with consecutive corners and free kicks attempting to penetrate the defensive wall."
+                }
+            ]
+        },
+        {
+            "game_time": "36:25",
+            "query": "Theo Walcott (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Good work from Arsenal as they win a corner.",
+            "short-term": "Theo Walcott (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Arsenal win a corner, and they look determined to make this one count.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Good work from [TEAM] as they win a corner.",
+            "history": [
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Calum Chambers (Arsenal), who rises and produces an amazing header inside the right post. The goalkeeper stretches but can't reach it as the ball nestles into the net.",
+                    "history_time": "29:40",
+                    "long-term": "They have been consistently pressuring the opposition's defense with set pieces, ultimately finding success with a well-executed header."
+                },
+                {
+                    "short-term": "Nathaniel Clyne (Liverpool) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Arsenal are awarded a free kick. He continues to protest the decision.",
+                    "history_time": "29:25",
+                    "long-term": "The match has seen an intense battle for possession, with both teams creating chances and pressuring each other's defenses."
+                }
+            ]
+        },
+        {
+            "game_time": "39:15",
+            "query": "Wow, what an escape. Roberto Firmino (Liverpool) has an effort from inside the box but it's brilliantly blocked. Liverpool win a corner.",
+            "short-term": "Wow, what an escape. Roberto Firmino (Liverpool) has an effort from inside the box but it's brilliantly blocked. The ball deflects off a defender and hits the outside of the net before Liverpool win a corner.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked. [TEAM] win a corner.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. Arsenal’s attackers look disappointed as the opportunity is wasted.",
+                    "history_time": "36:45",
+                    "long-term": "Both teams have shown great defensive resilience, with each side making crucial blocks and clearances to neutralize threatening attacks."
+                }
+            ]
+        },
+        {
+            "game_time": "39:50",
+            "query": "Jordan Henderson (Liverpool) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "short-term": "Jordan Henderson (Liverpool) swings in the corner kick, but one of the defenders leaps highest to head the ball away. Henderson’s cross was slightly too deep, making it difficult for the attackers to capitalize.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "history": [
+                {
+                    "short-term": "Wow, what an escape. Roberto Firmino (Liverpool) has an effort from inside the box but it's brilliantly blocked. The ball deflects off a defender and hits the outside of the net before Liverpool win a corner.",
+                    "history_time": "39:15",
+                    "long-term": "They have been consistently threatening from set pieces and inside the box, but the opposing team's defense has been resilient in thwarting their scoring attempts."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. Arsenal’s attackers look disappointed as the opportunity is wasted.",
+                    "history_time": "36:45",
+                    "long-term": "Both teams have been utilizing corner kicks as a key attacking strategy, but so far, the defenders have managed to effectively neutralize these threats."
+                },
+                {
+                    "short-term": "Theo Walcott (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Arsenal win a corner, and they look determined to make this one count.",
+                    "history_time": "36:25",
+                    "long-term": "Both teams have been utilizing set pieces to create scoring opportunities, but so far, the defenses have managed to neutralize these threats."
+                },
+                {
+                    "short-term": "The ball is whipped in from the free kick and finds the head of Calum Chambers (Arsenal), who rises and produces an amazing header inside the right post. The goalkeeper stretches but can't reach it as the ball nestles into the net.",
+                    "history_time": "29:40",
+                    "long-term": "The set pieces have been a crucial factor in this match, with both teams creating chances from dead-ball situations, but it's Arsenal who have capitalized on theirs with that brilliant header."
+                }
+            ]
+        },
+        {
+            "game_time": "7:55",
+            "query": "Hector Bellerin (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "short-term": "Hector Bellerin (Arsenal) attempts to find one of his teammates with a fine lofted pass, , but the defence reacts well to intercept the effort. He reacts quickly and intercepts the pass, preventing a dangerous attack.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) attempts to create a scoring opportunity with a wonderful long ball, but his pass is blocked. Liverpool quickly set up for a counter-attack with the forward leading the charge.",
+                    "history_time": "6:45",
+                    "long-term": "They have been utilizing long passes to try and unlock the defense, but the opposition has been successful in neutralizing these attempts."
+                }
+            ]
+        }
+    ]
+}

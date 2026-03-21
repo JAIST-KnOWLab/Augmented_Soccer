@@ -1,0 +1,154 @@
+{
+    "annotations": [
+        {
+            "query": "Mesut Ozil (Arsenal) kept talking out of turn to the referee until Gianluca Rocchi lost patience and pulled out a yellow card.",
+            "game_time": "11:50",
+            "short-term": "Mesut Özil (Arsenal) kept talking out of turn to the referee until Gianluca Rocchi lost patience and pulled out a yellow card. The referee had given multiple warnings before making the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) kept talking out of turn to the referee until [REFEREE] lost patience and pulled out a yellow card."
+        },
+        {
+            "query": "Robert Lewandowski (Bayern Munich) flights in the cross, but the defender is alert and clears to safety.",
+            "game_time": "13:30",
+            "short-term": "Robert Lewandowski (Bayern Munich) flights in the cross, but the defender is alert and clears to safety. A well-delivered ball, but no one in position to capitalize.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "query": "Kingsley Coman (Bayern Munich) picks up a pass on the edge of the box and manages to get a powerful shot away, forcing the goalkeeper to scramble to his left and palm the ball away.",
+            "game_time": "14:57",
+            "short-term": "Kingsley Coman (Bayern Munich) picks up a pass on the edge of the box and manages to get a powerful shot away, forcing the goalkeeper to scramble to his left and palm the ball away. The rebound falls into a crowded area, but the defense reacts quickly.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass on the edge of the box and manages to get a powerful shot away, forcing the goalkeeper to scramble to his left and palm the ball away."
+        },
+        {
+            "query": "Kingsley Coman (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "game_time": "14:41",
+            "short-term": "Kingsley Coman (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. A strong defensive effort denies him space.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "query": "Robert Lewandowski (Bayern Munich) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the right side of the goal, but the goalkeeper makes a brilliant save and stops this one! The referee signals a corner kick to Bayern Munich.",
+            "game_time": "15:44",
+            "short-term": "Robert Lewandowski (Bayern Munich) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the right side of the goal, but the goalkeeper makes a brilliant save and stops this one! The ball deflects out, earning Bayern Munich a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the right side of the goal, but the goalkeeper makes a brilliant save and stops this one! The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "query": "A brilliant through ball from Douglas Costa (Bayern Munich) as he picks out Philipp Lahm, who darted into free space to take the pass. Philipp Lahm (Bayern Munich) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",
+            "game_time": "22:03",
+            "short-term": "A brilliant through ball from Douglas Costa (Bayern Munich) as he picks out Philipp Lahm, who darted into free space to take the pass. Philipp Lahm (Bayern Munich) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. A well-structured defensive setup prevents any danger.",
+            "query_ano": "A brilliant through ball from [PLAYER] ([TEAM]) as he picks out [PLAYER], who darted into free space to take the pass. [PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety."
+        },
+        {
+            "query": "The foul by Joel Campbell (Arsenal) is worthy of a card and a yellow is duly shown by Gianluca Rocchi. There is a free kick near the sideline to Bayern Munich.",
+            "game_time": "23:50",
+            "short-term": "The foul by Joel Campbell (Arsenal) is worthy of a card and a yellow is duly shown by Gianluca Rocchi. There is a free kick near the sideline to Bayern Munich. The referee wasted no time making the decision.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) floats the free kick into the box, but it's easily cleared by the first man.",
+            "game_time": "24:55",
+            "short-term": "Xabi Alonso (Bayern Munich) floats the free kick into the box, but it's easily cleared by the first man. The delivery lacked height to trouble the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "query": "Arsenal keep the ball well and push forward with purpose, but here comes an interception from the opposition.",
+            "game_time": "26:17",
+            "short-term": "Arsenal keep the ball well and push forward with purpose, but here comes an interception from the opposition. The high press pays off as they regain possession quickly.",
+            "query_ano": "[TEAM] keep the ball well and push forward with purpose, but here comes an interception from the opposition."
+        },
+        {
+            "query": "The referee blows his whistle, a clear handball by Mesut Ozil (Arsenal). Bayern Munich have been awarded a free kick. The free kick is taken short by Bayern Munich.",
+            "game_time": "26:45",
+            "short-term": "The referee blows his whistle, a clear handball by Mesut Özil (Arsenal). Bayern Munich have been awarded a free kick. The free kick is taken short by Bayern Munich as they look to build up patiently.",
+            "query_ano": "The referee blows his whistle, a clear handball by [PLAYER] ([TEAM]). [TEAM] have been awarded a free kick. The free kick is taken short by [TEAM]."
+        },
+        {
+            "query": "Goal! Thomas Muller (Bayern Munich) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Petr Cech. He makes it 2:0.",
+            "game_time": "28:14",
+            "short-term": "Goal! Thomas Muller (Bayern Munich) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Petr Cech. He makes it 2:0. A crucial goal as Bayern extend their advantage.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Petr Cech. He makes it 2:0."
+        },
+        {
+            "query": "Kingsley Coman (Bayern Munich) has a shot blocked from inside the box.",
+            "game_time": "28:40",
+            "short-term": "Kingsley Coman (Bayern Munich) has a shot blocked from inside the box. The defender was well positioned to make a crucial stop, preventing a dangerous attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) has a shot blocked from inside the box."
+        },
+        {
+            "query": "CLOSE! Douglas Costa (Bayern Munich) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the left post!",
+            "game_time": "30:54",
+            "short-term": "CLOSE! Douglas Costa (Bayern Munich) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the left post! A great individual effort that just missed the mark.",
+            "query_ano": "CLOSE! [PLAYER] ([TEAM]) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the left post!"
+        },
+        {
+            "query": "A lofted cross from David Alaba (Bayern Munich) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+            "game_time": "32:50",
+            "short-term": "A lofted cross from David Alaba (Bayern Munich) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The attack was well read by the defenders.",
+            "query_ano": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "query": "Alexis Sanchez (Arsenal) looks to break free, but an opposing player clears the ball away.",
+            "game_time": "33:10",
+            "short-term": "Alexis Sanchez (Arsenal) looks to break free, but an opposing player clears the ball away. A promising run cut short by solid defensive positioning.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "query": "The Bayern Munich players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "game_time": "34:10",
+            "short-term": "The Bayern Munich players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. Their patience in possession is forcing the opposition to stay compact.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "query": "The ball is cleared after Robert Lewandowski (Bayern Munich) attempted to dribble past an opposing player. Bayern Munich earn a corner.",
+            "game_time": "35:28",
+            "short-term": "The ball is cleared after Robert Lewandowski (Bayern Munich) attempted to dribble past an opposing player. Bayern Munich earn a corner. The attack was well defended under pressure.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] earn a corner."
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) works the corner short instead of sending the ball into the penalty area.",
+            "game_time": "35:55",
+            "short-term": "Xabi Alonso (Bayern Munich) works the corner short instead of sending the ball into the penalty area. Bayern Munich opts for a more controlled buildup instead of a direct delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "query": "The referee blows his whistle, a clear handball by Mesut Ozil (Arsenal). Bayern Munich have been awarded a free kick. The free kick is taken short by Bayern Munich.",
+            "game_time": "26:45",
+            "short-term": "The referee blows his whistle, a clear handball by Mesut Özil (Arsenal). Bayern Munich have been awarded a free kick. The free kick is taken short by Bayern Munich as they look to build up patiently.",
+            "query_ano": "The referee blows his whistle, a clear handball by [PLAYER] ([TEAM]). [TEAM] have been awarded a free kick. The free kick is taken short by [TEAM]."
+        },
+        {
+            "query": "Thomas Muller (Bayern Munich) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",
+            "game_time": "39:30",
+            "short-term": "Thomas Muller (Bayern Munich) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. Bayern Munich had been creating threats from all over, with quick passing sequences opening up spaces.",
+            "query_ano": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "query": "Thomas Muller (Bayern Munich) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Petr Cech guesses his intention and denies him with a fine save.",
+            "game_time": "40:17",
+            "short-term": "Thomas Muller (Bayern Munich) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Petr Cech guesses his intention and denies him with a fine save. Arsenal’s defensive tracking was lacking, allowing him too much space.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Petr Cech guesses his intention and denies him with a fine save."
+        },
+        {
+            "query": "Thomas Muller (Bayern Munich) is the one to unleash a good effort towards the roof of the net. His shot, however, is saved by the goalkeeper. What a save! The ball goes behind for a corner. Bayern Munich will have an opportunity to threaten the opposition's goal.",
+            "game_time": "42:00",
+            "short-term": "Thomas Muller (Bayern Munich) is the one to unleash a good effort towards the roof of the net. His shot, however, is saved by the goalkeeper. What a save! The ball goes behind for a corner. Bayern Munich will have an opportunity to threaten the opposition's goal. The goalkeeper showed incredible reflexes to tip it over.",
+            "query_ano": "[PLAYER] ([TEAM]) is the one to unleash a good effort towards the roof of the net. His shot, however, is saved by the goalkeeper. What a save! The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "query": "This corner kick is taken with a short pass by Xabi Alonso (Bayern Munich).",
+            "game_time": "42:39",
+            "short-term": "This corner kick is taken with a short pass by Xabi Alonso (Bayern Munich). Bayern Munich opted for a controlled build-up rather than a direct delivery.",
+            "query_ano": "This corner kick is taken with a short pass by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Robert Lewandowski (Bayern Munich) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "game_time": "42:00",
+            "short-term": "Robert Lewandowski (Bayern Munich) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. Bayern Munich’s wide play continued to stretch the defense, causing overloads in key areas.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+        },
+        {
+            "query": "David Alaba (Bayern Munich) scores a splendid goal as he finishes his great individual effort with a venomous shot from around 18 metres out into the top right corner. Take a bow son. The score is now 3:0.",
+            "game_time": "43:19",
+            "short-term": "David Alaba (Bayern Munich) scores a splendid goal as he finishes his great individual effort with a venomous shot from around 18 metres out into the top right corner. Take a bow son. The score is now 3:0. Bayern Munich’s dominant performance was reflected in their attacking confidence.",
+            "query_ano": "[PLAYER] ([TEAM]) scores a splendid goal as he finishes his great individual effort with a venomous shot from around 18 metres out into the top right corner. Take a bow son. The score is now 3:0."
+        }
+    ]
+}

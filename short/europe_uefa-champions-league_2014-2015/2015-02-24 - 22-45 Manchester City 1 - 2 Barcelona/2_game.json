@@ -1,0 +1,354 @@
+{
+    "annotations": [
+        {
+            "query": "Samir Nasri (Manchester City) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Now Manchester City have a corner.",
+            "target": "[team]Manchester City[team] have just lost a little of their.",
+            "game_time": "0:15",
+            "short-term": "Samir Nasri (Manchester City) delivers a cross into the box, but Barcelona's defense reacts well, clearing the ball to safety. The deflection results in a corner kick.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivers a cross into the box, but [TEAM]'s defense reacts well, clearing the ball to safety. The deflection results in a corner kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Now [TEAM] have a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. Now [TEAM] have a corner."
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) passes the ball into the box but an opposing player clears. Manchester City have been awarded a corner kick.",
+            "target": "[player]Dzeko[player] has gone on. It's a terrific pass from [player]Clichy[player]. Good cover from [player]Gerard Piqu[player].",
+            "game_time": "10:46",
+            "short-term": "Edin Dzeko received a fantastic pass from Gael Clichy, and he attempted to pass the ball into the box.  Good cover from [player]Gerard Piqu[player]. Manchester City have been awarded a corner kick.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] received a fantastic pass from [PLAYER], and he attempted to pass the ball into the box.  Good cover from [player]Gerard Piqu[player]. [TEAM] have been awarded a corner kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears. [TEAM] have been awarded a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "query": "David Silva (Manchester City) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "target": "[player]David Silva[player] with a corner.Headed by [player]Suarez[player].",
+            "game_time": "11:13",
+            "short-term": "David Silva delivered a corner kick. Luis Suárez rose to the challenge, heading the ball away.",
+            "label": "corner",
+            "short-term_anonymized": "[PLAYER] delivered a corner kick. [PLAYER] rose to the challenge, heading the ball away.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) commits a foul during an attacking move.",
+            "target": "He has got to get in front of [player]Mascherano[player], then reason why he gives a free kick away because he allows the centre back in front of him and then he wrestles. It's a free kick, but he should be stronger than that. Hold the ball up, bring your midfield players into play.",
+            "game_time": "12:38",
+            "short-term": "Edin Dzeko (Manchester City) fouls Javier Mascherano during an attacking play. Dzeko allowed Mascherano to step in front, then tried to wrestle the ball back, leading to the free kick. ",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) fouls [PLAYER] during an attacking play. Dzeko allowed Mascherano to step in front, then tried to wrestle the ball back, leading to the free kick. ",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) commits a foul during an attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul during an attacking move."
+        },
+        {
+            "query": "The foul by Gael Clichy (Manchester City) is worthy of a card and a yellow is duly shown by Felix Brych. A free kick has been awarded to Barcelona.",
+            "target": "Just beyond [player]Rakitic[player] but he got to it or to challenge from [player]Clichy[player]. Out comes, the card and Gaebl [player]Clichy[player] will not figure in the new camp in three weeks time. That's a yellow card, which will earn a suspension.",
+            "game_time": "13:09",
+            "short-term": "Gael Clichy (Manchester City) receives a yellow card for a foul on Ivan Rakitic. The challenge was deemed reckless by referee Felix Brych, resulting in a free kick for Barcelona. This booking means Clichy will be suspended and miss the return leg at Camp Nou future.",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) receives a yellow card for a foul on [PLAYER]. The challenge was deemed reckless by [REFEREE], resulting in a free kick for [TEAM]. This booking means Clichy will be suspended and miss the return leg at Camp Nou future.",
+            "sncaption_anonymized": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]. A free kick has been awarded to [TEAM].",
+            "query_ano": "The foul by Gael Clichy ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "query": "James Milner (Manchester City) makes an unfair challenge by holding his opponent to prevent him from getting the ball. Barcelona earn a free kick.",
+            "target": "[player]Suárez[player] goes down.And helped to the ground by [player][player]Milner[player][player].",
+            "game_time": "14:22",
+            "short-term": "James Milner (Manchester City) holds Luis Suárez to ground to stop him from getting the ball, resulting in a free kick for Barcelona.",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) holds [PLAYER] to ground to stop him from getting the ball, resulting in a free kick for [TEAM].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) makes an unfair challenge by holding his opponent to prevent him from getting the ball. [TEAM] earn a free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an unfair challenge by holding his opponent to prevent him from getting the ball. [TEAM] earn a free kick."
+        },
+        {
+            "query": "Sergio Aguero (Manchester City) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee points to the corner flag. It's a corner to Manchester City.",
+            "target": "Well, the corner of the [team]Manchester City[team]. Excellent play from Agcero was like [player]Pique[player], his favourites to win that. But he muscled him off it again. Another chance to get the big man in the game. Quality of the ball into the box.",
+            "game_time": "16:48",
+            "short-term": "Sergio Agüero (Manchester City) sends a fine lofted cross into the penalty area, but Gerard Piqué rises to clear the danger for Barcelona. It's a corner to Manchester City.",
+            "label": "corner",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) sends a fine lofted cross into the box, but [PLAYER] rises to clear the danger for [TEAM], who favourites to win that. It's a corner to [TEAM].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee points to the corner flag. It's a corner to [TEAM].",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "query": "Andres Iniesta (Barcelona) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "target": "[player]Iniesta[player] was side of the foot, but [player]Fernando[player] got out to him. Living dangerously there. [team]Manchester City[team] but surviving.",
+            "game_time": "19:46",
+            "short-term": "Andres Iniesta (Barcelona) reacted quickly to get to the rebound, but Fernando of Manchester City managed to get to him first and block the shot. The ball was out of play, and Barcelona were awarded a corner kick.",
+            "label": "shoot",
+            "short-term_anonymized": "Andres Iniesta ([TEAM]) reacted quickly to get to the rebound, but [PLAYER] of [TEAM] managed to get to him first and block the shot. Living dangerously there. The ball was out of play, and [TEAM] were awarded a corner kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",
+            "query_ano": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "query": "Sergio Aguero (Manchester City) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "target": "",
+            "game_time": "1:50",
+            "short-term": "Giorgio Chiellini unfortunately scored an own goal while defending. The ball first hit Vincent Kompany’s chest and then bounced off Chiellini’s forehead into the back of the net. It was an unlucky moment for Chiellini, who unfortunately ended up putting the ball into his own goal.",
+            "label": "chance",
+            "short-term_anonymized": "Giorgio Chiellini unfortunately scored an own goal while defending. The ball first hit [PLAYER]’s chest and then bounced off Chiellini’s forehead into the back of the net. It was an unlucky moment for Chiellini, who unfortunately ended up putting the ball into his own goal.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention."
+        },
+        {
+            "query": "Sergio Aguero (Manchester City) fails to send a pass into the box as his effort is cut out. The referee signals a corner kick to Manchester City.",
+            "target": "This terrific recovery by [player]Gerard Piqué[player] because but for his intervention, [team]City[team] would surely have scored well. He knew it as well and that's why he flung himself last ditch. He knows he's just gotta cover that near post area. And there he does.",
+            "game_time": "20:10",
+            "short-term": "Sergio Aguero of Manchester City attempted a pass into the box, but Gerard Piqué’s timely intervention prevented a clear scoring opportunity. Piqué knew that he had to cover the near post area, and he did so successfully. The referee signals a corner kick to Manchester City.",
+            "label": "chance",
+            "short-term_anonymized": "Sergio Aguero of [TEAM] attempted a pass into the box, but [PLAYER]'s timely intervention prevented a clear scoring opportunity. [PLAYER] knew that he had to cover the near post area, and he did so successfully. The referee signals a corner kick to [TEAM].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee signals a corner kick to [TEAM].",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "query": "Goal! David Silva puts the ball on a plate for Sergio Aguero (Manchester City), who scores with a simple close-range finish. It's 1:2.",
+            "target": "Look back here from [player]Silva[player]. [player]Aguero[player].Hope to [team]Manchester City[team] and inevitably it's provided by [player]Sergio Aguero[player], still a quarter of the first leg to go and [team]Manchester City[team] have arrived in the time.  [team]Barcelona[team] and a little bit of luck with their first goal [team]City[team]. Just get them out of the green. Here is the ball bounces down to great little ball in there just here, little back flip and then the title doesn't come in and Agüero pounces on it. What a finish that is.",
+            "game_time": "23:23",
+            "short-term": "David Silva (Manchester City) delivers a perfect ball for Sergio Aguero (Manchester City), who finishes it with a simple close-range strike. It's 1:2. The ball bounces perfectly for Aguero, and despite a bit of luck in the buildup, he makes no mistake with the finish.",
+            "label": "goal",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivers a perfect ball for Sergio Aguero ([TEAM]), who finishes it with a simple close-range strike. It's 1:2. The ball bounces perfectly for Aguero, and despite a bit of luck in the buildup, he makes no mistake with the finish.",
+            "sncaption_anonymized": "Goal! [PLAYER] puts the ball on a plate for [PLAYER] ([TEAM]), who scores with a simple close-range finish. It's 1:2.",
+            "query_ano": "Goal! [PLAYER] puts the ball on a plate for [PLAYER] ([TEAM]), who scores with a simple close-range finish. It's 1:2."
+        },
+        {
+            "query": "Flag up against Luis Suarez (Barcelona). He had space to move into behind the defence, but he went too soon.",
+            "target": "[player]Lionel [player]Messi[player][player]. It's a great ball. [player]Suarez[player] is offside, flag is up. Yeah, just went too early.",
+            "game_time": "24:56",
+            "short-term": " Lionel Messi attempted a through ball to Luis Suarez, but Suarez went too early and was flagged offside.",
+            "label": "offside",
+            "short-term_anonymized": " [PLAYER] attempted a through ball to [PLAYER], but [PLAYER] went too early and was flagged offside.",
+            "sncaption_anonymized": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+            "query_ano": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "query": "Felix Brych blows his whistle. Vincent Kompany (Manchester City) commits a foul after dangerous play.",
+            "target": "So foul by [player]Kompany[player] on [player]Suarez[player].",
+            "game_time": "25:22",
+            "short-term": "Vincent Kompany committed a foul after dangerous play, as he fouled Luis Suárez.",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] committed a foul after dangerous play, as he fouled [PLAYER]",
+            "sncaption_anonymized": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play.",
+            "query_ano": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play."
+        },
+        {
+            "query": "Substitution. Jeremy Mathieu (Barcelona) in, Ivan Rakitic out.",
+            "target": "Jeremy [player]Mathieu[player], the French International is a bit of a rarity for [team]Barcelona[team]. He's tall.In place of Ivan [player]Rakitic[player].",
+            "game_time": "25:52",
+            "short-term": "Jeremy Mathieu comes on for Ivan Rakitic in a substitution for Barcelona. Mathieu, the French international, brings a rare height advantage to the team.",
+            "label": "substitution",
+            "short-term_anonymized": "[PLAYER] comes on for [PLAYER] in a substitution for [TEAM]. [PLAYER], the French international, brings a rare height advantage to the team.",
+            "sncaption_anonymized": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out.",
+            "query_ano": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "query": "Dani Alves is not able to continue due to his injury and will be replaced by Adriano (Barcelona).",
+            "target": "[player]Dani Alves[player] can replace it right back by his fellow Brazilian international [player][player]Adriano[player][player] [player]Dani Alves[player].",
+            "game_time": "29:14",
+            "short-term": "Dani Alves is unable to continue due to injury and is substituted by his fellow Brazilian, Adriano, at right-back for Barcelona.",
+            "label": "substitution",
+            "short-term_anonymized": "[PLAYER] is unable to continue due to injury and is substituted by his fellow Brazilian, [PLAYER], at right-back for [TEAM].",
+            "sncaption_anonymized": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM]).",
+            "query_ano": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Barcelona will take a corner kick.",
+            "target": "[player]Alba[player] just picks up [player]Messi[player] and in the end [player]Joe Hart[player] just has to flick it over.",
+            "game_time": "31:52",
+            "short-term": "Lionel Messi (Barcelona) received a precise pass inside the box from Jordi Alba, but his shot was deflected by a defender. Joe Hart reacted quickly, flicking the ball over the crossbar to deny the attempt. Barcelona were awarded a corner kick.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) received a precise pass inside the box from [PLAYER], but his shot was deflected by a defender. [PLAYER] reacted quickly, flicking the ball over the crossbar to deny the attempt. [TEAM] were awarded a corner kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. [TEAM] will take a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. [TEAM] will take a corner kick."
+        },
+        {
+            "query": "Wilfried Bony (Manchester City) commits a foul after unfairly battling his opponent for the ball.",
+            "target": "Oh. [player]Bony[player] just put an arm up and maybe pulled [player]Busquets[player] back. I think [player]Busquets[player] had already lost the ball.",
+            "game_time": "34:10",
+            "short-term": "Wilfried Bony (Manchester City) committed a foul after raising his arm and seemingly pulling Sergio Busquets back.",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) committed a foul after raising his arm and seemingly pulling [PLAYER] back. [PLAYER] had already lost the ball.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "query": "The referee stops play so that a substitution can be made and Neymar trots off the pitch and is replaced by Pedro (Barcelona).",
+            "target": "Just go away there. [player]Neymar[player]s miles off. [player]Pedro[player]'s on.",
+            "game_time": "34:40",
+            "short-term": "The referee paused play for a substitution, with Neymar leaving the pitch after a tireless performance. Pedro (Barcelona) came on to replace him.",
+            "label": "substitution",
+            "short-term_anonymized": "The referee paused play for a substitution, with [PLAYER] leaving the pitch after a tireless performance. [PLAYER] ([TEAM]) came on to replace him.",
+            "sncaption_anonymized": "The referee stops play so that a substitution can be made and [PLAYER] trots off the pitch and is replaced by [PLAYER] ([TEAM]).",
+            "query_ano": "The referee stops play so that a substitution can be made and Neymar trots off the pitch and is replaced by Pedro ([TEAM])."
+        },
+        {
+            "query": "Good clearance! Luis Suarez (Barcelona) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "target": "The [player]Kompany[player] beating [player]Suarez[player] to it.",
+            "game_time": "37:23",
+            "short-term": "Luis Suárez received a low pass, but he didn’t have time to do anything. Vincent Kompany beat Suárez to the ball and made a good clearance.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] received a low pass, but he didn't have time to do anything. [PLAYER] beat [PLAYER] to the ball and made a good clearance.",
+            "sncaption_anonymized": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+            "query_ano": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him."
+        },
+        {
+            "query": "Adriano (Barcelona) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "target": "This is [player]Adriano[player]. Blocked by [player]Demichelis[player].",
+            "game_time": "38:50",
+            "short-term": "Adriano (Barcelona) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked by Martín Demichelis.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked by [PLAYER].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "query": "Samir Nasri (Manchester City) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "target": "",
+            "game_time": "3:02",
+            "short-term": "Samir Nasri (Manchester City) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players."
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+            "target": "[player]Silva[player] takes in towards [player]Kompany[player] [player]Dzeko[player]. What a chance. What a chance! Just a yard. Either side of [player]ter Stegen[player] and surely he would have scored well [player]Kompany[player] getting to the near post again. The flick on and there he is standing still because he's standing still. He can't get enough power into it straight at the goalkeeper. What a big miss.",
+            "game_time": "3:59",
+            "short-term": "David Silva delivered a precise corner toward Vincent Kompany, who flicked it on at the near post. The ball found Edin Dzeko in a perfect position, but his header lacked power and direction because he was stationary. The effort went straight into the arms of Marc-André ter Stegen. It was a golden opportunity—just a yard either side of the goalkeeper, and Dzeko surely would have scored. A big miss for Manchester City.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] delivered a precise corner toward [PLAYER], who flicked it on at the near post. The ball found [PLAYER] in a perfect position, but his header lacked power and direction because he was stationary. The effort went straight into the arms of [PLAYER]. It was a golden opportunity just a yard either side of the goalkeeper, and [PLAYER] would have scored. A big miss for [TEAM].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a great chance from the resulting corner. He times his header superbly when he leaps high to meet a precise cross, but can't aim better than into the middle of the goal, straight into the arms of the goalkeeper."
+        },
+        {
+            "query": "Felix Brych blows his whistle and it's Lionel Messi (Barcelona) who is penalised for an offensive foul. Good decision by the referee.",
+            "target": "[player]Jordi Alba[player], they don't [player]Messi[player]. [player]Milner[player] went every step of the way with him and [player]Demichelis[player] gets it cleared and [player]Messi[player] has been penalised.",
+            "game_time": "40:54",
+            "short-term": "Jordi Alba (Barcelona) attempted to pass to Lionel Messi, but James Milner (Manchester City) followed him closely and won the ball back. The ball was then cleared by Martin Demichelis (Manchester City), and Messi was penalised for an offensive foul.",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) attempted to pass to [PLAYER], but [PLAYER] ([TEAM]) followed him closely and won the ball back. The ball was then cleared by [PLAYER] ([TEAM]), and [PLAYER] was penalised for an offensive foul.",
+            "sncaption_anonymized": "[REFEREE] blows his whistle and it's Lionel Messi ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+            "query_ano": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) sends a lofted cross into the box which is headed clear. The ball is out of play and Barcelona manage to earn a corner.",
+            "target": "Run again and [player]Messi[player] put that ball all day with his left foot. Probably easier having his back to [player]Joe Hart[player].[team]Barcelona[team] corner probably go back to the halfway line again. And certainly won't be rushing to take it, that's for sure.",
+            "game_time": "42:01",
+            "short-term": "Lionel Messi (Barcelona) delivered a lofted cross into the box with his precise left foot, but the defense managed to head it clear. The ball went out of play, earning Barcelona a corner. ",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivered a lofted cross into the box with his precise left foot, but the defense managed to head it clear. The ball went out of play, earning [TEAM] a corner. ",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. The ball is out of play and [TEAM] manage to earn a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "query": "Adriano (Barcelona) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Felix Brych didn't think twice about pulling it out of his pocket.",
+            "target": "[player]Agüero[player]. Still exceptionally well there clear foul by [player]Adriano[player]. He had a contract, [player]Adriano[player].",
+            "game_time": "42:49",
+            "short-term": "Adriano (Barcelona) made a hard tackle, and there was no surprise when the referee, Felix Brych, showed him a yellow card. The foul on Sergio Agüero was clear, and Adriano had little argument as he was cautioned for his challenge.",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) made a hard tackle, and there was no surprise when the referee, [REFEREE], showed him a yellow card. The foul on [PLAYER] was clear, and [PLAYER] had little argument as he was cautioned for his challenge.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket.",
+            "query_ano": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "query": "Fernando (Manchester City) picks up a yellow card for a foul.",
+            "target": "Yellow card for the [team]Manchester City[team] midfield player.",
+            "game_time": "44:18",
+            "short-term": "Fernando (Manchester City) picked up a yellow card for a foul, earning a caution from the referee.",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) picked up a yellow card for a foul, earning a caution from the referee.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) picks up a yellow card for a foul.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) fails to beat the offside trap and the linesman puts his flag up.",
+            "target": "",
+            "game_time": "44:56",
+            "short-term": "Lionel Messi (Barcelona) tries to beat the offside trap, but the linesman puts his flag up.",
+            "label": "offside",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) tries to beat the offside trap, but the linesman puts his flag up.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "query": "Pablo Zabaleta (Manchester City) brings his opponent down. Felix Brych has a clear sight of it and blows his whistle for a foul. PENALTY to Barcelona! Great chance to score.",
+            "target": "[player]Jordi Alba[player] attacked by [player]Fernandinho[player]. [player]Bony[player], unable to keep it though he has [player]Messi[player] little flick from [player]Pedro[player]. [player]Messi[player]'s gone on bone into the ground, penalty. [player]Zabaleta[player] couldn't get to his Argentine international team mate.",
+            "game_time": "47:42",
+            "short-term": "Pablo Zabaleta (Manchester City) fouled his opponent, and referee immediately awarded a penalty to Barcelona. Messi had made a clever flick from Pedro, but Zabaleta couldn't reach his Argentine international teammate in time, bringing him down in the box. A clear penalty, giving Barcelona a great chance to score.",
+            "label": "penalty",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) fouled his opponent, and referee immediately awarded a penalty to [TEAM]. [PLAYER] had made a clever flick from [PLAYER], but [PLAYER] couldn't reach his Argentine international teammate in time, bringing him down in the box. A clear penalty.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. PENALTY to [TEAM]! Great chance to score.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. PENALTY to [TEAM]! Great chance to score."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) blows a huge chance to score! He sends the penalty to the bottom right corner, but it's not enough to beat Joe Hart who easily stops the effort.",
+            "target": "Good save, [player]Messi[player] has wide.",
+            "game_time": "48:41",
+            "short-term": "Lionel Messi (Barcelona) blew a huge chance to score from the penalty spot. He aimed for the bottom right corner, but Joe Hart made a good save, diving to his right to easily stop the effort.",
+            "label": "penalty-kick",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) blew a huge chance to score from the penalty spot. He aimed for the bottom right corner, but [PLAYER] made a good save, diving to his right to easily stop the effort.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) blows a huge chance to score! He sends the penalty to the bottom right corner, but it's not enough to beat [PLAYER] who easily stops the effort.",
+            "query_ano": "[PLAYER] ([TEAM]) blows a huge chance to score! He sends the penalty to the bottom right corner, but it's not enough to beat [PLAYER] who easily stops the effort."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) covers his face with his hands after wasting a glorious chance. The ball rebounded to him but his close-range header went a whisker wide of the left post.",
+            "target": "Rather, follow up. Was almost easier than the initial spot kick, but [player]Joe Hart's[player] heroics may just have given [team]City[team] a chance again. While we found the weakness, diving headers for [player]Messi[player], On goal.",
+            "game_time": "48:45",
+            "short-term": "Lionel Messi (Barcelona) covered his face with his hands in frustration after wasting a glorious chance. The ball had rebounded to him, and his close-range header, which seemed easier than the initial penalty, went a whisker wide of the left post.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) covered his face with his hands in frustration after wasting a glorious chance. The ball had rebounded to him, and his close-range header, which seemed easier than the initial penalty, went a whisker wide of the left post.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a glorious chance. The ball rebounded to him but his close-range header went a whisker wide of the left post.",
+            "query_ano": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a glorious chance. The ball rebounded to him but his close-range header went a whisker wide of the left post."
+        },
+        {
+            "query": "Vincent Kompany (Manchester City) has now obviously shifted the ball with his hand. He could have been easily booked for that, however, the referee keeps the cards in his pocket and it only results in a free kick for the opponent's team. Barcelona have a free kick.",
+            "target": "Was pushed over by a [player]Kompany[player] who was straining to get to [player]Lionel [player]Messi[player][player].",
+            "game_time": "4:36",
+            "short-term": "Vincent Kompany (Manchester City) has now obviously shifted the ball with his hand. He could have been easily booked for that, however, the referee keeps the cards in his pocket and it only results in a free kick for the opponent's team. Barcelona have a free kick.",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) has now obviously shifted the ball with his hand. He could have been easily booked for that, however, the referee keeps the cards in his pocket and it only results in a free kick for the opponent's team. [TEAM] have a free kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) has now obviously shifted the ball with his hand. He could have been easily booked for that, however, the referee keeps the cards in his pocket and it only results in a free kick for the opponent's team. [TEAM] have a free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) has now obviously shifted the ball with his hand. He could have been easily booked for that, however, the referee keeps the cards in his pocket and it only results in a free kick for the opponent's team. [TEAM] have a free kick."
+        },
+        {
+            "query": "The resulting set piece from Lionel Messi (Barcelona) is successfully intercepted by the defender.",
+            "target": "[player]Lionel [player]Messi[player][player] headed by [player][player]Milner[player][player].",
+            "game_time": "5:11",
+            "short-term": "The resulting set piece from Lionel Messi (Barcelona) was met by a defender, as James Milner (Manchester City) successfully intercepted the ball with a well-timed header.",
+            "label": "chance",
+            "short-term_anonymized": "The resulting set piece from [PLAYER] ([TEAM]) was met by [PLAYER], as he successfully intercepted the ball with a well-timed header.",
+            "sncaption_anonymized": "The resulting set piece from [PLAYER] ([TEAM]) is successfully intercepted by the defender.",
+            "query_ano": "The resulting set piece from [PLAYER] ([TEAM]) is successfully intercepted by the defender."
+        },
+        {
+            "query": "Some patient build-up play from Barcelona as they look to unlock the defence.",
+            "target": "It's looking to reestablish their control here. [team]Barcelona[team].",
+            "game_time": "7:19",
+            "short-term": "Barcelona are looking to regain control of the game by patiently building up their attack. They are trying to find a way to break through the defence and create scoring opportunities.",
+            "label": "other",
+            "short-term_anonymized": "[TEAM] are looking to regain control of the game by patiently building up their attack. They are trying to find a way to break through the defence and create scoring opportunities.",
+            "sncaption_anonymized": "Some patient build-up play from [TEAM] as they look to unlock the defence.",
+            "query_ano": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "query": "Lovely skill from Sergio Aguero (Manchester City) as he gets away from defenders and unleashes a shot from 20 metres out, but his effort goes just wide of the right post.",
+            "target": "David Silva has won it. Here is Aguero. He's gone away from [player]Mascherano[player] this time, Sergio [player]Aguero[player].They did have other options, but you can't blame [team]Manchester City[team]'s goal scoring chief from going on alone.Well, you wouldn't expect it to be. [player]Silva[player] has started that attack with a with a tackle, but he did. Aguero just can't get his foot right round it enough.Stegen thought it was worth a dive and it was.Really close. Good play from Man [team]City[team] pressing High, winning the ball back in the last third.",
+            "game_time": "8:28",
+            "short-term": "David Silva (Manchester City) won the ball back high up the pitch, starting a swift counterattack. He played the ball to Sergio Agüero, who, having escaped the challenge of Javier Mascherano, unleashed a shot from 20 meters out. Agüero’s effort was well-struck but narrowly missed, going just wide of the right post. Marc-André ter Stegen dived in anticipation but couldn’t reach it. ",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) won the ball back high up the pitch, starting a swift counterattack. He played the ball to [PLAYER], who, having escaped the challenge of [PLAYER], unleashed a shot from 20 meters out. [PLAYER]'s effort was well-struck but narrowly missed, going just wide of the right post.",
+            "sncaption_anonymized": "Lovely skill from [PLAYER] ([TEAM]) as he gets away from defenders and unleashes a shot from 20 metres out, but his effort goes just wide of the right post.",
+            "query_ano": "Lovely skill from [PLAYER] ([TEAM]) as he gets away from defenders and unleashes a shot from 20 metres out, but his effort goes just wide of the right post."
+        },
+        {
+            "query": "This shall not pass! Ivan Rakitic (Barcelona) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Barcelona force a corner. Their opponents will face another attacking threat.",
+            "target": "Just opened up for him. Try to nudge it into the corner that [player]Rakitic[player] quarter kick.",
+            "game_time": "9:40",
+            "short-term": "Ivan Rakitic (Barcelona) found space at the edge of the box and took a shot on goal, aiming for the corner. However, his effort was well blocked by a defender, forcing the ball out for a corner.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) found space at the edge of the box and took a shot on goal, aiming for the corner. However, his effort was well blocked by a defender, forcing the ball out for a corner.",
+            "sncaption_anonymized": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. [TEAM] force a corner. Their opponents will face another attacking threat."
+        }
+    ]
+}

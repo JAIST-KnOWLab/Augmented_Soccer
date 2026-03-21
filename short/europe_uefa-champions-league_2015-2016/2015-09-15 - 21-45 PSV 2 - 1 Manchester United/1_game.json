@@ -1,0 +1,221 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:45",
+            "game_time": "46:45",
+            "query": "The corner from Maxime Lestienne goes into a dangerous area and finds Hector Moreno (PSV), who outjumps the defence and glances a header into the back of the net. 1:1.",
+            "short-term": "The corner from Maxime Lestienne goes into a dangerous area and finds Hector Moreno, who outjumps the defence and glances a header into the back of the net. The ball took a slight deflection off Danny Blind, which may have affected the goalkeeper's reaction.",
+            "query_ano": "The corner from [PLAYER] goes into a dangerous area and finds [PLAYER] ([TEAM]), who outjumps the defence and glances a header into the back of the net. 1:1."
+        },
+        {
+            "gameTime": "46:21",
+            "game_time": "46:21",
+            "query": "Maxime Lestienne (PSV) will take a corner kick.",
+            "short-term": "Maxime Lestienne will take a corner kick. The previous play saw a mix-up in the opposition's defense, almost leading to an own goal.",
+            "query_ano": "[PLAYER] ([TEAM]) will take a corner kick."
+        },
+        {
+            "gameTime": "46:00",
+            "game_time": "46:00",
+            "query": "Maxime Lestienne (PSV) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee points to the corner flag and PSV will take a corner.",
+            "short-term": "Maxime Lestienne sends a cross into the box, but the opposition's defence quickly intercepts the ball. Smalling and Darmian both went for the same clearance, nearly causing a defensive mishap.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "gameTime": "45:16",
+            "game_time": "45:16",
+            "query": "The free kick into the penalty area from Hector Moreno (PSV) is cleared.",
+            "short-term": "The free kick into the penalty area from Hector Moreno is cleared. PSV is looking to press forward, taking advantage of set-piece opportunities.",
+            "query_ano": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "gameTime": "44:44",
+            "game_time": "44:44",
+            "query": "Ashley Young (Manchester United) brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. A free kick to PSV.",
+            "short-term": "Ashley Young brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. Their players take their time setting up for the free kick, looking to capitalize on a rare attacking opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear vision and blows his whistle for a foul. A free kick to [TEAM]."
+        },
+        {
+            "gameTime": "44:20",
+            "game_time": "44:20",
+            "query": "A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay (Manchester United) takes it short.",
+            "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay takes it short. The decision surprises some of his teammates, as they had positioned themselves for an aerial duel.",
+            "query_ano": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short."
+        },
+        {
+            "gameTime": "43:39",
+            "game_time": "43:39",
+            "query": "Chris Smalling (Manchester United) runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save to stop the shot going into the middle of the target. The ball is out of play. A goal-scoring opportunity from a corner for Manchester Utd.",
+            "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+            "query_ano": "[PLAYER] ([TEAM]) runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save to stop the shot going into the middle of the target. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "gameTime": "42:30",
+            "game_time": "42:30",
+            "query": "Chance! Memphis Depay (Manchester United) comes within inches of scoring after picking up a pass from Juan Manuel Mata, but his shot from inside the box flashes inches wide of the right post.",
+            "short-term": "Chance! Memphis Depay comes within inches of scoring after picking up a pass from Juan Mata, but his shot from inside the box flashes inches wide of the right post. The move was a quick break, with Mata threading a perfect ball into Depay’s path.",
+            "query_ano": "Chance! [PLAYER] ([TEAM]) comes within inches of scoring after picking up a pass from [PLAYER], but his shot from inside the box flashes inches wide of the right post."
+        },
+        {
+            "gameTime": "42:12",
+            "game_time": "42:12",
+            "query": "Joshua Brenet (PSV) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "gameTime": "40:52",
+            "game_time": "40:52",
+            "query": "Memphis Depay (Manchester United) displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded.",
+            "short-term": "Memphis Depay displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded. His quick footwork and sharp movement left the defenders helpless, making it a stunning solo effort.",
+            "query_ano": "[PLAYER] ([TEAM]) displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded."
+        },
+        {
+            "gameTime": "40:10",
+            "game_time": "40:10",
+            "query": "Juan Manuel Mata (Manchester United) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety.",
+            "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety."
+        },
+        {
+            "gameTime": "39:14",
+            "game_time": "39:14",
+            "query": "Maxime Lestienne (PSV) unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post.",
+            "short-term": "Maxime Lestienne unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post. He had time to compose himself but rushed the strike, sending it harmlessly off target.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post."
+        },
+        {
+            "gameTime": "38:06",
+            "game_time": "38:06",
+            "query": "Maxime Lestienne (PSV) tries to send a pass but it's blocked.",
+            "short-term": "Maxime Lestienne tries to send a pass but it's blocked. He was looking for De Jong in the middle, but the defense read the play well and intercepted the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "37:39",
+            "game_time": "37:39",
+            "query": "Anthony Martial (Manchester United) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post.",
+            "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+            "query_ano": "[PLAYER] ([TEAM]) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post."
+        },
+        {
+            "gameTime": "37:27",
+            "game_time": "37:27",
+            "query": "Juan Manuel Mata (Manchester United) will take the free kick.",
+            "short-term": "Juan Manuel Mata will take the free kick. Manchester United players are positioning themselves for a potential aerial threat inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) will take the free kick."
+        },
+        {
+            "gameTime": "36:18",
+            "game_time": "36:18",
+            "query": "Joshua Brenet (PSV) commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "Joshua Brenet commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot, as he was caught late while pushing forward.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "35:08",
+            "game_time": "35:08",
+            "query": "Daley Blind (Manchester United) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "34:18",
+            "game_time": "34:18",
+            "query": "Bastian Schweinsteiger (Manchester United) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "short-term": "Bastian Schweinsteiger attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Positioned deep, He was dictating play like a quarterback, but his long ball was well anticipated by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "gameTime": "33:37",
+            "game_time": "33:37",
+            "query": "Memphis Depay (Manchester United) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "33:21",
+            "game_time": "33:21",
+            "query": "The ball is cleared after Daley Blind (Manchester United) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal.",
+            "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "32:26",
+            "game_time": "32:26",
+            "query": "An attempted cross from Ashley Young (Manchester United) is cleared.",
+            "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "gameTime": "30:49",
+            "game_time": "30:49",
+            "query": "Maxime Lestienne (PSV) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Maxime Lestienne is forced to stop his attacking move after the linesman signals for offside. He mistimed his run while trying to latch onto a through ball from Hendricks.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "29:49",
+            "game_time": "29:49",
+            "query": "Flag goes up against Luciano Narsingh (PSV) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Luciano Narsingh and the referee blows his whistle for offside. Burnett had delivered a promising pass, but Narsingh had strayed beyond the defensive line.",
+            "query_ano": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "28:05",
+            "game_time": "28:05",
+            "query": "Bastian Schweinsteiger (Manchester United) sends a long ball in, but Jeroen Zoet comfortably gathers the ball.",
+            "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but Jeroen Zoet comfortably gathers the ball."
+        },
+        {
+            "gameTime": "14:30",
+            "game_time": "14:30",
+            "query": "The game is interrupted now, Luke Shaw (Manchester United) picks up a knock and the physio has to come on.",
+            "short-term": "The game is interrupted now, Luke Shaw picks up a knock and the physio has to come on. Shaw had just made an impressive run forward, but was stopped by a last-ditch challenge.",
+            "query_ano": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "14:20",
+            "game_time": "14:20",
+            "query": "Luke Shaw (Manchester United) races towards goal but the defender gets back well to make a challenge. Corner kick. Manchester Utd will have an opportunity.",
+            "short-term": "Luke Shaw races towards goal but the defender gets back well to make a challenge. Corner kick. Manchester Utd will have an opportunity. Shaw’s burst of speed nearly saw him through, but the well-timed tackle forced the ball out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "gameTime": "13:17",
+            "game_time": "13:17",
+            "query": "The referee blows his whistle after Luciano Narsingh (PSV) does a good impression of a basketball player and handles the ball.",
+            "short-term": "The referee blows his whistle after Luciano Narsingh does a good impression of a basketball player and handles the ball. He misjudged his control, leading to an obvious handball.",
+            "query_ano": "The referee blows his whistle after [PLAYER] ([TEAM]) does a good impression of a basketball player and handles the ball."
+        },
+        {
+            "gameTime": "12:46",
+            "game_time": "12:46",
+            "query": "Memphis Depay (Manchester United) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "short-term": "Memphis Depay sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The delivery was slightly off-target, making it an easy clearance for the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "12:23",
+            "game_time": "12:23",
+            "query": "Matteo Darmian (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd.",
+            "short-term": "Matteo Darmian goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd. Darmian attempted to weave through defenders, but the opposition stood firm.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to [TEAM]."
+        },
+        {
+            "gameTime": "11:01",
+            "game_time": "11:01",
+            "query": "Luciano Narsingh (PSV) times his run too early and the linesman raises his flag for offside.",
+            "short-term": "Luciano Narsingh times his run too early and the linesman raises his flag for offside. He was a step ahead when attempting to break past the defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "10:30",
+            "game_time": "10:30",
+            "query": "Ashley Young (Manchester United) fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV.",
+            "short-term": "Ashley Young fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV. The cross had too much weight on it, missing its intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        }
+    ]
+}

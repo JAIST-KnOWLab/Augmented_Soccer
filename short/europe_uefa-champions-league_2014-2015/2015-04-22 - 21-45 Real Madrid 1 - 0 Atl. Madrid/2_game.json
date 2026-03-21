@@ -1,0 +1,196 @@
+{
+    "annotations": [
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) tries to send a pass but it's blocked.",
+            "game_time": "10:59",
+            "short-term": "Cristiano Ronaldo (Real Madrid) tries to send a pass but it's blocked. The final ball wasn’t poor, but the opposition’s setup was very effective.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked."
+        },
+        {
+            "query": "Felix Brych blows the whistle, Cristiano Ronaldo (Real Madrid) is penalised for a foul.",
+            "game_time": "12:10",
+            "short-term": "Felix Brych blows the whistle, Cristiano Ronaldo (Real Madrid) is penalised for a foul. Despite the challenge, he made an immediate acknowledgment of the incident.",
+            "query_ano": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee signals a corner kick to Real Madrid.",
+            "game_time": "13:03",
+            "short-term": "Cristiano Ronaldo (Real Madrid) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is deflected out, leading to a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "query": "A long ball forward to Mario Mandzukic (Atl. Madrid) is intercepted. Atl. Madrid force a corner. They send men into the box.",
+            "game_time": "15:23",
+            "short-term": "A long ball forward to Mario Mandzukic (Atl. Madrid) is intercepted. Atl. Madrid force a corner. More players move into the box in anticipation of the set-piece opportunity.",
+            "query_ano": "A long ball forward to Mario Mandzukic ([TEAM]) is intercepted. [TEAM] force a corner. They send men into the box."
+        },
+        {
+            "query": "Jan Oblak makes a superb save to deny a header which was nodded by Sergio Ramos (Real Madrid) after a cross from the side.",
+            "game_time": "16:57",
+            "short-term": "Jan Oblak makes a superb save to deny a header which was nodded by Sergio Ramos (Real Madrid) after a cross from the side. The goalkeeper’s positioning and reaction prevented what could have been a decisive goal.",
+            "query_ano": "[PLAYER] makes a superb save to deny a header which was nodded by [PLAYER] ([TEAM]) after a cross from the side."
+        },
+        {
+            "query": "Gabi (Atl. Madrid) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The referee and his assistant both point at the corner flag. Atl. Madrid will have an opportunity to threaten the opposition's goal.",
+            "game_time": "17:35",
+            "short-term": "Gabi (Atl. Madrid) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. A corner is awarded, providing another chance to create a goal-scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "query": "The corner from Koke (Atl. Madrid) is cleared away by the defence.",
+            "game_time": "18:05",
+            "short-term": "The corner from Koke (Atl. Madrid) is cleared away by the defence. The opposition remained alert and prevented any immediate danger.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "query": "Gabi (Atl. Madrid) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it.",
+            "game_time": "18:10",
+            "short-term": "Gabi (Atl. Madrid) gets to the rebound outside the box and doesn't hesitate to shoot on goal. A well-timed defensive block prevented the shot from troubling the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it."
+        },
+        {
+            "query": "Substitution. Antoine Griezmann makes way for Raul Garcia (Atl. Madrid).",
+            "game_time": "19:21",
+            "short-term": "Substitution. Antoine Griezmann makes way for Raul Garcia (Atl. Madrid). The change introduces fresh legs as the team looks to adjust their attacking approach.",
+            "query_ano": "Substitution. [PLAYER] makes way for Raul Garcia ([TEAM])."
+        },
+        {
+            "query": "The ball is cleared after Sergio Ramos (Real Madrid) attempted to dribble past an opposing player. The ball is out of play. Real Madrid will take a throw-in.",
+            "game_time": "21:49",
+            "short-term": "The ball is cleared after Sergio Ramos (Real Madrid) attempted to dribble past an opposing player. The ball is out of play. Real Madrid will take a throw-in. The defender enjoyed the freedom to push forward, often energizing the crowd with his movement.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is out of play. [TEAM] will take a throw-in."
+        },
+        {
+            "query": "Koke (Atl. Madrid) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort.",
+            "game_time": "23:59",
+            "short-term": "Koke (Atl. Madrid) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort. The attacking move was well-executed, though the finish lacked the necessary placement to beat the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) slams the ball towards the middle of the goal, but it fails to surprise Jan Oblak and he's equal to it.",
+            "game_time": "24:45",
+            "short-term": "Cristiano Ronaldo (Real Madrid) slams the ball towards the middle of the goal, but it fails to surprise Jan Oblak and he's equal to it. The shot carried power, but the goalkeeper anticipated it well and made a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) slams the ball towards the middle of the goal, but it fails to surprise [PLAYER] and he's equal to it."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) didn't hesitate to knock his opponent down with a harsh sliding tackle. Felix Brych could probably show him a yellow, but he only goes with blowing the whistle for a foul.",
+            "game_time": "25:26",
+            "short-term": "Sergio Ramos (Real Madrid) didn't hesitate to knock his opponent down with a harsh sliding tackle. Felix Brych could probably show him a yellow, but he only goes with blowing the whistle for a foul. The referee opted for a warning rather than a card.",
+            "query_ano": "[PLAYER] ([TEAM]) didn't hesitate to knock his opponent down with a harsh sliding tackle. [REFEREE] could probably show him a yellow, but he only goes with blowing the whistle for a foul."
+        },
+        {
+            "query": "The game is interrupted now, Raphael Varane (Real Madrid) picks up a knock and the physio has to come on.",
+            "game_time": "27:55",
+            "short-term": "The game is interrupted now, Raphael Varane (Real Madrid) picks up a knock and the physio has to come on. The defender appeared to be in discomfort, requiring medical attention before play resumed.",
+            "query_ano": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "query": "Raul Garcia (Atl. Madrid) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "game_time": "28:47",
+            "short-term": "Raul Garcia (Atl. Madrid) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision. The booking means he will miss the first leg of the semifinal, adding frustration to the moment.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "query": "RED CARD! Arda Turan (Atl. Madrid) makes a bad challenge and receives a second yellow card from Felix Brych. He can have an early bath.",
+            "game_time": "30:21",
+            "short-term": "RED CARD! Arda Turan (Atl. Madrid) makes a bad challenge and receives a second yellow card from Felix Brych. He can have an early bath. His team now faces the challenge of playing with one less player.",
+            "query_ano": "RED CARD! [PLAYER] ([TEAM]) makes a bad challenge and receives a second yellow card from [REFEREE]. He can have an early bath."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and Atl. Madrid will have a goal kick.",
+            "game_time": "32:57",
+            "short-term": "Sergio Ramos (Real Madrid) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and Atl. Madrid will have a goal kick. The attacking movement had promise, but the final ball lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) tries to find Toni Kroos inside the box, but the pass is cut out.",
+            "game_time": "34:14",
+            "short-term": "Sergio Ramos (Real Madrid) tries to find Toni Kroos inside the box, but the pass is cut out. The defensive setup was well-organized, making it difficult to penetrate the backline.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to find Toni Kroos inside the box, but the pass is cut out."
+        },
+        {
+            "query": "Chicharito (Real Madrid) takes a wonderful touch after collecting a pass inside the box. He steers his low drive towards the left post, but the keeper dives low to keep the ball out. Real Madrid get a corner.",
+            "game_time": "34:51",
+            "short-term": "Chicharito (Real Madrid) takes a wonderful touch after collecting a pass inside the box. He steers his low drive towards the left post, but the keeper dives low to keep the ball out. The shot was well-placed, but the goalkeeper’s reaction was even better, preventing a certain goal.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a wonderful touch after collecting a pass inside the box. He steers his low drive towards the left post, but the keeper dives low to keep the ball out. [TEAM] get a corner."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) serves up a nice cross, but Jan Oblak punches the ball away. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal.",
+            "game_time": "37:40",
+            "short-term": "Sergio Ramos (Real Madrid) serves up a nice cross, but Jan Oblak punches the ball away. The ball goes behind for a corner. The goalkeeper made a decisive intervention, ensuring the ball didn’t reach the lurking attackers.",
+            "query_ano": "[PLAYER] ([TEAM]) serves up a nice cross, but [PLAYER] punches the ball away. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) takes the corner.",
+            "game_time": "38:01",
+            "short-term": "Toni Kroos (Real Madrid) takes the corner. The set-piece delivery was expected to create a scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "query": "Mario Mandzukic (Atl. Madrid) is able to continue to play.",
+            "game_time": "40:12",
+            "short-term": "Mario Mandzukic (Atl. Madrid) is able to continue to play. Despite an earlier knock, he showed resilience to stay on the field.",
+            "query_ano": "[PLAYER] ([TEAM]) is able to continue to play."
+        },
+        {
+            "query": "Chicharito (Real Madrid) sends a cross into the box, but Jan Oblak comes off his line to gather the ball.",
+            "game_time": "41:37",
+            "short-term": "Chicharito (Real Madrid) sends a cross into the box, but Jan Oblak comes off his line to gather the ball. The goalkeeper read the play well, preventing any potential danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "query": "It's in the back of the net! Cristiano Ronaldo is the provider as he slips the ball to Chicharito (Real Madrid) who simply steers it home from close range. It's 1:0.",
+            "game_time": "42:14",
+            "short-term": "It's in the back of the net! Cristiano Ronaldo is the provider as he slips the ball to Chicharito (Real Madrid) who simply steers it home from close range. The move was well-executed, breaking through the defense at the perfect moment.",
+            "query_ano": "It's in the back of the net! [PLAYER] is the provider as he slips the ball to [PLAYER] ([TEAM]) who simply steers it home from close range. It's 1:0."
+        },
+        {
+            "query": "Chicharito (Real Madrid) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+            "game_time": "44:20",
+            "short-term": "Chicharito (Real Madrid) is clearly asking for some medical attention with his painful gestures. It appeared to be a case of cramp rather than a severe injury, but further assessment was needed.",
+            "query_ano": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "query": "That will be all from Fabio Coentrao who is being replaced by the fresh legs of Alvaro Arbeloa (Real Madrid).",
+            "game_time": "46:03",
+            "short-term": "That will be all from Fabio Coentrao who is being replaced by the fresh legs of Alvaro Arbeloa. The team looks to maintain stability on the field with this substitution.",
+            "query_ano": "That will be all from Fabio Coentrao who is being replaced by the fresh legs of Alvaro Arbeloa ([TEAM])."
+        },
+        {
+            "query": "The referee gives a yellow card to Alvaro Arbeloa (Real Madrid).",
+            "game_time": "47:43",
+            "short-term": "The referee gives a yellow card to Alvaro Arbeloa. The challenge added to the intensity of the match as the team now has to be cautious with bookings.",
+            "query_ano": "The referee gives a yellow card to Alvaro Arbeloa ([TEAM])."
+        },
+        {
+            "query": "The foul by Koke (Atl. Madrid) is worthy of a card and a yellow is duly shown by Felix Brych.",
+            "game_time": "48:20",
+            "short-term": "The foul by Koke is worthy of a card, and a yellow is duly shown by Felix Brych. The midfielder will need to be careful for the remainder of the match to avoid further punishment.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) is worthy of a card and a yellow is duly shown by [REFEREE]."
+        },
+        {
+            "query": "Isco (Real Madrid) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way.",
+            "game_time": "5:52",
+            "short-term": "Isco unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. The opposition's defense was well-positioned to neutralize the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way."
+        },
+        {
+            "query": "A lofted cross from Raphael Varane (Real Madrid) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid.",
+            "game_time": "6:00",
+            "short-term": "A lofted cross from Raphael Varane is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The team now has a corner opportunity to apply further pressure.",
+            "query_ano": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "query": "James Rodriguez (Real Madrid) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "game_time": "6:21",
+            "short-term": "James Rodriguez takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety, preventing any immediate threat.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "query": "Chicharito (Real Madrid) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception.",
+            "game_time": "8:43",
+            "short-term": "Chicharito finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. The attack had built momentum, but the defenders responded well.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception."
+        }
+    ]
+}

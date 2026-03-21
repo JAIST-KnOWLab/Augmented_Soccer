@@ -1,0 +1,196 @@
+{
+    "annotations": [
+        {
+            "game_time": "11:12",
+            "query": "Yaya Toure (Manchester City) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Manchester City have been awarded a corner kick.",
+            "short-term": "Yaya Toure attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. He bulldozed his way through before the ball was cleared away.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "game_time": "14:09",
+            "query": "Claudio Marchisio (Juventus) attempts to surprise the keeper with a nice shot, but it lacks more accuracy and goes way wide of the left post.",
+            "short-term": "Claudio Marchisio attempts to surprise the keeper with a shot, but it lacks accuracy and goes way wide of the left post. He struck it with power, but the placement was off.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a nice shot, but it lacks more accuracy and goes way wide of the left post."
+        },
+        {
+            "game_time": "14:45",
+            "query": "We are about to witness a substitution. Fabian Delph (Manchester City) for Fernandinho.",
+            "short-term": "We are about to witness a substitution. Fabian Delph replaces Fernandinho in the midfield for Manchester City.",
+            "query_ano": "We are about to witness a substitution. [PLAYER] ([TEAM]) for [PLAYER]."
+        },
+        {
+            "game_time": "15:55",
+            "query": "Bacary Sagna (Manchester City) makes a slide tackle, but referee Felix Brych blows for a foul.",
+            "short-term": "Bacary Sagna makes a slide tackle, but referee Felix Brych blows for a foul. The decision draws some disagreement from the players.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [PLAYER] blows for a foul."
+        },
+        {
+            "game_time": "16:40",
+            "query": "Paulo Dybala (Juventus) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "short-term": "Paulo Dybala requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch. The injury could be concerning for Juventus ahead of their next match.",
+            "query_ano": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "game_time": "17:45",
+            "query": "Yaya Toure (Manchester City) sends a long ball in, but Gianluigi Buffon comfortably gathers the ball.",
+            "short-term": "Yaya Toure sends a long ball in, but Gianluigi Buffon comfortably gathers the ball, preventing any danger in the box.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "game_time": "2:00",
+            "query": "Fernandinho (Manchester City) brings his opponent down. Felix Brych has a clear sight of it and blows his whistle for a foul.",
+            "short-term": "Fernandinho brings his opponent down. Felix Brych has a clear sight of it and blows his whistle for a foul. The challenge was robust but deemed illegal.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [PLAYER] has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "game_time": "21:56",
+            "query": "Sergio Aguero (Manchester City) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. Corner kick. Manchester City will have an opportunity.",
+            "short-term": "Sergio Aguero announces himself with a close-range shot after a cross, but one of the defenders gets in the way to block the attempt. The chance came from a well-placed ball into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "game_time": "21:34",
+            "query": "Kevin De Bruyne almost found himself in a promising position after Yaya Toure (Manchester City) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception.",
+            "short-term": "Kevin De Bruyne almost found himself in a promising position after Yaya Toure tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception, cutting off the attack.",
+            "query_ano": "[PLAYER] almost found himself in a promising position after [PLAYER] ([TEAM]) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception."
+        },
+        {
+            "game_time": "23:17",
+            "query": "The referee stops play so that a substitution can be made and Sergio Aguero leaves the pitch and Raheem Sterling (Manchester City) comes on.",
+            "short-term": "The referee stops play so that a substitution can be made. Sergio Aguero leaves the pitch, and Raheem Sterling comes on.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "game_time": "23:50",
+            "query": "Bacary Sagna (Manchester City) is booked after bringing down an opponent. Felix Brych had an easy decision to make.",
+            "short-term": "Bacary Sagna is booked after bringing down an opponent. Felix Brych had an easy decision to make, as the challenge left little room for debate.",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [PLAYER] had an easy decision to make."
+        },
+        {
+            "game_time": "23:55",
+            "query": "Jesus Navas (Manchester City) was probably a bit loose with his words to Felix Brych, who decides to show him a yellow.",
+            "short-term": "Jesus Navas was probably a bit loose with his words to Felix Brych, who decides to show him a yellow. Several Manchester City players protested the decision.",
+            "query_ano": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [PLAYER], who decides to show him a yellow."
+        },
+        {
+            "game_time": "25:00",
+            "query": "Alvaro Morata (Juventus) puts a cross into the box from the free kick but it's cleared.",
+            "short-term": "Alvaro Morata puts a cross into the box from the free kick, but the opposition's defence reacts quickly and clears the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "game_time": "27:28",
+            "query": "Nothing comes of the resulting corner from Paulo Dybala (Juventus). The defence is alert and manages to cut it out.",
+            "short-term": "Nothing comes of the resulting corner from Paulo Dybala. The defence is alert and manages to clear the ball before any real threat develops.",
+            "query_ano": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "game_time": "28:28",
+            "query": "Claudio Marchisio (Juventus) swings a cross into the box, but it's far too close to Joe Hart, who smothers the ball.",
+            "short-term": "Claudio Marchisio swings a cross into the box, but it's far too close to Joe Hart, who smothers the ball. The delivery lacked power, making it an easy catch for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "game_time": "30:07",
+            "query": "The ball is cleared after Raheem Sterling (Manchester City) attempted to dribble past an opposing player. Manchester City earn a corner.",
+            "short-term": "The ball is cleared after Raheem Sterling attempted to dribble past an opposing player. Manchester City earn a corner. The defender reacted quickly to block his progress.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. [TEAM] earn a corner."
+        },
+        {
+            "game_time": "32:00",
+            "query": "Massimiliano Allegri has decided to make a change. Patrice Evra (Juventus) replaces Alex Sandro.",
+            "short-term": "Massimiliano Allegri has decided to make a change. Patrice Evra replaces Alex Sandro. Sandro receives a warm round of applause for his solid performance.",
+            "query_ano": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "game_time": "33:23",
+            "query": "Alvaro Morata (Juventus) bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. The scoreline remains the same.",
+            "short-term": "Alvaro Morata bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. He had space to aim for the corner but couldn't find the accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) bursts inside the box, beats two defenders and produces a strike from the penalty spot. The shot has power, but lacks precision and the goalkeeper stops it easily. The scoreline remains the same."
+        },
+        {
+            "game_time": "34:15",
+            "query": "Raheem Sterling (Manchester City) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City.",
+            "short-term": "Raheem Sterling connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City. The shot lacked power, giving the defender enough time to block it.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM]."
+        },
+        {
+            "game_time": "34:25",
+            "query": "Kevin De Bruyne (Manchester City) decides to speed play up with a short corner kick.",
+            "short-term": "Kevin De Bruyne decides to speed play up with a short corner kick. The ball took a slight deflection before reaching the intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick."
+        },
+        {
+            "game_time": "35:44",
+            "query": "The manager has been forced to make a substitution and the injured Joe Hart leaves the pitch to be replaced by Wilfredo Caballero (Manchester City).",
+            "short-term": "The manager has been forced to make a substitution and the injured Joe Hart leaves the pitch to be replaced by Wilfredo Caballero. Hart looked disappointed as he limped off.",
+            "query_ano": "The manager has been forced to make a substitution and the injured [PLAYER] leaves the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "37:22",
+            "query": "Juan Cuadrado (Juventus) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Juan Cuadrado collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The ball deflected off his leg and went out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "game_time": "36:45",
+            "query": "Massimiliano Allegri has decided to introduce fresh legs, with Juan Cuadrado (Juventus) replacing Paulo Dybala.",
+            "short-term": "Massimiliano Allegri has decided to introduce fresh legs, with Juan Cuadrado replacing Paulo Dybala. Dybala gets a loud ovation from the crowd as he walks off.",
+            "query_ano": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "game_time": "38:34",
+            "query": "Gael Clichy (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Gael Clichy sends a cross into the box, but the opposition's defence clears the ball to safety. The clearance was well-timed, preventing any danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "game_time": "40:13",
+            "query": "The corner from Kevin De Bruyne (Manchester City) is cleared away by the defence.",
+            "short-term": "The corner from Kevin De Bruyne is cleared away by the defence. Manchester City players appeal for a handball, but the referee waves play on.",
+            "query_ano": "The corner from [PLAYER] ([TEAM]) is cleared away by the defence."
+        },
+        {
+            "game_time": "3:30",
+            "query": "Alex Sandro (Juventus) crosses the ball into the box, but one of the defending players averts the threat.",
+            "short-term": "Alex Sandro crosses the ball into the box, but one of the defending players averts the threat. The clearance was crucial as an attacker was waiting to pounce.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "game_time": "41:50",
+            "query": "Juan Cuadrado (Juventus) touches the ball with his hand. A free kick is awarded to Manchester City.",
+            "short-term": "Juan Cuadrado touches the ball with his hand. A free kick is awarded to Manchester City. The Juventus players protest, but the referee stands firm.",
+            "query_ano": "[PLAYER] ([TEAM]) touches the ball with his hand. A free kick is awarded to [TEAM]."
+        },
+        {
+            "game_time": "43:34",
+            "query": "Fabian Delph (Manchester City) fouls an opponent. At least that's what referee Felix Brych signals.",
+            "short-term": "Fabian Delph fouls an opponent. At least that's what referee Felix Brych signals. The replay suggests there was minimal contact, but the decision stands.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [PLAYER] signals."
+        },
+        {
+            "game_time": "5:59",
+            "query": "Claudio Marchisio (Juventus) tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save.",
+            "short-term": "Claudio Marchisio tries his luck with a long-range effort after receiving a precise pass, but Joe Hart has a clear view of it and makes a comfortable save. The shot lacked power to trouble the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a long-range effort after receiving a precise pass, but [PLAYER] has a clear view of it and makes a comfortable save."
+        },
+        {
+            "game_time": "7:30",
+            "query": "Kevin De Bruyne (Manchester City) whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner.",
+            "short-term": "Kevin De Bruyne whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and Manchester City will have a corner. Yaya Toure was waiting at the back post but couldn't reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The linesman makes the right call and [TEAM] will have a corner."
+        },
+        {
+            "game_time": "7:50",
+            "query": "Kevin De Bruyne (Manchester City) is about to take a corner kick, Fernandinho (Manchester City) jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him.",
+            "short-term": "Kevin De Bruyne is about to take a corner kick, Fernandinho jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him. The ball deflected out for another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick, [PLAYER] ([TEAM]) jumps inside the box to meet the corner and aims a low header towards the right post, but the goalkeeper pulls off an astonishing save to deny him."
+        },
+        {
+            "game_time": "10:00",
+            "query": "Stefano Sturaro (Juventus) squanders a great opportunity after striking the ball onto the post!",
+            "short-term": "Stefano Sturaro squanders a great opportunity after striking the ball onto the post! The rebound fell to a teammate, but the shot was blocked.",
+            "query_ano": "[PLAYER] ([TEAM]) squanders a great opportunity after striking the ball onto the post!"
+        }
+    ]
+}

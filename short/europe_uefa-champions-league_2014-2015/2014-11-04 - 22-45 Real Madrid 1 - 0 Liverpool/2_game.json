@@ -1,0 +1,258 @@
+{
+    "annotations": [
+        {
+            "query": "Alberto Moreno (Liverpool) unleashes a shot from the edge of the box, but it goes straight at Iker Casillas.",
+            "target": "[player]Casillas[player] has to make a save the shot on target from [player]Alberto Moreno[player].",
+            "game_time": "10:40",
+            "short-term": "Alberto Moreno took a shot from the edge of the box, but it was straight at Iker Casillas. The goalkeeper had to react quickly to make a routine save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from the edge of the box, but it goes straight at [PLAYER]."
+        },
+        {
+            "query": "Alberto Moreno slides a brilliant pass into Adam Lallana (Liverpool), but his shot from inside the box goes a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "target": "Right now it's a good ball to [player]Lallana[player].",
+            "game_time": "12:15",
+            "short-term": "Alberto Moreno slides a brilliant pass into Adam Lallana, who had a great chance to score from inside the box. However, his shot narrowly missed the right post, resulting in a goal kick for Real Madrid.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] slides a brilliant pass into [PLAYER] ([TEAM]), but his shot from inside the box goes a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "query": "A yellow card for a tackle by Sergio Ramos (Real Madrid). Viktor Kassai doesn't hesitate at all to make this decision. Liverpool earn a free kick which could lead to a goal-scoring opportunity.",
+            "target": "",
+            "game_time": "14:28",
+            "short-term": "Viktor Kassai didn't hesitate to show a yellow card to Sergio Ramos for his tackle. Liverpool earned a free kick in a promising position.",
+            "label": "foul-card",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [PLAYER] doesn't hesitate at all to make this decision. [TEAM] earn a free kick which could lead to a goal-scoring opportunity."
+        },
+        {
+            "query": "Fabio Borini (Liverpool) fails to produce a decent enough free kick for a player of his ability and the only target that he finds is the wall of defenders in front of him. The ball is out of play. Liverpool will have a chance to score from a corner.",
+            "target": "",
+            "game_time": "15:00",
+            "short-term": "Fabio Borini delivered a free kick, but it lacked quality and struck the wall of defenders. The deflection sent the ball out of play, earning Liverpool a corner.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) fails to produce a decent enough free kick for a player of his ability and the only target that he finds is the wall of defenders in front of him. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "query": "Adam Lallana (Liverpool) whips in a cross from the corner, but Iker Casillas is well positioned and punches the ball away.",
+            "target": "[player]Casillas[player].",
+            "game_time": "16:25",
+            "short-term": "Adam Lallana whipped in a cross from the corner, but Iker Casillas was well positioned and punched the ball away to safety.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) whips in a cross from the corner, but Iker Casillas is well positioned and punches the ball away."
+        },
+        {
+            "query": "James Rodriguez goes off the pitch and Gareth Bale (Real Madrid) comes on.",
+            "target": "",
+            "game_time": "16:59",
+            "short-term": "James Rodriguez leaves the pitch, making way for Gareth Bale as Real Madrid make a tactical change.",
+            "label": "substitution",
+            "query_ano": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "query": "The linesman signals that Fabio Borini (Liverpool) is offside and the referee confirms the decision.",
+            "target": "It's the type called [player]Borini[player]. Maybe just half a yard offside, but this is all [team]Liverpool[team] all looking for the two rail fullbacks push on over the halfway line. They win the ball back quickly. [team]Liverpool[team] One ball over the top. You just never know.",
+            "game_time": "17:55",
+            "short-term": "The linesman signals that Fabio Borini is offside, and the referee confirms the decision. It was a marginal call, with he slightly ahead of the defensive line as Liverpool pushed forward.",
+            "label": "offside",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision."
+        },
+        {
+            "query": "Karim Benzema (Real Madrid) plays a one-two with Cristiano Ronaldo (Real Madrid), but the move breaks down.",
+            "target": "",
+            "game_time": "1:35",
+            "short-term": "Karim Benzema attempted a one-two with Cristiano Ronaldo, but the return pass was intercepted by a defender, halting the attack.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER] ([TEAM]), but the move breaks down."
+        },
+        {
+            "query": "Viktor Kassai shows a yellow card to Martin Skrtel (Liverpool) for a tough tackle. Real Madrid are awarded a free kick. Let's see what they create from this.",
+            "target": "As Martin [player]Skrtel[player] pull finds out an early second half booking for him, [player]Skrtel[player] pointing to the ball, says the referee won the ball.",
+            "game_time": "1:37",
+            "short-term": "Viktor Kassai books Martin Skrtel for a tough tackle early in the second half. The defender protested, claiming he won the ball, but the referee was firm in his decision. Real Madrid have a free kick.",
+            "label": "foul-card",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "query": "Alberto Moreno (Liverpool) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid.",
+            "target": "[player]Alberto Moreno[player] brandishing that hammer of her left foot again.",
+            "game_time": "20:14",
+            "short-term": "Alberto Moreno received a pass and decided to smash the ball from long range. However, his poor effort sailed well wide of the right post, missing the target by a considerable margin. The ball went off the pitch, and Real Madrid were awarded a goal kick. It was another attempt from Moreno, showing his powerful left foot, but this one failed to trouble the goalkeeper.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Corner kick. Real Madrid will have an opportunity.",
+            "target": "More space for [team]Madrid[team] to counterattack into [player]Ronaldo[player] to [player]Benzema[player], back to [player]Ronaldo[player]. Is this the moment for him? [player]Kolo Tour[player] was able to get a block and he just moved it a little bit too far to the right to absolutely take the maximum from the situation.",
+            "game_time": "22:03",
+            "short-term": "Cristiano Ronaldo linked up with Karim Benzema for a clever one-two, creating space for himself in the box. He then cut inside, preparing to take a shot with his left foot, but a defender made a timely intervention, blocking the effort. Real Madrid were awarded a corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Corner kick. [TEAM] will have an opportunity."
+        },
+        {
+            "query": "Karim Benzema (Real Madrid) does well to meet a cross from Marcelo, but he directs his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for Liverpool.",
+            "target": "[player]Marcelo[player].",
+            "game_time": "23:09",
+            "short-term": "Marcelo delivered a well-placed cross into the box, and Karim Benzema did well to meet it. However, his shot went just wide of the right post, missing the target. The ball went off the pitch, and Liverpool were awarded a goal kick.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) does well to meet a cross from [PLAYER], but he directs his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "target": "[player]Kroos[player].",
+            "game_time": "22:49",
+            "short-term": "Toni Kroos sent a wonderful cross from the corner kick, but the defense reacted well, positioning themselves perfectly to clear the ball and avert the threat.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "query": "It is time for a substitution. Steven Gerrard (Liverpool) is on for Lucas Leiva.",
+            "target": "[player]Steven Gerrard[player].And this will be some story. If [player]Steven Gerrard[player] can inspire [team]Liverpool[team] to get back into this game, he brings, of course past experience.",
+            "game_time": "23:57",
+            "short-term": "Steven Gerrard comes on for Lucas Leiva in a substitution for Liverpool. With his wealth of experience, Gerrard has the chance to inspire his team and influence the game.",
+            "label": "substitution",
+            "query_ano": "It is time for a substitution. [PLAYER] ([TEAM]) is on for [PLAYER]."
+        },
+        {
+            "query": "The referee signals a substitution. Raheem Sterling (Liverpool) is brought on as a substitute for Lazar Markovic.",
+            "target": "That's gonna be [player]Sterling[player] for [player]Markovic[player].",
+            "game_time": "23:56",
+            "short-term": "Raheem Sterling replaces Lazar Markovic as Liverpool make a substitution. Sterling, known for his pace and attacking threat, is expected to add energy to the game.",
+            "label": "substitution",
+            "query_ano": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER]."
+        },
+        {
+            "query": "What a chance that is! Gareth Bale (Real Madrid) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!",
+            "target": "There is a panel that is outside the penalty area. [player]Marcelo[player], the choice of his crossing tonight has been superb.",
+            "game_time": "25:15",
+            "short-term": "Marcelo has been delivering superb crosses all night, and this time he picked out Gareth Bale inside the box. Bale did everything right but leaned back slightly, causing the ball to lift and strike the crossbar. A huge opportunity wasted.",
+            "label": "shoot",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!"
+        },
+        {
+            "query": "Viktor Kassai blows the whistle, Emre Can (Liverpool) is penalised for a foul. Real Madrid have a free kick from a promising distance.",
+            "target": "",
+            "game_time": "25:44",
+            "short-term": "Viktor Kassai blew the whistle as Emre Can was penalized for a foul. Real Madrid were awarded a free kick from a promising distance.",
+            "label": "foul",
+            "query_ano": "[PLAYER] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) sets the ball for the free kick from 18 metres out. His attempt is aimed towards the middle of the goal, but Simon Mignolet is alert and makes a comfortable save.",
+            "target": "There's always a possibility that this could be it, but it's a six man wall from [player]Mignolet[player], but [player]Ronaldo[player] takes on the goalkeeper.",
+            "game_time": "26:14",
+            "short-term": "Cristiano Ronaldo stepped up for a free kick from 18 meters out, aiming for the middle of the goal. However, the goalkeeper was well positioned and made a comfortable save to deny him.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) sets the ball for the free kick from 18 metres out. His attempt is aimed towards the middle of the goal, but [PLAYER] is alert and makes a comfortable save."
+        },
+        {
+            "query": "Gareth Bale (Real Madrid) unleashes a shot from long range but it's well blocked. The ball goes out of play. Real Madrid are awarded a corner kick.",
+            "target": "With [player]Bale[player] on now. [player]Touré[player] in the way again. A lot of gallantry at the back.",
+            "game_time": "27:39",
+            "short-term": "Gareth Bale unleashed a powerful long-range shot, but a defender was in the way once again, making a crucial block. The ball deflected out of play, earning Real Madrid a corner kick.",
+            "label": "shoot",
+            "query_ano": "Gareth Bale ([TEAM]) unleashes a shot from long range but it's well blocked. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "query": "A cross from the corner kick arrives at the feet of Toni Kroos (Real Madrid), giving him an opportunity to shoot. He misses completely, well to the left of the goal.",
+            "game_time": "28:47",
+            "short-term": "A cross from the corner kick arrived at the feet of Toni Kroos, giving him an opportunity to shoot, but he missed completely, sending it well to the left of the goal. It was a difficult shot to take, especially with the ball coming across his body.",
+            "query_ano": "A cross from the corner kick arrives at the feet of [PLAYER] ([TEAM]), giving him an opportunity to shoot. He misses completely, well to the left of the goal."
+        },
+        {
+            "query": "Marcelo (Real Madrid) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball is out of play. Real Madrid win a corner kick.",
+            "game_time": "28:20",
+            "short-term": "Marcelo wriggled into space and fired the ball from the edge of the area, but one of the defenders was there to block the effort. The ball went out of play, and Real Madrid won a corner kick. His attempt had power, but the defender was well-positioned to make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "query": "A substitution has been made. Emre Can goes off and Philippe Coutinho (Liverpool) comes on.",
+            "game_time": "29:10",
+            "short-term": "A substitution has been made. Emre Can goes off and Philippe Coutinho comes on. Brendan Rodgers made another attacking move, hoping to increase Liverpool’s offensive presence.",
+            "query_ano": "A substitution has been made. Emre Can goes off and Philippe Coutinho ([TEAM]) comes on."
+        },
+        {
+            "query": "The foul by Fabio Borini (Liverpool) was seen by Viktor Kassai who didn't hesitate to blow the whistle.",
+            "game_time": "29:32",
+            "short-term": "The foul by Fabio Borini was seen by Viktor Kassai, who didn't hesitate to blow the whistle. Borini attempted to continue play, but the referee had already stopped the action.",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) was seen by [PLAYER] who didn't hesitate to blow the whistle."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and the score remained the same.",
+            "game_time": "3:25",
+            "short-term": "Cristiano Ronaldo connected with a pass around the edge of the box, aimed, and shot. His attempt went low towards the middle of the target, but Simon Mignolet was alert and kept it out with his feet. Despite the solid movement, Ronaldo couldn’t get the power he needed on the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but [PLAYER] was alert and the score remained the same."
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) attempts to curl the ball over the defensive wall from the free kick, but his effort fails to reach the goal.",
+            "game_time": "2:35",
+            "short-term": "Cristiano Ronaldo attempted to curl the ball over the defensive wall from the free kick, but his effort failed to reach the goal. The shot lacked enough dip to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to curl the ball over the defensive wall from the free kick, but his effort fails to reach the goal."
+        },
+        {
+            "query": "This yellow card was deserved. The tackle by Marcelo (Real Madrid) was quite harsh and Viktor Kassai didn't hesitate to show him a yellow card.",
+            "game_time": "30:30",
+            "short-term": "This yellow card was deserved. The tackle by Marcelo was quite harsh, and Viktor Kassai didn't hesitate to show him a yellow card. Marcelo came in from behind with no attempt to play the ball, making the challenge reckless.",
+            "query_ano": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [PLAYER] didn't hesitate to show him a yellow card."
+        },
+        {
+            "query": "Steven Gerrard (Liverpool) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and Real Madrid will have a goal kick.",
+            "game_time": "33:45",
+            "short-term": "Steven Gerrard attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play, and Real Madrid will have a goal kick. It was an ambitious attempt, but the weight of the pass made it unreachable.",
+            "query_ano": "Steven Gerrard ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "query": "Sergio Ramos (Real Madrid) displays his superb passing ability after picking out Alvaro Arbeloa with a fine lofted pass to continue their attacking move.",
+            "game_time": "34:55",
+            "short-term": "Sergio Ramos displays his superb passing ability after picking out Alvaro Arbeloa with a fine lofted pass to continue their attacking move. The delivery was perfectly weighted, allowing Arbeloa to push forward.",
+            "query_ano": "Sergio Ramos ([TEAM]) displays his superb passing ability after picking out [PLAYER] with a fine lofted pass to continue their attacking move."
+        },
+        {
+            "query": "Gareth Bale (Real Madrid) takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but Simon Mignolet is alert and keeps the ball out.",
+            "game_time": "39:50",
+            "short-term": "Gareth Bale takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but Simon Mignolet is alert and keeps the ball out. The shot had power but was too central, making it easier for Mignolet to react.",
+            "query_ano": "Gareth Bale ([TEAM]) takes the resulting free kick from 18 metres out. He attempts to send his effort into the right side of the goal, but [PLAYER] is alert and keeps the ball out."
+        },
+        {
+            "query": "Viktor Kassai shows a yellow card to Alberto Moreno (Liverpool), who isn't surprised as the tackle was really hard and late. Real Madrid are awarded a free kick from a dangerous position.",
+            "game_time": "39:00",
+            "short-term": "Viktor Kassai shows a yellow card to Alberto Moreno, who isn't surprised as the tackle was really hard and late. Real Madrid are awarded a free kick from a dangerous position. Moreno had little chance of winning the ball, making the challenge reckless and unnecessary.",
+            "query_ano": "[PLAYER] shows a yellow card to Alberto Moreno ([TEAM]), who isn't surprised as the tackle was really hard and late. [TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "query": "Fabio Borini (Liverpool) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "game_time": "41:20",
+            "short-term": "Fabio Borini finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) brings his opponent down. Viktor Kassai has a clear sight of it and blows his whistle for a foul.",
+            "game_time": "42:24",
+            "short-term": "Toni Kroos brings his opponent down with a tackle. Viktor Kassai had a clear sight of it and immediately blew his whistle for a foul. There was no card given for the challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [PLAYER] has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "query": "Alberto Moreno (Liverpool) fouls an opponent. At least that's what referee Viktor Kassai signals.",
+            "game_time": "5:48",
+            "short-term": "Alberto Moreno fouls an opponent. The referee, Viktor Kassai, signals for the foul.",
+            "query_ano": "Alberto Moreno ([TEAM]) fouls an opponent. At least that's what referee [PLAYER] signals."
+        },
+        {
+            "query": "Alvaro Arbeloa (Real Madrid) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+            "game_time": "7:11",
+            "short-term": "Alvaro Arbeloa delivers a cross into the penalty area, but the opposition defense clears the ball away to safety. The ball goes out of play, and Real Madrid are awarded a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "query": "James Rodriguez (Real Madrid) sees a yellow card from Viktor Kassai after he sent one of the opposing players to the ground.",
+            "game_time": "7:34",
+            "short-term": "James Rodriguez received a yellow card from Viktor Kassai after a clumsy challenge in which he sent one of the opposing players to the ground. It was more a result of his lack of control than intentional aggression.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [PLAYER] after he sent one of the opposing players to the ground."
+        },
+        {
+            "query": "Alberto Moreno (Liverpool) touches the ball with his hand. Real Madrid will take a free kick.",
+            "game_time": "8:47",
+            "short-term": "Alberto Moreno touches the ball with his hand. Real Madrid will take a free kick.",
+            "query_ano": "Alberto Moreno ([TEAM]) touches the ball with his hand. [TEAM] will take a free kick."
+        }
+    ]
+}

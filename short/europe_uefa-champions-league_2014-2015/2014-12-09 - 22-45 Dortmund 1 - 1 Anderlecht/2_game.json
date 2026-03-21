@@ -1,0 +1,326 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:59",
+            "game_time": "48:59",
+            "query": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The home side were dominant and dictated the tempo of the game. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking.",
+            "short-term": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The home side were dominant and dictated the tempo of the game. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking.",
+            "query_ano": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The home side were dominant and dictated the tempo of the game. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking."
+        },
+        {
+            "gameTime": "44:20",
+            "game_time": "44:20",
+            "query": "Dortmund are seeing far more of the ball now.",
+            "short-term": "Dortmund are seeing far more of the ball now. They are keeping possession, trying to avoid unnecessary risks as they approach the closing moments of the match.",
+            "query_ano": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "gameTime": "43:30",
+            "game_time": "43:30",
+            "query": "Aleksandar Mitrovic comes off the pitch to be replaced by Michael Heylen (Anderlecht).",
+            "short-term": "Aleksandar Mitrovic comes off the pitch to be replaced by Michael Heylen (Anderlecht). The substitution is made to strengthen the defense as the game reaches its final stages.",
+            "query_ano": "[PLAYER] comes off the pitch to be replaced by Michael Heylen ([TEAM])."
+        },
+        {
+            "gameTime": "41:04",
+            "game_time": "41:04",
+            "query": "Referee Alberto Undiano Mallenco sees the trip by Olivier Deschacht (Anderlecht) and doesn't hesitate to blow his whistle. Dortmund are given an advantage. They have a free kick.",
+            "short-term": "Referee Alberto Undiano Mallenco sees the trip by Olivier Deschacht (Anderlecht) and doesn't hesitate to blow his whistle. Dortmund are given an advantage. They have a free kick. With only a few minutes left, they push forward to create one final opportunity.",
+            "query_ano": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "40:38",
+            "game_time": "40:38",
+            "query": "Another attempt to send the ball beyond the defence by Erik Durm (Dortmund) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Erik Durm (Dortmund) is thwarted and cleared to safety. The defense was well-positioned and intercepted the ball before it reached its target.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "38:54",
+            "game_time": "38:54",
+            "query": "Substitution. Jakub Blaszczykowski (Dortmund) receives a signal from the referee and is now allowed to enter the pitch as Shinji Kagawa walks off.",
+            "short-term": "Substitution. Jakub Blaszczykowski (Dortmund) receives a signal from the referee and is now allowed to enter the pitch as Shinji Kagawa walks off. A fresh pair of legs is introduced to bring energy into the midfield.",
+            "query_ano": "Substitution. Jakub Blaszczykowski ([TEAM]) receives a signal from the referee and is now allowed to enter the pitch as [PLAYER] walks off."
+        },
+        {
+            "gameTime": "38:41",
+            "game_time": "38:41",
+            "query": "Anthony Vanden Borre sends a superb cross into the box. Aleksandar Mitrovic (Anderlecht) latches on to it and from close range plants a header into the top left corner, leaving Mitchell Langerak beaten. He displayed his eye for goal there - excellent finish. The score is 1:0.",
+            "short-term": "Anthony Vanden Borre sends a superb cross into the box. Aleksandar Mitrovic (Anderlecht) latches on to it and from close range plants a header into the top left corner, leaving Mitchell Langerak beaten. He displayed his eye for goal there - excellent finish. The ball was perfectly weighted, making it difficult for the defender to intercept.",
+            "query_ano": "[PLAYER] sends a superb cross into the box. [PLAYER] ([TEAM]) latches on to it and from close range plants a header into the top left corner, leaving [PLAYER] beaten. He displayed his eye for goal there - excellent finish. The score is 1:0."
+        },
+        {
+            "gameTime": "38:00",
+            "game_time": "38:00",
+            "query": "Henrikh Mkhitaryan (Dortmund) takes the ball, nicely zig-zags through the defence, but his shot to the left post is smartly dealt with by Silvio Proto.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) takes the ball, nicely zig-zags through the defence, but his shot to the left post is smartly dealt with by Silvio Proto. The goalkeeper reacted quickly, diving low to smother the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the ball, nicely zig-zags through the defence, but his shot to the left post is smartly dealt with by [REFEREE]."
+        },
+        {
+            "gameTime": "34:47",
+            "game_time": "34:47",
+            "query": "What a big chance! Henrikh Mkhitaryan (Dortmund) picks up an inch-perfect pass inside the box and fires the ball just over the crossbar. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "What a big chance! Henrikh Mkhitaryan (Dortmund) picks up an inch-perfect pass inside the box and fires the ball just over the crossbar. The ball goes out of play and Anderlecht will have a goal kick. He was left unmarked and had a clear sight of goal, but failed to keep his shot down.",
+            "query_ano": "What a big chance! [PLAYER] ([TEAM]) picks up an inch-perfect pass inside the box and fires the ball just over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "33:41",
+            "game_time": "33:41",
+            "query": "Shinji Kagawa (Dortmund) makes a reckless foul in order to win the ball from his opponent. Alberto Undiano Mallenco has a clear sight of it and blows his whistle.",
+            "short-term": "Shinji Kagawa (Dortmund) makes a reckless foul in order to win the ball from his opponent. Alberto Undiano Mallenco has a clear sight of it and blows his whistle. He appeared to use his arm in the challenge, drawing immediate attention from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "33:17",
+            "game_time": "33:17",
+            "query": "Here comes a substitution. Tired Ibrahima Conte (Anderlecht) left the pitch, and Cyriac Gohi Bi (Anderlecht) is coming on to help his team.",
+            "short-term": "Here comes a substitution. Tired Ibrahima Conte (Anderlecht) left the pitch, and Cyriac Gohi Bi (Anderlecht) is coming on to help his team. The substitution aims to add fresh energy to the attack alongside Mitrovic.",
+            "query_ano": "Here comes a substitution. Tired [PLAYER] ([TEAM]) left the pitch, and [PLAYER] ([TEAM]) is coming on to help his team."
+        },
+        {
+            "gameTime": "32:42",
+            "game_time": "32:42",
+            "query": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and Anderlecht will have a goal kick. His attempt to dribble past the last defender was unsuccessful, as the defender stood firm.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "32:08",
+            "game_time": "32:08",
+            "query": "Frank Acheampong (Anderlecht) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "short-term": "Frank Acheampong (Anderlecht) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The pass was well-intended but lacked accuracy, allowing the defender to step in easily.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "31:04",
+            "game_time": "31:04",
+            "query": "Ciro Immobile (Dortmund) attempted to send a defence-splitting pass into space where Pierre-Emerick Aubameyang was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",
+            "short-term": "Ciro Immobile (Dortmund) attempted to send a defence-splitting pass into space where Pierre-Emerick Aubameyang was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat. A well-timed interception stopped what could have been a dangerous break.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to send a defence-splitting pass into space where Pierre-Emerick Aubameyang was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat."
+        },
+        {
+            "gameTime": "29:29",
+            "game_time": "29:29",
+            "query": "The referee allows time for a substitution. Marcel Schmelzer will be replaced by Pierre-Emerick Aubameyang (Dortmund).",
+            "short-term": "The referee allows time for a substitution. Marcel Schmelzer will be replaced by Pierre-Emerick Aubameyang (Dortmund). The change brings more attacking intent, with a forward replacing a defender.",
+            "query_ano": "The referee allows time for a substitution. [PLAYER] will be replaced by Pierre-Emerick Aubameyang ([TEAM])."
+        },
+        {
+            "gameTime": "29:07",
+            "game_time": "29:07",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Frank Acheampong (Anderlecht).",
+            "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Frank Acheampong (Anderlecht). The pass had potential to create danger, but the defender read it well and cut it out just in time.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "24:51",
+            "game_time": "24:51",
+            "query": "The resulting corner, taken by Marcel Schmelzer (Dortmund), comes to nothing.",
+            "short-term": "The resulting corner, taken by Marcel Schmelzer (Dortmund), comes to nothing. The goalkeeper managed to keep control despite limited visibility due to the crowded penalty area.",
+            "query_ano": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "gameTime": "24:45",
+            "game_time": "24:45",
+            "query": "Henrikh Mkhitaryan (Dortmund) picks up a rebound inside the penalty area and sends a shot to the top left corner, but is denied by a reflex save from Silvio Proto. Good work from Dortmund as they win a corner.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) picks up a rebound inside the penalty area and sends a shot to the top left corner, but is denied by a reflex save from Silvio Proto. The goalkeeper reacted swiftly despite his view being obstructed.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a rebound inside the penalty area and sends a shot to the top left corner, but is denied by a reflex save from [REFEREE]. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "gameTime": "24:31",
+            "game_time": "24:31",
+            "query": "Ciro Immobile (Dortmund) wriggles into space inside the box with excellent ball control, but his effort on goal is well blocked.",
+            "short-term": "Ciro Immobile (Dortmund) wriggles into space inside the box with excellent ball control, but his effort on goal is well blocked. A defender quickly stepped in to divert the shot away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) wriggles into space inside the box with excellent ball control, but his effort on goal is well blocked."
+        },
+        {
+            "gameTime": "23:37",
+            "game_time": "23:37",
+            "query": "Besnik Hasi has decided to make a change. Youri Tielemans (Anderlecht) replaces Sacha Kljestan.",
+            "short-term": "Besnik Hasi has decided to make a change. Youri Tielemans (Anderlecht) replaces Sacha Kljestan. The team aims to increase midfield control and passing precision with this substitution.",
+            "query_ano": "[REFEREE] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "22:09",
+            "game_time": "22:09",
+            "query": "Frank Acheampong (Anderlecht) sends a pass into the penalty area, but the opponent manages to cut it out.",
+            "short-term": "Frank Acheampong (Anderlecht) sends a pass into the penalty area, but the opponent manages to cut it out. The attacking side struggled to find space against the tight defensive marking.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "gameTime": "20:59",
+            "game_time": "20:59",
+            "query": "Ciro Immobile (Dortmund) is adjudged to have been offside when making his run.",
+            "short-term": "Ciro Immobile (Dortmund) is adjudged to have been offside when making his run. He attempted to time his run at the defensive line but was caught just ahead of the last defender.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "20:07",
+            "game_time": "20:07",
+            "query": "Today's match ends for Ilkay Gundogan who will be replaced by Oliver Kirch (Dortmund).",
+            "short-term": "Today's match ends for Ilkay Gundogan who will be replaced by Oliver Kirch (Dortmund). The substitution was met with applause as the team adjusted its midfield setup.",
+            "query_ano": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "19:05",
+            "game_time": "19:05",
+            "query": "Dennis Praet (Anderlecht) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Dennis Praet (Anderlecht) looks to break free, but an opposing player clears the ball away. He attempted to dribble past the last defender but was forced to retreat under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "18:12",
+            "game_time": "18:12",
+            "query": "What a wasted chance that was! A precise cross into the box finds Aleksandar Mitrovic (Anderlecht), whose header goes wide of the goal. The ball goes out of play and Dortmund will have a goal kick.",
+            "short-term": "What a wasted chance that was! A precise cross into the box finds Aleksandar Mitrovic (Anderlecht), whose header goes wide of the goal. He demanded for a corner, believing the ball took a deflection.",
+            "query_ano": "What a wasted chance that was! A precise cross into the box finds [PLAYER] ([TEAM]), whose header goes wide of the goal. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "17:46",
+            "game_time": "17:46",
+            "query": "Alberto Undiano Mallenco interrupts the game for a tactical foul by Ciro Immobile (Dortmund).",
+            "short-term": "Alberto Undiano Mallenco interrupts the game for a tactical foul by Ciro Immobile (Dortmund). He cut off a counterattack with a well-placed body check.",
+            "query_ano": "[REFEREE] interrupts the game for a tactical foul by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "16:57",
+            "game_time": "16:57",
+            "query": "Olivier Deschacht (Anderlecht) makes an overly-aggressive challenge and Alberto Undiano Mallenco blows his whistle for a foul.",
+            "short-term": "Olivier Deschacht (Anderlecht) makes an overly-aggressive challenge and Alberto Undiano Mallenco blows his whistle for a foul. The referee quickly intervened as the opponent tumbled to the ground.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "16:12",
+            "game_time": "16:12",
+            "query": "Leander Dendoncker (Anderlecht) handled the ball and gives away a free kick.",
+            "short-term": "Leander Dendoncker (Anderlecht) handled the ball and gives away a free kick. The referee spotted the infringement immediately as he attempted to control a high pass.",
+            "query_ano": "[PLAYER] ([TEAM]) handled the ball and gives away a free kick."
+        },
+        {
+            "gameTime": "14:30",
+            "game_time": "14:30",
+            "query": "Shinji Kagawa (Dortmund) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball into the stands. Nice run, but poor finish! The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Shinji Kagawa (Dortmund) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball into the stands. He glanced up briefly before striking, but failed to keep his shot down.",
+            "query_ano": "[PLAYER] ([TEAM]) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball into the stands. Nice run, but poor finish! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "12:52",
+            "game_time": "12:52",
+            "query": "Ciro Immobile (Dortmund) receives the ball inside the box, reacts quickly and without any problems stabs the ball inside the right post.",
+            "short-term": "Ciro Immobile (Dortmund) receives the ball inside the box, reacts quickly and without any problems stabs the ball inside the right post. The goalkeeper had little time to react as the shot was hit with precision.",
+            "query_ano": "[PLAYER] ([TEAM]) receives the ball inside the box, reacts quickly and without any problems stabs the ball inside the right post."
+        },
+        {
+            "gameTime": "12:05",
+            "game_time": "12:05",
+            "query": "Ciro Immobile (Dortmund) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "short-term": "Ciro Immobile (Dortmund) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball was intercepted before it could reach the intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "11:06",
+            "game_time": "11:06",
+            "query": "Ibrahima Conte (Anderlecht) sends over a free kick from long range but the defence is alert.",
+            "short-term": "Ibrahima Conte (Anderlecht) sends over a free kick from long range but the defence is alert. The ball was aimed towards the far post, but the defenders reacted quickly to clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "gameTime": "10:11",
+            "game_time": "10:11",
+            "query": "Marcel Schmelzer (Dortmund) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "short-term": "Marcel Schmelzer (Dortmund) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "gameTime": "09:46",
+            "game_time": "9:46",
+            "query": "Henrikh Mkhitaryan (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. His run was fluid, but the last touch allowed the defender to step in and intercept.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "09:00",
+            "game_time": "9:00",
+            "query": "Ciro Immobile (Dortmund) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat.",
+            "short-term": "Ciro Immobile (Dortmund) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat. The ball was slightly under-hit, giving the defender time to read the play.",
+            "query_ano": "[PLAYER] ([TEAM]) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat."
+        },
+        {
+            "gameTime": "08:16",
+            "game_time": "8:16",
+            "query": "Henrikh Mkhitaryan (Dortmund) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Silvio Proto pulls off an easy save.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. The shot lacked power, making it a routine save for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and [REFEREE] pulls off an easy save."
+        },
+        {
+            "gameTime": "08:07",
+            "game_time": "8:07",
+            "query": "Shinji Kagawa (Dortmund) passes the ball and slows down the tempo so his team can continue with their combination play.",
+            "short-term": "Shinji Kagawa (Dortmund) passes the ball and slows down the tempo so his team can continue with their combination play. He took a moment to assess his options before choosing a safer pass.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball and slows down the tempo so his team can continue with their combination play."
+        },
+        {
+            "gameTime": "06:13",
+            "game_time": "6:13",
+            "query": "It's a weak and poor shot by Ciro Immobile (Dortmund) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "It's a weak and poor shot by Ciro Immobile (Dortmund) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post. The ball goes out of play. His frustration is evident as he looks towards his teammates.",
+            "query_ano": "It's a weak and poor shot by [PLAYER] ([TEAM]) as he flashes a first-time shot from the edge of the box. The ball flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "05:38",
+            "game_time": "5:38",
+            "query": "Dortmund keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "short-term": "Dortmund keep possession of the ball with some short passes, looking for an opening. The opposition is pressing but staying disciplined at the back.",
+            "query_ano": "[TEAM] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "gameTime": "05:06",
+            "game_time": "5:06",
+            "query": "The referee blows his whistle as Neven Subotic (Dortmund) was too aggressive in his challenge.",
+            "short-term": "The referee blows his whistle as Neven Subotic (Dortmund) was too aggressive in his challenge. The opposition takes their time setting up for the free kick.",
+            "query_ano": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge."
+        },
+        {
+            "gameTime": "04:40",
+            "game_time": "4:40",
+            "query": "The ball is cleared after Ilkay Gundogan (Dortmund) attempted to dribble past an opposing player.",
+            "short-term": "Ilkay Gundogan (Dortmund) makes a daring run but is stopped as the defender intercepts. Dortmund quickly resets their attack.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "04:12",
+            "game_time": "4:12",
+            "query": "Alberto Undiano Mallenco blows his whistle for a foul after Ibrahima Conte (Anderlecht) hacks down one of his opponents.",
+            "short-term": "Alberto Undiano Mallenco blows his whistle for a foul after Ibrahima Conte (Anderlecht) hacks down one of his opponents. The referee has no hesitation in awarding a free kick.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "03:52",
+            "game_time": "3:52",
+            "query": "What an amazing save by Silvio Proto! Henrikh Mkhitaryan (Dortmund) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails.",
+            "short-term": "What an amazing save by Silvio Proto! Henrikh Mkhitaryan (Dortmund) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails. The goalkeeper stays composed and holds onto the ball.",
+            "query_ano": "What an amazing save by [REFEREE]! [PLAYER] ([TEAM]) swirls around the defenders and attempts to beat the keeper with a close-range shot low towards the middle of the target, but fails."
+        },
+        {
+            "gameTime": "03:20",
+            "game_time": "3:20",
+            "query": "A precise low pass is received by Ciro Immobile (Dortmund), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the right post. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Ciro Immobile (Dortmund) receives a well-placed pass but rushes his shot, sending it well wide. He gestures in frustration as the chance goes begging.",
+            "query_ano": "A precise low pass is received by [PLAYER] ([TEAM]), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "01:15",
+            "game_time": "1:15",
+            "query": "Shinji Kagawa (Dortmund) takes the chance to have an effort at goal from inside the box but misses to the left of the target. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Shinji Kagawa (Dortmund) gets into a promising position inside the box but drags his shot wide. His teammates look on as the ball sails past the post.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the chance to have an effort at goal from inside the box but misses to the left of the target. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "00:54",
+            "game_time": "0:54",
+            "query": "Shinji Kagawa (Dortmund) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "short-term": "Shinji Kagawa (Dortmund) attempts a clever through ball but the defense reads it well and cuts it out. Dortmund must reset their attack.",
+            "query_ano": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        }
+    ]
+}

@@ -1,0 +1,770 @@
+{
+    "annotations": [
+        {
+            "gameTime": "47:05",
+            "game_time": "46:56",
+            "query": "Ilkay Gundogan (Dortmund) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",
+            "short-term": "Ilkay Gundogan (Dortmund) picks up a precise pass deep inside the box, but his strike is saved by the keeper. The shot was well-placed, but the goalkeeper reacted swiftly, stretching to parry the ball away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The defensive line remained solid, preventing a potential late-game breakthrough.",
+                    "history_time": "45:58",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense and goalkeeper have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety. The defender read the pass well and stepped in just in time to intercept.",
+                    "history_time": "42:48",
+                    "long-term": "They have been consistently testing the opponent's defense with precise passes and shots on goal, but the goalkeeper has been up to the task so far."
+                },
+                {
+                    "short-term": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked. The defender stepped in bravely to get in the way of the shot, preventing it from testing the goalkeeper.",
+                    "history_time": "41:25",
+                    "long-term": "Both teams have shown intent to attack with Ilkay Gundogan and Leroy Sane registering attempts, but the defenses have been resilient so far."
+                },
+                {
+                    "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+                    "history_time": "34:23",
+                    "long-term": "The goalkeepers have been sharp, with both producing key saves to deny their opponents during this spell of pressure."
+                },
+                {
+                    "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+                    "history_time": "32:46",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense and goalkeeper have been up to the task, neutralizing their attacking threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "They have been posing a significant threat in the box, testing the goalkeeper with precise and powerful shots that required swift reactions to keep the scoreline intact."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:51",
+            "game_time": "46:44",
+            "query": "Dortmund take a quick free kick with a short pass and play continues.",
+            "short-term": "Dortmund take a quick free kick with a short pass and play continues. The set-piece was taken swiftly to catch the opposition off guard, but the defense remained disciplined and organized.",
+            "query_ano": "[TEAM] take a quick free kick with a short pass and play continues.",
+            "history": [
+                {
+                    "short-term": "Felix Brych interrupts the game for a tactical foul by Leon Goretzka (Schalke). Another situation results in a direct free kick for Dortmund. The referee had no hesitation as the challenge halted a developing attack.",
+                    "history_time": "46:13",
+                    "long-term": "They have been using set pieces to launch swift counterattacks and catch their opponents off guard, but the defense has been up to the task so far."
+                },
+                {
+                    "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+                    "history_time": "38:57",
+                    "long-term": "Both teams have shown moments of strategic awareness, with Dortmund attempting to catch their opponents off guard and Schalke controlling possession, but also displaying vulnerability in maintaining that control."
+                },
+                {
+                    "short-term": "Dortmund continue the game with a quickly taken free kick. The team quickly reorganized, looking to regain control after a brief stoppage.",
+                    "history_time": "21:30",
+                    "long-term": "They have consistently utilized quick free kicks to maintain pressure and dictate the tempo of the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:30",
+            "game_time": "46:13",
+            "query": "Felix Brych interrupts the game for a tactical foul by Leon Goretzka (Schalke). Another situation results in a direct free kick for Dortmund.",
+            "short-term": "Felix Brych interrupts the game for a tactical foul by Leon Goretzka (Schalke). Another situation results in a direct free kick for Dortmund. The referee had no hesitation as the challenge halted a developing attack.",
+            "query_ano": "[PLAYER] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). Another situation results in a direct free kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The defensive line remained solid, preventing a potential late-game breakthrough.",
+                    "history_time": "45:58",
+                    "long-term": "The home team's defense has been put to the test, fending off consecutive threats and earning their share of set pieces, while struggling to launch attacks that find the back of the net."
+                },
+                {
+                    "short-term": "Felix Platte (Schalke) picks up a caution. The referee had a clear view of the incident and wasted no time in reaching for the card, signaling his control over the match.",
+                    "history_time": "44:08",
+                    "long-term": "The referee has been actively managing the game, quickly addressing fouls and maintaining control to prevent the match from escalating."
+                },
+                {
+                    "short-term": "Julian Weigl (Dortmund) goes into the book and receives a yellow card. A tactical foul stopped the opponent’s momentum, but it came at the cost of a booking.",
+                    "history_time": "43:12",
+                    "long-term": "The referee has been consistently strict on tactical fouls, quickly intervening to halt play and issuing cautions to maintain the flow of the game."
+                },
+                {
+                    "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+                    "history_time": "38:57",
+                    "long-term": "They have shown inconsistency in maintaining possession, losing it after stringing together multiple passes and resorting to mistimed tackles to stop opposition counters."
+                }
+            ]
+        },
+        {
+            "gameTime": "45:59",
+            "game_time": "45:58",
+            "query": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",
+            "short-term": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The defensive line remained solid, preventing a potential late-game breakthrough.",
+            "query_ano": "[PLAYER] ([TEAM]) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",
+            "history": [
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety. The defender read the pass well and stepped in just in time to intercept.",
+                    "history_time": "42:48",
+                    "long-term": "They have consistently been testing the defensive line with precise, low-driven passes into the box, which indicates a systematic attacking approach."
+                },
+                {
+                    "short-term": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked. The defender stepped in bravely to get in the way of the shot, preventing it from testing the goalkeeper.",
+                    "history_time": "41:25",
+                    "long-term": "Both teams have shown glimpses of threatening attacks, but their efforts have been consistently thwarted by solid defensive plays."
+                },
+                {
+                    "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+                    "history_time": "38:57",
+                    "long-term": "They have shown periods of dominance in possession, but the opposition's defense has been resilient, and the only error led to a counterattack."
+                },
+                {
+                    "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+                    "history_time": "34:23",
+                    "long-term": "Both teams have shown flashes of brilliance in their passing and set pieces, but stalwart defensive efforts have consistently thwarted promising scoring opportunities."
+                },
+                {
+                    "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+                    "history_time": "32:46",
+                    "long-term": "They have consistently tested the defensive line with precise passes, but were unable to break through as the opponent cleared the ball to safety."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. The defense reacted quickly to close the passing lane and prevent a goal-scoring opportunity.",
+                    "history_time": "27:12",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with low passes into the box, but the defense has held firm."
+                }
+            ]
+        },
+        {
+            "gameTime": "45:05",
+            "game_time": "44:08",
+            "query": "Felix Platte (Schalke) picks up a caution.",
+            "short-term": "Felix Platte (Schalke) picks up a caution. The referee had a clear view of the incident and wasted no time in reaching for the card, signaling his control over the match.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a caution.",
+            "history": [
+                {
+                    "short-term": "Julian Weigl (Dortmund) goes into the book and receives a yellow card. A tactical foul stopped the opponent’s momentum, but it came at the cost of a booking.",
+                    "history_time": "43:12",
+                    "long-term": "The referee has been actively enforcing discipline, issuing yellow cards to both teams for tactical fouls and subjective infractions."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:58",
+            "game_time": "42:48",
+            "query": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety. The defender read the pass well and stepped in just in time to intercept.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "history": [
+                {
+                    "short-term": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked. The defender stepped in bravely to get in the way of the shot, preventing it from testing the goalkeeper.",
+                    "history_time": "41:25",
+                    "long-term": "The defenders have been alert and proactive in intercepting passes and blocking shots, effectively neutralizing opposition attacks."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "He has been consistently testing the defense with his attempts to get in behind and create scoring opportunities."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. The defense reacted quickly to close the passing lane and prevent a goal-scoring opportunity.",
+                    "history_time": "27:12",
+                    "long-term": "They have consistently attempted to breach the defense with precise passes, but the opposing team's backline has been alert."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:55",
+            "game_time": "41:46",
+            "query": "Schalke are ruled offside.",
+            "short-term": "Schalke are ruled offside. The assistant referee quickly raised his flag, catching the attacking player in an advanced position.",
+            "query_ano": "[TEAM] are ruled offside.",
+            "history": [
+                {
+                    "short-term": "Franco Di Santo (Schalke) is adjudged offside. The timing of the run was slightly off, and the assistant referee quickly raised his flag to stop the attack.",
+                    "history_time": "39:34",
+                    "long-term": "They have been struggling with offside traps, having two potential attacks called back due to mis-timed runs."
+                },
+                {
+                    "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+                    "history_time": "38:57",
+                    "long-term": "They have dominated possession but struggled to create scoring opportunities due to lapses in positioning and execution."
+                },
+                {
+                    "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+                    "history_time": "33:58",
+                    "long-term": "They have shown a mix of inaccuracies in positioning and excellent moments of individual skill, creating scoring chances while getting caught in offside positions."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:30",
+            "game_time": "41:25",
+            "query": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked.",
+            "short-term": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked. The defender stepped in bravely to get in the way of the shot, preventing it from testing the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked.",
+            "history": [
+                {
+                    "short-term": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The deflection sent the ball spinning out of play, and Schalke earned a valuable set-piece opportunity.",
+                    "history_time": "37:00",
+                    "long-term": "They have been consistently aggressive in their attacks, but the opposing defense has shown remarkable resilience in blocking their shots."
+                },
+                {
+                    "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+                    "history_time": "34:23",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid in blocking and preventing these chances from becoming goals."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "Both teams have shown a willingness to take shots from distance, but so far, the goalkeepers have done well to keep their efforts at bay."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:55",
+            "game_time": "38:57",
+            "query": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The linesman signals a throw-in for Dortmund.",
+            "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The linesman signals a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. A misplaced pass near the touchline allowed the opponent to gain control and restart play with a throw-in.",
+                    "history_time": "29:21",
+                    "long-term": "They have consistently maintained possession, but inaccurate passing has allowed the opposing team to gain opportunities for counterattacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:28",
+            "game_time": "37:19",
+            "query": "Dennis Aogo (Schalke) takes the corner kick, but Roman Burki reads it well and stops the effort.",
+            "short-term": "Dennis Aogo (Schalke) takes the corner kick, but Roman Burki reads it well and stops the effort. The delivery was floated towards the crowded penalty area, but the keeper confidently came off his line to claim the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick, but [PLAYER] reads it well and stops the effort.",
+            "history": [
+                {
+                    "short-term": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The deflection sent the ball spinning out of play, and Schalke earned a valuable set-piece opportunity.",
+                    "history_time": "37:00",
+                    "long-term": "This corner kick comes after a powerful shot was bravely blocked by a defender, deflecting out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+                    "history_time": "34:23",
+                    "long-term": "They have consistently threatened from set pieces, particularly corner kicks, but the opposing goalkeeper has been equal to the task,."
+                },
+                {
+                    "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+                    "history_time": "33:58",
+                    "long-term": "They have been consistently testing the goalkeeper with well-crafted set pieces and precise long-range shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:08",
+            "game_time": "37:00",
+            "query": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The ball is out of play and Schalke manage to earn a corner.",
+            "short-term": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The deflection sent the ball spinning out of play, and Schalke earned a valuable set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The ball is out of play and [TEAM] manage to earn a corner.",
+            "history": [
+                {
+                    "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+                    "history_time": "34:23",
+                    "long-term": "They have been consistently creating scoring opportunities, with shots and set pieces that have tested the opponent's defense."
+                },
+                {
+                    "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+                    "history_time": "33:58",
+                    "long-term": "They have been creating scoring opportunities with powerful shots, but the opposing team's defense and goalkeeper have managed to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "Both teams have shown promising attacking intent, with chances being created and goalkeepers being tested."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:48",
+            "game_time": "34:23",
+            "query": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save.",
+            "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in the corner, but the keeper steps in and makes a save.",
+            "history": [
+                {
+                    "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+                    "history_time": "33:58",
+                    "long-term": "They have consistently threatened the opponent's goal with quality chances, requiring impressive interventions from the goalkeeper to keep the score level."
+                },
+                {
+                    "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+                    "history_time": "32:46",
+                    "long-term": "Both teams have been utilizing crosses and corners to create scoring opportunities, but the goalkeepers and defenders have been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "Both teams have been creating scoring opportunities, but the goalkeepers have been doing an excellent job in preventing any breakthroughs."
+                },
+                {
+                    "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+                    "history_time": "23:13",
+                    "long-term": "The teams have been creating scoring opportunities from set pieces, with goalkeepers from both sides making crucial saves to deny potential goals."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:15",
+            "game_time": "33:58",
+            "query": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. Schalke have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+            "query_ano": "A great job from two opposing players there. [PLAYER] ([TEAM]) fired a shot nicely in on goal from distance towards the bottom right corner, while [PLAYER] produced a wonderful piece of goalkeeping to parry the ball onto the post. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "history": [
+                {
+                    "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+                    "history_time": "32:46",
+                    "long-term": "Both teams have shown excellent defensive skills and readiness, highlighting the intensity of the match, with vigilant goalkeeping and swift defensive anticipation contributing to the scoreline's balance."
+                },
+                {
+                    "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+                    "history_time": "23:13",
+                    "long-term": "Both goalkeepers have been impressive, producing crucial saves to keep their teams in the contest, indicating a trend of excellent goalkeeping in this match."
+                },
+                {
+                    "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+                    "history_time": "22:38",
+                    "long-term": "Both teams have shown great tenacity in their play, with the away side's offense being matched by the home team's defense, creating a closely contested match."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:54",
+            "game_time": "32:46",
+            "query": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+                    "history_time": "31:26",
+                    "long-term": "They have been consistently posing threats through crosses, however, the defending team has been alert to manage these threats so far."
+                },
+                {
+                    "short-term": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The clearance was decisive, preventing any immediate danger inside the area.",
+                    "history_time": "30:29",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses into the box, but the opposing team's defense has been effective in clearing the threats."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. The defense reacted quickly to close the passing lane and prevent a goal-scoring opportunity.",
+                    "history_time": "27:12",
+                    "long-term": "They have been consistently testing the defense with crosses and passes into the box, but the opposing team's backline has been equal to the task so far."
+                },
+                {
+                    "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+                    "history_time": "23:13",
+                    "long-term": "They have been posing a threat through set pieces and crosses, putting pressure on the opposing defense to make crucial clearances and saves."
+                },
+                {
+                    "short-term": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner. The clearance was necessary as pressure was mounting inside the box.",
+                    "history_time": "13:30",
+                    "long-term": "Both teams have shown intent in the air, using crosses to test each other's defenses, but neither has been able to capitalize on these opportunities yet."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:33",
+            "game_time": "31:26",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+            "query_ano": "[PLAYER] ([TEAM]) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The clearance was decisive, preventing any immediate danger inside the area.",
+                    "history_time": "30:29",
+                    "long-term": "They have been consistently creating scoring opportunities, putting pressure on the opposition's defense with multiple attempts on goal."
+                },
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. The defense reacted quickly to close the passing lane and prevent a goal-scoring opportunity.",
+                    "history_time": "27:12",
+                    "long-term": "He has been consistently posing a threat in the opposition's box, forcing the goalkeeper into action and testing the defense with his passes."
+                },
+                {
+                    "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+                    "history_time": "23:13",
+                    "long-term": "They have been posing a significant threat in the air and on the ground, consistently testing the goalkeeper with powerful shots and precise headers."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:36",
+            "game_time": "30:29",
+            "query": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "short-term": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The clearance was decisive, preventing any immediate danger inside the area.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) sends a long ball in, but Ralf Fahrmann comfortably gathers the ball. The high delivery was well-read by the keeper, who collected it without pressure.",
+                    "history_time": "26:46",
+                    "long-term": "They have consistently utilized long balls and crosses to create attacking opportunities, but the opposition's defense has shown effectiveness in neutralizing these threats."
+                },
+                {
+                    "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+                    "history_time": "22:38",
+                    "long-term": "The player has been consistent in creating chances with precise crosses and passes, testing the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:29",
+            "game_time": "29:21",
+            "query": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. Dortmund are taking a throw-in.",
+            "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. A misplaced pass near the touchline allowed the opponent to gain control and restart play with a throw-in.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. [TEAM] are taking a throw-in.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+                    "history_time": "22:38",
+                    "long-term": "They have maintained control of the ball for most of this period but haven't been able to break down the opposition defense."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+                    "history_time": "9:40",
+                    "long-term": "Both teams have shown impressive ball control and are highly motivated, but so far neither can create decisive scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:56",
+            "game_time": "26:46",
+            "query": "Matthias Ginter (Dortmund) sends a long ball in, but Ralf Fahrmann comfortably gathers the ball.",
+            "short-term": "Matthias Ginter (Dortmund) sends a long ball in, but Ralf Fahrmann comfortably gathers the ball. The high delivery was well-read by the keeper, who collected it without pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+                    "history_time": "22:38",
+                    "long-term": "The player has been actively attempting to create scoring opportunities with long balls and passes into the box, but has yet to find a breakthrough."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:23",
+            "game_time": "23:13",
+            "query": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort.",
+            "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+            "query_ano": "Sokratis ([TEAM]) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort.",
+            "history": [
+                {
+                    "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+                    "history_time": "22:38",
+                    "long-term": "They have been posing a significant threat from set pieces, forcing the goalkeeper into a superb save and consistently putting pressure on the opposing defense."
+                },
+                {
+                    "short-term": "Dortmund continue the game with a quickly taken free kick. The team quickly reorganized, looking to regain control after a brief stoppage.",
+                    "history_time": "21:30",
+                    "long-term": "They have maintained a strong attacking presence, particularly through set pieces, and have been able to quickly reorganize and adapt to the flow of the game."
+                },
+                {
+                    "short-term": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot. The attacker protested the decision.",
+                    "history_time": "20:04",
+                    "long-term": "They have been creating scoring opportunities, including a near-miss from a header and gaining a promising free kick, showcasing their consistent attacking pressure."
+                },
+                {
+                    "short-term": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner. The clearance was necessary as pressure was mounting inside the box.",
+                    "history_time": "13:30",
+                    "long-term": "Both teams have been creating scoring opportunities, with header attempts and crosses into the box being effectively countered by each goalkeeper and defensive line."
+                },
+                {
+                    "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+                    "history_time": "4:45",
+                    "long-term": "They have been posing a significant threat in the attacking third, consistently creating quality chances and testing the goalkeeper with precise efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:49",
+            "game_time": "22:38",
+            "query": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Dortmund continue the game with a quickly taken free kick. The team quickly reorganized, looking to regain control after a brief stoppage.",
+                    "history_time": "21:30",
+                    "long-term": "They have been maintaining possession and creating scoring opportunities, constantly putting pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot. The attacker protested the decision.",
+                    "history_time": "20:04",
+                    "long-term": "The match has seen Dortmund creating opportunities through set pieces, with the opposition's defense holding firm for now, but giving away key fouls that could prove costly."
+                },
+                {
+                    "short-term": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner. The clearance was necessary as pressure was mounting inside the box.",
+                    "history_time": "13:30",
+                    "long-term": "Both teams have shown periods of pressure in the opponent's box but have been unable to find the final pass or finish due to solid defensive efforts."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+                    "history_time": "9:40",
+                    "long-term": "They have shown impressive skill on the ball, consistently attempting to create scoring opportunities through clever passes and agility in the box."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been consistently creating scoring opportunities, with multiple attempts from corners and free kicks, keeping the pressure on their opponents' defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:52",
+            "game_time": "21:30",
+            "query": "Dortmund continue the game with a quickly taken free kick.",
+            "short-term": "Dortmund continue the game with a quickly taken free kick. The team quickly reorganized, looking to regain control after a brief stoppage.",
+            "query_ano": "[TEAM] continue the game with a quickly taken free kick.",
+            "history": [
+                {
+                    "short-term": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot. The attacker protested the decision.",
+                    "history_time": "20:04",
+                    "long-term": "They have maintained a swift pace, staying focused and reorganizing quickly to gain momentum after a minor halt in play."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been capitalizing on set pieces, diligently setting up scoring opportunities to exploit these situations."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:25",
+            "game_time": "20:57",
+            "query": "Julian Weigl (Dortmund) has picked up a minor injury, but it looks like he will be able to continue.",
+            "short-term": "Julian Weigl (Dortmund) has picked up a minor injury, but it looks like he will be able to continue. The medical team checked on him, and he is back on his feet.",
+            "query_ano": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "history": [
+                {
+                    "short-term": "The game is interrupted now, Julian Weigl (Dortmund) picks up a knock and the physio has to come on. A head collision left him momentarily shaken, but he is receiving medical attention.",
+                    "history_time": "20:37",
+                    "long-term": "His ability to withstand minor setbacks has allowed him to maintain a consistent presence on the field, despite suffering a couple of knocks."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:24",
+            "game_time": "20:04",
+            "query": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot. The attacker protested the decision.",
+            "query_ano": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "history": [
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+                    "history_time": "9:40",
+                    "long-term": "The player has shown flashes of brilliance on the ball, but the opposing team's defense has been able to neutralize the threat so far."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been presented with consecutive set-piece opportunities, offering a significant threat to the opposition's goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:40",
+            "game_time": "19:38",
+            "query": "Shinji Kagawa (Dortmund) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Shinji Kagawa (Dortmund) looks to break free, but an opposing player clears the ball away. He was momentarily through but faced strong defensive pressure that forced the clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "history": [
+                {
+                    "short-term": "Pierre-Emerick Aubameyang (Dortmund) looks to break free, but his touch lets him down and he loses the ball. He had a chance to push forward but miscontrolled, allowing the defender to recover.",
+                    "history_time": "14:08",
+                    "long-term": "They have been attempting to launch counterattacks, but strong defensive pressure and individual errors have hindered their progress."
+                },
+                {
+                    "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+                    "history_time": "9:40",
+                    "long-term": "He has shown flashes of brilliance with his quick footwork and movement, but the opposing defense has so far done well to neutralize his threat."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:45",
+            "game_time": "13:30",
+            "query": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner.",
+            "short-term": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner. The clearance was necessary as pressure was mounting inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. [TEAM] win a corner.",
+            "history": [
+                {
+                    "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+                    "history_time": "4:45",
+                    "long-term": "Both teams have been creating scoring opportunities, with the visitors managing a crucial clearance and the home team's shot being saved, reflecting the fiercely competitive nature of the game."
+                },
+                {
+                    "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+                    "history_time": "4:27",
+                    "long-term": "Both teams have shown impressive defensive awareness, with well-timed clearances and smart goalkeeping saving potential threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:25",
+            "game_time": "12:25",
+            "query": "Dortmund are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",
+            "short-term": "Dortmund are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball. The precise movement is frustrating the opposition, forcing them to chase the play.",
+            "query_ano": "[TEAM] are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",
+            "history": [
+                {
+                    "short-term": "Dortmund are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break. The fluid passing is keeping the defense on high alert, searching for a breakthrough.",
+                    "history_time": "6:42",
+                    "long-term": "They have been dominating the game with effective possession football, consistently creating scoring opportunities through impressive teamwork and precise passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:52",
+            "game_time": "9:40",
+            "query": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in.",
+            "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. [TEAM] will have a throw-in.",
+            "history": [
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have shown impressive skill and creativity in their attacking efforts, using quick footwork and exploiting free kick opportunities to create potential scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:15",
+            "game_time": "8:07",
+            "query": "Ralf Fahrmann pulls off a great save to deny Henrikh Mkhitaryan (Dortmund), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner.",
+            "short-term": "Ralf Fahrmann pulls off a great save to deny Henrikh Mkhitaryan (Dortmund), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner. The keeper reacted instinctively, stretching low to push the shot away.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner.",
+            "history": [
+                {
+                    "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+                    "history_time": "4:45",
+                    "long-term": "The Dortmund players have been consistently creating scoring opportunities, but Ralf Fahrmann's impressive saves have thwarted their efforts."
+                },
+                {
+                    "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+                    "history_time": "4:27",
+                    "long-term": "Ralf Fahrmann has been a crucial figure, displaying quick reflexes and good decision-making in dealing with threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "06:25",
+            "game_time": "5:44",
+            "query": "Leon Goretzka (Schalke) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "short-term": "Leon Goretzka (Schalke) sends a promising through ball, but the defence is alert and cuts out the pass. The opposition anticipated the danger well, stepping in to intercept before the attack could develop.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "history": [
+                {
+                    "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+                    "history_time": "4:45",
+                    "long-term": "Both teams have shown glimpses of incisive passing, but the opposing defences have so far remained vigilant, neutralizing potential scoring opportunities."
+                },
+                {
+                    "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+                    "history_time": "4:27",
+                    "long-term": "The opposition's defence has been solid, anticipating and neutralizing through balls effectively to prevent attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:05",
+            "game_time": "4:45",
+            "query": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save.",
+            "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. [PLAYER] has a clear sight of it and makes a comfortable save.",
+            "history": [
+                {
+                    "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+                    "history_time": "4:27",
+                    "long-term": "The Dortmund players have been testing the keeper with a mix of long passes and precise shots."
+                },
+                {
+                    "short-term": "Ilkay Gundogan (Dortmund) receives a pass and unleashes a shot which goes well wide of the right post. He found space to take the attempt, but the effort lacked accuracy.",
+                    "history_time": "3:42",
+                    "long-term": "He has shown a willingness to shoot from distance, producing a pair of efforts that, while not perfectly executed."
+                },
+                {
+                    "short-term": "Goal! Gonzalo Castro displays great vision and sends a pass to Pierre-Emerick Aubameyang (Dortmund), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1. The defense was stretched, allowing him the space to finish clinically.",
+                    "history_time": "1:52",
+                    "long-term": "They have consistently shown skill in creating scoring opportunities, both with strong individual efforts and clever combinations that allowed them to find open spaces and challenge the keeper."
+                },
+                {
+                    "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+                    "history_time": "1:18",
+                    "long-term": "He has shown great vision in his shooting, but needs more accuracy and power to convert the chances into goals."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been creating scoring opportunities with effective passing, despite not yet capitalizing on their chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "04:35",
+            "game_time": "4:27",
+            "query": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save!",
+            "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+            "query_ano": "[PLAYER] is alert and has a clear sight of a long through ball from [PLAYER] ([TEAM]). Easy save!",
+            "history": [
+                {
+                    "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+                    "history_time": "1:18",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper's keen instincts and their own slight inaccuracies have hindered them from capitalizing."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been consistently creating scoring opportunities, using long passes and set pieces to put pressure on the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:52",
+            "game_time": "3:42",
+            "query": "Ilkay Gundogan (Dortmund) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "short-term": "Ilkay Gundogan (Dortmund) receives a pass and unleashes a shot which goes well wide of the right post. He found space to take the attempt, but the effort lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+                    "history_time": "1:18",
+                    "long-term": "He has been consistently creating scoring opportunities, but his shots have been off target, lacking the precision to find the back of the net."
+                }
+            ]
+        },
+        {
+            "gameTime": "01:59",
+            "game_time": "1:52",
+            "query": "Goal! Gonzalo Castro displays great vision and sends a pass to Pierre-Emerick Aubameyang (Dortmund), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1.",
+            "short-term": "Goal! Gonzalo Castro displays great vision and sends a pass to Pierre-Emerick Aubameyang (Dortmund), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1. The defense was stretched, allowing him the space to finish clinically.",
+            "query_ano": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1.",
+            "history": [
+                {
+                    "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+                    "history_time": "1:18",
+                    "long-term": "They have consistently demonstrated exceptional attacking prowess, marked by creative passing and precision finishing, resulting in significant scoring opportunities and actual goals."
+                },
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have consistently posed a threat in front of goal, and their attacking strategy has created multiple scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "01:34",
+            "game_time": "1:18",
+            "query": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post.",
+            "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+            "query_ano": "Close effort! [PLAYER] ([TEAM]) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+                    "history_time": "1:08",
+                    "long-term": "They have been creating scoring opportunities, particularly from set pieces, which could prove crucial in the outcome of the match."
+                }
+            ]
+        }
+    ]
+}

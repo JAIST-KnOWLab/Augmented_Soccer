@@ -1,0 +1,108 @@
+{
+    "annotations": [
+        {
+            "query": "Philippe Coutinho (Liverpool) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post.",
+            "game_time": "17:07",
+            "short-term": "Philippe Coutinho makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post. His usual technique of curling shots into the far corner didn’t come off this time.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Dele Alli holds his head in his hands after wasting a promising chance. He reacted first to a loose ball and managed to create some space, but his half-volley from the edge of the box was difficult to control and went well wide of the left post.",
+                    "history_time": "12:08",
+                    "long-term": "They have been struggling to capitalize on scoring opportunities, with multiple chances going wide of the post."
+                }
+            ]
+        },
+        {
+            "query": "Michel Vorm makes a brilliant save! Philippe Coutinho (Liverpool) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes straight under the crossbar but is saved by the keeper! The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "game_time": "22:34",
+            "short-term": "Michel Vorm makes a brilliant save! Philippe Coutinho weaves through the defense and fires a shot under the crossbar, but the keeper reacts quickly to tip it over. The resulting corner gives the team another opportunity to attack.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes straight under the crossbar but is saved by the keeper! The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen swings in a promising cross from the free kick, but a defender does a perfect job to clear the danger. A well-timed run into the box nearly made the difference.",
+                    "history_time": "22:02",
+                    "long-term": "They have been creating scoring opportunities with clever individual efforts, but the opposing team's defense has been doing just enough to hold them off."
+                },
+                {
+                    "short-term": "Philippe Coutinho makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post. His usual technique of curling shots into the far corner didn’t come off this time.",
+                    "history_time": "17:07",
+                    "long-term": "He has been posing a threat in the attacking third, testing the goalkeeper with a dangerous shot and then narrowly missing the target."
+                }
+            ]
+        },
+        {
+            "query": "Sadio Mane (Liverpool) makes a strong challenge and Robert Madley blows for a foul.",
+            "game_time": "33:55",
+            "short-term": "Sadio Mane makes a strong challenge and Robert Madley blows for a foul. The opposing player positioned himself well, drawing the contact and leading to the referee’s decision.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul.",
+            "history": [
+                {
+                    "short-term": "Sadio Mane is shown a yellow card by the referee for making a challenge on his opponent, but he looks frustrated with the decision.",
+                    "history_time": "31:55",
+                    "long-term": "He has shown some aggressive attempts to win the ball, but it has resulted in consecutive fouls."
+                },
+                {
+                    "short-term": "Jordan Henderson commits a rough foul, leading the referee to stop the game and make a call. The challenge was firm, but there was no serious protest from either side.",
+                    "history_time": "18:53",
+                    "long-term": "They have been displaying aggressive defense with two rough challenges, which the referee has addressed accordingly."
+                }
+            ]
+        },
+        {
+            "query": "Sadio Mane (Liverpool) starts his run too early and the referee blows for offside.",
+            "game_time": "39:59",
+            "short-term": "Sadio Mane starts his run too early and the referee blows for offside. The timing of the pass was just a fraction late, leading to the offside call from the assistant referee.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside.",
+            "history": [
+                {
+                    "short-term": "Sadio Mane makes a strong challenge and Robert Madley blows for a foul. The opposing player positioned himself well, drawing the contact and leading to the referee’s decision.",
+                    "history_time": "33:55",
+                    "long-term": "He has been struggling to find his rhythm, getting caught offside and committing a foul."
+                }
+            ]
+        },
+        {
+            "query": "Erik Lamela (Tottenham) brings his opponent down. Robert Madley has a clear sight of it and blows his whistle for a foul. Liverpool are awarded a penalty kick!",
+            "game_time": "41:54",
+            "short-term": "Erik Lamela brings his opponent down. Robert Madley has a clear sight of it and blows his whistle for a foul. Liverpool are awarded a penalty kick! The attacking player had done well to get into position, forcing the challenge inside the box.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] are awarded a penalty kick!",
+            "history": [
+                {
+                    "short-term": "Sadio Mane starts his run too early and the referee blows for offside. The timing of the pass was just a fraction late, leading to the offside call from the assistant referee.",
+                    "history_time": "39:59",
+                    "long-term": "They have shown a mix of creating scoring opportunities and struggled with the timing of their runs, leading to both a penalty award and an offside call."
+                },
+                {
+                    "short-term": "Sadio Mane makes a strong challenge and Robert Madley blows for a foul. The opposing player positioned himself well, drawing the contact and leading to the referee’s decision.",
+                    "history_time": "33:55",
+                    "long-term": "They have been involved in several physical battles, with The player giving away two fouls, one of which led to a penalty."
+                }
+            ]
+        },
+        {
+            "query": "Goal! James Milner (Liverpool) slams home the penalty with a precise low shot into the bottom left corner.",
+            "game_time": "42:47",
+            "short-term": "Goal! James Milner slams home the penalty with a precise low shot into the bottom left corner. The goalkeeper was sent the wrong way as Liverpool take the lead.",
+            "label": "goal",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) slams home the penalty with a precise low shot into the bottom left corner.",
+            "history": [
+                {
+                    "short-term": "James Milner is heading towards the penalty spot to take it. Despite other attacking players being available, he steps up with confidence to take responsibility for the spot-kick.",
+                    "history_time": "42:45",
+                    "long-term": "He has demonstrated leadership and composure in critical situations, stepping up to take responsibility and delivering under pressure."
+                },
+                {
+                    "short-term": "Erik Lamela brings his opponent down. Robert Madley has a clear sight of it and blows his whistle for a foul. Liverpool are awarded a penalty kick! The attacking player had done well to get into position, forcing the challenge inside the box.",
+                    "history_time": "41:54",
+                    "long-term": "They've established a strong attacking presence, capitalizing on a crucial penalty opportunity to take the lead, and benefiting from determined play that forced the opponent into a costly foul."
+                }
+            ]
+        }
+    ]
+}

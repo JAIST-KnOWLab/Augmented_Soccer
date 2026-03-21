@@ -1,0 +1,165 @@
+{
+    "annotations": [
+        {
+            "gameTime": "41:50",
+            "game_time": "41:50",
+            "query": "Laurent Koscielny (Arsenal) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort.",
+            "short-term": "Laurent Koscielny (Arsenal) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort. Unsuccessfully.",
+            "query_ano": "[PLAYER] ([TEAM]) wins himself just enough space inside the box to connect with the corner. His header flies towards the middle of the goal, but the goalkeeper blocks the effort."
+        },
+        {
+            "gameTime": "41:30",
+            "game_time": "41:30",
+            "query": "Tactical substitution due to red card. Adama Diomande departs the field of play to be replaced by Harry Maguire (Hull City).",
+            "short-term": "Tactical substitution due to red card. Adama Diomande departs the field of play to be replaced by Harry Maguire (Hull City). He slots into the defensive line to restore balance.",
+            "query_ano": "Tactical substitution due to red card. Adama Diomande departs the field of play to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "40:58",
+            "game_time": "40:58",
+            "query": "Alexis Sanchez (Arsenal) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the bottom left corner, but Eldin Jakupovic pulls off a superb save.",
+            "short-term": "Alexis Sanchez (Arsenal) wastes a huge opportunity to score from the penalty spot. He goes for the bottom left corner, but Eldin Jakupovic anticipates it well and makes a brilliant stop. Very unfortunate.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the bottom left corner, but Eldin Jakupovic pulls off a superb save."
+        },
+        {
+            "gameTime": "40:52",
+            "game_time": "40:52",
+            "query": "Alexis Sanchez (Arsenal) is heading towards the penalty spot to take it.",
+            "short-term": "Alexis Sanchez (Arsenal) steps up to take the penalty. He appears focused, readying himself for the strike.",
+            "query_ano": "[PLAYER] ([TEAM]) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "39:25",
+            "game_time": "39:25",
+            "query": "The players claim that Jake Livermore (Hull City) handled the ball inside the box and it seems they are right. It's a penalty for Arsenal!",
+            "short-term": "The players claim that Jake Livermore (Hull City) handled the ball inside the box and it seems they are right.  It's a penalty for Arsenal! The referee shows red cardwithout hesitation.",
+            "query_ano": "The players claim that [PLAYER] ([TEAM]) handled the ball inside the box and it seems they are right. It's a penalty for [TEAM]!"
+        },
+        {
+            "gameTime": "35:17",
+            "game_time": "35:17",
+            "query": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save!",
+            "short-term": "Robert Snodgrass (Hull City) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save! The goalkeeper chose his position well.",
+            "query_ano": "[PLAYER] ([TEAM]) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Petr Cech was alert and made an amazing save!"
+        },
+        {
+            "gameTime": "33:41",
+            "game_time": "33:41",
+            "query": "Santi Cazorla (Arsenal) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+            "short-term": "Santi Cazorla (Arsenal) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent. He protested the decision but the referee was firm.",
+            "query_ano": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent."
+        },
+        {
+            "gameTime": "32:54",
+            "game_time": "32:54",
+            "query": "Arsenal keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "short-term": "Arsenal keep possession of the ball by producing short passes and one-two passes from player to player. Their fluid passing is making it difficult for the opposition to regain possession.",
+            "query_ano": "[TEAM] keep possession of the ball by producing short passes and one-two passes from player to player."
+        },
+        {
+            "gameTime": "24:16",
+            "game_time": "24:16",
+            "query": "Half-chance! Adama Diomande (Hull City) plays a pass into the box, but Petr Cech reacts well to snuff out the attack.",
+            "short-term": "Half-chance! Adama Diomande (Hull City) plays a pass into the box, but Petr Cech reacts well to snuff out the attack. Cech anticipated the play and stepped out early to collect the ball.",
+            "query_ano": "Half-chance! [PLAYER] ([TEAM]) plays a pass into the box, but Petr Cech reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "23:08",
+            "game_time": "23:08",
+            "query": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save!",
+            "short-term": "Theo Walcott (Arsenal) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save! The goalkeeper positioned himself perfectly and reacted in time.",
+            "query_ano": "[PLAYER] ([TEAM]) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Eldin Jakupovic was alert and made an amazing save!"
+        },
+        {
+            "gameTime": "22:12",
+            "game_time": "22:12",
+            "query": "Robert Snodgrass (Hull City) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. Arsenal have a free kick.",
+            "short-term": "Robert Snodgrass (Hull City) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. Arsenal have a free kick in a dangerous area.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul on his opponent and it looks like it should be the other way around at first glance, but the referee makes the right decision in awarding a free kick to the other team. [TEAM] have a free kick."
+        },
+        {
+            "gameTime": "20:58",
+            "game_time": "20:58",
+            "query": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "short-term": "Santi Cazorla (Arsenal) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The defender rose highest and cleared the ball safely.",
+            "query_ano": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "gameTime": "20:52",
+            "game_time": "20:52",
+            "query": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick.",
+            "short-term": "Mesut Ozil (Arsenal) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, Arsenal are awarded a corner kick. The play looked promising but was disrupted by a last-second challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with Alexis Sanchez, but the move breaks down. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "20:03",
+            "game_time": "20:03",
+            "query": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post.",
+            "short-term": "Abel Hernandez (Hull City) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post. He attempted a powerful shot after finding space outside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post."
+        },
+        {
+            "gameTime": "18:40",
+            "game_time": "18:40",
+            "query": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Santi Cazorla (Arsenal) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The clearance prevents a lurking Arsenal player from capitalizing.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "18:14",
+            "game_time": "18:14",
+            "query": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal.",
+            "short-term": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to Arsenal. Robertson made a crucial last-second intervention to deny Sanchez a shooting opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "16:09",
+            "game_time": "16:09",
+            "query": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1.",
+            "short-term": "Goal! Alex Iwobi takes aim and his effort deflects off Alexis Sanchez (Arsenal) to beat the goalkeeper. 0:1. The deflection wrong-footed the goalkeeper, leaving him no chance to react.",
+            "query_ano": "Goal! Alex Iwobi takes aim and his effort deflects off [PLAYER] ([TEAM]) to beat the goalkeeper. 0:1."
+        },
+        {
+            "gameTime": "15:30",
+            "game_time": "15:30",
+            "query": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "short-term": "Mesut Ozil (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball was intercepted just before reaching its intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "13:45",
+            "game_time": "13:45",
+            "query": "Robert Snodgrass (Hull City) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Robert Snodgrass (Hull City) overhits the corner kick and none of his teammates can their head on it. The ball sails harmlessly beyond the far post.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "13:27",
+            "game_time": "13:27",
+            "query": "Robert Snodgrass (Hull City) races towards goal but the defender gets back well to make a challenge. Hull have a corner.",
+            "short-term": "Robert Snodgrass (Hull City) races towards goal but the defender gets back well to make a challenge. Hull have a corner. The defender's last-ditch tackle forced the ball out of play.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. Hull have a corner."
+        },
+        {
+            "gameTime": "11:59",
+            "game_time": "11:59",
+            "query": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands.",
+            "short-term": "Alexis Sanchez (Arsenal) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands. His shot lacked composure under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up the ball inside the penalty box and immediately fires a first-time effort that sails well over the crossbar and ends in the stands."
+        },
+        {
+            "gameTime": "11:00",
+            "game_time": "11:00",
+            "query": "Hector Bellerin (Arsenal) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "short-term": "Hector Bellerin (Arsenal) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The interception cut off a dangerous build-up.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "10:15",
+            "game_time": "10:15",
+            "query": "Adama Diomande (Hull City) picks up a long through ball, but Petr Cech deserves praise for a brilliant reaction and interception.",
+            "short-term": "Adama Diomande (Hull City) picks up a long through ball, but Petr Cech deserves praise for a brilliant reaction and interception. The goalkeeper rushed out just in time to claim possession.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a long through ball, but Petr Cech deserves praise for a brilliant reaction and interception."
+        }
+    ]
+}

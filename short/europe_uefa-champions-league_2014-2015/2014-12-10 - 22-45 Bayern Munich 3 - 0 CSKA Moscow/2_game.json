@@ -1,0 +1,333 @@
+{
+    "annotations": [
+        {
+            "gameTime": "47:59",
+            "game_time": "47:59",
+            "query": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The superiority of the home team was evident on the pitch today. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking.",
+            "short-term": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The superiority of the home team was evident on the pitch today. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking.",
+            "query_ano": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The superiority of the home team was evident on the pitch today. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter-attacking."
+        },
+        {
+            "gameTime": "46:30",
+            "game_time": "46:30",
+            "query": "Sergey Ignashevich (CSKA Moscow) picks up a yellow card for a foul.",
+            "short-term": "Sergey Ignashevich picks up a yellow card for a foul. The frustration among CSKA Moscow players was growing, and his challenge, though not overly aggressive, was enough to warrant a booking as Bayern continued to control the tempo of the game.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "44:42",
+            "game_time": "44:42",
+            "query": "The referee allows time for a substitution. Ahmed Musa will be replaced by Dmitri Efremov (CSKA Moscow).",
+            "short-term": "The referee allows time for a substitution. Ahmed Musa will be replaced by Dmitri Efremov. He had been a key outlet for CSKA's counterattacks, but with the game slipping away, the coach opted for fresh legs in an attempt to add energy to the midfield.",
+            "query_ano": "The referee allows time for a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "44:13",
+            "game_time": "44:13",
+            "query": "Arjen Robben (Bayern Munich) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Arjen Robben looks to break free, but an opposing player clears the ball away. Robben had been relentless in attack, probing for an opening, but CSKA's defense held firm in this instance, ensuring he couldn't cut inside for his signature left-footed strike.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "43:26",
+            "game_time": "43:26",
+            "query": "Arjen Robben (Bayern Munich) amazingly found his way through the defence, but lacked a precise finish as his effort from close range went slightly over the crossbar.",
+            "short-term": "Arjen Robben amazingly found his way through the defence, weaving past defenders with his trademark dribbling, but lacked a precise finish as his effort from close range went slightly over the crossbar. He seemed to smile at himself after the miss, aware that he should have done better.",
+            "query_ano": "[PLAYER] ([TEAM]) amazingly found his way through the defence, but lacked a precise finish as his effort from close range went slightly over the crossbar."
+        },
+        {
+            "gameTime": "42:44",
+            "game_time": "42:44",
+            "query": "Some great controlled play and passing in the middle of the pitch from Bayern Munich.",
+            "short-term": "Some great controlled play and passing in the middle of the pitch from Bayern Munich. With over 150 touches, Bastian Schweinsteiger orchestrated the tempo, ensuring Bayern maintained control and limited CSKA's chances of a comeback.",
+            "query_ano": "Some great controlled play and passing in the middle of the pitch from [TEAM]."
+        },
+        {
+            "gameTime": "41:27",
+            "game_time": "41:27",
+            "query": "Mario Gotze is flagged for offside once again, but it was a very tight call this time.",
+            "short-term": "Mario Gotze is flagged for offside once again, but it was a very tight call this time. He seemed frustrated with the assistant referee’s decision.",
+            "query_ano": "[PLAYER] is flagged for offside once again, but it was a very tight call this time."
+        },
+        {
+            "gameTime": "39:43",
+            "game_time": "39:43",
+            "query": "Mario Fernandes (CSKA Moscow) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Mario Fernandes is forced to stop his attacking move after the linesman signals for offside. CSKA were still pushing forward, trying to find a way back into the match, but their timing in the final third was slightly off.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "38:26",
+            "game_time": "38:26",
+            "query": "Bastian Schweinsteiger showcases his great technique and produces a beautiful lofted cross into the box. Sebastian Rode (Bayern Munich) meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. It's 2:0.",
+            "short-term": "Bastian Schweinsteiger showcases his great technique and produces a beautiful lofted cross into the box. Sebastian Rode meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. The goal was reminiscent of their Bundesliga connection, with Schweinsteiger providing an almost identical assist in a previous league match.",
+            "query_ano": "[PLAYER] showcases his great technique and produces a beautiful lofted cross into the box. [PLAYER] ([TEAM]) meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. It's 2:0."
+        },
+        {
+            "gameTime": "37:48",
+            "game_time": "37:48",
+            "query": "Arjen Robben (Bayern Munich) swings in the corner, but it's comfortably cleared away.",
+            "short-term": "Arjen Robben swings in the corner, but it's comfortably cleared away. The delivery was well-placed, yet the defense was alert and quickly cleared the ball before any Bayern player could capitalize on the opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "37:21",
+            "game_time": "37:21",
+            "query": "Arjen Robben (Bayern Munich) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. Bayern Munich have been awarded a corner kick.",
+            "short-term": "Arjen Robben sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. His vision was sharp, but the defensive anticipation was even better, resulting in another corner for Bayern.",
+            "query_ano": "[PLAYER] ([TEAM]) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "36:56",
+            "game_time": "36:56",
+            "query": "Leonid Slutski has decided to introduce fresh legs, with Georgi Milanov (CSKA Moscow) replacing Roman Eremenko.",
+            "short-term": "Leonid Slutski has decided to introduce fresh legs, with Georgi Milanov replacing Roman Eremenko. He struggled to control the game from the number 10 position, and Milanov was brought in to bring a new dynamic to their midfield.",
+            "query_ano": "[COACH] has decided to introduce fresh legs, with Georgi Milanov ([TEAM]) replacing Roman Eremenko."
+        },
+        {
+            "gameTime": "36:10",
+            "game_time": "36:10",
+            "query": "Arjen Robben (Bayern Munich) plays a one-two with Robert Lewandowski, but the move breaks down.",
+            "short-term": "Arjen Robben plays a one-two with Robert Lewandowski, but the move breaks down. The interplay was promising, yet Bayern couldn’t break through as CSKA’s defense quickly reorganized to intercept the pass.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down."
+        },
+        {
+            "gameTime": "33:11",
+            "game_time": "33:11",
+            "query": "What a chance that is! Robert Lewandowski (Bayern Munich) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post!",
+            "short-term": "What a chance that is! Robert Lewandowski wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post! He struck the ball cleanly, but the angle was tight, and luck was not on his side this time.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post!"
+        },
+        {
+            "gameTime": "32:01",
+            "game_time": "32:01",
+            "query": "Zoran Tosic (CSKA Moscow) receives a precise pass on the edge of the box and bends his effort inches wide of the left post.",
+            "short-term": "Zoran Tosic receives a precise pass on the edge of the box and bends his effort inches wide of the left post. It was CSKA’s best attempt in the second half, but he couldn’t quite curl it inside the target.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and bends his effort inches wide of the left post."
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:57",
+            "query": "Alan Dzagoev takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball.",
+            "short-term": "Alan Dzagoev takes the resulting free kick from outside the box. He sends a nice cross into the box, but his delivery was too close to the goal. The goalkeeper confidently comes out to claim the ball before any attacker can reach it.",
+            "query_ano": "[PLAYER] takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "gameTime": "30:39",
+            "game_time": "30:39",
+            "query": "Olegario Benquerenca blows the whistle, Jerome Boateng (Bayern Munich) is penalised for a foul. CSKA Moscow earn a free kick.",
+            "short-term": "Olegario Benquerenca blows the whistle, Jerome Boateng is penalized for a foul. The decision seemed slightly harsh as Boateng was battling for position, but the referee saw enough contact to award a free kick.",
+            "query_ano": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] earn a free kick."
+        },
+        {
+            "gameTime": "30:07",
+            "game_time": "30:07",
+            "query": "Robert Lewandowski (Bayern Munich) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Igor Akinfeev.",
+            "short-term": "Robert Lewandowski picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Igor Akinfeev. The striker found space, but his effort lacked the usual venom, making it an easy save for the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Igor Akinfeev."
+        },
+        {
+            "gameTime": "29:15",
+            "game_time": "29:15",
+            "query": "Jerome Boateng (Bayern Munich) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post.",
+            "short-term": "Jerome Boateng blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball took a slight deflection, making it even harder to control the shot.",
+            "query_ano": "[PLAYER] ([TEAM]) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post."
+        },
+        {
+            "gameTime": "28:50",
+            "game_time": "28:50",
+            "query": "Bastian Schweinsteiger (Bayern Munich) takes the corner kick but the ball only finds the head of an opponent.",
+            "short-term": "Bastian Schweinsteiger takes the corner kick but the ball only finds the head of an opponent. The delivery was well-placed, yet the defense was dominant in the aerial duel, clearing the danger effectively.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "28:21",
+            "game_time": "28:21",
+            "query": "Bastian Schweinsteiger (Bayern Munich) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Bayern Munich will take a corner kick.",
+            "short-term": "Bastian Schweinsteiger receives a sweet pass inside the box, but his effort on goal is blocked by the defender. His shot seemed goal-bound, but a well-timed defensive block denied him. They will take a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. [TEAM] will take a corner kick."
+        },
+        {
+            "gameTime": "27:38",
+            "game_time": "27:38",
+            "query": "A substitution has been made. Gianluca Gaudino goes off and Mitchell Weiser (Bayern Munich) comes on.",
+            "short-term": "A substitution has been made. Gianluca Gaudino goes off and Mitchell Weiser comes on. His debut, looking to bring fresh energy into Bayern's midfield.",
+            "query_ano": "A substitution has been made. Gianluca Gaudino goes off and [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "gameTime": "27:12",
+            "game_time": "27:12",
+            "query": "Bastian Schweinsteiger (Bayern Munich) is in a clear offside position and the referee blows his whistle after the linesman raises his flag.",
+            "short-term": "Bastian Schweinsteiger is in a clear offside position and the referee blows his whistle after the linesman raises his flag. A well-timed defensive line movement caught him just ahead of play.",
+            "query_ano": "[PLAYER] ([TEAM]) is in a clear offside position and the referee blows his whistle after the linesman raises his flag."
+        },
+        {
+            "gameTime": "26:44",
+            "game_time": "26:44",
+            "query": "Arjen Robben (Bayern Munich) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "short-term": "Arjen Robben lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery had pace, yet the defensive header was firm and precise.",
+            "query_ano": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "26:11",
+            "game_time": "26:11",
+            "query": "Arjen Robben (Bayern Munich) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a decent save to deny his effort directed to the bottom right corner. It will be a corner kick for Bayern Munich.",
+            "short-term": "Arjen Robben goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a crucial low save, stretching just enough to push the ball wide.  It will be a corner kick for Bayern Munich.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Igor Akinfeev makes a decent save to deny his effort directed to the bottom right corner. It will be a corner kick for [TEAM]."
+        },
+        {
+            "gameTime": "25:47",
+            "game_time": "25:47",
+            "query": "Mario Gotze (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",
+            "short-term": "Mario Gotze rolls the ball short to a teammate from the corner instead of sending a cross into the box. Bayern attempt a quick combination play, but the defense reacts swiftly.",
+            "query_ano": "[PLAYER] ([TEAM]) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "25:34",
+            "game_time": "25:34",
+            "query": "Mario Gotze looks to break free, but an opposing player clears the ball away. The ball goes out of play. Bayern Munich are awarded a corner kick.",
+            "short-term": "Mario Gotze looks to break free, but an opposing player clears the ball away. His footwork was sharp, but the defense managed to intercept just in time, conceding a corner.",
+            "query_ano": "[PLAYER] looks to break free, but an opposing player clears the ball away. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "24:49",
+            "game_time": "24:49",
+            "query": "Olegario Benquerenca shows a yellow card to Alan Dzagoev (CSKA Moscow) for a tough tackle.",
+            "short-term": "Olegario Benquerenca shows a yellow card to Alan Dzagoev for a tough tackle. He protested briefly, but the referee made his decision quickly.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "gameTime": "23:49",
+            "game_time": "23:49",
+            "query": "Ahmed Musa (CSKA Moscow) receives a precise pass inside the box and takes a shot that flies just wide of the left post.",
+            "short-term": "Ahmed Musa receives a precise pass inside the box and takes a shot that flies just wide of the left post. The shot had good power, but the angle was too tight to find the target.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass inside the box and takes a shot that flies just wide of the left post."
+        },
+        {
+            "gameTime": "23:08",
+            "game_time": "23:08",
+            "query": "Mario Gotze (Bayern Munich) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Mario Gotze is forced to stop his attacking move after the linesman signals for offside. The decision was close, but the assistant referee raised the flag without hesitation.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "22:19",
+            "game_time": "22:19",
+            "query": "Dante (Bayern Munich) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Olegario Benquerenca didn't think twice about pulling it out of his pocket.",
+            "short-term": "Dante can't expect anything else than a yellow card for his hard tackle. And a yellow it is. His challenge was forceful, leaving the referee with no choice.",
+            "query_ano": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "20:17",
+            "game_time": "20:17",
+            "query": "The referee signals that it is time for a substitution and Zoran Tosic (CSKA Moscow) will replace Bibras Natcho.",
+            "short-term": "The referee signals that it is time for a substitution and Zoran Tosic will replace Bibras Natcho. Tosic brings fresh attacking energy as CSKA looks for a breakthrough.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace Bibras Natcho."
+        },
+        {
+            "gameTime": "18:30",
+            "game_time": "18:30",
+            "query": "This shall not pass! Mario Gotze (Bayern Munich) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "Mario Gotze lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The defense reacted quickly, closing down space before the shot could gain momentum.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "gameTime": "17:30",
+            "game_time": "17:30",
+            "query": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball.",
+            "short-term": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball. Neuer’s positioning allowed him to claim the ball confidently.",
+            "query_ano": "Bibras Natcho swings in a cross from the corner, but Manuel Neuer reads it well and gathers the ball."
+        },
+        {
+            "gameTime": "17:05",
+            "game_time": "17:05",
+            "query": "Roman Eremenko (CSKA Moscow) swings in a cross, but the ball is cleared to safety by one of the defending players. CSKA Moscow have been awarded a corner kick.",
+            "short-term": "Roman Eremenko swings in a cross, but the ball is cleared to safety by one of the defending players. The cross had good pace, but Bayern's defense was well-positioned to deal with it.",
+            "query_ano": "Roman Eremenko ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "15:55",
+            "game_time": "15:55",
+            "query": "Mario Gotze (Bayern Munich) starts his run too early and the referee blows for offside.",
+            "short-term": "Mario Gotze starts his run too early and the referee blows for offside. He was eager to break through the defense but mistimed his movement.",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside."
+        },
+        {
+            "gameTime": "13:20",
+            "game_time": "13:20",
+            "query": "Robert Lewandowski (Bayern Munich) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition.",
+            "short-term": "Robert Lewandowski is first to the rebound and sends a header goalwards but it's blocked. The goalkeeper reacted quickly, preventing what could have been a sure goal.",
+            "query_ano": "[PLAYER] ([TEAM]) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "13:13",
+            "game_time": "13:13",
+            "query": "Igor Akinfeev makes a brilliant save! Arjen Robben (Bayern Munich) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the middle of the goal but is saved by the keeper!",
+            "short-term": "Igor Akinfeev makes a brilliant save! Arjen Robben easily weaves through the defence and fires the ball from mid-range. But the keeper stretched his body and lifted the ball out of the goal.",
+            "query_ano": "Igor Akinfeev makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the middle of the goal but is saved by the keeper!"
+        },
+        {
+            "gameTime": "10:42",
+            "game_time": "10:42",
+            "query": "Arjen Robben (Bayern Munich) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Arjen Robben is forced to stop his attacking move after the linesman signals for offside. The decision was tight, whether he was actually level with the last defender.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "09:19",
+            "game_time": "9:19",
+            "query": "Bayern Munich keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",
+            "short-term": "Bayern Munich keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break. The striker stays central, while others move flexibly to create space.",
+            "query_ano": "[TEAM] keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "gameTime": "06:47",
+            "game_time": "6:47",
+            "query": "Bibras Natcho (CSKA Moscow) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "short-term": "Bibras Natcho swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery had good pace, but Bayern’s defenders anticipated it well.",
+            "query_ano": "Bibras Natcho ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "06:01",
+            "game_time": "6:01",
+            "query": "Arjen Robben (Bayern Munich) leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort.",
+            "short-term": "Arjen Robben leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort. Robben found space, but the keeper reacted superbly.",
+            "query_ano": "[PLAYER] ([TEAM]) leaps highest to meet a cross and steers a header towards the right post, but the goalkeeper produces a crucial save to thwart the effort."
+        },
+        {
+            "gameTime": "05:23",
+            "game_time": "5:23",
+            "query": "Robert Lewandowski (Bayern Munich) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev guesses his intention and denies him with a fine save.",
+            "short-term": "Robert Lewandowski receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev reads it well and makes an outstanding reflex save.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Igor Akinfeev guesses his intention and denies him with a fine save."
+        },
+        {
+            "gameTime": "04:51",
+            "game_time": "4:51",
+            "query": "A cross from Sebastian Rode (Bayern Munich) fails to reach the box as the defence clears the ball away to safety.",
+            "short-term": "A cross from Sebastian Rode fails to reach the box as the defence clears the ball away to safety. The delivery was slightly overhit, allowing the defenders to step in comfortably.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "gameTime": "03:36",
+            "game_time": "3:36",
+            "query": "Bibras Natcho (CSKA Moscow) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "short-term": "Bibras Natcho takes the corner, but the opposition's defence is ready and clears the ball to safety. CSKA couldn’t capitalize on their set-piece opportunity.",
+            "query_ano": "Bibras Natcho ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "03:21",
+            "game_time": "3:21",
+            "query": "Ahmed Musa (CSKA Moscow) whips a promising cross into the box, but the opposition's defence intercepts the ball. CSKA Moscow earn a corner.",
+            "short-term": "Ahmed Musa whips a promising cross into the box, but the opposition's defence intercepts the ball. His delivery had good intent, forcing Bayern to concede a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. [TEAM] earn a corner."
+        },
+        {
+            "gameTime": "02:58",
+            "game_time": "2:58",
+            "query": "Sebastian Rode (Bayern Munich) takes a rebound on the edge of the box and slams the ball well wide of the right post.",
+            "short-term": "Sebastian Rode takes a rebound on the edge of the box and slams the ball well wide of the right post. His shot was quite hasty because the defender put a lot of pressure on him.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a rebound on the edge of the box and slams the ball well wide of the right post."
+        }
+    ]
+}

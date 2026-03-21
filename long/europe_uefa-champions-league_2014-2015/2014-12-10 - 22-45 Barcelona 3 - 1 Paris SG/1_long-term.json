@@ -1,0 +1,329 @@
+{
+    "annotations": [
+        {
+            "label": "other",
+            "query": "Zlatan Ibrahimovic (Paris SG) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack.",
+            "game_time": "14:15",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack. Lucas drives forward, adding urgency to Paris SG's attack.",
+            "query_ano": "[PLAYER] ([TEAM]) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack.",
+            "history": [
+                {
+                    "short-term": "Marco Verratti (Paris SG) releases Blaise Matuidi, who latched on to his perfect through pass and can continue with his team's attack.",
+                    "history_time": "13:55",
+                    "long-term": "Paris SG has been utilizing through passes effectively to set up attacking opportunities, showing their prowess in cohesive teamplay."
+                }
+            ]
+        },
+        {
+            "label": "chance",
+            "query": "Quick reactions by Edinson Cavani (Paris SG) and Maxwell, tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+            "game_time": "17:14",
+            "short-term": "Quick reactions by Edinson Cavani (Paris SG) and Maxwell, tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+            "query_ano": "Quick reactions by [PLAYER] ([TEAM]) and [PLAYER], tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+            "history": [
+                {
+                    "short-term": "What a goal! Blaise Matuidi plays it to Zlatan Ibrahimovic (Paris SG), who finds himself unmarked inside the box and slots a first-time shot past Marc-Andre ter Stegen into the bottom right corner. Paris SG takes the lead, 0:1.",
+                    "history_time": "14:32",
+                    "long-term": "They have been showcasing exceptional skill and flair, linking up effectively to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "label": "other",
+            "query": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch.",
+            "game_time": "18:30",
+            "short-term": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch. A well-placed long pass that allowed Barcelona to advance quickly.",
+            "query_ano": "[PLAYER] ([TEAM]) smashes the ball upfield and [PLAYER] brings it down with a fine first touch.",
+            "history": [
+                {
+                    "short-term": "Quick reactions by Edinson Cavani (Paris SG) and Maxwell, tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+                    "history_time": "17:14",
+                    "long-term": "Both teams have displayed exceptional skill and composure on the ball, creating attacking opportunities with precise passing and decisive movements."
+                }
+            ]
+        },
+        {
+            "label": "goal",
+            "query": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless.",
+            "game_time": "18:46",
+            "short-term": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless. The move was well-crafted, with Suarez cutting the ball back to Messi, who finished with precision.",
+            "query_ano": "Goal - 1:1! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range into the right side of the goal, leaving the goalkeeper helpless.",
+            "history": [
+                {
+                    "short-term": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch. A well-placed long pass that allowed Barcelona to advance quickly.",
+                    "history_time": "18:30",
+                    "long-term": "They have shown exceptional teamwork and coordination, resulting in a well-crafted goal and swift counter-attacks."
+                },
+                {
+                    "short-term": "What a goal! Blaise Matuidi plays it to Zlatan Ibrahimovic (Paris SG), who finds himself unmarked inside the box and slots a first-time shot past Marc-Andre ter Stegen into the bottom right corner. Paris SG takes the lead, 0:1.",
+                    "history_time": "14:32",
+                    "long-term": "Both teams have shown exceptional attacking prowess, capitalizing on scoring opportunities with precision and teamwork."
+                }
+            ]
+        },
+        {
+            "label": "shoot",
+            "query": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. Barcelona win a corner.",
+            "game_time": "22:38",
+            "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. [TEAM] win a corner.",
+            "history": [
+                {
+                    "short-term": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless. The move was well-crafted, with Suarez cutting the ball back to Messi, who finished with precision.",
+                    "history_time": "18:46",
+                    "long-term": "They consistently threatened the opponent's goal, with Suarez taking an early shot and later setting up Messi for the equalizing goal."
+                },
+                {
+                    "short-term": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch. A well-placed long pass that allowed Barcelona to advance quickly.",
+                    "history_time": "18:30",
+                    "long-term": "He has been actively creating scoring opportunities with his shots and contributing to the team's advancement with his first-touch skills."
+                }
+            ]
+        },
+        {
+            "label": "shoot",
+            "query": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The ball goes out of play and Paris SG will have a goal kick.",
+            "game_time": "23:11",
+            "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over. Busquets shakes his head, knowing he could have done better.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been creating scoring opportunities with long-range shots and in-box attempts, but the finishing touches are lacking precision."
+                }
+            ]
+        },
+        {
+            "label": "chance",
+            "query": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "game_time": "24:09",
+            "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over.",
+                    "history_time": "23:11",
+                    "long-term": "They have been displaying creative attacking play, but struggling with execution and finishing."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been effective in neutralizing their attacking threats."
+                }
+            ]
+        },
+        {
+            "label": "chance",
+            "query": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball.",
+            "game_time": "25:54",
+            "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+                    "history_time": "24:09",
+                    "long-term": "He has been consistently attempting to create scoring opportunities for his team with precise crosses and chip passes into the box."
+                },
+                {
+                    "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over. Busquets shakes his head, knowing he could have done better.",
+                    "history_time": "23:11",
+                    "long-term": "They have been trying to break through the opponent's defense with creative plays, but the goalkeeper's timely interventions and their own inaccuracy have hindered their scoring efforts."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense, utilizing crosses and shots to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "label": "shoot",
+            "query": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for Barcelona.",
+            "game_time": "28:35",
+            "short-term": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. He was under pressure from the defender and couldn’t fully control the shot. Moura puts his hands on his head, disappointed with the miss.",
+            "query_ano": "[PLAYER] ([TEAM]) does well to meet a cross from [PLAYER], but he directs his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+                    "history_time": "25:54",
+                    "long-term": "Both teams have been creating scoring opportunities, but the finishing touches and the goalkeepers' performances have made the difference so far."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+                    "history_time": "24:09",
+                    "long-term": "Both teams have been creating scoring opportunities with clever plays, but the defenses have been up to the task so far, neutralizing the threats."
+                },
+                {
+                    "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over. Busquets shakes his head, knowing he could have done better.",
+                    "history_time": "23:11",
+                    "long-term": "Both players have shown moments of brilliance in their attacking efforts, but their finishing has let them down with both shots going off-target."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "Both sides have shown intent in front of goal but are struggling to find the breakthrough, with attackers from both teams coming close only to be denied by defenders. Key players are getting into good positions but lack the final touch."
+                }
+            ]
+        },
+        {
+            "label": "chance",
+            "query": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG.",
+            "game_time": "31:20",
+            "short-term": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG. Bartra gestures towards his teammates, asking for more movement.",
+            "query_ano": "Marc Bartra ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. He was under pressure from the defender and couldn’t fully control the shot. Moura puts his hands on his head, disappointed with the miss.",
+                    "history_time": "28:35",
+                    "long-term": "Both teams have been showing intent to break through each other's defenses, with inaccurate passes and miscued shots preventing them from finding the back of the net."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+                    "history_time": "25:54",
+                    "long-term": "They have been struggling to break through the opponent's defense, unable to find the right connection and being thwarted by the goalkeeper's timely interventions."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+                    "history_time": "24:09",
+                    "long-term": "They have been trying to break down the opposition's defense with creative passes, but so far, the execution has been lacking."
+                },
+                {
+                    "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over. Busquets shakes his head, knowing he could have done better.",
+                    "history_time": "23:11",
+                    "long-term": "They have been trying to create scoring opportunities with creative passes and long-range shots, but so far, they lack precision in their execution."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been consistently testing the defense, attempting to create scoring opportunities through passing and shots on goal."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "game_time": "35:22",
+            "short-term": "Neymar (Barcelona) sends a cross into the box, but Maxwell quickly intercepted the ball and cleared the danger. The ball was aimed towards Suarez at the far post, but Maxwell reacted swiftly to prevent any chance.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG. Bartra gestures towards his teammates, asking for more movement.",
+                    "history_time": "31:20",
+                    "long-term": "They have been consistently trying to break through the opponent's defense with crosses and through-balls, but haven't found the desired connection yet."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+                    "history_time": "25:54",
+                    "long-term": "They consistently attempted to create scoring opportunities through crosses, but the opponent's defense effectively neutralized these threats."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+                    "history_time": "24:09",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes into the box, but the defense has been equally impressive in intercepting these attempts."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been successful in intercepting and blocking their attempts."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "game_time": "36:57",
+            "short-term": "Neymar attempted to chip the ball into the box, aiming to find Lionel Messi in the middle. But one of the defending players reacted superbly and intercepted the pass. Neymar looked frustrated as he gestured for more movement from his teammates.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Neymar took a long-range shot, but it was charged down by Lucas, who blocked the effort. The ball deflected away from the goal, and Neymar showed a hint of frustration as he turned back to regroup.",
+                    "history_time": "36:37",
+                    "long-term": "They have been struggling to break through the defense, with multiple efforts thwarted, and The player is growing increasingly frustrated with the lack of movement and space."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) sends a cross into the box, but Maxwell quickly intercepted the ball and cleared the danger. The ball was aimed towards Suarez at the far post, but Maxwell reacted swiftly to prevent any chance.",
+                    "history_time": "35:22",
+                    "long-term": "They have consistently attempted to utilize crosses to create scoring opportunities, but the defense has been able to read and neutralize these efforts effectively."
+                },
+                {
+                    "short-term": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG. Bartra gestures towards his teammates, asking for more movement.",
+                    "history_time": "31:20",
+                    "long-term": "They have been struggling to create clear-cut chances due to a lack of coordination and movement among their frontline players."
+                },
+                {
+                    "short-term": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. He was under pressure from the defender and couldn’t fully control the shot. Moura puts his hands on his head, disappointed with the miss.",
+                    "history_time": "28:35",
+                    "long-term": "They have been struggling to capitalize on their attacking chances, with intercepted passes and off-target shots signifying a lack of cohesion in the final third."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+                    "history_time": "25:54",
+                    "long-term": "They have been consistently testing the defense with precise passes and crosses into the box, but the opposing team's goalkeeper has been solid in denying them scoring opportunities."
+                },
+                {
+                    "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+                    "history_time": "24:09",
+                    "long-term": "They have been trying to break down the defense with creative chip passes, but the opposing team's backline has been solid in intercepting these attempts."
+                },
+                {
+                    "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+                    "history_time": "22:38",
+                    "long-term": "They have been consistently aggressive in their attacking attempts, but the defending team's efforts have thwarted their chances at goal so far."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) unleashes a shot from long range but it's well blocked.",
+            "game_time": "36:37",
+            "short-term": "Neymar took a long-range shot, but it was charged down by Lucas, who blocked the effort. The ball deflected away from the goal, and Neymar showed a hint of frustration as he turned back to regroup.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from long range but it's well blocked.",
+            "history": [
+                {
+                    "short-term": "Neymar (Barcelona) sends a cross into the box, but Maxwell quickly intercepted the ball and cleared the danger. The ball was aimed towards Suarez at the far post, but Maxwell reacted swiftly to prevent any chance.",
+                    "history_time": "35:22",
+                    "long-term": "They consistently pressured the opponent's defense with multiple attempts but struggled to find the final breakthrough."
+                }
+            ]
+        },
+        {
+            "query": "What a spectacular moment! Neymar (Barcelona) skips past defenders and finds some space before firing a long-range strike at goal. The fans are amazed when they see the ball go inside the right post. The scoreline is 2:1.",
+            "game_time": "41:06",
+            "short-term": "Incredible goal from Neymar! Surrounded by five defenders, Neymar skillfully maneuvered past them, creating just enough space. With no hesitation, he fired a long-range strike that found the inside of the right post, leaving the goalkeeper rooted to the spot. The stadium erupted in applause as Neymar celebrated with his arms raised.",
+            "query_ano": "What a spectacular moment! [PLAYER] ([TEAM]) skips past defenders and finds some space before firing a long-range strike at goal. The fans are amazed when they see the ball go inside the right post. The scoreline is 2:1.",
+            "history": [
+                {
+                    "short-term": "Neymar attempted to chip the ball into the box, aiming to find Lionel Messi in the middle. But one of the defending players reacted superbly and intercepted the pass. Neymar looked frustrated as he gestured for more movement from his teammates.",
+                    "history_time": "36:57",
+                    "long-term": "He has been a key figure in the attacking plays, showcasing remarkable skill in scoring a goal and continually attempting to create chances for his teammates."
+                },
+                {
+                    "short-term": "Neymar took a long-range shot, but it was charged down by Lucas, who blocked the effort. The ball deflected away from the goal, and Neymar showed a hint of frustration as he turned back to regroup.",
+                    "history_time": "36:37",
+                    "long-term": "He has displayed exceptional skill and confidence on the ball, posing a constant threat to the opposition's defense with his creative playmaking and long-range shooting ability."
+                },
+                {
+                    "short-term": "Neymar (Barcelona) sends a cross into the box, but Maxwell quickly intercepted the ball and cleared the danger. The ball was aimed towards Suarez at the far post, but Maxwell reacted swiftly to prevent any chance.",
+                    "history_time": "35:22",
+                    "long-term": "He has shown flashes of brilliance, creating a spectacular goal and was a constant threat, but also faced stiff resistance from the opposing defense."
+                },
+                {
+                    "short-term": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless. The move was well-crafted, with Suarez cutting the ball back to Messi, who finished with precision.",
+                    "history_time": "18:46",
+                    "long-term": "The match has seen a showcase of exceptional individual skills, with both teams boasting players who can change the game with their brilliance."
+                }
+            ]
+        },
+        {
+            "query": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "game_time": "42:07",
+            "short-term": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence. The quick tempo of their play is making it difficult for the opposition to keep up, as they continue probing for an opening.",
+            "query_ano": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "history": [
+                {
+                    "short-term": "Barcelona are showcasing great teamwork by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break. Their midfielders are constantly shifting positions to create openings.",
+                    "history_time": "25:37",
+                    "long-term": "They have consistently demonstrated exceptional ball control and movement, making it tough for their opponents to contain their dynamic offense."
+                }
+            ]
+        }
+    ]
+}

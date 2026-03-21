@@ -1,0 +1,555 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:56",
+            "game_time": "44:56",
+            "query": "Franck Ribery (Bayern Munich) has proven his good peripheral vision as he picks out David Alaba with a lovely through ball.",
+            "short-term": "Franck Ribery (Bayern Munich) shows excellent awareness, threading a precise pass between two defenders into the path of David Alaba, who makes an overlapping run down the left flank.",
+            "query_ano": "[PLAYER] ([TEAM]) has proven his good peripheral vision as he picks out [PLAYER] with a lovely through ball.",
+            "history": [
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) decides to speed play up with a short corner kick. A teammate receives it near the edge of the box.",
+                    "history_time": "40:03",
+                    "long-term": "He has been demonstrating exceptional vision and creativity in his passing, repeatedly picking out teammates in dangerous positions."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:02",
+            "game_time": "43:02",
+            "query": "Alessandro Florenzi (AS Roma) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "short-term": "Alessandro Florenzi (AS Roma) delivers a curling corner towards the near post, but a Bayern defender gets up first and nods the ball away. The clearance falls outside the box, where a teammate tries to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Radja Nainggolan (AS Roma) attempts a clever through ball into the box, but the defender anticipates well and slides in to deflect the ball out of play. The referee signals for a corner as AS Roma keep up their attacking push.",
+                    "history_time": "42:37",
+                    "long-term": "They have consistently shown a strong attacking presence, creating opportunities through strategic plays like corners and through balls."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) decides to speed play up with a short corner kick. A teammate receives it near the edge of the box.",
+                    "history_time": "40:03",
+                    "long-term": "Both teams have been utilizing corner kicks to create scoring opportunities, with Alessandro Florenzi and Franck Ribery attempting to catch the opposition off guard with their set pieces."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) times his run perfectly to meet a well-placed through pass inside the penalty area. With a composed finish, he slots the ball past the goalkeeper, the shot kissing the underside of the right post before bouncing into the net. A clinical finish from the winger.",
+                    "history_time": "37:31",
+                    "long-term": "They have shown mixed results on both ends, creating chances through set pieces but also displaying vulnerability in their defensive setup."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) lofts a delicate chipped pass over the defensive line, aiming for a teammate making a run into the box. However, the goalkeeper reads the play well, rushing off his line to catch the ball mid-air.",
+                    "history_time": "34:41",
+                    "long-term": "Both teams have showcased excellent defensive awareness, with precise clearances and goalkeeper interventions that have prevented potential scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:37",
+            "game_time": "42:37",
+            "query": "Radja Nainggolan (AS Roma) tries to slide the ball through to a teammate but it's well blocked by a defender. Corner kick. AS Roma will have an opportunity.",
+            "short-term": "Radja Nainggolan (AS Roma) attempts a clever through ball into the box, but the defender anticipates well and slides in to deflect the ball out of play. The referee signals for a corner as AS Roma keep up their attacking push.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. Corner kick. [TEAM] will have an opportunity.",
+            "history": [
+                {
+                    "short-term": "AS Roma are controlling possession, playing measured long passes across the midfield, searching for an opening to break through Bayern’s well-structured defensive lines.",
+                    "history_time": "41:39",
+                    "long-term": "They have been dominating possession and creating scoring opportunities, although the opposition's defense has been solid so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:03",
+            "game_time": "40:03",
+            "query": "Franck Ribery (Bayern Munich) decides to speed play up with a short corner kick.",
+            "short-term": "Franck Ribery (Bayern Munich) decides to speed play up with a short corner kick. A teammate receives it near the edge of the box.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+            "history": [
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) times his run perfectly to meet a well-placed through pass inside the penalty area. With a composed finish, he slots the ball past the goalkeeper, the shot kissing the underside of the right post before bouncing into the net. A clinical finish from the winger.",
+                    "history_time": "37:31",
+                    "long-term": "He has been showing great vision and control, combining swift tactics with precise execution to pierce the opponent's defense."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) lofts a delicate chipped pass over the defensive line, aiming for a teammate making a run into the box. However, the goalkeeper reads the play well, rushing off his line to catch the ball mid-air.",
+                    "history_time": "34:41",
+                    "long-term": "He has been consistently using his creativity to try and break down the defense with clever passes and varying his deliveries from the corner."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:40",
+            "game_time": "39:40",
+            "query": "The defence is alert as they clear a dangerous cross from Philipp Lahm (Bayern Munich). Bayern Munich will take a corner kick.",
+            "short-term": "Philipp Lahm (Bayern Munich) delivers a sharp cross from the right, aiming towards the near post, but the defense reacts swiftly, with a defender rising first to head the ball away. The clearance is not far, and Bayern Munich win a corner kick.",
+            "query_ano": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "An attempted cross from Juan Bernat (Bayern Munich) is cleared. Bayern Munich earn a corner. He received a pass from winger but did not manage it well.",
+                    "history_time": "23:13",
+                    "long-term": "They have been consistently applying pressure down the flanks, particularly on the right side, but have yet to capitalize on these crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:50",
+            "game_time": "38:50",
+            "query": "Radja Nainggolan (AS Roma) was trying to get to the ball but clattered into the legs of the opponent as well. Cuneyt Cakir blows his whistle for an infringement.",
+            "short-term": "Radja Nainggolan (AS Roma) lunges in aggressively while attempting to intercept a loose ball but instead catches the opponent's shin. He protested, but the referee immediately stops play and awards a free kick against him.",
+            "query_ano": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. [REFEREE] blows his whistle for an infringement.",
+            "history": [
+                {
+                    "short-term": "Mapou Yanga-Mbiwa (AS Roma) tugs at his opponent’s jersey as he struggles to keep up with the quick movement. The referee is well positioned and immediately blows for a foul. The defender raises both hands in protest.",
+                    "history_time": "36:06",
+                    "long-term": "They have been showing some reckless behavior in their defense, committing unnecessary fouls and showing signs of frustration when losing possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:31",
+            "game_time": "37:31",
+            "query": "Franck Ribery (Bayern Munich) scores an easy goal. He receives a precise pass inside the box and sends the ball past the goalkeeper, glancing in off the downside of the right post.",
+            "short-term": "Franck Ribery (Bayern Munich) times his run perfectly to meet a well-placed through pass inside the penalty area. With a composed finish, he slots the ball past the goalkeeper, the shot kissing the underside of the right post before bouncing into the net. A clinical finish from the winger.",
+            "query_ano": "[PLAYER] ([TEAM]) scores an easy goal. He receives a precise pass inside the box and sends the ball past the goalkeeper, glancing in off the downside of the right post.",
+            "history": [
+                {
+                    "short-term": "David Alaba (Bayern Munich) picks up the ball just outside the box, takes a quick touch past his marker, and unleashes a powerful left-footed drive toward the center of the goal. Lukasz Skorupski reacts sharply, diving and parrying the ball away with both hands.",
+                    "history_time": "36:42",
+                    "long-term": "They have consistently demonstrated exceptional skill and precision in their attacks, making them a formidable force on the opponent's end."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) lofts a delicate chipped pass over the defensive line, aiming for a teammate making a run into the box. However, the goalkeeper reads the play well, rushing off his line to catch the ball mid-air.",
+                    "history_time": "34:41",
+                    "long-term": "He has consistently demonstrated exceptional vision and precision in his attacks, setting up scoring opportunities with his skillful passing and clinical finishing."
+                },
+                {
+                    "short-term": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski reacts well and makes a comfortable save. What an excellent goalkeeper, who has made many great saves.",
+                    "history_time": "21:47",
+                    "long-term": "They have consistently shown skill in creating scoring opportunities, highlighted by both a successful finish and a testing shot that required a crucial save."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities, showcasing exceptional finishing skills and composure in front of the goal, but also facing some impressive defensive efforts."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been creating quality scoring opportunities with precise passes and composed finishes, consistently testing the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:42",
+            "game_time": "36:42",
+            "query": "David Alaba (Bayern Munich) shoots after his astonishing individual effort from about 20 metres out to the middle of the target, but Lukasz Skorupski shows his excellent skills and saves the attempt.",
+            "short-term": "David Alaba (Bayern Munich) picks up the ball just outside the box, takes a quick touch past his marker, and unleashes a powerful left-footed drive toward the center of the goal. Lukasz Skorupski reacts sharply, diving and parrying the ball away with both hands.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots after his astonishing individual effort from about 20 metres out to the middle of the target, but [PLAYER] shows his excellent skills and saves the attempt.",
+            "history": [
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) lofts a delicate chipped pass over the defensive line, aiming for a teammate making a run into the box. However, the goalkeeper reads the play well, rushing off his line to catch the ball mid-air.",
+                    "history_time": "34:41",
+                    "long-term": "They have consistently shown creativity in their attacking plays, threatening the goal with both individual skill and well-coordinated team efforts."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) whips in a high curling cross from a deep free kick, aiming towards the far post. However, the ball beyond the reach of any attacking players, landing behind the goal line for a goal kick.",
+                    "history_time": "32:52",
+                    "long-term": "He has been a key figure in his team's attacking efforts, consistently posing a threat with his shooting and set-piece deliveries."
+                },
+                {
+                    "short-term": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski reacts well and makes a comfortable save. What an excellent goalkeeper, who has made many great saves.",
+                    "history_time": "21:47",
+                    "long-term": "They have been consistently testing the goalkeeper with powerful shots from distance, showcasing their attacking prowess."
+                },
+                {
+                    "short-term": "Lukasz Skorupski pulls off a great save to deny Mario Gotze (Bayern Munich), who managed to create space in the box for a quick shot.",
+                    "history_time": "21:05",
+                    "long-term": "The goalkeeper has been impressive, making crucial saves to deny scoring opportunities, showcasing their exceptional reflexes. They are a vital factor in keeping the opposition's attacking threats at bay."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have created a couple of clear-cut chances but were denied by a combination of good goalkeeping and last-ditch defending."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "He has been a significant threat in the attacking third, testing the goalkeeper with a powerful shot and attempting to create scoring opportunities with his passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:41",
+            "game_time": "34:41",
+            "query": "Franck Ribery (Bayern Munich) sends a chip pass into the box, but Lukasz Skorupski is quickest to intercept the ball.",
+            "short-term": "Franck Ribery (Bayern Munich) lofts a delicate chipped pass over the defensive line, aiming for a teammate making a run into the box. However, the goalkeeper reads the play well, rushing off his line to catch the ball mid-air.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball.",
+            "history": [
+                {
+                    "short-term": "David Alaba (Bayern Munich) whips in a high curling cross from a deep free kick, aiming towards the far post. However, the ball beyond the reach of any attacking players, landing behind the goal line for a goal kick.",
+                    "history_time": "32:52",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and well-executed set pieces, but the opposition's defense has managed to neutralize these threats."
+                },
+                {
+                    "short-term": "Xabi Alonso (Bayern Munich) whips in the corner, but one of the defending players gets a head on it and intercepts. The delivery lacked accuracy, allowing the defense to clear easily.",
+                    "history_time": "23:40",
+                    "long-term": "They have been attempting to break down the defense with creative passes, but the opposition's goalkeeper and backline have been able to neutralize these efforts so far."
+                },
+                {
+                    "short-term": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski reacts well and makes a comfortable save. What an excellent goalkeeper, who has made many great saves.",
+                    "history_time": "21:47",
+                    "long-term": "They have been consistently testing the goalkeeper with creative passing and shots on goal, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+                    "history_time": "21:09",
+                    "long-term": "They have been consistently testing the opposition's defense with clever passes and crosses, but the goalkeeper and backline have held firm so far."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and individual skill, but the opposing team's defense has shown resilience."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:52",
+            "game_time": "32:52",
+            "query": "David Alaba (Bayern Munich) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play.",
+            "short-term": "David Alaba (Bayern Munich) whips in a high curling cross from a deep free kick, aiming towards the far post. However, the ball beyond the reach of any attacking players, landing behind the goal line for a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play.",
+            "history": [
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+                    "history_time": "21:09",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the opposition's defense has so far dealt with these threats effectively."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have consistently utilized crosses and passes into the box to create attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:29",
+            "game_time": "27:29",
+            "query": "Alessandro Florenzi (AS Roma) seems to be alright and is okay to carry on.",
+            "short-term": "Alessandro Florenzi (AS Roma) seems to be alright and is okay to carry on. He recovers from a previous knock and remains in the game.",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "history": [
+                {
+                    "short-term": "Alessandro Florenzi (AS Roma) picks up an injury. He twisted his foot, that did not look good.",
+                    "history_time": "26:12",
+                    "long-term": "The player's fitness is a concern, as he's picked up an injury that may impact his participation in upcoming matches, despite initially returning to the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:40",
+            "game_time": "23:40",
+            "query": "Xabi Alonso (Bayern Munich) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "short-term": "Xabi Alonso (Bayern Munich) whips in the corner, but one of the defending players gets a head on it and intercepts. The delivery lacked accuracy, allowing the defense to clear easily.",
+            "query_ano": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "history": [
+                {
+                    "short-term": "An attempted cross from Juan Bernat (Bayern Munich) is cleared. Bayern Munich earn a corner. He received a pass from winger but did not manage it well.",
+                    "history_time": "23:13",
+                    "long-term": "This corner kick comes from an attempted cross, which is cleared to form a corner kick."
+                },
+                {
+                    "short-term": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski reacts well and makes a comfortable save. What an excellent goalkeeper, who has made many great saves.",
+                    "history_time": "21:47",
+                    "long-term": "They have been consistently putting pressure on the opposing team's defense with multiple scoring attempts, but struggling to find the back of the net due to impressive goalkeeping and defensive efforts."
+                },
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+                    "history_time": "21:09",
+                    "long-term": "They have been consistently testing the opposition's defense with crosses and corners, but so far, the defense has held firm, managing to clear the threats effectively."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently testing the opponent's defense with creative attacking plays, but the defense has shown remarkable resilience."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been struggling to create clear-cut scoring opportunities, with their set pieces lacking the usual precision and execution."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and passes into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:13",
+            "game_time": "23:13",
+            "query": "An attempted cross from Juan Bernat (Bayern Munich) is cleared. Bayern Munich earn a corner.",
+            "short-term": "An attempted cross from Juan Bernat (Bayern Munich) is cleared. Bayern Munich earn a corner. He received a pass from winger but did not manage it well.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+                    "history_time": "21:09",
+                    "long-term": "They have been consistently attempting to utilize crosses to create scoring opportunities."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "He has been involved in several key attacking moments but struggled to capitalize on scoring opportunities and maintain possession effectively."
+                },
+                {
+                    "short-term": "Seydou Keita (AS Roma) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Roma is looking for width to break down Bayern's defense.",
+                    "history_time": "15:45",
+                    "long-term": "Both teams have been utilizing crosses to penetrate the opposition's defense, but the delivery has been met with strong defensive clearances."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been consistently applying pressure and seeking opportunities to break through the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:47",
+            "game_time": "21:47",
+            "query": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski pulls off a comfortable save to stop the effort going into the middle of the net.",
+            "short-term": "Philipp Lahm (Bayern Munich) receives a pass and tries his luck with a low shot from 20 metres out. Lukasz Skorupski reacts well and makes a comfortable save. What an excellent goalkeeper, who has made many great saves.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a low shot from 20 metres out. [PLAYER] pulls off a comfortable save to stop the effort going into the middle of the net.",
+            "history": [
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+                    "history_time": "21:09",
+                    "long-term": "They have been consistently testing the opposition's defense with shots and crosses, but the goalkeeper has been solid, making crucial saves to keep the score intact."
+                },
+                {
+                    "short-term": "Lukasz Skorupski pulls off a great save to deny Mario Gotze (Bayern Munich), who managed to create space in the box for a quick shot.",
+                    "history_time": "21:05",
+                    "long-term": "The goalkeeper has been exceptional, consistently making crucial saves to deny multiple scoring opportunities."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently testing the opposition's defense with shots from various distances, but the goalkeeper and defenders have been up to the task so far."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been creating scoring opportunities, but the goalkeeper's impressive saves and their own inability to finish have prevented them from taking the lead."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been consistently testing the opposition's defense with shots from distance and clever passes into the box, requiring the goalkeeper to make crucial saves."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:09",
+            "game_time": "21:09",
+            "query": "Mehdi Benatia (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Mehdi Benatia (Bayern Munich) sends a cross into the box, who catch a gap for a momment, but the opposition's defence clears the ball to safety. Roma remains organized at the back.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Lukasz Skorupski pulls off a great save to deny Mario Gotze (Bayern Munich), who managed to create space in the box for a quick shot.",
+                    "history_time": "21:05",
+                    "long-term": "They have been consistently testing the opposition's defense with creative attacking plays, but the opposing team's goalkeeper and defense have been solid in their response."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have been consistently testing Roma's defense with well-created chances, but the opposition's backline has held firm so far."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and headers, but are struggling to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Seydou Keita (AS Roma) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Roma is looking for width to break down Bayern's defense.",
+                    "history_time": "15:45",
+                    "long-term": "Both teams have been utilizing crosses to try and find a gap in each other's defenses, but so far, the opposing team's backline has held strong, with neither side able to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been consistently testing the opposition's defense with crosses and passes into the box, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked. Roma's compact defense is making it difficult for Bayern to break through.",
+                    "history_time": "13:15",
+                    "long-term": "They have been struggling to break down the opposition's defense, with multiple attempts being cleared or blocked, showcasing the opponent's solid organization at the back."
+                },
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) commits a rough foul. The referee immediately stops play, but no card is given.",
+                    "history_time": "11:42",
+                    "long-term": "He has been involved in a mix of attacking and defensive plays, being called for a rough foul but also creating a scoring chance."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:05",
+            "game_time": "21:05",
+            "query": "Lukasz Skorupski pulls off a great save to deny Mario Gotze (Bayern Munich), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal.",
+            "short-term": "Lukasz Skorupski pulls off a great save to deny Mario Gotze (Bayern Munich), who managed to create space in the box for a quick shot.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal.",
+            "history": [
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+                    "history_time": "20:09",
+                    "long-term": "They have been putting pressure on the opposing team's defense with consecutive threatening shots on goal."
+                },
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with impressive goalkeeping and uncharacteristic misses hindering their attack."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:09",
+            "game_time": "20:09",
+            "query": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Robert Lewandowski (Bayern Munich) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. First opportunity in this game now. Roma’s defense remains solid under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+                    "history_time": "17:28",
+                    "long-term": "They have been creating scoring opportunities but the opposing defense has been solid, stifling their typical attacking prowess."
+                },
+                {
+                    "short-term": "Robert Lewandowski (Bayern Munich) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. They failed to organize an effective counterattack. Bayern continues to dominate possession.",
+                    "history_time": "16:42",
+                    "long-term": "They have maintained possession and generated scoring opportunities, but have been unable to break through the opponent's defense."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been consistently testing Roma's defense with dangerous passes into the box, but so far, the opponent's backline has held firm."
+                },
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked. Roma's compact defense is making it difficult for Bayern to break through.",
+                    "history_time": "13:15",
+                    "long-term": "They have shown great attacking intent but have been consistently thwarted by a solid and compact defense. Roma's ability to withstand pressure is a recurring theme so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:58",
+            "game_time": "17:58",
+            "query": "The corner by Xabi Alonso (Bayern Munich) lacks accuracy as it's hit with too much power.",
+            "short-term": "The corner by Xabi Alonso (Bayern Munich) lacks accuracy as it's hit with too much power. The delivery was overhit, the ball went over everyone's heads.",
+            "query_ano": "The corner by [PLAYER] ([TEAM]) lacks accuracy as it's hit with too much power.",
+            "history": [
+                {
+                    "short-term": "A raking crossfield pass from Rafinha (Bayern Munich) lacks accuracy and the opposition gain possession. The winger didn't control the ball well, since accuracy is too poor.",
+                    "history_time": "12:53",
+                    "long-term": "They have been struggling with the accuracy of their long balls and set pieces, consistently failing to find their mark."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:28",
+            "game_time": "17:28",
+            "query": "Juan Bernat (Bayern Munich) misses a good chance to score. An inch-perfect cross into the box finds Juan Bernat (Bayern Munich) who rises for a header, but sends the ball well over the bar. Good work from Bayern Munich as they win a corner.",
+            "short-term": "Juan Bernat (Bayern Munich) misses a good chance to score. He rose well for the header but could not keep it down. Bayern Munich wins another corner. That is not typical for them at all, due to this defensive opponent.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a good chance to score. An inch-perfect cross into the box finds [PLAYER] ([TEAM]) who rises for a header, but sends the ball well over the bar. Good work from [TEAM] as they win a corner.",
+            "history": [
+                {
+                    "short-term": "Seydou Keita (AS Roma) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Roma is looking for width to break down Bayern's defense.",
+                    "history_time": "15:45",
+                    "long-term": "Both teams have been creating scoring opportunities, but so far, they've been unable to capitalize, with Roma seeking to exploit the width to break down Bayern's defense."
+                },
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them, largely due to the opponent's solid defensive strategy."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:42",
+            "game_time": "16:42",
+            "query": "Robert Lewandowski (Bayern Munich) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "short-term": "Robert Lewandowski (Bayern Munich) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. They failed to organize an effective counterattack. Bayern continues to dominate possession.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",
+            "history": [
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked. Roma's compact defense is making it difficult for Bayern to break through.",
+                    "history_time": "13:15",
+                    "long-term": "They have been struggling to break down the opposition's defense despite dominating possession, with their attacks consistently being repelled."
+                },
+                {
+                    "short-term": "A raking crossfield pass from Rafinha (Bayern Munich) lacks accuracy and the opposition gain possession. The winger didn't control the ball well, since accuracy is too poor.",
+                    "history_time": "12:53",
+                    "long-term": "They have been struggling to create clear-cut chances, with their attacks often being repelled by the opposition's defense, and wayward passing hindering their momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:45",
+            "game_time": "15:45",
+            "query": "Seydou Keita (AS Roma) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "short-term": "Seydou Keita (AS Roma) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Roma is looking for width to break down Bayern's defense.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "history": [
+                {
+                    "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+                    "history_time": "13:47",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, with Roma seeking width to bypass Bayern's defense and Bayern attempting to catch Roma off guard with their own deliveries into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:50",
+            "game_time": "14:50",
+            "query": "Mehdi Benatia (Bayern Munich) trips an opponent with a slide tackle. Cuneyt Cakir stops the game and he could give him a card, but eventually decides on just a warning.",
+            "short-term": "Mehdi Benatia (Bayern Munich) trips an opponent with a slide tackle. The referee stops the game but decides against showing a card, giving only a warning. He knew his foul was a dirty trick and didn't make any excuses.",
+            "query_ano": "[PLAYER] ([TEAM]) trips an opponent with a slide tackle. [REFEREE] stops the game and he could give him a card, but eventually decides on just a warning.",
+            "history": [
+                {
+                    "short-term": "Mehdi Benatia (Bayern Munich) commits a rough foul. The referee immediately stops play, but no card is given.",
+                    "history_time": "11:42",
+                    "long-term": "He has been consistently aggressive in his tackles, walking a fine line between being physical and dirty, testing the referee's limits without receiving a card yet."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:47",
+            "game_time": "13:47",
+            "query": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "short-term": "David Alaba (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. A completely different game for Roma, because a different tactic.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "history": [
+                {
+                    "short-term": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked. Roma's compact defense is making it difficult for Bayern to break through.",
+                    "history_time": "13:15",
+                    "long-term": "They have been struggling to break through Roma's solid defense, as evidenced by consecutive failed attempts to deliver the ball into the box."
+                },
+                {
+                    "short-term": "A raking crossfield pass from Rafinha (Bayern Munich) lacks accuracy and the opposition gain possession. The winger didn't control the ball well, since accuracy is too poor.",
+                    "history_time": "12:53",
+                    "long-term": "They have been struggling to create scoring opportunities due to inaccurate passing and a lack of control in their attacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:15",
+            "game_time": "13:15",
+            "query": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked.",
+            "short-term": "Franck Ribery (Bayern Munich) tries to send a pass but it's blocked. Roma's compact defense is making it difficult for Bayern to break through.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked.",
+            "history": [
+                {
+                    "short-term": "A raking crossfield pass from Rafinha (Bayern Munich) lacks accuracy and the opposition gain possession. The winger didn't control the ball well, since accuracy is too poor.",
+                    "history_time": "12:53",
+                    "long-term": "They are struggling to penetrate the opponent's defense with their passing game, often being intercepted or sending inaccurate balls."
+                }
+            ]
+        }
+    ]
+}

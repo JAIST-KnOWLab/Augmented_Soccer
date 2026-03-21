@@ -1,0 +1,277 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:00",
+            "game_time": "44:00",
+            "query": "Another attempt to send the ball beyond the defence by Shinji Kagawa (Dortmund) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Shinji Kagawa (Dortmund) is thwarted and cleared to safety. The pass failed to get past the defender's legs.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "43:03",
+            "game_time": "43:03",
+            "query": "Unbelievable miss! Sacha Kljestan (Anderlecht) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and Dortmund will have a goal kick.",
+            "short-term": "Unbelievable miss! Sacha Kljestan (Anderlecht) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and Dortmund will have a goal kick. It was very well delivered from side. The ball bounces in front of him.",
+            "query_ano": "Unbelievable miss! [PLAYER] ([TEAM]) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "42:14",
+            "game_time": "42:14",
+            "query": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "short-term": "Erik Durm (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. His movements quickly became distorted under pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "40:08",
+            "game_time": "40:08",
+            "query": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Erik Durm (Dortmund) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and Anderlecht will have a goal kick. The shot was completely off target, drawing frustration from the crowd.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "39:51",
+            "game_time": "39:51",
+            "query": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "39:34",
+            "game_time": "39:34",
+            "query": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick.",
+            "short-term": "Kevin Grosskreutz (Dortmund) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Dortmund will have a chance to score from a corner kick. The clearance was crucial to prevent an immediate danger.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "38:56",
+            "game_time": "38:56",
+            "query": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Erik Durm (Dortmund) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Anderlecht. The ball was sent too deep, missing the intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "38:25",
+            "game_time": "38:25",
+            "query": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund.",
+            "short-term": "Shinji Kagawa (Dortmund) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for Dortmund. The defensive line remained disciplined, cutting off the passing lane.",
+            "query_ano": "[PLAYER] ([TEAM]) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "37:57",
+            "game_time": "37:57",
+            "query": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund.",
+            "short-term": "A pass by Chancel Mbemba (Anderlecht) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for Dortmund. Miscommunication in midfield led to this wasted pass.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. It's a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "36:41",
+            "game_time": "36:41",
+            "query": "Dortmund players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "short-term": "Dortmund players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence. The opposition remains compact, waiting to capitalize on an error.",
+            "query_ano": "[TEAM] players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence."
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out.",
+            "short-term": "Erik Durm (Dortmund) fails to send a pass into the box as his effort is cut out. The defender steps in confidently, timing the interception well to deny the attacking move.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "33:24",
+            "game_time": "33:24",
+            "query": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept.",
+            "short-term": "Ibrahima Conte (Anderlecht) plays a through ball inside the box, but it's too strong and Mitchell Langerak comes off his line to intercept. The pass was slightly overhit, making it an easy claim for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept."
+        },
+        {
+            "gameTime": "32:06",
+            "game_time": "32:06",
+            "query": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",
+            "short-term": "Marcel Schmelzer (Dortmund) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The intended recipient had made a good run, but the delivery fell short.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "31:10",
+            "game_time": "31:10",
+            "query": "This was a piece of cake for Silvio Proto. Henrikh Mkhitaryan (Dortmund) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper.",
+            "short-term": "This was a piece of cake for Silvio Proto. Henrikh Mkhitaryan (Dortmund) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper. A lack of power and placement made it a routine save.",
+            "query_ano": "This was a piece of cake for [REFEREE]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper."
+        },
+        {
+            "gameTime": "30:31",
+            "game_time": "30:31",
+            "query": "The resulting corner from Dennis Praet (Anderlecht) is cleared by the opposition's defence.",
+            "short-term": "The resulting corner from Dennis Praet (Anderlecht) is cleared by the opposition's defence. The clearance was firm, pushing the ball away from immediate danger.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "30:09",
+            "game_time": "30:09",
+            "query": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. Anderlecht have a corner.",
+            "short-term": "Anthony Vanden Borre (Anderlecht) sends a pass into the box, but his attempt is thwarted and cleared. The defender was well-positioned to deal with the threat, deflecting the ball out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] have a corner."
+        },
+        {
+            "gameTime": "29:28",
+            "game_time": "29:28",
+            "query": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Kevin Grosskreutz (Dortmund) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for Anderlecht. The goalkeeper had positioned himself well but was relieved to see the ball go over.",
+            "query_ano": "[PLAYER] ([TEAM]) is quickest inside the box and leaps to connect with the resulting set piece. He produces a fine header, but it floats just over the crossbar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "29:02",
+            "game_time": "29:02",
+            "query": "Marcel Schmelzer (Dortmund) takes the corner.",
+            "short-term": "Marcel Schmelzer (Dortmund) takes the corner. The ball swings in, but the defense is alert and quickly clears it out of danger.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner."
+        },
+        {
+            "gameTime": "28:29",
+            "game_time": "28:29",
+            "query": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "short-term": "Ciro Immobile (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Silvio Proto makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, Dortmund are awarded a corner kick. The goalkeeper reacted quickly, stretching fully to tip the shot away.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. [REFEREE] makes a great save to deny his effort directed to the top left corner. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "27:29",
+            "game_time": "27:29",
+            "query": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted.",
+            "short-term": "Anthony Vanden Borre (Anderlecht) crosses the ball forward but it is intercepted. The pass was aimed towards the far post but was read well by the defender.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted."
+        },
+        {
+            "gameTime": "25:54",
+            "game_time": "25:54",
+            "query": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht.",
+            "short-term": "Ciro Immobile (Dortmund) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for Anderlecht. He was under pressure from the defender, which may have affected his shot.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "25:10",
+            "game_time": "25:10",
+            "query": "Henrikh Mkhitaryan (Dortmund) makes a strong challenge and Alberto Undiano Mallenco blows for a foul.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) makes a strong challenge and Alberto Undiano Mallenco blows for a foul. The referee had a clear view and immediately stopped play.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul."
+        },
+        {
+            "gameTime": "23:56",
+            "game_time": "23:56",
+            "query": "Leander Dendoncker (Anderlecht) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent.",
+            "short-term": "Leander Dendoncker (Anderlecht) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent. The pass finds an open teammate, keeping the play alive.",
+            "query_ano": "[PLAYER] ([TEAM]) extricates himself from the difficult situation with a good pass, comfortably eluding the pressing opponent."
+        },
+        {
+            "gameTime": "23:36",
+            "game_time": "23:36",
+            "query": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing.",
+            "short-term": "The resulting corner from Dennis Praet (Anderlecht) comes to nothing. The ball was sent towards the near post but was easily cleared by the first defender.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) comes to nothing."
+        },
+        {
+            "gameTime": "23:03",
+            "game_time": "23:03",
+            "query": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Dennis Praet (Anderlecht) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. Anderlecht will have an opportunity to threaten the opposition's goal. The shot had good power, but the defender was well-positioned to make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck with a shot from long range, but his effort is well blocked by one of the defending players. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "22:18",
+            "game_time": "22:18",
+            "query": "The game is interrupted as Marcel Schmelzer (Dortmund) is flagged offside.",
+            "short-term": "The game is interrupted as Marcel Schmelzer (Dortmund) is flagged offside. He was slightly ahead of the defensive line when the ball was played.",
+            "query_ano": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "gameTime": "21:57",
+            "game_time": "21:57",
+            "query": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "short-term": "Shinji Kagawa (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The pass had the right idea, but the defense read it well.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+        },
+        {
+            "gameTime": "20:53",
+            "game_time": "20:53",
+            "query": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball.",
+            "short-term": "Frank Acheampong (Anderlecht) sends a cross into the box, but Mitchell Langerak comes off his line to gather the ball. The cross had some pace, but the goalkeeper was quick to react and claimed it before any danger developed.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "20:03",
+            "game_time": "20:03",
+            "query": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear.",
+            "short-term": "Olivier Deschacht (Anderlecht) takes the free kick from a long way out but the defender manages to get it clear. The delivery was aimed deep into the box but was comfortably dealt with by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the free kick from a long way out but the defender manages to get it clear."
+        },
+        {
+            "gameTime": "19:50",
+            "game_time": "19:50",
+            "query": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game.",
+            "short-term": "Shinji Kagawa (Dortmund) brings an opponent down and Alberto Undiano Mallenco interrupts the game. It was a clumsy challenge in the midfield, stopping the opposition's progress.",
+            "query_ano": "[PLAYER] ([TEAM]) brings an opponent down and [REFEREE] interrupts the game."
+        },
+        {
+            "gameTime": "18:59",
+            "game_time": "18:59",
+            "query": "Erik Durm (Dortmund) is adjudged offside.",
+            "short-term": "Erik Durm (Dortmund) is adjudged offside. The attacking movement lacked precision, leading to a premature flag from the assistant referee.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "gameTime": "18:45",
+            "game_time": "18:45",
+            "query": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The ball is behind the touchline and Dortmund will take a throw-in.",
+            "short-term": "Shinji Kagawa (Dortmund) passes the ball into the box but an opposing player clears. The clearance was rushed, sending the ball over the sideline for a throw-in.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "gameTime": "17:42",
+            "game_time": "17:42",
+            "query": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "short-term": "Kevin Grosskreutz (Dortmund) wastes a good opportunity as his pass into the box is blocked by the defence. The defender read the play well and stepped in at the right moment.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence."
+        },
+        {
+            "gameTime": "15:17",
+            "game_time": "15:17",
+            "query": "Some neat passing and movement from Dortmund as they ping around some short passes in order to create a new attacking opportunity.",
+            "short-term": "Some neat passing and movement from Dortmund as they ping around some short passes in order to create a new attacking opportunity. The defense remains compact, cutting off passing lanes.",
+            "query_ano": "Some neat passing and movement from [TEAM] as they ping around some short passes in order to create a new attacking opportunity."
+        },
+        {
+            "gameTime": "14:05",
+            "game_time": "14:05",
+            "query": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The ball goes out of play and Anderlecht will have a goal kick.",
+            "short-term": "Nuri Sahin (Dortmund) is unable to feed a through ball into the path of his teammates. The pass was slightly overhit and rolled harmlessly out for a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) is unable to feed a through ball into the path of his teammates. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "13:29",
+            "game_time": "13:29",
+            "query": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. It's a free kick to Dortmund, but it's in no position for a direct shot on goal.",
+            "short-term": "Anthony Vanden Borre (Anderlecht) escapes without any punishment from the referee after using excessive force to foul his opponent. The free kick is taken quickly to maintain attacking momentum.",
+            "query_ano": "[PLAYER] ([TEAM]) escapes without any punishment from the referee after using excessive force to foul his opponent. It's a free kick to [TEAM], but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "12:10",
+            "game_time": "12:10",
+            "query": "Matthias Ginter (Dortmund) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul.",
+            "short-term": "Matthias Ginter (Dortmund) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul. The opposition player stayed on the ground momentarily before getting back up.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "gameTime": "11:43",
+            "game_time": "11:43",
+            "query": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked.",
+            "short-term": "Marcel Schmelzer (Dortmund) attempts to send a pass but the effort is blocked. The ball deflects into a crowded midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked."
+        },
+        {
+            "gameTime": "11:17",
+            "game_time": "11:17",
+            "query": "Aleksandar Mitrovic (Anderlecht) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper.",
+            "short-term": "Aleksandar Mitrovic (Anderlecht) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper. The shot had power, but the goalkeeper reacted quickly and parried it away.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well-positioned keeper."
+        }
+    ]
+}

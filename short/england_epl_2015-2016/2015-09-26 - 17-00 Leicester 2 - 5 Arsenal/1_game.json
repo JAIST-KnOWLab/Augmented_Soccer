@@ -1,0 +1,200 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:02",
+            "game_time": "45:02",
+            "query": "CLOSE! Riyad Mahrez (Leicester) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post!",
+            "short-term": "CLOSE! Riyad Mahrez (Leicester) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post! A brilliant solo effort.",
+            "query_ano": "CLOSE! [PLAYER] ([TEAM]) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post!"
+        },
+        {
+            "gameTime": "43:35",
+            "game_time": "43:35",
+            "query": "Marc Albrighton (Leicester) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play.",
+            "short-term": "Marc Albrighton (Leicester) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play. His mate was unable to reach it due to slight contact.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play."
+        },
+        {
+            "gameTime": "42:32",
+            "game_time": "42:32",
+            "query": "Mikel Arteta (Arsenal) fouls an opponent. At least that's what referee Craig Pawson signals. Leicester are given an advantage. They have a free kick.",
+            "short-term": "Mikel Arteta (Arsenal) fouls an opponent. At least that's what referee Craig Pawson signals. Leicester are given an advantage. They have a free kick in a dangerous position.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "40:33",
+            "game_time": "40:33",
+            "query": "Shinji Okazaki (Leicester) passes the ball onto Riyad Mahrez, but one of the defenders dispossesses him.",
+            "short-term": "Shinji Okazaki (Leicester) passes the ball onto Riyad Mahrez, but one of the defenders dispossesses him. Arsenal’s defense reacts quickly to cut out the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball onto [PLAYER], but one of the defenders dispossesses him."
+        },
+        {
+            "gameTime": "40:10",
+            "game_time": "40:10",
+            "query": "Hector Bellerin (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "short-term": "Hector Bellerin (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Leicester clears the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "38:48",
+            "game_time": "38:48",
+            "query": "Santi Cazorla (Arsenal) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker.",
+            "short-term": "Santi Cazorla (Arsenal) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker. A well-struck effort just off target.",
+            "query_ano": "[PLAYER] ([TEAM]) creates a good chance for himself and goes for goal from mid-range, but he misses the left post by a whisker."
+        },
+        {
+            "gameTime": "38:03",
+            "game_time": "38:03",
+            "query": "Robert Huth (Leicester) displays brilliant awareness inside the six-yard box and leaps high to meet the free kick. He tries to put his header into the middle of the target, but Petr Cech keeps the ball out.",
+            "short-term": "Robert Huth (Leicester) displays brilliant awareness inside the six-yard box and leaps high to meet the free kick. He tries to put his header into the middle of the target, but Petr Cech keeps the ball out. The Arsenal keeper makes a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) displays brilliant awareness inside the six-yard box and leaps high to meet the free kick. He tries to put his header into the middle of the target, but [PLAYER] keeps the ball out."
+        },
+        {
+            "gameTime": "37:14",
+            "game_time": "37:14",
+            "query": "The referee blows his whistle for a foul after Aaron Ramsey (Arsenal) hacks down one of his opponents.",
+            "short-term": "The referee blows his whistle for a foul after Aaron Ramsey (Arsenal) hacks down one of his opponents. Leicester wins a free kick and looks to advance.",
+            "query_ano": "The referee blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "35:51",
+            "game_time": "35:51",
+            "query": "Shinji Okazaki (Leicester) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Shinji Okazaki (Leicester) looks to break free, but an opposing player clears the ball away. The defender positions himself well to block the run.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "32:58",
+            "game_time": "32:58",
+            "query": "Goal 1:2! Alexis Sanchez (Arsenal) taps home from close range after the rebound fell kindly into his path.",
+            "short-term": "Goal 1:2! Alexis Sanchez (Arsenal) taps home from close range after the rebound fell kindly into his path. It was a cross from side.",
+            "query_ano": "Goal 1:2! [PLAYER] ([TEAM]) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "31:21",
+            "game_time": "31:21",
+            "query": "Jeffrey Schlupp (Leicester) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Jeffrey Schlupp (Leicester) races towards goal but the defender gets back well to make a challenge. Ramsey tracks back in time to stop the attack.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "29:56",
+            "game_time": "29:56",
+            "query": "The Arsenal players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession.",
+            "short-term": "The Arsenal players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession. Their defensers look to counter quickly.",
+            "query_ano": "The [TEAM] players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession."
+        },
+        {
+            "gameTime": "28:07",
+            "game_time": "28:07",
+            "query": "Ritchie De Laet (Leicester) sprays a pass out to Riyad Mahrez, but he can't beat his man inside the box.",
+            "short-term": "Ritchie De Laet (Leicester) sprays a pass out to Riyad Mahrez, but he can't beat his man inside the box. Arsenal’s defense stands firm against the threat.",
+            "query_ano": "Ritchie De Laet ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man inside the box."
+        },
+        {
+            "gameTime": "26:29",
+            "game_time": "26:29",
+            "query": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball.",
+            "short-term": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Petr Cech intercepts the ball. It was too close to the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "25:35",
+            "game_time": "25:35",
+            "query": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick.",
+            "short-term": "Theo Walcott (Arsenal) commits a foul and Craig Pawson immediately signals a free kick. Leicester earns a chance to send the ball into the danger area.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "gameTime": "23:41",
+            "game_time": "23:41",
+            "query": "Santi Cazorla (Arsenal) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Santi Cazorla (Arsenal) is forced to stop his attacking move after the linesman signals for offside. There is still some waste in therir game, They are a little afraid of this team.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "22:21",
+            "game_time": "22:21",
+            "query": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.",
+            "short-term": "Marc Albrighton (Leicester) sends a cross into the box, but Petr Cech comes off his line to gather the ball.  This time the alignment is good.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "22:11",
+            "game_time": "22:11",
+            "query": "Riyad Mahrez (Leicester) takes the corner with a short pass.",
+            "short-term": "Riyad Mahrez (Leicester) takes the corner with a short pass. Arsenal anticipates and quickly launches a counterattack.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "21:34",
+            "game_time": "21:34",
+            "query": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick.",
+            "short-term": "Jeffrey Schlupp (Leicester) tries to send a pass but it's blocked. The ball goes out of play. Leicester are awarded a corner kick. Schlupp has been active in offensive rushes but needs to be more vigilant about his positioning.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes out of play. [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "20:35",
+            "game_time": "20:35",
+            "query": "The referee signals a substitution. Mikel Arteta (Arsenal) is brought on as a substitute for Mathieu Flamini.",
+            "short-term": "The referee signals a substitution. Mikel Arteta (Arsenal) is brought on as a substitute for Mathieu Flamini. Flamini is forced off early due to injury, making way for Arteta in an unchanged tactical setup.",
+            "query_ano": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for Mathieu Flamini."
+        },
+        {
+            "gameTime": "19:34",
+            "game_time": "19:34",
+            "query": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",
+            "short-term": "Aaron Ramsey (Arsenal) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. Leicester needs to be more attentive in marking Ramsey, who continues to look for space.",
+            "query_ano": "[PLAYER] ([TEAM]) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "gameTime": "17:22",
+            "game_time": "17:22",
+            "query": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post.",
+            "short-term": "After receiving a beautiful pass, Theo Walcott (Arsenal) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post. The match quickly shifted as Arsenal found an equalizer moments after Leicester’s near miss.",
+            "query_ano": "After receiving a beautiful pass, [PLAYER] ([TEAM]) had a huge opportunity. He coolly unleashed a perfect shot, which went in off the right post."
+        },
+        {
+            "gameTime": "17:19",
+            "game_time": "17:19",
+            "query": "What a chance that is! Jamie Vardy (Leicester) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar!",
+            "short-term": "What a chance that is! Jamie Vardy (Leicester) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar! He had already hit the post earlier, showing their attacking intent.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) leaps high to meet a lofted pass inside the six-yard box, but his header crashes off the crossbar!"
+        },
+        {
+            "gameTime": "16:18",
+            "game_time": "16:18",
+            "query": "A neat pass is well received by Santi Cazorla (Arsenal), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot.",
+            "short-term": "A neat pass is well received by Santi Cazorla (Arsenal), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot. Arsenal is gradually finding their rhythm but lacks the necessary speed and risk-taking to break down Leicester’s defense.",
+            "query_ano": "A neat pass is well received by [PLAYER] ([TEAM]), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot."
+        },
+        {
+            "gameTime": "15:50",
+            "game_time": "15:50",
+            "query": "Nothing comes of the resulting corner from Santi Cazorla (Arsenal). The defence is alert and manages to cut it out.",
+            "short-term": "Nothing comes of the resulting corner from Santi Cazorla (Arsenal). The defence is alert and manages to cut it out. Kasper Schmeichel had earlier denied Cazorla, keeping Leicester’s defense organized.",
+            "query_ano": "Nothing comes of the resulting corner from [PLAYER] ([TEAM]). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "15:20",
+            "game_time": "15:20",
+            "query": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+            "short-term": "Kasper Schmeichel pulls off a great save to deny Theo Walcott (Arsenal) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. Arsenal have been awarded a corner kick.",
+            "query_ano": "Kasper Schmeichel pulls off a great save to deny [PLAYER] ([TEAM]) after receiving a precise defence-splitting pass. The effort is headed for the bottom right corner, but the goalkeeper dives superbly to stop it. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "12:22",
+            "game_time": "12:22",
+            "query": "Jamie Vardy (Leicester) makes a great solo run and pulls the trigger from inside the box, beating Petr Cech with a strike into the right side of the goal. He makes it 1:0.",
+            "short-term": "Jamie Vardy (Leicester) makes a great solo run and pulls the trigger from inside the box, beating Petr Cech with a strike into the right side of the goal. He makes it 1:0. The counterattack started from Leicester’s own penalty area, with Kante winning the ball and Drinkwater providing the perfect assist.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating [PLAYER] with a strike into the right side of the goal. He makes it 1:0."
+        },
+        {
+            "gameTime": "10:20",
+            "game_time": "10:20",
+            "query": "What a chance that is! Jamie Vardy (Leicester) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!",
+            "short-term": "What a chance that is! Jamie Vardy (Leicester) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post! Mahrez was in a great position for the rebound but hesitated to shoot with his right foot.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!"
+        }
+    ]
+}

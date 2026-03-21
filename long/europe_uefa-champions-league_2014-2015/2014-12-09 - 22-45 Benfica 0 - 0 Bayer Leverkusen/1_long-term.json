@@ -1,0 +1,840 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:14",
+            "game_time": "44:14",
+            "query": "Josip Drmic (Bayer Leverkusen) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Artur.",
+            "short-term": "Josip Drmic (Bayer Leverkusen) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Artur. The shot is too central, making it an easy catch for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Artur.",
+            "history": [
+                {
+                    "short-term": "Josip Drmic (Bayer Leverkusen) goes on a weaving run through the defence and gets within shooting range, but his effort is blocked. One of the defender stays close and makes a crucial challenge to deny him a clear shot.",
+                    "history_time": "31:16",
+                    "long-term": "He has shown great intent in his attacking runs but lacked the clinical finish to make an impact on the scoreboard."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:54",
+            "game_time": "42:54",
+            "query": "What a chance that is! Bebe (Benfica) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "short-term": "What a chance that is! Bebe (Benfica) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The goalkeeper had already anticipated a dive, but the ball curled just past the post.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Bebe (Benfica) sends a pass into the box, but his attempt is thwarted and cleared. He attempted a low-driven ball, but a defender stretched out a leg to deflect it away.",
+                    "history_time": "41:48",
+                    "long-term": "He has been posing a threat in the attacking third, creating a promising chance and trying to pick out a teammate in the box, but so far, the opposition's defense has managed to contain him."
+                },
+                {
+                    "short-term": "Bebe (Benfica) fails to send a pass into the box as his effort is cut out. One of the defender steps in with a well-timed interception to halt the attack.",
+                    "history_time": "35:05",
+                    "long-term": "He has been posing a threat in the attacking third, narrowly missing a goal and being involved in creating another scoring opportunity."
+                },
+                {
+                    "short-term": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. His body posture was slightly off balance, sending the ball well over the bar.",
+                    "history_time": "34:44",
+                    "long-term": "He has shown flashes of brilliance in his attacking play, but struggled with accuracy in his finishing. Despite getting into promising positions, his shots have been off target."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:15",
+            "game_time": "42:15",
+            "query": "The referee blows his whistle after Karim Bellarabi (Bayer Leverkusen) kicks an opponent's legs instead of the ball.",
+            "short-term": "The referee blows his whistle after Karim Bellarabi (Bayer Leverkusen) kicks an opponent's legs instead of the ball. The opposing player stays down momentarily.",
+            "query_ano": "The referee blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball.",
+            "history": [
+                {
+                    "short-term": "Loris Benito (Benfica) makes a reckless foul in order to win the ball from his opponent. Aleksei Kulbakov has a clear sight of it and blows his whistle. Benito looks frustrated after the call.",
+                    "history_time": "40:10",
+                    "long-term": "The game has seen an increase in aggressive challenges, with players committing reckless fouls in an attempt to gain possession."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) makes a bad challenge and the referee blows his whistle for a foul. He tries to recover the ball after a loose touch but instead catches a player from behind, leading to an immediate whistle.",
+                    "history_time": "37:29",
+                    "long-term": "They have been showing some reckless behavior, committing multiple fouls, which could put them at risk of receiving yellow or red cards."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:48",
+            "game_time": "41:48",
+            "query": "Bebe (Benfica) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "short-term": "Bebe (Benfica) sends a pass into the box, but his attempt is thwarted and cleared. He attempted a low-driven ball, but a defender stretched out a leg to deflect it away.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the right post. His effort lacked the necessary curl to find the target.",
+                    "history_time": "41:02",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passes into the box, but so far, they've been unable to capitalize on these chances."
+                },
+                {
+                    "short-term": "The ball is cleared after Ola John (Benfica) attempted to dribble past an opposing player. He tried to cut inside but lost control as the ball deflected off his own leg before being swept away by the defense.",
+                    "history_time": "39:54",
+                    "long-term": "They have been consistently testing the opponent's defense with varied attacking moves, despite not being able to create a clear scoring chance yet."
+                },
+                {
+                    "short-term": "Bebe (Benfica) fails to send a pass into the box as his effort is cut out. One of the defender steps in with a well-timed interception to halt the attack.",
+                    "history_time": "35:05",
+                    "long-term": "They have been struggling to create scoring opportunities, with the opponent's defense consistently intercepting their passes and clearing the ball."
+                },
+                {
+                    "short-term": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. His body posture was slightly off balance, sending the ball well over the bar.",
+                    "history_time": "34:44",
+                    "long-term": "He has been struggling to create scoring opportunities, with his passing and shooting attempts consistently being thwarted by the opposing team's defense."
+                },
+                {
+                    "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+                    "history_time": "27:53",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses into the box, but the defense has been able to clear the threats effectively."
+                },
+                {
+                    "short-term": "Bebe (Benfica) attempts to find his teammate with a pass from outside the box, but the opposition's defense steps in quickly. The ball is intercepted just before it could reach the intended target.",
+                    "history_time": "25:54",
+                    "long-term": "They have been consistently trying to break through the opposition's defense with passes into the box, but have been met with strong defensive interventions."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:02",
+            "game_time": "41:02",
+            "query": "Lima (Benfica) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the right post.",
+            "short-term": "Lima (Benfica) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the right post. His effort lacked the necessary curl to find the target.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Loris Benito (Benfica) makes a reckless foul in order to win the ball from his opponent. Aleksei Kulbakov has a clear sight of it and blows his whistle. Benito looks frustrated after the call.",
+                    "history_time": "40:10",
+                    "long-term": "They have been creating scoring opportunities but struggling with precision, and some rash decisions have led to unnecessary fouls."
+                },
+                {
+                    "short-term": "Bebe (Benfica) fails to send a pass into the box as his effort is cut out. One of the defender steps in with a well-timed interception to halt the attack.",
+                    "history_time": "35:05",
+                    "long-term": "They have been creating scoring opportunities, but lack the finishing touch, with their efforts either going wide or being cut out by the defense."
+                },
+                {
+                    "short-term": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. His body posture was slightly off balance, sending the ball well over the bar.",
+                    "history_time": "34:44",
+                    "long-term": "They have been creating scoring opportunities, but the precision in their finishing has been lacking."
+                },
+                {
+                    "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+                    "history_time": "27:53",
+                    "long-term": "They have been creating scoring opportunities with precise passing and dangerous crosses, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but a defender reacts quickly to make a crucial block, deflecting the ball out for another corner.",
+                    "history_time": "26:15",
+                    "long-term": "He has been posing a threat in the box, creating a couple of scoring opportunities with his efforts, although accuracy has been lacking."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "They have been creating scoring opportunities but struggling to find the target with their finishing."
+                },
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "He has consistently posed a threat in the box, getting into great positions but struggling to find the perfect finish."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:10",
+            "game_time": "40:10",
+            "query": "Loris Benito (Benfica) makes a reckless foul in order to win the ball from his opponent. Aleksei Kulbakov has a clear sight of it and blows his whistle.",
+            "short-term": "Loris Benito (Benfica) makes a reckless foul in order to win the ball from his opponent. Aleksei Kulbakov has a clear sight of it and blows his whistle. Benito looks frustrated after the call.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) makes a bad challenge and the referee blows his whistle for a foul. He tries to recover the ball after a loose touch but instead catches a player from behind, leading to an immediate whistle.",
+                    "history_time": "37:29",
+                    "long-term": "The match has seen a series of aggressive challenges, with both sides committing reckless fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:54",
+            "game_time": "39:54",
+            "query": "The ball is cleared after Ola John (Benfica) attempted to dribble past an opposing player.",
+            "short-term": "The ball is cleared after Ola John (Benfica) attempted to dribble past an opposing player. He tried to cut inside but lost control as the ball deflected off his own leg before being swept away by the defense.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+            "history": [
+                {
+                    "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+                    "history_time": "27:53",
+                    "long-term": "He has shown flashes of skill on the ball, but ultimately struggled to make a meaningful impact in the final third."
+                },
+                {
+                    "short-term": "Ola John (Benfica) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, Benfica are going to take it. A defender stretches to intercept the ball before it could reach its intended target.",
+                    "history_time": "27:05",
+                    "long-term": "He has shown flashes of brilliance with his dribbling, but struggled to find space and control against the opposing defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:29",
+            "game_time": "37:29",
+            "query": "Hakan Calhanoglu (Bayer Leverkusen) makes a bad challenge and the referee blows his whistle for a foul.",
+            "short-term": "Hakan Calhanoglu (Bayer Leverkusen) makes a bad challenge and the referee blows his whistle for a foul. He tries to recover the ball after a loose touch but instead catches a player from behind, leading to an immediate whistle.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Foul! Karim Bellarabi (Bayer Leverkusen) is penalised for pulling back his opponent. He clung onto the Benfica player’s shirt for too long, making the referee’s decision an easy one.",
+                    "history_time": "32:45",
+                    "long-term": "They have been committing multiple fouls and potentially inviting pressure from their opponents. They need to work on maintaining composure to avoid such mistakes that could cost them."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) takes a short corner kick. The play continues as they look for an opening against the compact defense.",
+                    "history_time": "29:20",
+                    "long-term": "He has shown mixed performance so far, creating chances with clever plays, but also displaying reckless behavior with a poorly timed tackle."
+                },
+                {
+                    "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+                    "history_time": "21:30",
+                    "long-term": "Bayer Leverkusen's attacking momentum has been repeatedly disrupted by careless mistakes, including fouls and offside positions."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:57",
+            "game_time": "35:57",
+            "query": "Bryan Cristante (Benfica) is booked after bringing down an opponent. Aleksei Kulbakov had an easy-decision to make.",
+            "short-term": "Bryan Cristante (Benfica) is booked after bringing down an opponent. Aleksei Kulbakov had an easy-decision to make. Cristante protests briefly, but the referee had already reached for his pocket before the challenge was completed.",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+            "history": [
+                {
+                    "short-term": "Foul! Karim Bellarabi (Bayer Leverkusen) is penalised for pulling back his opponent. He clung onto the Benfica player’s shirt for too long, making the referee’s decision an easy one.",
+                    "history_time": "32:45",
+                    "long-term": "The referee has been consistently strict with his decisions, handing out bookings for physical challenges and infringement of the rules, which indicates a tightly controlled game with no room for leniency."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:05",
+            "game_time": "35:05",
+            "query": "Bebe (Benfica) fails to send a pass into the box as his effort is cut out.",
+            "short-term": "Bebe (Benfica) fails to send a pass into the box as his effort is cut out. One of the defender steps in with a well-timed interception to halt the attack.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out.",
+            "history": [
+                {
+                    "short-term": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. His body posture was slightly off balance, sending the ball well over the bar.",
+                    "history_time": "34:44",
+                    "long-term": "He has had difficulties creating scoring opportunities, with his passes being intercepted and his free kick attempt sailing off target."
+                },
+                {
+                    "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+                    "history_time": "27:53",
+                    "long-term": "They have been consistently applying pressure with crosses and passes into the box, but the opposing defense has been solid in clearing the threats."
+                },
+                {
+                    "short-term": "Bebe (Benfica) attempts to find his teammate with a pass from outside the box, but the opposition's defense steps in quickly. The ball is intercepted just before it could reach the intended target.",
+                    "history_time": "25:54",
+                    "long-term": "They have been struggling to create scoring opportunities due to the opposition's solid defensive interventions."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:44",
+            "game_time": "34:44",
+            "query": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot!",
+            "short-term": "Bebe (Benfica) takes a mid-range free kick, but his miskick only goes into the stands. His body posture was slightly off balance, sending the ball well over the bar.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot!",
+            "history": [
+                {
+                    "short-term": "Bebe (Benfica) attempts to find his teammate with a pass from outside the box, but the opposition's defense steps in quickly. The ball is intercepted just before it could reach the intended target.",
+                    "history_time": "25:54",
+                    "long-term": "He has been struggling to create scoring opportunities, with his free kick attempt sailing off target and his passing efforts being effectively shut down by the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:45",
+            "game_time": "32:45",
+            "query": "Foul! Karim Bellarabi (Bayer Leverkusen) is penalised for pulling back his opponent.",
+            "short-term": "Foul! Karim Bellarabi (Bayer Leverkusen) is penalised for pulling back his opponent. He clung onto the Benfica player’s shirt for too long, making the referee’s decision an easy one.",
+            "query_ano": "Foul! [PLAYER] ([TEAM]) is penalised for pulling back his opponent.",
+            "history": [
+                {
+                    "short-term": "Karim Bellarabi (Bayer Leverkusen) reacts well to get to the rebound and takes a shot from the edge of the box, but his attempt is blocked by a well-positioned defender. The ball ricochets away from danger.",
+                    "history_time": "29:30",
+                    "long-term": "He has shown a mix of recklessness and determination, committing a foul but also creating a scoring chance."
+                },
+                {
+                    "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+                    "history_time": "21:30",
+                    "long-term": "Bayer Leverkusen's attacking efforts have been consistently hampered by careless mistakes, with fouls and offside positions undermining their attempts to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:16",
+            "game_time": "31:16",
+            "query": "Josip Drmic (Bayer Leverkusen) goes on a weaving run through the defence and gets within shooting range but his effort is blocked.",
+            "short-term": "Josip Drmic (Bayer Leverkusen) goes on a weaving run through the defence and gets within shooting range, but his effort is blocked. One of the defender stays close and makes a crucial challenge to deny him a clear shot.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a weaving run through the defence and gets within shooting range but his effort is blocked.",
+            "history": [
+                {
+                    "short-term": "Karim Bellarabi (Bayer Leverkusen) reacts well to get to the rebound and takes a shot from the edge of the box, but his attempt is blocked by a well-positioned defender. The ball ricochets away from danger.",
+                    "history_time": "29:30",
+                    "long-term": "Bayer Leverkusen's attacking players are showing agility and reacting quickly to opportunities, but the opposing defense is equally effective in denying them clear shots on goal."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) takes a short corner kick. The play continues as they look for an opening against the compact defense.",
+                    "history_time": "29:20",
+                    "long-term": "They have been consistently testing the defense with creative runs and set pieces, seeking an opening to break the deadlock."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:30",
+            "game_time": "29:30",
+            "query": "Karim Bellarabi (Bayer Leverkusen) reacts well to get to the rebound and takes a shot from the edge of the box.",
+            "short-term": "Karim Bellarabi (Bayer Leverkusen) reacts well to get to the rebound and takes a shot from the edge of the box, but his attempt is blocked by a well-positioned defender. The ball ricochets away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) reacts well to get to the rebound and takes a shot from the edge of the box.",
+            "history": [
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) takes a short corner kick. The play continues as they look for an opening against the compact defense.",
+                    "history_time": "29:20",
+                    "long-term": "They have been consistently testing the defense with creative attacks, seeking to exploit any gaps and create scoring opportunities."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "Both teams have been creating scoring opportunities through rebounds, but the defenses have been solid in blocking the follow-up attempts."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) steps up to take a free kick, but the shot sails high over the bar, leaving the goalkeeper untroubled.",
+                    "history_time": "18:51",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them, with shots either being blocked or sailing off target."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:20",
+            "game_time": "29:20",
+            "query": "Hakan Calhanoglu (Bayer Leverkusen) takes a short corner kick.",
+            "short-term": "Hakan Calhanoglu (Bayer Leverkusen) takes a short corner kick. The play continues as they look for an opening against the compact defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "history": [
+                {
+                    "short-term": "Bayer Leverkusen are enjoying possession, but one of the opposition players steps in to end the sequence. The ball deflects out of play, earning them a corner kick.",
+                    "history_time": "28:48",
+                    "long-term": "This corner kick is from their pass being deflected. They tried to open up space by passing the ball, which was deflected resulting a corner kick."
+                },
+                {
+                    "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+                    "history_time": "27:53",
+                    "long-term": "Both teams have been utilizing set pieces to create scoring opportunities, but the defenses have held strong so far."
+                },
+                {
+                    "short-term": "A dangerous looking corner kick from Pizzi (Benfica) is cleared to safety by the defense. The ball was whipped into the six-yard box, but a well-positioned defender managed to head it away.",
+                    "history_time": "26:38",
+                    "long-term": "The teams have been utilizing set pieces as a key strategy to break down the opposing defenses, attempting to find vulnerabilities in their opponent's setup."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Andre Almeida (Benfica). The ball was moving towards a well-placed teammate, but the interception was perfectly timed.",
+                    "history_time": "23:39",
+                    "long-term": "The teams have shown great defensive awareness, with timely interceptions and a compact defense, but they still look to exploit any available openings through creative plays like short corner kicks."
+                },
+                {
+                    "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+                    "history_time": "21:30",
+                    "long-term": "They have been attempting to break down the defense with strategic plays, but are struggling to find the right moment to execute their attack."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) steps up to take a free kick, but the shot sails high over the bar, leaving the goalkeeper untroubled.",
+                    "history_time": "18:51",
+                    "long-term": "He has been actively involved in set-piece opportunities but has yet to find a breakthrough against the opponent's compact defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:48",
+            "game_time": "28:48",
+            "query": "Bayer Leverkusen are enjoying possession, but one of the opposition players steps in to end the sequence. Bayer Leverkusen have a corner.",
+            "short-term": "Bayer Leverkusen are enjoying possession, but one of the opposition players steps in to end the sequence. The ball deflects out of play, earning them a corner kick.",
+            "query_ano": "[TEAM] are enjoying possession, but one of the opposition players steps in to end the sequence. [TEAM] have a corner.",
+            "history": [
+                {
+                    "short-term": "Bayer Leverkusen are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. ",
+                    "history_time": "22:11",
+                    "long-term": "They maintained possession and demonstrated strong teamwork, but were consistently thwarted by a well-organized defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:05",
+            "game_time": "28:05",
+            "query": "The linesman raises his flag for offside before Omer Toprak (Bayer Leverkusen) heads on.",
+            "short-term": "The linesman raises his flag for offside before Omer Toprak (Bayer Leverkusen) heads on. The defender timed his step forward well, catching the striker in an advanced position.",
+            "query_ano": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "history": [
+                {
+                    "short-term": "Ola John (Benfica) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, Benfica are going to take it. A defender stretches to intercept the ball before it could reach its intended target.",
+                    "history_time": "27:05",
+                    "long-term": "The defense has been solid, consistently thwarting opposition attacks with precise timing and effective clearances."
+                },
+                {
+                    "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+                    "history_time": "21:30",
+                    "long-term": "They have been struggling with offside traps, having two potential chances negated due to mistimed runs."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:53",
+            "game_time": "27:53",
+            "query": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "short-term": "Ola John (Benfica) puts a dangerous cross into the box, but the corner is cleared by the first man. The ball barely made it past the near post, allowing the defender to comfortably head it away.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "history": [
+                {
+                    "short-term": "Ola John (Benfica) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, Benfica are going to take it. A defender stretches to intercept the ball before it could reach its intended target.",
+                    "history_time": "27:05",
+                    "long-term": "This corner kick came from their free kick in the frontcourt, which was cleared by the defensive player and resulted in a corner kick."
+                },
+                {
+                    "short-term": "A dangerous looking corner kick from Pizzi (Benfica) is cleared to safety by the defense. The ball was whipped into the six-yard box, but a well-positioned defender managed to head it away.",
+                    "history_time": "26:38",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses, but the opposing team's defense has been up to the task of clearing the danger so far."
+                },
+                {
+                    "short-term": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but a defender reacts quickly to make a crucial block, deflecting the ball out for another corner.",
+                    "history_time": "26:15",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, with well-delivered balls creating defensive pressure."
+                },
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Andre Almeida (Benfica). The ball was moving towards a well-placed teammate, but the interception was perfectly timed.",
+                    "history_time": "23:39",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been doing well to neutralize the threats."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "They have been creating scoring opportunities, but the final delivery has let them down, with a dangerous cross being easily cleared and a promising chance being wasted with a rushed shot."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+                    "history_time": "19:43",
+                    "long-term": "He has consistently delivered threatening crosses into the box, creating multiple scoring opportunities for his team."
+                },
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have been creating opportunities but struggling with execution, failing to make an impact from a promising cross and then conceding a free kick due to a careless tackle."
+                },
+                {
+                    "short-term": "Ola John (Benfica) was too fierce in his attempt to get the ball from his opponent, he clips the opponent’s leg instead of the ball. The referee whistles for a foul.",
+                    "history_time": "14:27",
+                    "long-term": "He has shown a mix of promising attacking play and recklessness, creating a threat with a cross but also conceding a foul."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "They have consistently shown a threatening presence in the opponent's box with several dangerous crosses and shots."
+                },
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses and set pieces, but the opposing team's defense has been up to the task, effectively neutralizing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:05",
+            "game_time": "27:05",
+            "query": "Ola John (Benfica) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, Benfica are going to take it.",
+            "short-term": "Ola John (Benfica) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, Benfica are going to take it. A defender stretches to intercept the ball before it could reach its intended target.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The linesman points to the corner flag, [TEAM] are going to take it.",
+            "history": [
+                {
+                    "short-term": "A dangerous looking corner kick from Pizzi (Benfica) is cleared to safety by the defense. The ball was whipped into the six-yard box, but a well-positioned defender managed to head it away.",
+                    "history_time": "26:38",
+                    "long-term": "They have been consistently pressuring the defense with their set pieces, but so far the opposing team's defense has managed to handle the threat."
+                },
+                {
+                    "short-term": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but a defender reacts quickly to make a crucial block, deflecting the ball out for another corner.",
+                    "history_time": "26:15",
+                    "long-term": "They have been consistently pressuring the opponent's defense, forcing consecutive corners and testing their backline."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+                    "history_time": "19:43",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses, showing a trend of targeting the far post."
+                },
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have been struggling to maintain possession, with multiple instances of miscommunication and mistimed tackles leading to opposition counter-attacks."
+                },
+                {
+                    "short-term": "Lima (Benfica) makes a run behind the defense, but the linesman raises his flag as he had moved too early.",
+                    "history_time": "17:03",
+                    "long-term": "They have been attempting to exploit the opposition's defense with clever runs, but so far, the linesman's flag has denied them a clear scoring opportunity."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "He has shown flashes of brilliance in attack, consistently testing the opposing defense with his shots and runs, despite being thwarted on multiple occasions."
+                },
+                {
+                    "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+                    "history_time": "12:46",
+                    "long-term": "They have been creating opportunities from set pieces, forcing the opposing team to defend against corner kicks and free kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:38",
+            "game_time": "26:38",
+            "query": "A dangerous looking corner kick from Pizzi (Benfica) is cleared to safety by the defence.",
+            "short-term": "A dangerous looking corner kick from Pizzi (Benfica) is cleared to safety by the defense. The ball was whipped into the six-yard box, but a well-positioned defender managed to head it away.",
+            "query_ano": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence.",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but a defender reacts quickly to make a crucial block, deflecting the ball out for another corner.",
+                    "history_time": "26:15",
+                    "long-term": "They have been posing a threat from set pieces, with two consecutive corners resulting in scoring opportunities that tested the opponent's defense."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "He has been creating scoring opportunities, but the defense has been solid in blocking his efforts."
+                },
+                {
+                    "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Pizzi (Benfica) takes it short. The defenders quickly adjust to press the ball.",
+                    "history_time": "19:58",
+                    "long-term": "They have been utilizing corner kicks as a means to create scoring opportunities, consistently posing a threat in the box with precise deliveries."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+                    "history_time": "19:43",
+                    "long-term": "They have been putting pressure on the opponent's defense with consecutive set pieces, creating chances from corner kicks and crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:15",
+            "game_time": "26:15",
+            "query": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort. The referee points to the corner flag and Benfica will take a corner.",
+            "short-term": "Lima (Benfica) gets to the ball from the resulting corner and tries his luck with a shot, but a defender reacts quickly to make a crucial block, deflecting the ball out for another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Andre Almeida (Benfica). The ball was moving towards a well-placed teammate, but the interception was perfectly timed.",
+                    "history_time": "23:39",
+                    "long-term": "The Benfica players have been exerting constant pressure on the opponent's defense with their frequent attacking efforts."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize, with crucial blocks and rushed shots hindering their chances."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+                    "history_time": "19:43",
+                    "long-term": "They have been consistently posing threats from set pieces, utilizing corners to create scoring opportunities."
+                },
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have shown a mix of attacking intent and defensive mistakes, highlighting areas for improvement in both aspects of their game."
+                },
+                {
+                    "short-term": "Lima (Benfica) makes a run behind the defense, but the linesman raises his flag as he had moved too early.",
+                    "history_time": "17:03",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense has been effective in neutralizing the threats so far."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid in blocking their shots."
+                },
+                {
+                    "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+                    "history_time": "12:46",
+                    "long-term": "They have been creating scoring opportunities through set pieces, putting pressure on the opposing team's defense."
+                },
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "He has been consistently posing a threat in the opposition's box, creating chances with his quick reactions and powerful shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:39",
+            "game_time": "23:39",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Andre Almeida (Benfica).",
+            "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Andre Almeida (Benfica). The ball was moving towards a well-placed teammate, but the interception was perfectly timed.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+                    "history_time": "21:30",
+                    "long-term": "The defense has been solid, making crucial interceptions and spotting offsides to thwart potential attacking threats. Both teams are showcasing sloppy attacking plays, particularly in the passing and positioning."
+                },
+                {
+                    "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+                    "history_time": "20:27",
+                    "long-term": "They have shown flashes of brilliance in attack but have also been prone to moments of carelessness, making it a challenge to capitalize on scoring opportunities."
+                },
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have been showing inconsistency in their defensive efforts, mixing brilliant blocks with poorly timed tackles."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "The Benfica players have been creating scoring opportunities with precise passing and shots, but the opposing defenders have shown excellent reaction and timing to prevent potential goals."
+                },
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "They have been creating scoring opportunities through passes and set pieces, but the opposition's defense has been solid, intercepting and blocking their attempts effectively."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:16",
+            "game_time": "22:16",
+            "query": "Bayer Leverkusen get a corner.",
+            "short-term": "Bayer Leverkusen get a corner. The striker's excursion is not punished. But at least there is a corner.",
+            "query_ano": "[TEAM] get a corner.",
+            "history": [
+                {
+                    "short-term": "Bayer Leverkusen are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. ",
+                    "history_time": "22:11",
+                    "long-term": "This corner kick came from their combination football, which was ended by the defender."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:30",
+            "game_time": "21:30",
+            "query": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Robbie Kruse (Bayer Leverkusen) and the referee blows his whistle for offside. The forward had strayed just beyond the last defender before receiving the pass.",
+            "query_ano": "Flag goes up against Robbie Kruse ([TEAM]) and the referee blows his whistle for offside.",
+            "history": [
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have shown inconsistent discipline in their positioning and tackling, with instances of offside and mistimed challenges."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:27",
+            "game_time": "20:27",
+            "query": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "short-term": "Pizzi (Benfica) covers his face with his hands after wasting a promising chance. He rushed his shot after collecting the rebound, sending it high over the bar.",
+            "query_ano": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "history": [
+                {
+                    "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Pizzi (Benfica) takes it short. The defenders quickly adjust to press the ball.",
+                    "history_time": "19:58",
+                    "long-term": "He has shown inconsistent decision-making in critical moments, struggling to capitalize on scoring opportunities and occasionally making questionable choices on the attack."
+                },
+                {
+                    "short-term": "Hakan Calhanoglu (Bayer Leverkusen) steps up to take a free kick, but the shot sails high over the bar, leaving the goalkeeper untroubled.",
+                    "history_time": "18:51",
+                    "long-term": "Both teams have been struggling to capitalize on their chances, with multiple shots flying high over the bar, highlighting a need for composure in front of goal."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them due to rushed decisions and defensive interventions."
+                },
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them due to rushed decisions and lack of precision in their execution."
+                },
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "They have been creating scoring opportunities but lack precision in their finishing, highlighted by a rushed shot and a chance hitting the crossbar."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:58",
+            "game_time": "19:58",
+            "query": "A horde of players are waiting inside the penalty area for a cross from the corner, but Pizzi (Benfica) takes it short.",
+            "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Pizzi (Benfica) takes it short. The defenders quickly adjust to press the ball.",
+            "query_ano": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short.",
+            "history": [
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+                    "history_time": "19:43",
+                    "long-term": "This corner kick came from a dangerous cross, which was cleared by the defender."
+                },
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but so far, the opposing goalkeeper has managed to nullify the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:43",
+            "game_time": "19:43",
+            "query": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). The referee signals for a corner.",
+            "short-term": "The defence is alert as they clear a dangerous cross from Ola John (Benfica). He swings in a curling cross aiming for the far post. The referee signals for a corner.",
+            "query_ano": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The referee signals for a corner.",
+            "history": [
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have shown a mix of attacking intent and defensive focus, delivering threatening crosses while also being forced to make rash tackles in their own half."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "He has been posing a threat on the opposition's defense with his crosses and shots, but their defense is holding up well so far."
+                },
+                {
+                    "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+                    "history_time": "12:46",
+                    "long-term": "They have been creating scoring opportunities through crosses and set pieces, putting pressure on the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:51",
+            "game_time": "18:51",
+            "query": "Hakan Calhanoglu (Bayer Leverkusen) fires the ball in from a mid-range free kick, but it blazes over the bar.",
+            "short-term": "Hakan Calhanoglu (Bayer Leverkusen) steps up to take a free kick, but the shot sails high over the bar, leaving the goalkeeper untroubled.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball in from a mid-range free kick, but it blazes over the bar.",
+            "history": [
+                {
+                    "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+                    "history_time": "17:55",
+                    "long-term": "They have shown inconsistent set-piece execution, with one squandered opportunity, but have also demonstrated resilience in winning free kicks through aggressive tackling."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "Both teams have been creating scoring opportunities through set pieces and long-range efforts, but the goalkeepers have yet to be seriously tested."
+                },
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "The players have been utilizing free kicks to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:55",
+            "game_time": "17:55",
+            "query": "Lisandro Lopez (Benfica) was too aggressive in his challenge. The referee blows his whistle. A free kick to Bayer Leverkusen.",
+            "short-term": "Lisandro Lopez (Benfica) lunges into a challenge but mistimes his tackle, catching his opponent on the ankle. The referee immediately blows for a free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) was too aggressive in his challenge. The referee blows his whistle. A free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) makes a run behind the defense, but the linesman raises his flag as he had moved too early.",
+                    "history_time": "17:03",
+                    "long-term": "They have been struggling with discipline in their play, committing fouls and making tactical errors that give away free kicks and offside calls."
+                },
+                {
+                    "short-term": "Ola John (Benfica) was too fierce in his attempt to get the ball from his opponent, he clips the opponent’s leg instead of the ball. The referee whistles for a foul.",
+                    "history_time": "14:27",
+                    "long-term": "They have been displaying aggressive defending, with a pair of fouls committed while trying to win the ball back."
+                },
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "They have shown a mix of aggression and creativity, but their tackling has been rough and their finishing hasn't been clinical."
+                },
+                {
+                    "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+                    "history_time": "12:46",
+                    "long-term": "The match has seen an increase in intensity, with both teams committing fouls in their pursuit of gaining an advantage."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:03",
+            "game_time": "17:03",
+            "query": "Lima (Benfica) is flagged for offside.",
+            "short-term": "Lima (Benfica) makes a run behind the defense, but the linesman raises his flag as he had moved too early.",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "He had a strong desire to attack. His previous long shot missed the goal, and this attempt was forced to stop due to offside."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:27",
+            "game_time": "14:27",
+            "query": "Ola John (Benfica) was too fierce in his attempt to get the ball from his opponent and the referee blows for a foul.",
+            "short-term": "Ola John (Benfica) was too fierce in his attempt to get the ball from his opponent, he clips the opponent’s leg instead of the ball. The referee whistles for a foul.",
+            "query_ano": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and the referee blows for a foul.",
+            "history": [
+                {
+                    "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+                    "history_time": "13:45",
+                    "long-term": "He has shown a mix of aggression and attacking intent, but needs to balance his enthusiasm with more precise tackling and shooting."
+                },
+                {
+                    "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+                    "history_time": "12:46",
+                    "long-term": "The referee has been consistently strict in calling fouls, emphasizing a physical game with both teams receiving repercussions for aggressive behavior."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:45",
+            "game_time": "13:45",
+            "query": "Ola John (Benfica) produces an attempt from the edge of the box which would have most likely endangered the goalkeeper, but one of the defending players blocked it.",
+            "short-term": "Ola John (Benfica) tries his luck with a well-struck effort from the edge of the box, but a defender throws his body in the way, deflecting the shot out of play before it could test the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) produces an attempt from the edge of the box which would have most likely endangered the goalkeeper, but one of the defending players blocked it.",
+            "history": [
+                {
+                    "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+                    "history_time": "12:59",
+                    "long-term": "They have been consistently creating scoring opportunities with long shots and set pieces, but the opposition's defense has been solid in blocking and intercepting their efforts."
+                },
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "They have been posing a significant threat in the attacking third, with shots from Ola John and Lima showcasing their intent to score."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:59",
+            "game_time": "12:59",
+            "query": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "short-term": "Bryan Cristante (Benfica) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The quality of this long pass was not good, it was too close to the goal, making it easy for the goalkeeper to save it.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "They have been creating scoring opportunities through set pieces and shots for reacting quickly to loose balls in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:46",
+            "game_time": "12:46",
+            "query": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica.",
+            "short-term": "The referee blows for a foul after Omer Toprak (Bayer Leverkusen) was too aggressive in the battle for the ball. It's a free kick to Benfica. Now they have an opportunity to get the ball into the penalty area.",
+            "query_ano": "The referee blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball. It's a free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Lima (Benfica) reacts quickest to a loose ball inside the six-yard box and smashes a shot towards goal. The ball rattles off the crossbar, bouncing back into play.",
+                    "history_time": "10:52",
+                    "long-term": "They have shown a mix of strong defense and timely aggression, earning a free kick and creating a threatening chance in the box."
+                }
+            ]
+        }
+    ]
+}

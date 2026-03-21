@@ -1,0 +1,136 @@
+{
+    "annotations": [
+        {
+            "game_time": "11:40",
+            "query": "Manchester City are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+            "short-term": "Manchester City are showing great team chemistry. They are passing it around beautifully. Not a lot of pressure on the ball from the opposition, allowing them to dictate the tempo.",
+            "query_ano": "[TEAM] are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+        },
+        {
+            "game_time": "14:13",
+            "query": "Paulo Dybala (Juventus) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Paulo Dybala is forced to stop his attacking move after the linesman signals for offside. He had just executed a clever touch to break free, but the flag went up immediately.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "game_time": "15:30",
+            "query": "Fernandinho (Manchester City) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was!",
+            "short-term": "Fernandinho finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. It was a great chance, but he failed to keep it down, blasting well over.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was!"
+        },
+        {
+            "game_time": "16:40",
+            "query": "Claudio Marchisio (Juventus) sends a long ball in, but Joe Hart comfortably gathers the ball.",
+            "short-term": "Claudio Marchisio sends a long ball in, but Joe Hart comfortably gathers the ball. The delivery had good intent, but there was no real pressure on the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "game_time": "20:58",
+            "query": "An opponent rises to his feet after being downed by Martin Demichelis (Manchester City). Felix Brych saw the sliding tackle and blows for a foul. Juventus are awarded the free kick.",
+            "short-term": "An opponent rises to his feet after being downed by Martin Demichelis. Felix Brych saw the sliding tackle and blows for a foul. The opposing player appeared to go down theatrically, but the referee had no hesitation in awarding the free kick.",
+            "query_ano": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [PLAYER] saw the sliding tackle and blows for a foul. [TEAM] are awarded the free kick."
+        },
+        {
+            "game_time": "22:54",
+            "query": "Yaya Toure (Manchester City) and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move.",
+            "short-term": "Yaya Toure and Sergio Aguero try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move. The final ball lacked precision, allowing the defense to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) and [PLAYER] try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move."
+        },
+        {
+            "game_time": "24:45",
+            "query": "Paul Pogba (Juventus) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",
+            "short-term": "Paul Pogba tries to send the ball in front of the goal, but the opposition's defence averts the threat. He had turned smartly to create space, but his pass was intercepted before reaching its target.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send the ball in front of the goal, but the opposition's defence averts the threat."
+        },
+        {
+            "game_time": "27:53",
+            "query": "The corner kick from Paulo Dybala (Juventus) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Paulo Dybala is headed out of the penalty area by one of the defenders. Despite the clearance, the attacking team remained in control, looking to recycle possession.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "game_time": "27:22",
+            "query": "Joe Hart was forced into action to thwart Mario Mandzukic (Juventus). He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. It will be a corner kick for Juventus.",
+            "short-term": "Joe Hart was forced into action to thwart Mario Mandzukic. He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. The save was well-executed, with the keeper reacting quickly to parry the effort away.",
+            "query_ano": "[PLAYER] was forced into action to thwart [PLAYER] ([TEAM]). He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. It will be a corner kick for [TEAM]."
+        },
+        {
+            "game_time": "29:10",
+            "query": "Yaya Toure (Manchester City) received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar.",
+            "short-term": "Yaya Toure received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar. The ball had a beautiful curl but just didn't dip in time.",
+            "query_ano": "[PLAYER] ([TEAM]) received a pass and didn't think long what to do with it. He fired a powerful long-range shot which went painfully close to the bar."
+        },
+        {
+            "game_time": "29:55",
+            "query": "Yaya Toure (Manchester City) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post.",
+            "short-term": "Yaya Toure attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post. The effort had power but lacked the precision to trouble the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post."
+        },
+        {
+            "game_time": "32:50",
+            "query": "Kevin De Bruyne (Manchester City) is adjudged to have been offside when making his run.",
+            "short-term": "Kevin De Bruyne is adjudged to have been offside when making his run. He made a well-timed run, but the ball arrived too late, leaving him in an offside position.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "game_time": "32:30",
+            "query": "Flag goes up against Sergio Aguero (Manchester City) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Sergio Aguero and the referee blows his whistle for offside. He tried to break past the last defender, but the timing was slightly off.",
+            "query_ano": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+        },
+        {
+            "game_time": "34:06",
+            "query": "This yellow card was deserved. The tackle by Fernandinho (Manchester City) was quite harsh and Felix Brych didn't hesitate to show him a yellow card.",
+            "short-term": "This yellow card was deserved. The tackle by Fernandinho was quite harsh and the referee didn't hesitate to show him a yellow card. He caught his opponent late, leaving the referee with no choice.",
+            "query_ano": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [PLAYER] didn't hesitate to show him a yellow card."
+        },
+        {
+            "game_time": "37:16",
+            "query": "Mario Mandzukic (Juventus) was too forceful with his tackle and Felix Brych interrupted the game to signal a free kick.",
+            "short-term": "Mario Mandzukic was too forceful with his tackle and the referee interrupted the game to signal a free kick. The challenge seemed accidental as he wasn’t even looking at his opponent when the contact occurred.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [PLAYER] interrupted the game to signal a free kick."
+        },
+        {
+            "game_time": "39:05",
+            "query": "Kevin De Bruyne (Manchester City) shows his brilliant passing ability after picking out Jesus Navas with a fine lofted pass.",
+            "short-term": "Kevin De Bruyne shows his brilliant passing ability after picking out Jesus Navas with a fine lofted pass. Navas controlled it beautifully, demonstrating his excellent first touch.",
+            "query_ano": "[PLAYER] ([TEAM]) shows his brilliant passing ability after picking out [PLAYER] with a fine lofted pass."
+        },
+        {
+            "game_time": "39:35",
+            "query": "Yaya Toure (Manchester City) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post.",
+            "short-term": "Yaya Toure receives a precise pass on the edge of the box and releases a promising effort. He controlled the ball well but couldn’t generate enough accuracy, with his shot drifting painfully close to the right post.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post."
+        },
+        {
+            "game_time": "41:39",
+            "query": "Stephan Lichtsteiner (Juventus) came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at Joe Hart.",
+            "short-term": "Stephan Lichtsteiner came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at the goalkeeper. The setup was clever, but his finish lacked power.",
+            "query_ano": "[PLAYER] ([TEAM]) came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at [PLAYER]."
+        },
+        {
+            "game_time": "43:44",
+            "query": "Sergio Aguero (Manchester City) shoots from the edge of the penalty area. The ball travels towards the target, but Gianluigi Buffon easily deals with the threat. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Sergio Aguero shoots from the edge of the penalty area. The ball travels towards the target, but the goalkeeper easily deals with the threat, pushing it behind for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the target, but [PLAYER] easily deals with the threat. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "game_time": "44:12",
+            "query": "Kevin De Bruyne (Manchester City) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",
+            "short-term": "Kevin De Bruyne puts a cross into the box from the corner but there is no panic from the opposition and they easily clear. The defensive setup was solid, leaving no space for attackers.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "game_time": "44:20",
+            "query": "Jesus Navas (Manchester City) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar.",
+            "short-term": "Jesus Navas tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar. There was no conviction in the strike, making it an easy miss.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "game_time": "45:59",
+            "query": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. Neither side is enjoying any significant control of the game. Both sides are using the same slow build-up play tactic.",
+            "short-term": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. The first half lacked intensity, with both teams preferring a slow build-up approach rather than direct attacks.",
+            "query_ano": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. Neither side is enjoying any significant control of the game. Both sides are using the same slow build-up play tactic."
+        }
+    ]
+}

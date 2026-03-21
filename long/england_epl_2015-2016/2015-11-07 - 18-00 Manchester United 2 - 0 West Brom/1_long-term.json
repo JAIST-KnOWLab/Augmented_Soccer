@@ -1,0 +1,551 @@
+{
+    "annotations": [
+        {
+            "gameTime": "47:26",
+            "game_time": "47:26",
+            "query": "Chris Brunt (West Brom) hammered the ball from a long-range free kick only into the defensive wall.",
+            "short-term": "Chris Brunt (West Brom) hammered the ball from a long-range free kick only into the defensive wall. The free kick was awarded after a foul near the edge of the box.",
+            "query_ano": "[PLAYER] ([TEAM]) hammered the ball from a long-range free kick only into the defensive wall.",
+            "history": [
+                {
+                    "short-term": "Chris Brunt (West Brom) floats the ball in from the corner but it's intercepted. The delivery was aimed at a packed penalty area, where McAuley and Rondon were positioned to challenge for the header.",
+                    "history_time": "34:48",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, but have yet to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:06",
+            "game_time": "44:06",
+            "query": "Anthony Martial (Manchester United) collects a rebound and produces a mid-range attempt. The ball goes to the middle of the target, but Glyn Oliver Myhill keeps it out.",
+            "short-term": "Anthony Martial (Manchester United) collects a rebound and produces a mid-range attempt. The ball goes to the middle of the target, but Glyn Oliver Myhill keeps it out. The buildup included a cross into the box, where the ball was deflected into Martial’s path.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a rebound and produces a mid-range attempt. The ball goes to the middle of the target, but [PLAYER] keeps it out.",
+            "history": [
+                {
+                    "short-term": "Anthony Martial (Manchester United) slaloms his way past challenges, but an opposing player does well to get the ball away. He attempted to weave past three defenders before being dispossessed near the edge of the box as he looked for a shooting angle.",
+                    "history_time": "40:02",
+                    "long-term": "He has been consistently posing a threat to the opposing team's defense, testing the goalkeeper and beating multiple defenders to create scoring opportunities."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) strikes the rebound, but it goes well over the bar. The opportunity came after Lingard’s header was initially saved, but Schweinsteiger’s shot lacked precision.",
+                    "history_time": "29:05",
+                    "long-term": "They have been creating chances through rebounds, but the precision in their finishing has been lacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:34",
+            "game_time": "43:34",
+            "query": "Wayne Rooney (Manchester United) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "short-term": "Wayne Rooney (Manchester United) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort. The free kick was awarded after a challenge near midfield, allowing United to push players forward.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Wayne Rooney (Manchester United) only finds one of the defenders, who heads it out of danger. The defense had anticipated the delivery and positioned well to clear.",
+                    "history_time": "41:18",
+                    "long-term": "His consecutive free kicks and corner kicks were not well placed and were stopped by the defenders first."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out. The interception came after a shift in United’s attacking structure, with Mata and Lingard switching flanks moments earlier.",
+                    "history_time": "37:15",
+                    "long-term": "He has been struggling to create scoring opportunities, with his deliveries from set pieces and passes in open play consistently being intercepted by the opposition."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. McAuley stepped in with a well-timed block, preventing what could have been a dangerous shot.",
+                    "history_time": "30:38",
+                    "long-term": "He has been attempting to create scoring opportunities, but the opposing defense has been effective in countering his efforts so far."
+                },
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "They have been struggling to create scoring opportunities with crosses and long balls, often giving away possession to the opposition."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "His consecutive free kicks and corner kicks were not well placed and were stopped by the defenders first."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:18",
+            "game_time": "41:18",
+            "query": "The resulting corner from Wayne Rooney (Manchester United) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Wayne Rooney (Manchester United) only finds one of the defenders, who heads it out of danger. The defense had anticipated the delivery and positioned well to clear.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+            "history": [
+                {
+                    "short-term": "Jesse Lingard (Manchester United) collects a pass and has an effort from distance which is blocked. The ball is out of play. Manchester Utd win a corner kick. The shot came after a quick buildup from midfield.",
+                    "history_time": "40:51",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with consecutive corner kicks and long-range efforts, displaying their attacking intentions."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out. The interception came after a shift in United’s attacking structure, with Mata and Lingard switching flanks moments earlier.",
+                    "history_time": "37:15",
+                    "long-term": "The player's efforts to create scoring opportunities have been consistently thwarted by the opposing team's solid defensive positioning and anticipation."
+                },
+                {
+                    "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+                    "history_time": "34:32",
+                    "long-term": "Both teams have shown great defensive awareness and organization in dealing with set pieces and crosses."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. McAuley stepped in with a well-timed block, preventing what could have been a dangerous shot.",
+                    "history_time": "30:38",
+                    "long-term": "The player has been consistently posing a threat in the opposition's box."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "They have been consistently struggling to capitalize on corner kick opportunities, with the defense anticipating and effectively clearing the deliveries."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+                    "history_time": "28:20",
+                    "long-term": "They have been consistently posing threats through set pieces, delivering well-placed crosses and corners that have kept the opposition defense busy."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:51",
+            "game_time": "40:51",
+            "query": "Jesse Lingard (Manchester United) collects a pass and has an effort from distance which is blocked. The ball is out of play. Manchester Utd win a corner kick.",
+            "short-term": "Jesse Lingard (Manchester United) collects a pass and has an effort from distance which is blocked. The ball is out of play. Manchester Utd win a corner kick. The shot came after a quick buildup from midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and has an effort from distance which is blocked. The ball is out of play. Manchester Utd win a corner kick.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) tries to slide the ball through to a teammate but it's well blocked by a defender. The pass was intended to exploit a gap between the defensive lines, but McAuley read the play well and stepped in.",
+                    "history_time": "37:40",
+                    "long-term": "They have been consistently attempting to break through the defense with creative passing and shots from distance, but so far, the opposition's backline has held firm."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out. The interception came after a shift in United’s attacking structure, with Mata and Lingard switching flanks moments earlier.",
+                    "history_time": "37:15",
+                    "long-term": "They have been trying to create scoring opportunities through rapid transitions and positional changes in their attacking setup."
+                },
+                {
+                    "short-term": "Chris Brunt (West Brom) floats the ball in from the corner but it's intercepted. The delivery was aimed at a packed penalty area, where McAuley and Rondon were positioned to challenge for the header.",
+                    "history_time": "34:48",
+                    "long-term": "Both teams have shown signs of creating scoring opportunities, with Manchester United's swift counterattacks and West Brom's threatening set pieces."
+                },
+                {
+                    "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+                    "history_time": "34:32",
+                    "long-term": "Both teams have shown the ability to rapidly transition from defense to offense, creating scoring opportunities through swift buildups and exploiting open spaces."
+                },
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "They have been attempting to create scoring opportunities through both short and long passes."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "They have been consistently pressuring the opponent's defense, creating multiple scoring opportunities through both direct shots and set pieces."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+                    "history_time": "28:20",
+                    "long-term": "They have been consistently creating scoring opportunities through swift counterattacks and targeted crosses into the box."
+                },
+                {
+                    "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+                    "history_time": "25:58",
+                    "long-term": "They have been consistently attempting to create scoring opportunities through buildup plays and long-range shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:40",
+            "game_time": "37:40",
+            "query": "Juan Manuel Mata (Manchester United) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "short-term": "Juan Manuel Mata (Manchester United) tries to slide the ball through to a teammate but it's well blocked by a defender. The pass was intended to exploit a gap between the defensive lines, but McAuley read the play well and stepped in.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out. The interception came after a shift in United’s attacking structure, with Mata and Lingard switching flanks moments earlier.",
+                    "history_time": "37:15",
+                    "long-term": "They have been trying to break down the defense with creative passing, but the opposition's backline has been reading their plays well and making crucial interceptions."
+                },
+                {
+                    "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+                    "history_time": "34:32",
+                    "long-term": "Both teams have shown flashes of creativity in their build-up play, but have been unable to find the breakthrough due to solid defensive interventions."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. McAuley stepped in with a well-timed block, preventing what could have been a dangerous shot.",
+                    "history_time": "30:38",
+                    "long-term": "They have been consistently testing the defense with clever passes and shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:15",
+            "game_time": "37:15",
+            "query": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out.",
+            "short-term": "Wayne Rooney (Manchester United) slides a pass forward, but one of the defenders cuts it out. The interception came after a shift in United’s attacking structure, with Mata and Lingard switching flanks moments earlier.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out.",
+            "history": [
+                {
+                    "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+                    "history_time": "34:32",
+                    "long-term": "Both teams have shown strategic flexibility, adjusting their formations to create attacking opportunities, but defenses have been solid in intercepting key passes."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. McAuley stepped in with a well-timed block, preventing what could have been a dangerous shot.",
+                    "history_time": "30:38",
+                    "long-term": "He was very active in attack, both in terms of shooting threat and creating scoring opportunities."
+                },
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "They have been trying to create attacking opportunities through switches in formation and long passes, but so far, the defense has been able to anticipate and intercept their attempts."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "The player has been actively creating attacking opportunities, consistently providing his teammates with chances through well-placed passes and set pieces."
+                },
+                {
+                    "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+                    "history_time": "25:58",
+                    "long-term": "They have been attempting to break through the defense with clever passes, but the opposition's backline has shown resilience in intercepting and blocking these efforts."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) races towards goal but the defender gets back well to make a challenge. This followed a period of sustained pressure, with United pushing higher up the pitch.",
+                    "history_time": "23:28",
+                    "long-term": "They have been maintaining possession and applying consistent pressure on the opponent's defense, looking to exploit weaknesses through flexible attacking formations."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:48",
+            "game_time": "34:48",
+            "query": "Chris Brunt (West Brom) floats the ball in from the corner but it's intercepted.",
+            "short-term": "Chris Brunt (West Brom) floats the ball in from the corner but it's intercepted. The delivery was aimed at a packed penalty area, where McAuley and Rondon were positioned to challenge for the header.",
+            "query_ano": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted.",
+            "history": [
+                {
+                    "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+                    "history_time": "34:32",
+                    "long-term": "They have been consistently using crosses and deliveries into the box to create scoring opportunities, but so far, the opposition's defense has been able to neutralize these threats."
+                },
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "Both teams have been trying to create chances through set pieces and long-range passes, but so far, the delivery has been off, resulting in intercepted corners and overhit passes."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:32",
+            "game_time": "34:32",
+            "query": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. West Brom will take a corner kick.",
+            "short-term": "Darren Fletcher (West Brom) whips the ball into the box and Salomon Rondon takes a perfect touch to control it, but one of the defenders does well to intercept. The play developed from a quick transition, with West Brom exploiting space on the right before delivering into the area.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball into the box and [PLAYER] takes a perfect touch to control it, but one of the defenders does well to intercept. [TEAM] will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "They have been exchanging attacking opportunities, with West Brom displaying swift transitions and United attempting to stretch the defense, but both sides struggling to find the final connection."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "Both teams have shown promising spells of possession and counter-attacking intent, but stern defensive displays have nullified these threats. The play has been largely contained in midfield, with neither side giving an inch in this tactical battle."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+                    "history_time": "28:20",
+                    "long-term": "Both teams have shown flashes of brilliance in their attacking play, consistently creating scoring opportunities with precise crosses and exploiting open spaces."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:38",
+            "game_time": "30:38",
+            "query": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders.",
+            "short-term": "Wayne Rooney (Manchester United) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders. McAuley stepped in with a well-timed block, preventing what could have been a dangerous shot.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+                    "history_time": "29:57",
+                    "long-term": "They have been trying to create scoring opportunities, but the defense has been solid, and their long passes have not been finding the mark."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "He has been posing a threat in the attacking third, but the opposing defense has managed to effectively neutralize his efforts so far."
+                },
+                {
+                    "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+                    "history_time": "25:58",
+                    "long-term": "They have shown a consistent threat in the attacking third, but have been repeatedly thwarted by well-timed defensive blocks."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) races towards goal but the defender gets back well to make a challenge. This followed a period of sustained pressure, with United pushing higher up the pitch.",
+                    "history_time": "23:28",
+                    "long-term": "They have been putting pressure on the defense with multiple scoring attempts, but the opposition's backline has managed to hold firm."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "He has been consistently attempting to create scoring opportunities, despite being denied by a defender's block and later missing the target with a long-range effort."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:57",
+            "game_time": "29:57",
+            "query": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The ball is off of the pitch and it's a goal kick for West Brom.",
+            "short-term": "Ashley Young (Manchester United) fails to find a teammate across the pitch with a long ball. The attempted switch of play was meant to stretch the defense, but it went too long and out for a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) strikes the rebound, but it goes well over the bar. The opportunity came after Lingard’s header was initially saved, but Schweinsteiger’s shot lacked precision.",
+                    "history_time": "29:05",
+                    "long-term": "They have been attempting to create scoring opportunities, but their execution has been lacking, resulting in wasted chances."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "They have been trying to exploit the opponent's defense with long passes and set pieces but have yet to create a clear scoring opportunity."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+                    "history_time": "28:20",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                },
+                {
+                    "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+                    "history_time": "25:58",
+                    "long-term": "They have been struggling to create meaningful connections in their passing game, with several long-range attempts going awry and failing to penetrate the defense effectively."
+                },
+                {
+                    "short-term": "Ashley Young (Manchester United) commits a foul during an attacking move. The opposition had just recovered the ball, prompting Young to make a late challenge in an attempt to regain possession.",
+                    "history_time": "24:15",
+                    "long-term": "He has had difficulty making an impact with his passing and tackling, giving away possession and committing a foul in the process."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "They have been trying to break down the opponent's defense with long-range passes and shots, but so far, their efforts have been off target."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:05",
+            "game_time": "29:05",
+            "query": "Bastian Schweinsteiger (Manchester United) strikes the rebound, but it goes well over the bar.",
+            "short-term": "Bastian Schweinsteiger (Manchester United) strikes the rebound, but it goes well over the bar. The opportunity came after Lingard’s header was initially saved, but Schweinsteiger’s shot lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) strikes the rebound, but it goes well over the bar.",
+            "history": [
+                {
+                    "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+                    "history_time": "28:35",
+                    "long-term": "They have been creating scoring opportunities, but the final touches and shots have lacked accuracy."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) races towards goal but the defender gets back well to make a challenge. This followed a period of sustained pressure, with United pushing higher up the pitch.",
+                    "history_time": "23:28",
+                    "long-term": "He has been presented with a couple of promising chances but struggled to capitalize."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "They have been creating chances but struggling to find accuracy in their finishing, with shots consistently flying off target."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:35",
+            "game_time": "28:35",
+            "query": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "short-term": "Wayne Rooney (Manchester United) swings in the corner kick, but one of the defenders leaps highest to head the ball away. The delivery was targeted towards three arriving players, but the defense cleared it effectively.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+                    "history_time": "28:20",
+                    "long-term": "This corner kick came from a dangerous loft cross, which was cleared by the opponent."
+                },
+                {
+                    "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+                    "history_time": "25:58",
+                    "long-term": "They have been consistently pressuring the defense with crosses and passes into the box."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger (Manchester United) races towards goal but the defender gets back well to make a challenge. This followed a period of sustained pressure, with United pushing higher up the pitch.",
+                    "history_time": "23:28",
+                    "long-term": "They have been consistently pressuring the defense with threatening set pieces and rapid counterattacks, but have yet to break through."
+                },
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "He has been actively creating scoring opportunities, delivering corner kicks and taking shots, but hasn't quite found his mark yet."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:20",
+            "game_time": "28:20",
+            "query": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it.",
+            "short-term": "Juan Manuel Mata (Manchester United) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it. The cross was well-placed, targeting three arriving players, but was cleared effectively.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted. The linesman points to the corner flag, Manchester Utd are going to take it.",
+            "history": [
+                {
+                    "short-term": "The ball spins up and hits the hand of Anthony Martial (Manchester United) after he fails to control it and the referee blows his whistle for a foul. This decision came after a moment of controversy regarding a previous call.",
+                    "history_time": "26:46",
+                    "long-term": "They have been creating scoring opportunities, but struggling to capitalize on them."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Mata had combined with Rooney before delivering the cross, aiming to create a scoring chance.",
+                    "history_time": "11:25",
+                    "long-term": "He has consistently delivered high-quality crosses into the box, posing a threat to the opposing team's defense with his precise passing."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:46",
+            "game_time": "26:46",
+            "query": "The ball spins up and hits the hand of Anthony Martial (Manchester United) after he fails to control it and the referee blows his whistle for a foul.",
+            "short-term": "The ball spins up and hits the hand of Anthony Martial (Manchester United) after he fails to control it and the referee blows his whistle for a foul. This decision came after a moment of controversy regarding a previous call.",
+            "query_ano": "The ball spins up and hits the hand of [PLAYER] ([TEAM]) after he fails to control it and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Ashley Young (Manchester United) commits a foul during an attacking move. The opposition had just recovered the ball, prompting Young to make a late challenge in an attempt to regain possession.",
+                    "history_time": "24:15",
+                    "long-term": "They have been committing several fouls in this period."
+                },
+                {
+                    "short-term": "Stephane Sessegnon (West Brom) commits a foul after unfairly battling his opponent for the ball. The foul occurred just after Salomon Rondon's contested shot, which came from a difficult position.",
+                    "history_time": "19:56",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control. It may lead to bookings if they don't regain their composure."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:58",
+            "game_time": "25:58",
+            "query": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked.",
+            "short-term": "Jesse Lingard (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The block was well-timed, as Lingard had momentarily broken through the defense, causing brief danger.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked.",
+            "history": [
+                {
+                    "short-term": "Anthony Martial (Manchester United) wastes a good opportunity as his pass into the box is blocked by the defence. He had been creating danger with his movements and was looking to inject more speed into the attack before the defense cleared the ball.",
+                    "history_time": "14:48",
+                    "long-term": "They have been struggling to break through the defense, with several attacking passes being blocked."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:15",
+            "game_time": "24:15",
+            "query": "Ashley Young (Manchester United) commits a foul during an attacking move.",
+            "short-term": "Ashley Young (Manchester United) commits a foul during an attacking move. The opposition had just recovered the ball, prompting Young to make a late challenge in an attempt to regain possession.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul during an attacking move.",
+            "history": [
+                {
+                    "short-term": "Stephane Sessegnon (West Brom) commits a foul after unfairly battling his opponent for the ball. The foul occurred just after Salomon Rondon's contested shot, which came from a difficult position.",
+                    "history_time": "19:56",
+                    "long-term": "The match is seeing an intense battle for possession, with both teams committing fouls in their pursuit of the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:56",
+            "game_time": "19:56",
+            "query": "Stephane Sessegnon (West Brom) commits a foul after unfairly battling his opponent for the ball.",
+            "short-term": "Stephane Sessegnon (West Brom) commits a foul after unfairly battling his opponent for the ball. The foul occurred just after Salomon Rondon's contested shot, which came from a difficult position.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+            "history": [
+                {
+                    "short-term": "Chris Brunt (West Brom) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul. West Brom had been retreating under pressure, and the aggressive challenge was an attempt to regain control.",
+                    "history_time": "14:04",
+                    "long-term": "They have been resorting to physical tackles and committing fouls to counter their opponents' attacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:37",
+            "game_time": "18:37",
+            "query": "The free kick into the penalty area from Craig Dawson (West Brom) is cleared.",
+            "short-term": "The free kick into the penalty area from Craig Dawson (West Brom) is cleared. West Brom attempted to slow down the match after a phase of United dominance.",
+            "query_ano": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Marcos Rojo (Manchester United) is penalised for holding. Michael Dean signals a set piece. A free kick has been awarded to West Brom. The foul was committed on McClean, who had been looking to push forward.",
+                    "history_time": "18:10",
+                    "long-term": "They have been strategically utilizing set pieces to regain control of the game and counter their opponent's dominance."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:10",
+            "game_time": "18:10",
+            "query": "Marcos Rojo (Manchester United) is penalised for holding. Michael Dean signals a set piece. A free kick has been awarded to West Brom.",
+            "short-term": "Marcos Rojo (Manchester United) is penalised for holding. Michael Dean signals a set piece. A free kick has been awarded to West Brom. The foul was committed on McClean, who had been looking to push forward.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece. A free kick has been awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Chris Brunt (West Brom) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul. West Brom had been retreating under pressure, and the aggressive challenge was an attempt to regain control.",
+                    "history_time": "14:04",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:01",
+            "game_time": "16:01",
+            "query": "Wayne Rooney plays a lovely pass into Juan Manuel Mata (Manchester United), but he can't find the target. His strike from inside the box goes narrowly wide of the left post.",
+            "short-term": "Wayne Rooney plays a lovely pass into Juan Manuel Mata (Manchester United), but he can't find the target. His strike from inside the box goes narrowly wide of the left post. Rooney smartly let the ball pass him before setting up Mata, creating a clear chance.",
+            "query_ano": "[PLAYER] plays a lovely pass into [PLAYER] ([TEAM]), but he can't find the target. His strike from inside the box goes narrowly wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "He has been creating scoring opportunities with precise passing and setup play, but struggled to convert them into goals himself."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Mata had combined with Rooney before delivering the cross, aiming to create a scoring chance.",
+                    "history_time": "11:25",
+                    "long-term": "He has been presented with a couple of promising scoring opportunities but has been unable to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:48",
+            "game_time": "14:48",
+            "query": "Anthony Martial (Manchester United) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "short-term": "Anthony Martial (Manchester United) wastes a good opportunity as his pass into the box is blocked by the defence. He had been creating danger with his movements and was looking to inject more speed into the attack before the defense cleared the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "history": [
+                {
+                    "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+                    "history_time": "12:00",
+                    "long-term": "They have been creating scoring opportunities with quick movements."
+                },
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Mata had combined with Rooney before delivering the cross, aiming to create a scoring chance.",
+                    "history_time": "11:25",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:00",
+            "game_time": "12:00",
+            "query": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar.",
+            "short-term": "Wayne Rooney (Manchester United) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar. The chance was created by a well-placed pass from Carrick, who was looking to break the opponent's defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and strikes from about 23 metres out. It's a poor attempt which flies well over the bar.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata (Manchester United) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Mata had combined with Rooney before delivering the cross, aiming to create a scoring chance.",
+                    "history_time": "11:25",
+                    "long-term": "They have been attempting to break through the opponent's defense with creative passes and crosses, but the finishing touches have been lacking so far."
+                }
+            ]
+        }
+    ]
+}

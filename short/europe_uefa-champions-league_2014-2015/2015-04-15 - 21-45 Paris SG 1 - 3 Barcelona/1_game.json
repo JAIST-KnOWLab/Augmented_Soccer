@@ -1,0 +1,164 @@
+{
+    "annotations": [
+        {
+            "query": "Javier Pastore (Paris SG) looks to break free, but an opposing player clears the ball away.",
+            "target": "[player]Van der Wiel[player] broke it up. It's [player]Lavezzi[player] who's managed to get it away 2 [player]Pastore[player] fact he'd gone in field left him without an option wide. [player]Maxwell[player] was trying to get there.",
+            "game_time": "11:14",
+            "short-term": "Javier Pastore (Paris SG) looked to break free, but the opposition swiftly intervened. Van der Wiel broke up the play, and it was Ezequiel Lavezzi who managed to clear the ball away from Pastore. The fact that Pastore had drifted inside left him without an option wide.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) looked to break free, but [PLAYER] broke up the play, and it was [PLAYER] who managed to clear the ball away from [PLAYER]. The fact that [PLAYER] had drifted inside left him without an option wide.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!",
+            "target": "[player]Suarez[player] just cutting the ball back here to Lionel [player]Messi[player].Well, that was very nearly the moment. Some fantastic pass by [player]Suarez[player].",
+            "game_time": "13:05",
+            "short-term": "Luis Suárez (Barcelona) cut the ball back to Lionel Messi, who took a quick shot from the edge of the box,  hitting the left post and rebounding away.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) cut the ball back to [PLAYER], who took a quick shot from the edge of the box, hitting the left post and rebounding away.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!",
+            "query_ano": "[PLAYER] ([TEAM]) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the left post!"
+        },
+        {
+            "query": "A cross from Neymar (Barcelona) fails to reach the box as the defence clears the ball away to safety.",
+            "target": "Try to play in [player]Neymar[player], but [player]Thiago Silva[player] across the cover and loses out to his Brazilian compatriot. Win the first bit really well.",
+            "game_time": "12:44",
+            "short-term": "Neymar (Barcelona) attempted to deliver a cross into the box, but the defense was alert. Thiago Silva (Paris SG) made a strong challenge, getting across to cover Neymar’s run and winning the first ball.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) attempted to deliver a cross into the box, but the defense was alert. [PLAYER] ([TEAM]) made a strong challenge, getting across to cover [PLAYER]’s run and winning the first ball.",
+            "sncaption_anonymized": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "query": "Jordi Alba (Barcelona) flights in the cross, but the defender is alert and clears to safety.",
+            "target": "It's [player]Alba[player], who's pulled it across.[player]Maxwell[player] keeping the pressure on his own goal.",
+            "game_time": "15:26",
+            "short-term": "Jordi Alba (Barcelona) delivered a well-flighted cross into the box, but Maxwell (Paris SG) was quick to react.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivered a well-flighted cross into the box, but [PLAYER] ([TEAM]) was quick to react and clears to safety..",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety.",
+            "query_ano": "Jordi Alba ([TEAM]) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "query": "Goal Neymar (Barcelona)! Neymar (Barcelona) was put through by Lionel Messi and he showed brilliant composure inside the box to fire into the right side of the net. 0:1.",
+            "target": "Around the magical work of [player]Messi[player] again setting up [player]Neymar[player].They have carved [team]PSG[team] apart.This much envied frontline [player]Messi[player] to [player]Neymar[player] and he made it look so simple. For the first time they're on the ball [team]PSG[team] and they get cut open. That space exists in front of the back line.",
+            "game_time": "17:54",
+            "short-term": "Goal – 0:1! Lionel Messi (Barcelona) worked his magic once again, setting up Neymar (Barcelona) with a brilliant pass. Barcelona carved Paris SG apart with their enviable attacking partnership. Neymar was composed inside the box, calmly firing into the right side of the net.",
+            "label": "goal",
+            "short-term_anonymized": "Goal! [PLAYER] ([TEAM]) worked his magic once again, setting up [PLAYER] ([TEAM]) with a brilliant pass. [TEAM] carved [TEAM] apart with their enviable attacking partnership. [PLAYER] was composed inside the box, calmly firing into the right side of the net.",
+            "sncaption_anonymized": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the right side of the net. 0:1.",
+            "query_ano": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the right side of the net. 0:1."
+        },
+        {
+            "query": "Thiago Silva is substituted due to injury. Laurent Blanc gives a chance to David Luiz (Paris SG).",
+            "target": "SOS now for [player]David Luiz[player] with [player]Thiago Silva[player] the latest injury concern for [coach]Laurent Blanc[coach].",
+            "game_time": "20:50",
+            "short-term": "Thiago Silva (Paris SG) is substituted due to injury, and Laurent Blanc calls upon David Luiz to replace him. This is another injury concern for Paris SG, with David Luiz now tasked with stepping into Silva's shoes to shore up the defense.",
+            "label": "substitution",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) is substituted due to injury, and [COACH] calls upon [PLAYER] to replace him. This is another injury concern for [TEAM], with [PLAYER] now tasked with stepping into [PLAYER]'s shoes to shore up the defense.",
+            "sncaption_anonymized": "[PLAYER] is substituted due to injury. Laurent Blanc gives a chance to [PLAYER] ([TEAM]).",
+            "query_ano": "[PLAYER] is substituted due to injury. [COACH] gives a chance to [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Neymar (Barcelona) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by Salvatore Sirigu.",
+            "target": "[player]Suarez[player] to draw out [player]Marquinhos[player] who found him, but the referees played the advantage as [player]Iniesta[player] finds the goalscorer [player]Neymar[player].",
+            "game_time": "25:01",
+            "short-term": "Luis Suárez, who attracted the attention of the defenders, and Andrés Iniesta, who made the perfect pass to Neymar. Neymar (Barcelona) went on a brilliant mazy run through the defense, getting into shooting range inside the box. He finished calmly, placing the ball past Salvatore Sirigu (Paris SG) into the net.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER], who attracted the attention of the defenders. [PLAYER], who made the perfect pass to [PLAYER]. [PLAYER] ([TEAM]) went on a brilliant mazy run through the defense, getting into shooting range inside the box. He finished calmly, placing the ball past [PLAYER] ([TEAM]) into the net.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by [PLAYER].",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the middle of the target is thwarted by [PLAYER]."
+        },
+        {
+            "query": "Martin Montoya (Barcelona) attempts to send a pass but the effort is blocked. Barcelona force a corner. Their opponents will face another attacking threat.",
+            "target": "Just like the behind by [player]Maxwell[player], just as he was trying to play one round to [player]Luis Suarez[player]. Good movement from [player]Suarez[player].",
+            "game_time": "26:58",
+            "short-term": "Martin Montoya (Barcelona) attempted to send a pass forward, but his effort was blocked by Maxwell (Paris SG), Luis Suárez showed great movement in trying to get into position. Barcelona awarded a corner. ",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) attempted to send a pass forward, but his effort was blocked by [PLAYER] ([TEAM]),[PLAYER] showed great movement in trying to get into position. [TEAM] awarded a corner. ",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to send a pass but the effort is blocked. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "target": "[player]Cavani[player] makes a run and [player]Luiz[player] tries to direct route but he actually made his run too early. Anyway the flag was up.",
+            "game_time": "26:40",
+            "short-term": "David Luiz (Paris SG) attempted to direct the ball to him, but Cavani had made his run too early. The linesman raised the flag, and the referee stopped the play for an offside decision.",
+            "label": "offside",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) attempted to direct the ball to him, but [PLAYER] had made his run too early. The linesman raised the flag, and the referee stopped the play for an offside decision.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "query": "Mark Clattenburg shows the yellow card to Gerard Pique (Barcelona) for a heavy challenge.",
+            "target": "He felt like he wanted to hit the yellow card.",
+            "game_time": "31:40",
+            "short-term": "The referee issued a yellow card to Gerard Piqué (Barcelona) for a heavy challenge. It was a clear decision.",
+            "label": "foul-card",
+            "short-term_anonymized": "The referee issued a yellow card to [PLAYER] ([TEAM]) for a heavy challenge. It was a clear decision.",
+            "sncaption_anonymized": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "query": "The flag goes up and the referee blows his whistle - another offside by Edinson Cavani (Paris SG), who has already been caught several times today.",
+            "target": "[player]Lavezzi[player] is the man who has the responsibility of delivering for him while the flag have gone up anyway.",
+            "game_time": "32:10",
+            "short-term": " Ezequiel Lavezzi (Paris SG) was the player attempting to deliver the ball to him, but the linesman's flag signaled another offside, halting the play.",
+            "label": "offside",
+            "short-term_anonymized": " [PLAYER] ([TEAM]) was the player attempting to deliver the ball to him, but the linesman's flag signaled another offside, halting the play.",
+            "sncaption_anonymized": "The flag goes up and the referee blows his whistle - another offside by [PLAYER] ([TEAM]), who has already been caught several times today.",
+            "query_ano": "The flag goes up and the referee blows his whistle - another offside by [PLAYER] ([TEAM]), who has already been caught several times today."
+        },
+        {
+            "query": "A yellow card for a tackle by Yohan Cabaye (Paris SG). Mark Clattenburg doesn't hesitate at all to make this decision.",
+            "target": "Poor challenge by [player]Cabaye[player].",
+            "game_time": "35:53",
+            "short-term": "Yohan Cabaye (Paris SG) committed a poor challenge, and Mark Clattenburg had no hesitation in issuing a yellow card for the foul. ",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) committed a poor challenge, and [REFEREE] had no hesitation in issuing a yellow card for the foul. ",
+            "sncaption_anonymized": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision."
+        },
+        {
+            "query": "Ezequiel Lavezzi (Paris SG) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",
+            "target": "[player]Cabaye[player] and [player]Luiz[player], using the encouragement of the corner that works so effectively against [team]Chelsea[team] to try and get the crowd lifted. [player]ter Stegen[player] did enough to get that one away. Yohan Cabye struck it back in trouble. [inaudible] his feet.",
+            "game_time": "41:17",
+            "short-term": "Yohan Cabaye attempted a corner kick, but the goalkeeper did a brilliant job to intercept the effort.",
+            "label": "corner",
+            "short-term_anonymized": "[PLAYER] attempted a corner kick, but the goalkeeper did a brilliant job to intercept the effort.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort."
+        },
+        {
+            "query": "Salvatore Sirigu blocks Luis Suarez (Barcelona)'s effort from the edge of the box.",
+            "target": "[player]Neymar[player] skillfully guides it away to [player]Jordi Alba[player] and [player]Suarez[player] is up there.Covered though by [player]David Luiz[player]. Or was he know he's lost out. [player]Suarez[player]tries to bend one.[player]Sirigu[player] down. A big test with [player]David Luiz[player]' hamstring. That's what I was thinking is usually charging into that far corner and he's come through that.",
+            "game_time": "42:10",
+            "short-term": "Neymar skillfully played the ball to Jordi Alba, who then passed it to Suárez. Although covered by David Luiz, Suárez managed to get his shot off, but Sirigu was equal to the challenge, making a solid save.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] skillfully played the ball to [PLAYER], who then passed it to [PLAYER]. Although covered by [PLAYER], [PLAYER] managed to get his shot off, but Sirigu was equal to the challenge, making a solid save.",
+            "sncaption_anonymized": "[PLAYER] blocks [PLAYER] ([TEAM])'s effort from the edge of the box.",
+            "query_ano": "[PLAYER] blocks [PLAYER] ([TEAM])'s effort from the edge of the box."
+        },
+        {
+            "query": "Maxwell (Paris SG) sends in a pass which fails to reach any of his teammates. Paris SG have been awarded a corner kick.",
+            "target": "[player]Matuidi[player], now [player]Maxwell[player].[team]Barcelona[team] do well to stifle the service from the wide areas.",
+            "game_time": "40:55",
+            "short-term": "Blaise Matuidi (Paris SG) played a pass to Maxwell, but it failed to reach any of his teammates. Barcelona defended well to stifle the service from the wide areas. Paris SG were awarded a corner kick.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) played a pass to Maxwell, but it failed to reach any of his teammates. [TEAM] defended well to stifle the service from the wide areas. [TEAM] were awarded a corner kick.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates. [TEAM] have been awarded a corner kick.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "query": "An attempted cross from Blaise Matuidi (Paris SG) is cleared.",
+            "target": "[player]Matuidi[player] cross in front of [player]Cavani[player].Forced to retreat by [player]Suarez[player].",
+            "game_time": "44:25",
+            "short-term": "Blaise Matuidi attempted a cross, but it was cleared by the opposition’s defence. The ball was forced back towards the goalkeeper, preventing Paris SG from creating a scoring opportunity.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] attempted a cross, but it was cleared by the opposition's defence. The ball was forced back towards the goalkeeper, preventing [TEAM] from creating a scoring opportunity.",
+            "sncaption_anonymized": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        }
+    ]
+}

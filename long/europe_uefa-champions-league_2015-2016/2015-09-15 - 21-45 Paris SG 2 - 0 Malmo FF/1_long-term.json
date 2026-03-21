@@ -1,0 +1,915 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:32",
+            "game_time": "44:32",
+            "query": "Angel Di Maria (Paris SG) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "short-term": "Angel Di Maria takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The delivery aimed towards the near post was slightly under-hit, making it easier for the defender to head it away. PSG players show frustration as they struggle to capitalize on their corner of the match.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "The ball goes behind for a corner. Paris SG will have an opportunity to threaten the opposition's goal. Gregory van der Wiel sends a teasing cross into the area, but Johan Wiland intercepts the ball. The goalkeeper anticipated the delivery well, stepping off his line to claim the cross confidently, neutralizing PSG’s attack.",
+                    "history_time": "44:21",
+                    "long-term": "They have been consistently pressuring the opposition's goal with multiple corner kicks, but lack the accuracy to successfully capitalize on these chances."
+                },
+                {
+                    "short-term": "The free kick from a promising distance is taken by Zlatan Ibrahimovic, who fires in a direct effort inches over the crossbar. What a chance! The ball had enough dip but just couldn’t come down in time. Keeper stood motionless, relieved as the ball sailed narrowly over the bar.",
+                    "history_time": "41:22",
+                    "long-term": "They have been creating scoring opportunities through set pieces but have yet to capitalize on them."
+                },
+                {
+                    "short-term": "Angel Di Maria attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The delivery was aimed towards Cavani, but the defender positioned himself well, stretching to make an important clearance.",
+                    "history_time": "36:54",
+                    "long-term": "They have been consistently threatening from set pieces and deliveries into the box, but the opposition's defense has been up to the task, making crucial clearances to deny them scoring opportunities."
+                },
+                {
+                    "short-term": "Angel Di Maria overhits the corner kick, sending it beyond the far post where no PSG player can make contact. The ball drifts out harmlessly, wasting an attacking opportunity.",
+                    "history_time": "35:09",
+                    "long-term": "The player's set pieces have been below par in this period, failing to create a meaningful chance from two consecutive corners."
+                },
+                {
+                    "short-term": "Angel Di Maria overhits the corner kick and none of his teammates can get their head on it. The ball sails past the far post and drifts harmlessly out of play.",
+                    "history_time": "35:09",
+                    "long-term": "The player's set pieces have been lacking precision and effectiveness, failing to pose a significant threat to the opposition's defense."
+                },
+                {
+                    "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+                    "history_time": "34:45",
+                    "long-term": "They have been consistently pressuring the opposition's defense with creative set pieces and clever passing, but the defense has held firm so far."
+                },
+                {
+                    "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+                    "history_time": "34:45",
+                    "long-term": "They have been consistently applying pressure through set pieces and intricate passes, but the opposition's defense has been equally effective in countering their threats."
+                },
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently struggling to capitalize on corner kicks, with multiple attempts being cleared by the opposition's defense."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently struggling to capitalize on corner kicks, with the opposition's defense effectively neutralizing their attacking threats."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently pressuring the opposition's defense with multiple attempts to deliver the ball into the penalty area, but have yet to find the breakthrough."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently posing threats from set pieces, but have yet to effectively capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been actively creating scoring opportunities, but struggling to capitalize on set pieces and find the final touch to score."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been providing quality deliveries into the box, creating chances, but the end product has been lacking, highlighting his recent struggles to make an impact in key moments."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently posing threats from set pieces, but the opposition's defense has been effective in neutralizing the danger so far."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently threatening from set pieces and deliveries into the box, but the opposition's defense has held firm to deny them clear-cut chances."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "The team has been consistently struggling to convert their set pieces into scoring opportunities, allowing the opposition's defense to effectively neutralize the threats."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently struggling to capitalize on corner kicks, with multiple attempts being cleared by the opposition's defense."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, and seem to be on the verge of breaking through the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:21",
+            "game_time": "44:21",
+            "query": "The ball goes behind for a corner. Paris SG will have an opportunity to threaten the opposition's goal. Gregory van der Wiel (Paris SG) sends a teasing cross into the area, but Johan Wiland intercepts the ball.",
+            "short-term": "The ball goes behind for a corner. Paris SG will have an opportunity to threaten the opposition's goal. Gregory van der Wiel sends a teasing cross into the area, but Johan Wiland intercepts the ball. The goalkeeper anticipated the delivery well, stepping off his line to claim the cross confidently, neutralizing PSG’s attack.",
+            "query_ano": "The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal. [PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "The free kick from a promising distance is taken by Zlatan Ibrahimovic, who fires in a direct effort inches over the crossbar. What a chance! The ball had enough dip but just couldn’t come down in time. Keeper stood motionless, relieved as the ball sailed narrowly over the bar.",
+                    "history_time": "41:22",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the opposition's goalkeeper has been equal to the task, making crucial interceptions to deny them a goal."
+                },
+                {
+                    "short-term": "Kari Arnason pulls the shirt of his opponent and the referee stops play for a foul. Paris SG are awarded a free kick from a dangerous position. The defender got caught as he struggled to keep up with Cavani, leading to a blatant tug on the jersey just outside the box.",
+                    "history_time": "40:29",
+                    "long-term": "They have been creating scoring opportunities through set pieces, consistently posing a threat to the opposition's goal with accurate deliveries."
+                },
+                {
+                    "short-term": "Angel Di Maria attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The delivery was aimed towards Cavani, but the defender positioned himself well, stretching to make an important clearance.",
+                    "history_time": "36:54",
+                    "long-term": "They have been creating scoring opportunities through well-delivered crosses and passes into the box, but the opposition's defense has been equally impressive in neutralizing these threats."
+                },
+                {
+                    "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+                    "history_time": "34:45",
+                    "long-term": "They have consistently been putting pressure on the opposition's goal with some promising attacking plays, but the goalkeeper and defenders have managed to neutralize these threats so far."
+                },
+                {
+                    "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+                    "history_time": "34:45",
+                    "long-term": "They have consistently utilized crosses and corners to create scoring opportunities, yet the opposition's defense has managed to neutralize these efforts so far."
+                },
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have consistently utilized corners to create scoring opportunities, but the opposing defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have consistently threatened the opposition's goal with set pieces, but the defense has held firm to prevent any damage."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with consecutive corners and crosses, but struggling to create a clear scoring chance."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have consistently utilized crosses and corners to create scoring opportunities, posing a threat to the opposition's defense."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently using corners to threaten the opposition's goal, but have yet to capitalize on these set pieces."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently posing threats through set pieces, with both corners creating potential scoring opportunities."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have consistently created scoring opportunities, particularly through set pieces, which have allowed them to threaten the opposition's goal repeatedly."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:22",
+            "game_time": "41:22",
+            "query": "The free kick from a promising distance is taken by Zlatan Ibrahimovic (Paris SG), who fires in a direct effort inches over the crossbar. What a chance!",
+            "short-term": "The free kick from a promising distance is taken by Zlatan Ibrahimovic, who fires in a direct effort inches over the crossbar. What a chance! The ball had enough dip but just couldn’t come down in time. Keeper stood motionless, relieved as the ball sailed narrowly over the bar.",
+            "query_ano": "The free kick from a promising distance is taken by [PLAYER] ([TEAM]), who fires in a direct effort inches over the crossbar. What a chance!",
+            "history": [
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have been creating scoring opportunities through set pieces, although they have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been creating scoring opportunities with consecutive set pieces, but the finishing touch is lacking."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "They have been creating quality scoring opportunities with precise set pieces and crosses, consistently testing the opposition's defense."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "They have been creating quality scoring opportunities from set pieces and crosses, but are struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been creating scoring opportunities through set pieces, with a near-miss free kick and a promising corner kick that was well-defended."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been creating scoring opportunities through set pieces, showing great threat and composure around the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:29",
+            "game_time": "40:29",
+            "query": "Kari Arnason (Malmo FF) pulls the shirt of his opponent and the referee stops play for a foul. Paris SG are awarded a free kick from a dangerous position.",
+            "short-term": "Kari Arnason pulls the shirt of his opponent and the referee stops play for a foul. Paris SG are awarded a free kick from a dangerous position. The defender got caught as he struggled to keep up with Cavani, leading to a blatant tug on the jersey just outside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul. [TEAM] are awarded a free kick from a dangerous position.",
+            "history": [
+                {
+                    "short-term": "Kari Arnason gives away a foul for a clumsy challenge. Referee  saw the whole situation. The Malmo defender was a fraction late, clipping the legs of his opponent, who went down immediately.",
+                    "history_time": "36:12",
+                    "long-term": "He has been struggling defensively, committing multiple fouls that have given the opposing team scoring opportunities. His challenges have been consistently late, leading to dangerous free kicks."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently applying pressure around the opponent's penalty area and creating promising set-piece opportunities."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been creating scoring opportunities, with set pieces in particular presenting a threat to the opposing team."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:54",
+            "game_time": "36:54",
+            "query": "Angel Di Maria (Paris SG) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "short-term": "Angel Di Maria attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The delivery was aimed towards Cavani, but the defender positioned himself well, stretching to make an important clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria overhits the corner kick, sending it beyond the far post where no PSG player can make contact. The ball drifts out harmlessly, wasting an attacking opportunity.",
+                    "history_time": "35:09",
+                    "long-term": "They have been struggling to create effective deliveries into the box, with the opposing defense consistently intercepting and clearing their attempts."
+                },
+                {
+                    "short-term": "Angel Di Maria overhits the corner kick and none of his teammates can get their head on it. The ball sails past the far post and drifts harmlessly out of play.",
+                    "history_time": "35:09",
+                    "long-term": "They have been trying to create scoring opportunities through crosses and set pieces, but the defending team's solid positioning and timely interventions have thwarted their efforts."
+                },
+                {
+                    "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+                    "history_time": "34:45",
+                    "long-term": "They have been consistently using creative passes to break through the defense, but the opposing team's backline has shown impressive alertness to intercept and clear the threats."
+                },
+                {
+                    "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+                    "history_time": "34:45",
+                    "long-term": "They consistently showed creativity in their attacking plays, but struggled to find a clear path through the defense, with crucial interventions stopping their advances."
+                },
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently using set pieces and crosses to threaten the defense, but the opposition's backline has shown great awareness and reaction time to neutralize these attacks."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have consistently threatened the opponent's goal with creative passes, but the opposing team's defense has responded effectively, making key clearances to deny them scoring opportunities."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently trying to break down the opponent's defense with creative passes and crosses, but the defense has been solid in clearing these attempts."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently trying to break through the opponent's defense, but the defending team's well-timed interventions have prevented them from creating clear scoring opportunities."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been creating scoring opportunities with precise deliveries and shots, consistently testing the opposing team's defense."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been posing a threat with his creative passing and positioning in the attacking third, creating opportunities that have yet to be capitalized on."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have consistently shown creativity in their attacking plays, but the defense has been equally effective in neutralizing these efforts."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They have consistently shown excellent vision in attack, only to be matched by the opposing team's exceptional defensive organization and timely interventions."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "The player's creative efforts to unlock the defense with precise deliveries have been consistently thwarted by some excellent defensive positioning and anticipation."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently utilized set pieces and crosses to create scoring opportunities."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been up to the task, making crucial interventions to deny them a goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:09",
+            "game_time": "35:09",
+            "query": "Angel Di Maria (Paris SG) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Angel Di Maria overhits the corner kick, sending it beyond the far post where no PSG player can make contact. The ball drifts out harmlessly, wasting an attacking opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+                    "history_time": "34:45",
+                    "long-term": "He has shown creativity in his set pieces and passing, but accuracy has been lacking in his delivery."
+                },
+                {
+                    "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+                    "history_time": "34:45",
+                    "long-term": "They have been creating opportunities but struggling to capitalize on set pieces, failing to make the most of a corner and seeing a pass blocked by the defense."
+                },
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "The player's set pieces have been largely ineffective so far, failing to create any concrete scoring chances."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been struggling to capitalize on set pieces, failing to create scoring chances from consecutive corners."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has shown moments of brilliance in his set pieces, but they have been inconsistent, failing to fully capitalize on these key opportunities."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been inconsistent with his set pieces and struggling to capitalize on key scoring chances."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently struggled with corner kicks, failing to capitalize on scoring chances from these set pieces."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently utilized corner kicks as a means to initiate attacking plays, although the execution has been variable, ranging from wayward deliveries to targeted opportunities that led to subsequent attacks."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Angel Di Maria (Paris SG) tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner.",
+            "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently applying pressure and utilizing set pieces to create scoring opportunities."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently pressuring the opponent's defense with clever passes and corner kicks, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently applying pressure and using clever passing to create scoring opportunities, earning multiple corners in the process."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have consistently applied pressure through set pieces, particularly corners, following interceptions and blocks by the opposing team's defenders."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been consistently creating scoring opportunities, showcasing exceptional vision and technique in his attempts to break through the opposition's defense."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been consistently creating scoring opportunities with his vision and technique, but so far, the finishing touch has eluded him."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently creating scoring opportunities with clever passes and crosses into the box, but the defense has held firm so far."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They consistently utilized precise passing to create scoring opportunities, but the opposition's defense effectively countered with well-timed interceptions."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently applied pressure through set pieces and clever passes, although the opposing defense has so far effectively neutralized these efforts."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities, but so far, the opposing team's defense has been able to neutralize their efforts."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities, but the defense has been solid in blocking their chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:26",
+            "game_time": "34:26",
+            "query": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence.",
+            "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+            "history": [
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently pressuring the defense with crosses and corners, creating potential scoring opportunities despite the opponents' strong defensive efforts."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently posing threats from set pieces, creating multiple scoring opportunities from corners."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been creating scoring opportunities with precise deliveries, but so far, the opposing team's defense has managed to neutralize the threats."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "They have been creating scoring opportunities through set pieces and crosses, but lack the finishing touch to capitalize on these chances."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently threatening from set pieces and deliveries into the box, but the opposition's defense has been solid in clearing the danger."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with precise passes into the box, but the opposition's defense has been equally effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently using corner kicks to create scoring opportunities, but the defense has been able to counter these efforts effectively."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently using corner kicks to create scoring opportunities, with Di Maria's deliveries causing problems for the defense."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently threatening from set pieces andously creating scoring opportunities in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Maxwell (Paris SG) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG.",
+            "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently applying pressure with crosses into the box, forcing the opposing defense to be alert in blocking these attempts."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently posing threats through set pieces, despite the defender's efforts to neutralize the danger."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and corner kicks, threatening to score from these set pieces."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently pressuring the defense, as evidenced by multiple blocked crosses and deflected shots, and are repeatedly winning corners."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:44",
+            "game_time": "32:44",
+            "query": "What a chance that is! Angel Di Maria (Paris SG) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "He has been creating scoring opportunities with his precise delivery, but the finishing touches have eluded him so far."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "He has been actively creating scoring opportunities, coming close to scoring and consistently putting pressure on the opponent's defense with precise set pieces."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:17",
+            "game_time": "31:17",
+            "query": "Blaise Matuidi (Paris SG) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "history": [
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with precise crosses, but the opposing defense has so far successfully countered these threats."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and set pieces, but the opposing team's defense has managed to keep them at bay."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently creating scoring opportunities, but the defense has done well to neutralize the threats."
+                },
+                {
+                    "short-term": "Zlatan Ibrahimovic makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. Di Maria’s cross found him well, but he couldn’t generate enough force. The goalkeeper reacted quickly, diving low to stop the weak shot before gathering it safely.",
+                    "history_time": "19:54",
+                    "long-term": "They have been posing threats through crosses into the penalty area, but the defense and goalkeeper have so far done well to neutralize these attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:52",
+            "game_time": "29:52",
+            "query": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders.",
+            "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have consistently created scoring opportunities through set pieces and movement in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:09",
+            "game_time": "35:09",
+            "query": "Angel Di Maria (Paris SG) overhits the corner kick and none of his teammates can their head on it.",
+            "short-term": "Angel Di Maria overhits the corner kick and none of his teammates can get their head on it. The ball sails past the far post and drifts harmlessly out of play.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can their head on it.",
+            "history": [
+                {
+                    "short-term": "Angel Di Maria attempts a clever pass into the box, but a well-positioned defender intercepts and deflects it behind for a PSG corner. The home side continues pressing for a breakthrough.",
+                    "history_time": "34:45",
+                    "long-term": "This corner kick comes after a clever pass into the box was intercepted by a defender, deflecting out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+                    "history_time": "34:45",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and clever passes, but the final execution has been lacking precision."
+                },
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "The player's set pieces have been largely ineffective so far, failing to create any scoring opportunities."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, failing to capitalize on consecutive corner kicks."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "They have shown moments of brilliance in their set pieces, but a lack of precision has hindered them from converting these chances into goals."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been creating scoring opportunities but struggling to capitalize on them, with missed chances from set pieces and open play."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "The player's set pieces have been unsuccessful so far, failing to create scoring opportunities for his team."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "The player's corner kicks have been inconsistent, sometimes failing to find his teammates and at other times creating follow-up opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:45",
+            "game_time": "34:45",
+            "query": "Angel Di Maria (Paris SG) tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner.",
+            "short-term": "Angel Di Maria tries to slide the ball through to a teammate but it's well blocked by a defender. Paris SG earn a corner. The blocked pass sends the ball rolling toward the byline, and the PSG players quickly reposition themselves in the box for the set piece.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "Di Maria delivers a corner toward the near post, but the defense reacts quickly and clears the danger before any PSG player can get a touch.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently applying pressure through set pieces, utilizing Di Maria's skills to create scoring opportunities."
+                },
+                {
+                    "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+                    "history_time": "34:26",
+                    "long-term": "They have been consistently posing threats through set pieces, despite the opposition's solid defensive work to counter these efforts."
+                },
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have consistently shown the ability to maintain pressure, creating scoring opportunities through combination play, despite a strong defensive response from the opposing team."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently applying pressure and creating scoring opportunities, earning multiple corners despite the defenders' best efforts to block their passes."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been actively creating attacking opportunities, despite being blocked earlier, and came close to scoring with a well-taken shot."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "He has been consistently involved in key attacking moments, but has yet to capitalize on his chances."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently applying pressure through creative passing and set pieces, but the opposing team's defense has shown resilience in thwarting these efforts."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They have been consistently attempting to break through the opponent's defense with precise passes, but the defenders have done well to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "The player has shown excellent vision in trying to pick out his teammates with clever passes, but the opposing defense has been solid in intercepting and clearing these threats."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently utilized set pieces to create scoring opportunities and maintained a strong attacking presence."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently creating scoring opportunities, with the midfield playmakers delivering key passes that are troubling the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:26",
+            "game_time": "34:26",
+            "query": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence.",
+            "short-term": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the opposition's defence. A defender at the near post rises above the attackers and heads the ball away to safety.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) is cleared by the opposition's defence.",
+            "history": [
+                {
+                    "short-term": "Maxwell attempts a low-driven cross into the area, but a defender steps in to block it. The ball deflects out of play, awarding PSG another corner.",
+                    "history_time": "34:13",
+                    "long-term": "They have consistently threatened from set pieces, particularly corners, and repeatedly tested the opposition's defense."
+                },
+                {
+                    "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+                    "history_time": "34:13",
+                    "long-term": "They have been consistently posing threats from set pieces, but the opposition's defense has managed to keep them at bay so far."
+                },
+                {
+                    "short-term": "Angel Di Maria receives a precise cross on the edge of the box, takes a composed touch, and unleashes a shot that narrowly misses the left post. PSG's best chance so far.",
+                    "history_time": "32:44",
+                    "long-term": "He has been creating scoring opportunities, particularly from set pieces and precise crosses, although unable to find the net so far."
+                },
+                {
+                    "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+                    "history_time": "32:44",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has let them down, with a cleared corner and a narrowly missed shot."
+                },
+                {
+                    "short-term": "Matuidi curls in a dangerous ball toward the penalty area, looking for a teammate, but a defender anticipates well and heads it away from danger.",
+                    "history_time": "31:17",
+                    "long-term": "The opposition's defense has been solid, consistently clearing threats from the Paris SG attack."
+                },
+                {
+                    "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+                    "history_time": "31:17",
+                    "long-term": "They have consistently threatened the opposition's goal with precise crosses and deliveries, but the defense has been equal to the task so far."
+                },
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently using corners to create scoring opportunities, but so far, the opposition's defense has been solid in dealing with these threats."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently utilized corner kicks as an attacking strategy, but so far, the opposition's defense has managed to effectively clear the threats."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently threatening from set pieces, forcing the opposition to defend intensely and result in two consecutive cleared corners."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:13",
+            "game_time": "34:13",
+            "query": "Maxwell (Paris SG) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG.",
+            "short-term": "Maxwell fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to Paris SG. The deflection sends the ball looping behind.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently pressuring the defense with corners and passes into the box, yet struggling to create clear scoring opportunities."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with consecutive set pieces, demonstrating their ability to maintain possession and create chances."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have consistently created scoring opportunities, with several passes finding their way into the box, only to be thwarted by defensive blocks and deflections, resulting in multiple corner kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:44",
+            "game_time": "32:44",
+            "query": "What a chance that is! Angel Di Maria (Paris SG) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "short-term": "What a chance that is! Angel Di Maria finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post. The Argentine watches in disbelief as the ball grazes past the post, knowing he should have done better.",
+            "query_ano": "What a chance that is! [PLAYER] ([TEAM]) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "He has been creating scoring opportunities with precise positioning and deliveries, but the finishing touches are lacking so far."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "He has been posing a threat from crosses and dead-ball situations, coming close to scoring and causing problems for the defense."
+                },
+                {
+                    "short-term": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic, whose header floated just over the bar. The ball was delivered perfectly onto his head, but he couldn't keep it down. The Swedish striker looked frustrated, knowing he had a golden opportunity to score.",
+                    "history_time": "14:28",
+                    "long-term": "They have been creating quality scoring opportunities, but lacking the precision to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:17",
+            "game_time": "31:17",
+            "query": "Blaise Matuidi (Paris SG) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "short-term": "Blaise Matuidi produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The interception is perfectly timed, denying an onrushing PSG attacker from latching onto the pass.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",
+            "history": [
+                {
+                    "short-term": "Di Maria swings in a corner, aiming toward the penalty spot, but a defender rises above everyone and heads it clear, nullifying the threat.",
+                    "history_time": "29:52",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with precise passes into the box."
+                },
+                {
+                    "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+                    "history_time": "29:52",
+                    "long-term": "They have been consistently applying pressure through effective crosses and corners, testing the defensive solidity."
+                },
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid, thwarting their attacking efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:52",
+            "game_time": "29:52",
+            "query": "The corner kick from Angel Di Maria (Paris SG) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Angel Di Maria is headed out of the penalty area by one of the defenders. The clearance lands near the edge of the box, where a PSG midfielder is waiting to attempt a second-phase attack.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Verratti finds himself in space inside the box after a well-placed pass, but his shot is deflected by a defender and PSG earn another corner.",
+                    "history_time": "29:30",
+                    "long-term": "They have consistently utilized set pieces and maintained possession in threatening areas to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:54",
+            "game_time": "19:54",
+            "query": "Zlatan Ibrahimovic (Paris SG) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "short-term": "Zlatan Ibrahimovic makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. Di Maria’s cross found him well, but he couldn’t generate enough force. The goalkeeper reacted quickly, diving low to stop the weak shot before gathering it safely.",
+            "query_ano": "[PLAYER] ([TEAM]) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. He rushed the shot, leaning back slightly, which sent the ball soaring well over the target. Frustrated, he turns away, knowing that was a big chance wasted.",
+                    "history_time": "18:56",
+                    "long-term": "He has been presented with a couple of promising opportunities but has been unable to capitalize, showing uncharacteristic indecisiveness in his finishing."
+                },
+                {
+                    "short-term": "This was a piece of cake for Johan Wiland. Zlatan Ibrahimovic found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper. The goalkeeper barely had to move, comfortably collecting the ball as Ibrahimovic’s shot lacked placement and power.",
+                    "history_time": "15:59",
+                    "long-term": "He has been struggling to find the back of the net, as his recent shots have lacked the power and placement to threaten the goalkeeper. Despite having scoring opportunities, his efforts have been easily saved."
+                },
+                {
+                    "short-term": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic, whose header floated just over the bar. The ball was delivered perfectly onto his head, but he couldn't keep it down. The Swedish striker looked frustrated, knowing he had a golden opportunity to score.",
+                    "history_time": "14:28",
+                    "long-term": "He has been struggling to capitalize on promising scoring opportunities, lacking the necessary power and precision in his attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:56",
+            "game_time": "18:56",
+            "query": "Zlatan Ibrahimovic (Paris SG) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "short-term": "Zlatan Ibrahimovic pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar. He rushed the shot, leaning back slightly, which sent the ball soaring well over the target. Frustrated, he turns away, knowing that was a big chance wasted.",
+            "query_ano": "[PLAYER] ([TEAM]) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar.",
+            "history": [
+                {
+                    "short-term": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic, whose header floated just over the bar. The ball was delivered perfectly onto his head, but he couldn't keep it down. The Swedish striker looked frustrated, knowing he had a golden opportunity to score.",
+                    "history_time": "14:28",
+                    "long-term": "He has been presented with multiple scoring opportunities but has struggled to convert them, showing signs of frustration at the missed chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:39",
+            "game_time": "17:39",
+            "query": "The flag is raised by the referee's assistant. Zlatan Ibrahimovic (Paris SG) is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position.",
+            "short-term": "The flag is raised by the referee's assistant. Zlatan Ibrahimovic is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position. He gestures in frustration, feeling that the timing of his run was perfect.",
+            "query_ano": "The flag is raised by the referee's assistant. [PLAYER] ([TEAM]) is repeatedly being caught offside. He's always hanging on the shoulder of the last man to try and get into a scoring position.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The striker had made a sharp movement to get behind the defense, but he mistimed his run by just a fraction.",
+                    "history_time": "12:10",
+                    "long-term": "He has been struggling to time his runs correctly, being repeatedly caught offside as he tries to make scoring opportunities. This is becoming a frustrating pattern for him."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:59",
+            "game_time": "15:59",
+            "query": "This was a piece of cake for Johan Wiland. Zlatan Ibrahimovic (Paris SG) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper.",
+            "short-term": "This was a piece of cake for Johan Wiland. Zlatan Ibrahimovic found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper. The goalkeeper barely had to move, comfortably collecting the ball as Ibrahimovic’s shot lacked placement and power.",
+            "query_ano": "This was a piece of cake for [PLAYER]. [PLAYER] ([TEAM]) found himself some space after latching on to a pass, but his strike only went towards the middle of the goal and into the gloves of the prepared keeper.",
+            "history": [
+                {
+                    "short-term": "What a wasted chance that is! A precise cross into the box found Zlatan Ibrahimovic, whose header floated just over the bar. The ball was delivered perfectly onto his head, but he couldn't keep it down. The Swedish striker looked frustrated, knowing he had a golden opportunity to score.",
+                    "history_time": "14:28",
+                    "long-term": "He has been struggling to find the target with his attempts, failing to capitalize on two promising chances."
+                },
+                {
+                    "short-term": "David Luiz sends a long ball in, but Johan Wiland comfortably gathers the ball. The Brazilian defender attempted a lofted pass over the defense, aiming for Matuidi’s run. However, the ball carried too much weight.",
+                    "history_time": "10:29",
+                    "long-term": "Johan Wiland has been solid in goal, displaying good positioning and judgment to make comfortable saves."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:30",
+            "game_time": "13:30",
+            "query": "Gregory van der Wiel (Paris SG) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "short-term": "Gregory van der Wiel performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Van der Wiel misjudged his challenge, arriving slightly late after pushing the ball too far forward.",
+            "query_ano": "[PLAYER] ([TEAM]) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",
+            "history": [
+                {
+                    "short-term": "Nikola Djurdjic makes a slide tackle, but referee Sergey Karasev blows for a foul. Djurdjic was eager to win the ball but mistimed his challenge, clipping the PSG player’s ankles.",
+                    "history_time": "12:54",
+                    "long-term": "The players have shown a tendency to misjudge their tackles, leading to multiple fouls and disruptions in the game. They need to work on their timing to avoid giving away free kicks."
+                }
+            ]
+        }
+    ]
+}

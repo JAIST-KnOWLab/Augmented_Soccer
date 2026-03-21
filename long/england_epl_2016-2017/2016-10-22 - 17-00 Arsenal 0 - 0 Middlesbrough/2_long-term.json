@@ -1,0 +1,170 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:32",
+            "game_time": "43:32",
+            "query": "Alvaro Negredo (Middlesbrough) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Alvaro Negredo (Middlesbrough) races towards goal but the defender gets back well to make a challenge. He attempted to beat Laurent Koscielny with a deceptive move, but the experienced defender stood his ground.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) sends a cross into the box, but Victor Valdes comes off his line to gather the ball. The cross is too close to the goalkeeper, who make a comfortable save.",
+                    "history_time": "34:27",
+                    "long-term": "Both teams have shown impressive defensive skills, with Middlesbrough's attack being contained and Arsenal's threat neutralized by alert goalkeeping."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:27",
+            "game_time": "34:27",
+            "query": "Mesut Ozil (Arsenal) sends a cross into the box, but Victor Valdes comes off his line to gather the ball.",
+            "short-term": "Mesut Ozil (Arsenal) sends a cross into the box, but Victor Valdes comes off his line to gather the ball. The cross is too close to the goalkeeper, who make a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but Victor Valdes comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. They remain well-organized defensively, limiting opponent's attacking threats.",
+                    "history_time": "25:59",
+                    "long-term": "They have consistently shown strong defensive organization, effectively neutralizing their opponent's attacking efforts."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him. The chance came after Walcott was waiting for an opportunity to strike but was dispossessed.",
+                    "history_time": "21:09",
+                    "long-term": "They have been consistently testing the goalkeeper with threatening crosses and shots, showcasing their attacking prowess."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:51",
+            "game_time": "28:51",
+            "query": "The referee stops play so that a substitution can be made and Mohamed Elneny leaves the pitch and Alex Oxlade-Chamberlain (Arsenal) comes on.",
+            "short-term": "The referee stops play so that a substitution can be made and Mohamed Elneny leaves the pitch and Alex Oxlade-Chamberlain (Arsenal) comes on. They are looking to inject more attacking energy in the support zone, as Middlesbrough has been disrupting their midfield.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+            "history": [
+                {
+                    "short-term": "Substitution. Alex Iwobi walks off the pitch and Lucas Perez (Arsenal) comes on as a substitute.",
+                    "history_time": "21:59",
+                    "long-term": "They are actively making tactical adjustments, bringing on fresh players to try and break down the opposition's strong midfield presence."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:59",
+            "game_time": "25:59",
+            "query": "Mesut Ozil (Arsenal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "short-term": "Mesut Ozil (Arsenal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. They remain well-organized defensively, limiting opponent's attacking threats.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him. The chance came after Walcott was waiting for an opportunity to strike but was dispossessed.",
+                    "history_time": "21:09",
+                    "long-term": "They have maintained a solid defensive structure, neutralizing their opponent's attacks, while also posing threats with swift counter-attacks."
+                },
+                {
+                    "short-term": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety. Their defense held firm and stronger, who fearless on the goal line.",
+                    "history_time": "16:49",
+                    "long-term": "Both teams have shown defensive solidity, dealing effectively with set pieces and limiting clear-cut opportunities for their opponents."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick. It wasn’t so easy for goalkeeper to make this impressive, spectacular jump",
+                    "history_time": "8:30",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and skillful plays, but have been denied by a solid defensive performance and an in-form goalkeeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:09",
+            "game_time": "21:09",
+            "query": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him.",
+            "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him. The chance came after Walcott was waiting for an opportunity to strike but was dispossessed.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Victor Valdes is alert and denies him.",
+            "history": [
+                {
+                    "short-term": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety. Their defense held firm and stronger, who fearless on the goal line.",
+                    "history_time": "16:49",
+                    "long-term": "Both teams have shown promising attacking intent, but strong defensive performances have so far prevented any breakthroughs."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick. It wasn’t so easy for goalkeeper to make this impressive, spectacular jump",
+                    "history_time": "8:30",
+                    "long-term": "He has been consistently creating scoring opportunities, but the opposition's goalkeeper has made crucial saves to deny him on multiple occasions."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:49",
+            "game_time": "16:49",
+            "query": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "short-term": "Gaston Ramirez (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety. Their defense held firm and stronger, who fearless on the goal line.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Benjamin Gibson (Middlesbrough) weaves through the defence with ease and gets one-on-one with the keeper, but fails to score with his strike towards the left side of the target as Petr Cech produces a good save. Arsenal's defense was momentarily exposed, allowing Gibson a rare chance.",
+                    "history_time": "13:11",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense has been solid, neutralizing their threats."
+                },
+                {
+                    "short-term": "Antonio Barragan (Middlesbrough) serves up a nice cross, but the defence clears the danger. The referee and his assistant both point at the corner flag. Middlesbrough will have an opportunity to threaten the opposition's goal. The defender struggled to contain Traoré, who was aggressive on the wing.",
+                    "history_time": "10:56",
+                    "long-term": "They have been consistently testing the opposition's defense with set pieces and crosses, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick. It wasn’t so easy for goalkeeper to make this impressive, spectacular jump",
+                    "history_time": "8:30",
+                    "long-term": "Both teams have shown defensive solidity, with Middlesbrough's defense repelling set-piece threats and Arsenal's attack being matched by excellent goalkeeping."
+                }
+            ]
+        },
+        {
+            "gameTime": "08:30",
+            "game_time": "8:30",
+            "query": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick.",
+            "short-term": "Alexis Sanchez (Arsenal) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. Arsenal have been awarded a corner kick. It wasn’t so easy for goalkeeper to make this impressive, spectacular jump",
+            "query_ano": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. Victor Valdes makes a stunning save to stop the effort from flying into the right side of the goal. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends the resulting free kick a whisker wide of the left post! He struck with power, but goalkeeper seemed to have it covered.",
+                    "history_time": "7:02",
+                    "long-term": "He has been posing a significant threat in front of goal, testing the goalkeeper with precise and powerful attempts."
+                },
+                {
+                    "short-term": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box. One of the defender pulled out his leg, preventing a dangerous situation.",
+                    "history_time": "5:29",
+                    "long-term": "They have been consistently creating scoring opportunities, testing the opposing goalkeeper with powerful shots and menacing passes into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:02",
+            "game_time": "7:02",
+            "query": "Alexis Sanchez (Arsenal) sends the resulting free kick a whisker wide of the left post!",
+            "short-term": "Alexis Sanchez (Arsenal) sends the resulting free kick a whisker wide of the left post! He struck with power, but goalkeeper seemed to have it covered.",
+            "query_ano": "[PLAYER] ([TEAM]) sends the resulting free kick a whisker wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box. One of the defender pulled out his leg, preventing a dangerous situation.",
+                    "history_time": "5:29",
+                    "long-term": "They have been creating scoring opportunities, but the final touch has been lacking, with shots going wide and passes not quite reaching their target."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. Middlesbrough defenders crowded the area, making it difficult for them to find space.",
+                    "history_time": "3:16",
+                    "long-term": "He has been a key figure in the attacking plays but hasn't found the desired outcome yet, registering a few close misses."
+                }
+            ]
+        },
+        {
+            "gameTime": "05:29",
+            "game_time": "5:29",
+            "query": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "short-term": "Hector Bellerin (Arsenal) produces a poor pass. He attempts to get the ball into the box. One of the defender pulled out his leg, preventing a dangerous situation.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. Middlesbrough defenders crowded the area, making it difficult for them to find space.",
+                    "history_time": "3:16",
+                    "long-term": "They have been struggling to create clear scoring opportunities due to poor passing and congested defending from their opponents."
+                }
+            ]
+        }
+    ]
+}

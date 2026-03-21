@@ -1,0 +1,704 @@
+{
+    "annotations": [
+        {
+            "gameTime": "48:44",
+            "game_time": "48:44",
+            "query": "Wilfried Zaha (Crystal Palace) latches on to a fine cross from the resulting corner kick and slams the ball in from close range. He should have aimed better, however, as he hit his own teammate in front of him.",
+            "short-term": "Wilfried Zaha (Crystal Palace) latches on to a fine cross from the resulting corner kick and slams the ball in from close range. He should have aimed better, however, as he hit his own teammate in front of him. The ball ricochets awkwardly, leading to a scramble before Murray converts the rebound.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a fine cross from the resulting corner kick and slams the ball in from close range. He should have aimed better, however, as he hit his own teammate in front of him.",
+            "history": [
+                {
+                    "short-term": "Joel Ward (Crystal Palace) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball is out of play. A goal-scoring opportunity from a corner for Crystal Palace. The home crowd rallies behind their team, urging them forward in the dying moments.",
+                    "history_time": "48:30",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                },
+                {
+                    "short-term": "Shola Ameobi (Crystal Palace) swings in a cross, but the ball is cleared to safety by one of the defending players. Crystal Palace force their opponents to concede a corner. The stands are not empty, only a few people leave early.",
+                    "history_time": "41:35",
+                    "long-term": "They have been consistently pressuring the opponent's defense with crosses and corner kicks, resulting in several scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "48:40",
+            "game_time": "48:40",
+            "query": "There's an opportunity for Jordon Mutch (Crystal Palace) to deliver the ball into the box from a corner.",
+            "short-term": "There's an opportunity for Jordon Mutch (Crystal Palace) to deliver the ball into the box from a corner. The crowd is still cheering for their players as it is no longer a question of Christopher saving the match.",
+            "query_ano": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+            "history": [
+                {
+                    "short-term": "Joel Ward (Crystal Palace) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball is out of play. A goal-scoring opportunity from a corner for Crystal Palace. The home crowd rallies behind their team, urging them forward in the dying moments.",
+                    "history_time": "48:30",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and crosses into the box, showing their intent to equalize."
+                },
+                {
+                    "short-term": "Jordon Mutch (Crystal Palace) is about to take a corner kick. The players in the box jostle for position, anticipating the delivery.",
+                    "history_time": "41:51",
+                    "long-term": "He has been focused on set pieces, consistently creating opportunities for his team through corner kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "48:30",
+            "game_time": "48:30",
+            "query": "Joel Ward (Crystal Palace) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball is out of play. A goal-scoring opportunity from a corner for Crystal Palace.",
+            "short-term": "Joel Ward (Crystal Palace) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball is out of play. A goal-scoring opportunity from a corner for Crystal Palace. The home crowd rallies behind their team, urging them forward in the dying moments.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Shola Ameobi (Crystal Palace) swings in a cross, but the ball is cleared to safety by one of the defending players. Crystal Palace force their opponents to concede a corner. The stands are not empty, only a few people leave early.",
+                    "history_time": "41:35",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with multiple crosses into the penalty area in a few minutes, attempting to capitalize on scoring opportunities."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick. Zaha’s delivery was aimed at the far post, but the defence held firm.",
+                    "history_time": "26:58",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses into the box, putting pressure on the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:27",
+            "game_time": "46:27",
+            "query": "He should have done better. Glenn Murray (Crystal Palace) is afforded space to connect with a Jason Puncheon cross, but his header from the centre of the box flies well wide of the left post.",
+            "short-term": "He should have done better. Glenn Murray (Crystal Palace) is afforded space to connect with a Jason Puncheon cross, but his header from the centre of the box flies well wide of the left post. Arsenal quickly regain possession and launch a counterattack.",
+            "query_ano": "He should have done better. [PLAYER] ([TEAM]) is afforded space to connect with a [PLAYER] cross, but his header from the centre of the box flies well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Glenn Murray (Crystal Palace) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper. The ball briefly bounces off his back before the keeper secures it.",
+                    "history_time": "42:06",
+                    "long-term": "He has been a focal point in their attack, creating two notable chances with headers but struggling to find the target."
+                }
+            ]
+        },
+        {
+            "gameTime": "45:02",
+            "game_time": "45:02",
+            "query": "Glenn Murray (Crystal Palace) is adjudged offside.",
+            "short-term": "Glenn Murray (Crystal Palace) is adjudged offside. The assistant referee raises his flag as Murray mistimes his run.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged offside.",
+            "history": [
+                {
+                    "short-term": "Glenn Murray (Crystal Palace) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper. The ball briefly bounces off his back before the keeper secures it.",
+                    "history_time": "42:06",
+                    "long-term": "He has been posing a threat in the attacking third, although his efforts have been somewhat nullified by an offside call and a key save from the goalkeeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:06",
+            "game_time": "42:06",
+            "query": "Glenn Murray (Crystal Palace) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper.",
+            "short-term": "Glenn Murray (Crystal Palace) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper. The ball briefly bounces off his back before the keeper secures it.",
+            "query_ano": "[PLAYER] ([TEAM]) rises highest from the corner to head at goal, but his effort towards the middle of the goal is comfortably saved by the goalkeeper.",
+            "history": [
+                {
+                    "short-term": "Shola Ameobi (Crystal Palace) swings in a cross, but the ball is cleared to safety by one of the defending players. Crystal Palace force their opponents to concede a corner. The stands are not empty, only a few people leave early.",
+                    "history_time": "41:35",
+                    "long-term": "The corner kick worked. Unfortunately, no goal was scored."
+                },
+                {
+                    "short-term": "David Ospina makes a brilliant save! Yannick Bolasie (Crystal Palace) easily weaves through the defence and unleashes a shot from just outside of the box. His low shot goes towards the middle of the goal but is saved by the keeper! The ball bounces slightly on the dry pitch before Ospina collects it.",
+                    "history_time": "38:02",
+                    "long-term": "They has been consistently creating scoring opportunities, but struggling to capitalize on them. The consecutive shots were ineffective."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:35",
+            "game_time": "41:35",
+            "query": "Shola Ameobi (Crystal Palace) swings in a cross, but the ball is cleared to safety by one of the defending players. Crystal Palace force their opponents to concede a corner.",
+            "short-term": "Shola Ameobi (Crystal Palace) swings in a cross, but the ball is cleared to safety by one of the defending players. Crystal Palace force their opponents to concede a corner. The stands are not empty, only a few people leave early.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. [TEAM] force their opponents to concede a corner.",
+            "history": [
+                {
+                    "short-term": "The free kick into the penalty area from Jason Puncheon (Crystal Palace) is cleared. The delivery lacked precision, there was no one in the area where he was sending the ball.",
+                    "history_time": "32:33",
+                    "long-term": "They have been consistently using crosses and set pieces to create scoring opportunities, but so far, the opposing defense has managed to effectively clear the threats."
+                },
+                {
+                    "short-term": "The resulting corner from Jason Puncheon (Crystal Palace) only finds one of the defenders, who heads it out of danger. Wilfried Zaha tries to connect, but the opportunity is lost.",
+                    "history_time": "27:32",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and corners, but struggling to capitalize on these chances."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick. Zaha’s delivery was aimed at the far post, but the defence held firm.",
+                    "history_time": "26:58",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, putting pressure on the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:02",
+            "game_time": "38:02",
+            "query": "David Ospina makes a brilliant save! Yannick Bolasie (Crystal Palace) easily weaves through the defence and unleashes a shot from just outside of the box. His low shot goes towards the middle of the goal but is saved by the keeper!",
+            "short-term": "David Ospina makes a brilliant save! Yannick Bolasie (Crystal Palace) easily weaves through the defence and unleashes a shot from just outside of the box. His low shot goes towards the middle of the goal but is saved by the keeper! The ball bounces slightly on the dry pitch before Ospina collects it.",
+            "query_ano": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His low shot goes towards the middle of the goal but is saved by the keeper!",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly wide of the left post. Four people in the wall at the Arsenal. The goalkeeper stood motionless, realizing he had no chance if it was on target.",
+                    "history_time": "29:21",
+                    "long-term": "They have been posing a significant threat from distance, testing the goalkeeper with powerful shots and making it challenging for the opposing team to defend against their attacks."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+                    "history_time": "23:54",
+                    "long-term": "He has been consistently threatening the goal, testing the keeper with his shots and crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:25",
+            "game_time": "34:25",
+            "query": "Alan Pardew prepares a substitution. Joe Ledley is replaced by Shola Ameobi (Crystal Palace).",
+            "short-term": "Alan Pardew prepares a substitution. Joe Ledley is replaced by Shola Ameobi (Crystal Palace). Ameobi makes his debut for Crystal Palace, adding fresh energy in attack.",
+            "query_ano": "[COACH] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Substitution. Dwight Gayle is replaced by Glenn Murray (Crystal Palace). Gayle put in an energetic shift, but Murray is brought on to provide a more physical presence in the final stages.",
+                    "history_time": "33:59",
+                    "long-term": "They have been actively making tactical changes, which is their second substitution."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:33",
+            "game_time": "32:33",
+            "query": "The free kick into the penalty area from Jason Puncheon (Crystal Palace) is cleared.",
+            "short-term": "The free kick into the penalty area from Jason Puncheon (Crystal Palace) is cleared. The delivery lacked precision, there was no one in the area where he was sending the ball.",
+            "query_ano": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly wide of the left post. Four people in the wall at the Arsenal. The goalkeeper stood motionless, realizing he had no chance if it was on target.",
+                    "history_time": "29:21",
+                    "long-term": "His consecutive free kicks were ineffective, the precision is still lacking to make an impact."
+                },
+                {
+                    "short-term": "The resulting corner from Jason Puncheon (Crystal Palace) only finds one of the defenders, who heads it out of danger. Wilfried Zaha tries to connect, but the opportunity is lost.",
+                    "history_time": "27:32",
+                    "long-term": "His free kicks and corner kicks lack precision and the landing points are not very good."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick. Zaha’s delivery was aimed at the far post, but the defence held firm.",
+                    "history_time": "26:58",
+                    "long-term": "They have been consistently using crosses and set pieces to create scoring opportunities, but so far, the opposition's defense has been up to the task."
+                },
+                {
+                    "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+                    "history_time": "17:59",
+                    "long-term": "They have been utilizing set pieces and crosses to create scoring opportunities, but the opposing team's defense has been effective in clearing the threats so far."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "He has been consistently creating scoring opportunities for his team, even though the execution has been lacking precision at times."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:21",
+            "game_time": "30:21",
+            "query": "Jason Puncheon (Crystal Palace) makes a bad challenge and the referee blows his whistle for a foul.",
+            "short-term": "Jason Puncheon (Crystal Palace) makes a bad challenge and the referee blows his whistle for a foul. Arsenal is preparing a double substitution, with Kieran Gibbs and Tomas Rosicky getting ready to come on.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) commits a foul and the referee immediately signals a free kick. Arsenal’s defenders push forward, ready to restart play.",
+                    "history_time": "22:40",
+                    "long-term": "Their aggressive style of play has resulted in multiple fouls, testing the referee's patience and potentially putting their players at risk of bookings."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:21",
+            "game_time": "29:21",
+            "query": "Jason Puncheon (Crystal Palace) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly wide of the left post. The goalkeeper was lucky there.",
+            "short-term": "Jason Puncheon (Crystal Palace) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly wide of the left post. Four people in the wall at the Arsenal. The goalkeeper stood motionless, realizing he had no chance if it was on target.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a shot from a direct free kick on the edge of the box. His effort sails narrowly wide of the left post. The goalkeeper was lucky there.",
+            "history": [
+                {
+                    "short-term": "The resulting corner from Jason Puncheon (Crystal Palace) only finds one of the defenders, who heads it out of danger. Wilfried Zaha tries to connect, but the opportunity is lost.",
+                    "history_time": "27:32",
+                    "long-term": "His consecutive corner kicks and free kicks failed to create an absolute chance."
+                },
+                {
+                    "short-term": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar. It was a well-placed cross into a crowded area, and Gayle had a great chance to equalize.",
+                    "history_time": "24:28",
+                    "long-term": "They has been consistently creating scoring opportunities through set pieces, but accuracy remains a challenge for them."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+                    "history_time": "23:54",
+                    "long-term": "Crystal Palace has been posing threats through set pieces, but Arsenal's defense and goalkeeper have been responsive in countering these attempts."
+                },
+                {
+                    "short-term": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty. His positioning was good, but the execution let him down.",
+                    "history_time": "18:41",
+                    "long-term": "Crystal Palace has been creating scoring opportunities from set pieces and crosses, but the finishing touches have been lacking."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "They have been utilizing set pieces and crosses to create scoring opportunities, but have yet to capitalize on these chances."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been utilizing set pieces to create scoring opportunities, showing a threat from dead-ball situations."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "He has been posing a threat from set pieces and maintaining consistent pressure on the opponent's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:43",
+            "game_time": "28:43",
+            "query": "Mark Clattenburg has a clear sight and sees a foul from Nacho Monreal (Arsenal). Crystal Palace are awarded a free kick from a dangerous position.",
+            "short-term": "Mark Clattenburg has a clear sight and sees a foul from Nacho Monreal (Arsenal). Crystal Palace are awarded a free kick from a dangerous position. He hits his leg and results a free kick. The ball is placed less than 20 meters from goal.",
+            "query_ano": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]). [TEAM] are awarded a free kick from a dangerous position.",
+            "history": [
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) commits a foul and the referee immediately signals a free kick. Arsenal’s defenders push forward, ready to restart play.",
+                    "history_time": "22:40",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:32",
+            "game_time": "27:32",
+            "query": "The resulting corner from Jason Puncheon (Crystal Palace) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Jason Puncheon (Crystal Palace) only finds one of the defenders, who heads it out of danger. Wilfried Zaha tries to connect, but the opportunity is lost.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger.",
+            "history": [
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick. Zaha’s delivery was aimed at the far post, but the defence held firm.",
+                    "history_time": "26:58",
+                    "long-term": "The corner kick came from a great cross from his teammate, but was cleared by the defender."
+                },
+                {
+                    "short-term": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar. It was a well-placed cross into a crowded area, and Gayle had a great chance to equalize.",
+                    "history_time": "24:28",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses and corners, but have yet to capitalize on them."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+                    "history_time": "23:54",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and corners, but the opposition's goalkeeper has been up to the task so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:58",
+            "game_time": "26:58",
+            "query": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick.",
+            "short-term": "Wilfried Zaha (Crystal Palace) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Crystal Palace will have a chance to score from a corner kick. Zaha’s delivery was aimed at the far post, but the defence held firm.",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. [TEAM] will have a chance to score from a corner kick.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for Arsenal.",
+                    "history_time": "25:25",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                },
+                {
+                    "short-term": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar. It was a well-placed cross into a crowded area, and Gayle had a great chance to equalize.",
+                    "history_time": "24:28",
+                    "long-term": "This time the cross was not as accurate as last time and failed to find their tall center forward."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) commits a foul and the referee immediately signals a free kick. Arsenal’s defenders push forward, ready to restart play.",
+                    "history_time": "22:40",
+                    "long-term": "He performed well on both offense and defense and just stopped the opponent's offense with a foul."
+                },
+                {
+                    "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+                    "history_time": "17:59",
+                    "long-term": "The crosses he and his teammates attempted were ineffective and they must find a way to improve their offensive efficiency."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "The crosses he and his teammates attempted were ineffective and they must find a way to improve their offensive efficiency."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) wastes a good opportunity as his pass into the box is blocked by the defence. Olivier Giroud tracked back to help clear the danger, putting his foot in front of the cross.",
+                    "history_time": "3:14",
+                    "long-term": "He has been actively creating scoring opportunities, but struggling to break through the defensive line, with both his cross and pass into the box effectively cleared by the opposition."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:25",
+            "game_time": "25:25",
+            "query": "Yannick Bolasie (Crystal Palace) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for Arsenal.",
+            "short-term": "Yannick Bolasie (Crystal Palace) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for Arsenal.",
+            "query_ano": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar. It was a well-placed cross into a crowded area, and Gayle had a great chance to equalize.",
+                    "history_time": "24:28",
+                    "long-term": "The last time the cross was great, their striker headed it high. But this time it wasn't as threatening as last time."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+                    "history_time": "23:54",
+                    "long-term": "He has been actively creating opportunities with crosses, but it was either taken down by the goalkeeper or cleared safely."
+                },
+                {
+                    "short-term": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty. His positioning was good, but the execution let him down.",
+                    "history_time": "18:41",
+                    "long-term": "Crystal Palace has been creating opportunities with crosses, but the finishing touches have been lacking precision and execution."
+                },
+                {
+                    "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+                    "history_time": "17:59",
+                    "long-term": "He has been actively trying to create scoring opportunities with crosses, but the opposing defense has managed to clear the threats so far."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "He has consistently delivered crosses into the box, although they have yet to cause significant trouble for the opposing defense."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the opposing team's defense has been able to effectively neutralize these attempts so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:28",
+            "game_time": "24:28",
+            "query": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar.",
+            "short-term": "Pape Souare swings the cross over. Dwight Gayle (Crystal Palace) gets his head to it but it goes just over the crossbar. It was a well-placed cross into a crowded area, and Gayle had a great chance to equalize.",
+            "query_ano": "[PLAYER] swings the cross over. [PLAYER] ([TEAM]) gets his head to it but it goes just over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+                    "history_time": "23:54",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities. Last time, the goalkeeper reacted quickly to get the ball away, and this time, he failed to shoot on target.."
+                },
+                {
+                    "short-term": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty. His positioning was good, but the execution let him down.",
+                    "history_time": "18:41",
+                    "long-term": "They have been creating scoring opportunities with precise crosses, but the final shot went over the bar"
+                },
+                {
+                    "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+                    "history_time": "17:59",
+                    "long-term": "They have been consistently creating scoring opportunities with well-placed crosses, putting pressure on the opposing defense."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities. After many failed crosses, he finally found his teammates."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "He was active in the attack, participating in the wing organization and crossing the ball, and this time he waited for an opportunity in the penalty area."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:54",
+            "game_time": "23:54",
+            "query": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball.",
+            "short-term": "Yannick Bolasie (Crystal Palace) sends a cross into the box, but David Ospina comes off his line to gather the ball. The goalkeeper reacts swiftly, securing the ball before any danger arises.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but David Ospina comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty. His positioning was good, but the execution let him down.",
+                    "history_time": "18:41",
+                    "long-term": "Crystal Palace has been consistently creating scoring opportunities with well-placed crosses, but they've struggled to capitalize on these chances due to imperfect finishing."
+                },
+                {
+                    "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+                    "history_time": "17:59",
+                    "long-term": "He has been consistently providing crosses into the box, testing the opposing team's defense and creating opportunities for his team."
+                },
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "He has been consistently delivering crosses into the box. Last time the ball was too high and the landing point was not good. This time it was caught by the goalkeeper again."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but Julian Speroni was alert and made an astonishing save! Goalkeeper reacted brilliantly knocks the ball out.",
+                    "history_time": "15:40",
+                    "long-term": "Both goalkeepers have been sharp and reactive, displaying impressive reflexes to deny the opposition clear scoring opportunities."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but the opposing team's defense has been able to effectively neutralize these attempts so far."
+                },
+                {
+                    "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+                    "history_time": "7:54",
+                    "long-term": "The goalkeeper has been alert and proactive in neutralizing crosses and corners, demonstrating strong reflexes to safeguard his goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:41",
+            "game_time": "18:41",
+            "query": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty.",
+            "short-term": "Jordon Mutch (Crystal Palace) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty. His positioning was good, but the execution let him down.",
+            "query_ano": "[PLAYER] ([TEAM]) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "They have been creating opportunities with crosses into the box, but the finishing and accuracy are lacking, resulting in missed chances."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but Julian Speroni was alert and made an astonishing save! Goalkeeper reacted brilliantly knocks the ball out.",
+                    "history_time": "15:40",
+                    "long-term": "Both teams have created promising scoring opportunities, but lack of precision in finishing has let them down so far."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been creating scoring opportunities with crosses into the box, but the finishing and final execution have been lacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:59",
+            "game_time": "17:59",
+            "query": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared.",
+            "short-term": "An attempted cross from Yannick Bolasie (Crystal Palace) is cleared. The ball was whipped in with pace, but the defense reacted well to clear the danger. The striker runs into another counterattack.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+                    "history_time": "15:58",
+                    "long-term": "Several of his attempted crosses were cleared by defenders."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been consistently utilizing crosses to create scoring opportunities, putting pressure on the defense with pace and power."
+                },
+                {
+                    "short-term": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass but was quickly dispossessed by a well-timed challenge from Mertesacker. The ball is out of play, leading to a throw-in for Crystal Palace. The play started with Puncheon evading Chambers before attempting to send a pass towards the goal.",
+                    "history_time": "9:27",
+                    "long-term": "Crystal Palace has been consistently applying pressure through crosses and passes, but the defense has managed to clear the danger so far."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with multiple crosses and shots on goal, creating opportunities for a breakthrough."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:35",
+            "game_time": "16:35",
+            "query": "Olivier Giroud (Arsenal) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "short-term": "Olivier Giroud (Arsenal) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul. He receives the ball from left wing, but was  surrounded by opposing players.",
+            "query_ano": "[PLAYER] ([TEAM]) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) sees a yellow card from Mark Clattenburg after he sent one of the opposing players to the ground. It is Arsenal’s second booking of the match, adding to the team’s disciplinary concerns.",
+                    "history_time": "10:48",
+                    "long-term": "He has already received a yellow card and must watch his behavior to avoid a red card."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:58",
+            "game_time": "15:58",
+            "query": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear.",
+            "short-term": "Yannick Bolasie (Crystal Palace) sends a lofted cross into the box which is headed clear since the cross is too high and far.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear.",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but Julian Speroni was alert and made an astonishing save! Goalkeeper reacted brilliantly knocks the ball out.",
+                    "history_time": "15:40",
+                    "long-term": "Both teams have been creating scoring opportunities, with crosses and volleys testing the goalkeepers, in an intense and open match."
+                },
+                {
+                    "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+                    "history_time": "10:22",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but so far, the opposing defense has managed to neutralize these attempts."
+                },
+                {
+                    "short-term": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass but was quickly dispossessed by a well-timed challenge from Mertesacker. The ball is out of play, leading to a throw-in for Crystal Palace. The play started with Puncheon evading Chambers before attempting to send a pass towards the goal.",
+                    "history_time": "9:27",
+                    "long-term": "They have been utilizing crosses and passes to create attacking opportunities, but the opposing team's defense has been effective in clearing and intercepting these attempts."
+                },
+                {
+                    "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+                    "history_time": "7:54",
+                    "long-term": "Crystal Palace has been consistently putting pressure on Arsenal's defense with crosses and corners, testing their aerial abilities, but the Gunners have held firm so far."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "They have been consistently applying pressure with crosses into the box, demonstrating a clear intent to attack and test the opposing defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:40",
+            "game_time": "15:40",
+            "query": "Olivier Giroud (Arsenal) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but Julian Speroni was alert and made an astonishing save!",
+            "short-term": "Olivier Giroud (Arsenal) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but Julian Speroni was alert and made an astonishing save! Goalkeeper reacted brilliantly knocks the ball out.",
+            "query_ano": "[PLAYER] ([TEAM]) had a great opportunity from mid-range. His powerful volley was directed towards the right side of the goal, but [PLAYER] was alert and made an astonishing save!",
+            "history": [
+                {
+                    "short-term": "What a big chance! Alexis Sanchez (Arsenal) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post. One player threading a perfect through ball, setting Sanchez free inside the box, the finish just lacked precision.",
+                    "history_time": "11:33",
+                    "long-term": "In a few minutes, they missed two great scoring opportunities."
+                },
+                {
+                    "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+                    "history_time": "7:54",
+                    "long-term": "They have been exchanging attacking opportunities, with one side's potent offense being matched by the other's solid defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:22",
+            "game_time": "10:22",
+            "query": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "short-term": "Dwight Gayle (Crystal Palace) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender. The serve is at the near post, them continues to press despite being temporarily down to ten men.",
+            "query_ano": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+            "history": [
+                {
+                    "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Jason Puncheon (Crystal Palace). The ball is out of play. Crystal Palace will have a chance to score from a corner. Puncheon is trying to throw the ball towards the post but the ball is cleared.",
+                    "history_time": "10:01",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                },
+                {
+                    "short-term": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass but was quickly dispossessed by a well-timed challenge from Mertesacker. The ball is out of play, leading to a throw-in for Crystal Palace. The play started with Puncheon evading Chambers before attempting to send a pass towards the goal.",
+                    "history_time": "9:27",
+                    "long-term": "He has been consistently involved in key attacking plays, delivering a threatening cross and attempting to create a scoring chance."
+                },
+                {
+                    "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+                    "history_time": "7:54",
+                    "long-term": "Crystal Palace has been consistently pressuring Arsenal's defense with set pieces, particularly corners, but the Gunners' backline has managed to hold firm so far."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "They have been consistently applying pressure through multiple crosses into the box, creating several scoring opportunities."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) wastes a good opportunity as his pass into the box is blocked by the defence. Olivier Giroud tracked back to help clear the danger, putting his foot in front of the cross.",
+                    "history_time": "3:14",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) received a pass inside the box and sent a dangerous shot in on goal, but keep the champagne on ice as one of the defenders stepped in and blocked the effort. It's hard to say whether the keeper would have stopped it. Crystal Palace win a corner. The good pass is come from Campbell, he put his foot on time, and he really worked on it.",
+                    "history_time": "2:04",
+                    "long-term": "They have been consistently posing threats through crosses and passes into the box, despite the temporary disadvantage of being down to ten men, and the opposing defense has been struggling to contain their attacking pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "10:01",
+            "game_time": "10:01",
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Jason Puncheon (Crystal Palace). The ball is out of play. Crystal Palace will have a chance to score from a corner.",
+            "short-term": "One of the defenders reacts at the last minute to brilliantly block a pass from Jason Puncheon (Crystal Palace). The ball is out of play. Crystal Palace will have a chance to score from a corner. Puncheon is trying to throw the ball towards the post but the ball is cleared.",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass but was quickly dispossessed by a well-timed challenge from Mertesacker. The ball is out of play, leading to a throw-in for Crystal Palace. The play started with Puncheon evading Chambers before attempting to send a pass towards the goal.",
+                    "history_time": "9:27",
+                    "long-term": "They have been consistently applying pressure, creating opportunities, but struggling to capitalize due to the opposition's effective defensive interventions."
+                },
+                {
+                    "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+                    "history_time": "7:54",
+                    "long-term": "He was fully involved in the attack in these minutes, but the corner kick and the previous cross were not effective."
+                },
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "He was fully involved in the attack in these minutes, but the corner kick and the previous cross were not effective."
+                },
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) received a pass inside the box and sent a dangerous shot in on goal, but keep the champagne on ice as one of the defenders stepped in and blocked the effort. It's hard to say whether the keeper would have stopped it. Crystal Palace win a corner. The good pass is come from Campbell, he put his foot on time, and he really worked on it.",
+                    "history_time": "2:04",
+                    "long-term": "They have been consistently threatening the opponent's goal, creating multiple scoring opportunities through corner kicks, but have been thwarted by the defense's last-minute interventions."
+                }
+            ]
+        },
+        {
+            "gameTime": "09:27",
+            "game_time": "9:27",
+            "query": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him. The ball is out of play. Crystal Palace will take a throw-in.",
+            "short-term": "Good clearance! Dwight Gayle (Crystal Palace) received a low pass but was quickly dispossessed by a well-timed challenge from Mertesacker. The ball is out of play, leading to a throw-in for Crystal Palace. The play started with Puncheon evading Chambers before attempting to send a pass towards the goal.",
+            "query_ano": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him. The ball is out of play. [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "They have been consistently applying pressure and creating chances, with players like Puncheon and Zaha working well together to test defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:54",
+            "game_time": "7:54",
+            "query": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace).",
+            "short-term": "David Ospina comes off his line to intercept the corner from Jason Puncheon (Crystal Palace). The delivery was aimed into the heart of the penalty area, but Arsenal's defense held firm. Coquelin took a knock in the process and limped slightly as he walked back.",
+            "query_ano": "[PLAYER] comes off his line to intercept the corner from [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+                    "history_time": "7:35",
+                    "long-term": "Crystal Palace has been consistently pressuring Arsenal's defense with crosses and corners, creating several scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:35",
+            "game_time": "7:35",
+            "query": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner.",
+            "short-term": "Jason Puncheon (Crystal Palace) fires the ball at goal from inside the area, but it's well blocked. Good work from Crystal Palace as they win a corner. Wilfried Zaha had been delivering multiple crosses into the box before this attempt, keeping the pressure on Arsenal.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked. Good work from [TEAM] as they win a corner.",
+            "history": [
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) received a pass inside the box and sent a dangerous shot in on goal, but keep the champagne on ice as one of the defenders stepped in and blocked the effort. It's hard to say whether the keeper would have stopped it. Crystal Palace win a corner. The good pass is come from Campbell, he put his foot on time, and he really worked on it.",
+                    "history_time": "2:04",
+                    "long-term": "Their consecutive shots were blocked in these few minutes."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:25",
+            "game_time": "3:25",
+            "query": "Jason Puncheon (Crystal Palace) overhits the corner kick and none of his teammates can get their head on it.",
+            "short-term": "Jason Puncheon (Crystal Palace) overhits the corner kick and none of his teammates can get their head on it. The delivery went too far, and Fraser Campbell couldn't stretch enough to make contact.",
+            "query_ano": "[PLAYER] ([TEAM]) overhits the corner kick and none of his teammates can get their head on it.",
+            "history": [
+                {
+                    "short-term": "Jason Puncheon (Crystal Palace) works the corner short. The ball is played to Wilfried Zaha, who looks for a chance to cross but is quickly closed down by the defence.",
+                    "history_time": "3:04",
+                    "long-term": "He has been struggling to create scoring opportunities from corner kicks, with his deliveries either going too far or being effectively defended."
+                }
+            ]
+        },
+        {
+            "gameTime": "03:14",
+            "game_time": "3:14",
+            "query": "Wilfried Zaha (Crystal Palace) wastes a good opportunity as his pass into the box is blocked by the defence. Crystal Palace have been awarded a corner kick.",
+            "short-term": "Wilfried Zaha (Crystal Palace) wastes a good opportunity as his pass into the box is blocked by the defence. Olivier Giroud tracked back to help clear the danger, putting his foot in front of the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Wilfried Zaha (Crystal Palace) received a pass inside the box and sent a dangerous shot in on goal, but keep the champagne on ice as one of the defenders stepped in and blocked the effort. It's hard to say whether the keeper would have stopped it. Crystal Palace win a corner. The good pass is come from Campbell, he put his foot on time, and he really worked on it.",
+                    "history_time": "2:04",
+                    "long-term": "He has been posing a threat in the attacking third, creating a couple of chances, but his consecutive shots were blocked."
+                }
+            ]
+        }
+    ]
+}

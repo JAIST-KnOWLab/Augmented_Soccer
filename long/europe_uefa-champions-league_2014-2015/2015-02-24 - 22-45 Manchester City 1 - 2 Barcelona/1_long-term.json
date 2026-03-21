@@ -1,0 +1,289 @@
+{
+    "annotations": [
+        {
+            "query": "Samir Nasri (Manchester City) tries to find the head of a teammate in the box but overhits the cross.",
+            "target": "It's a good ball towards Agüero just a little too tall for him.",
+            "game_time": "17:03",
+            "short-term": "Samir Nasri delivers a cross into the box aiming for a teammate's head, but it's slightly too high for Sergio Agüero to reach.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] delivers a cross into the box aiming for a teammate's head, but it's slightly too high for [PLAYER] to reach.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to find the head of a teammate in the box but overhits the cross.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez (Barcelona) takes the chance to have an effort at goal from inside the box but misses to the left of the target. The ball was poorly delivered to him, and he failed to make a good shot.",
+                    "history_time": "12:16",
+                    "long-term": "Both teams have been creating scoring opportunities with crosses and passes into the box, but their accuracy and finishing have been lacking. They have shown potential in their attacking play but need to improve their precision."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) strikes a volley towards goal, but one of the defenders blocks his effort.",
+            "target": "Click towards [player]Suarez[player], oh it hit [player]Neymar[player] almost felt kindly for [player]Messi[player] again.",
+            "game_time": "19:30",
+            "short-term": "Luis Suarez takes a volley towards goal, but it strikes Neymar and nearly falls kindly for Messi.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] takes a volley towards goal, but it strikes [PLAYER] and nearly falls kindly for Messi, who strikes a volley towards goal, but one of the defenders blocks his effort.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) strikes a volley towards goal, but one of the defenders blocks his effort.",
+            "query_ano": "[PLAYER] ([TEAM]) strikes a volley towards goal, but one of the defenders blocks his effort.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez found himself in a promising position, but the game was stopped by the referee after the linesman signaled for offside.",
+                    "history_time": "18:04",
+                    "long-term": "He has been creating scoring opportunities, despite being caught offside and experiencing a near-miss earlier."
+                },
+                {
+                    "short-term": "Samir Nasri delivers a cross into the box aiming for a teammate's head, but it's slightly too high for Sergio Agüero to reach.",
+                    "history_time": "17:03",
+                    "long-term": "They have been creating scoring opportunities with exceptional passing plays, but the finishing touches have been slightly off."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) takes the chance to have an effort at goal from inside the box but misses to the left of the target. The ball was poorly delivered to him, and he failed to make a good shot.",
+                    "history_time": "12:16",
+                    "long-term": "He has been presented with a couple of scoring opportunities but hasn't managed to capitalize on them yet."
+                }
+            ]
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends a bullet header just wide of the left post!",
+            "target": "[player]David Silva[player], please see 3 blue shirts in the box. One of them [player]Dzeko[player].",
+            "game_time": "20:06",
+            "short-term": "David Silva (Manchester City) found three teammates in the box, he attempts a cross. Dzeko had a golden opportunity to score but failed to convert the chance. He latched on to a perfect cross from the wing into the penalty area and sent a powerful header just wide of the left post.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) found three teammates in the box, he attempts a cross. Dzeko had a golden opportunity to score but failed to convert the chance. He latched on to a perfect cross from the wing into the penalty area and sent a powerful header just wide of the left post.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends a bullet header just wide of the left post!",
+            "query_ano": "[PLAYER] ([TEAM]) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends a bullet header just wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Samir Nasri delivers a cross into the box aiming for a teammate's head, but it's slightly too high for Sergio Agüero to reach.",
+                    "history_time": "17:03",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses into the box, but are struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Luis Suárez (Barcelona) takes the chance to have an effort at goal from inside the box but misses to the left of the target. The ball was poorly delivered to him, and he failed to make a good shot.",
+                    "history_time": "12:16",
+                    "long-term": "Both teams have been creating scoring opportunities with precise crosses, but the strikers have struggled to convert these chances into goals."
+                }
+            ]
+        },
+        {
+            "query": "Gael Clichy (Manchester City) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "target": "It works it well now [player]Clichy[player] can pick across. Towards [player]Nasri[player], but Jordie Albert deals with it.",
+            "game_time": "21:53",
+            "short-term": "Gael Clichy sends a lofted cross towards Samir Nasri, but Jordi Alba deals his cross comfortably and intercepts the ball.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] sends a lofted cross towards [PLAYER], but [PLAYER] deals his cross comfortably and intercepts the ball.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "history": [
+                {
+                    "short-term": "David Silva (Manchester City) found three teammates in the box, he attempts a cross. Dzeko had a golden opportunity to score but failed to convert the chance. He latched on to a perfect cross from the wing into the penalty area and sent a powerful header just wide of the left post.",
+                    "history_time": "20:06",
+                    "long-term": "They have been creating scoring opportunities through crosses, but so far, the opposing team's defense has been able to handle the threats."
+                },
+                {
+                    "short-term": "Luis Suarez takes a volley towards goal, but it strikes Neymar and nearly falls kindly for Messi.",
+                    "history_time": "19:30",
+                    "long-term": "The match has seen both teams create scoring opportunities through crosses and volleys, but defenses have held strong so far."
+                },
+                {
+                    "short-term": "Samir Nasri delivers a cross into the box aiming for a teammate's head, but it's slightly too high for Sergio Agüero to reach.",
+                    "history_time": "17:03",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, but so far, the opposing team's defense has managed to neutralize these attempts."
+                }
+            ]
+        },
+        {
+            "query": "The linesman signals that Ivan Rakitic (Barcelona) is offside and the referee confirms the decision.",
+            "target": "Click cross [player]Rakitic[player] in the clear flag was up. He was offside.",
+            "game_time": "24:12",
+            "short-term": "The linesman signals that Ivan Rakitic (Barcelona) is offside, and the referee confirms the decision. Rakitic was in an offside position when he received the ball.",
+            "label": "offside",
+            "short-term_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside, and the referee confirms the decision. Rakitic was in an offside position when he received the ball.",
+            "sncaption_anonymized": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "query_ano": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+            "history": [
+                {
+                    "short-term": "Luis Suárez found himself in a promising position, but the game was stopped by the referee after the linesman signaled for offside.",
+                    "history_time": "18:04",
+                    "long-term": "They have been struggling with offside decisions, having been flagged for it multiple times, highlighting the need for improvement in their timing and positioning."
+                }
+            ]
+        },
+        {
+            "query": "David Silva (Manchester City) sends a cross into the box, but the opposition's defence clears the ball to safety. Manchester City win a corner.",
+            "target": "[player]Nasri[player] onto [player]David Silva[player], much better from [team]Manchester City[team]. Slick combination. Very good move for 1-2, one in the box. Agero.",
+            "game_time": "26:46",
+            "short-term": "David Silva (Manchester City) played a neat pass to Samir Nasri (Manchester City), who combined well with Silva. The slick 1-2 move allowed a cross into the box, but the opposition's defense cleared it to safety. Manchester City earned a corner.",
+            "label": "corner",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) played a neat pass to [PLAYER] ([TEAM]), who combined well with Silva. The slick 1-2 move allowed a cross into the box, but the opposition's defense cleared it to safety. [TEAM] earned a corner.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. [TEAM] win a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. [TEAM] win a corner.",
+            "history": [
+                {
+                    "short-term": "Gael Clichy sends a lofted cross towards Samir Nasri, but Jordi Alba deals his cross comfortably and intercepts the ball.",
+                    "history_time": "21:53",
+                    "long-term": "They have consistently utilized combination plays and crosses to create scoring opportunities."
+                },
+                {
+                    "short-term": "Samir Nasri delivers a cross into the box aiming for a teammate's head, but it's slightly too high for Sergio Agüero to reach.",
+                    "history_time": "17:03",
+                    "long-term": "They have been consistently displaying impressive passing combinations and creative playmaking in the opponent's half."
+                }
+            ]
+        },
+        {
+            "query": "David Silva (Manchester City) swings in the corner, but it's comfortably cleared away.",
+            "target": "It's headed away by [player]Luis Suarez[player].",
+            "game_time": "27:16",
+            "short-term": "David Silva delivered a corner kick, but Luis Suarez cleared the ball away.",
+            "label": "corner",
+            "short-term_anonymized": "[PLAYER] delivered a corner kick, but [PLAYER] cleared the ball away.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+            "history": [
+                {
+                    "short-term": "David Silva (Manchester City) played a neat pass to Samir Nasri (Manchester City), who combined well with Silva. The slick 1-2 move allowed a cross into the box, but the opposition's defense cleared it to safety. Manchester City earned a corner.",
+                    "history_time": "26:46",
+                    "long-term": "This corner kick comes after a quick one-two combination, allowing a cross into the box that the opposition's defense could only clear out for a corner."
+                }
+            ]
+        },
+        {
+            "query": "GOAL! Luis Suarez (Barcelona) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the right-hand post. The score is 0:2.",
+            "target": "It's brilliant. [player]Suarez[player] has got another [team]Manchester City[team] totally under. Luis [player]Suarez[player] has struck twice in the opening half an hour and already this Champions League tie is drifting beyond the home team.Two nil, the [team]Barcelona[team] well [player]Suarez[player] would get the credit for the goal, quite rightly so, but.[player]Messi[player]. What a pair of feet he's got on him. Well, one foot. He's left one. Watch this. Just absolutely brilliant gets the ball close control 3/4 players plays a perfect pass up and then just wait. [player]Suarez[player] runs across his defender.",
+            "game_time": "29:48",
+            "short-term": "Lionel Messi (Barcelona) displayed exceptional close control, maneuvering through three or four Manchester City defenders. With a perfectly timed pass, Messi set up Luis Suarez (Barcelona) in front of the goal. Suarez made no mistake, firing a low drive into the right-hand post to give Barcelona a 2-0 lead.",
+            "label": "goal",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) displayed exceptional close control, maneuvering through three or four [TEAM] defenders. With a perfectly timed pass, [PLAYER] set up [PLAYER] ([TEAM]) in front of the goal. [PLAYER] made no mistake, firing a low drive into the right-hand post to give [TEAM] a 2-0 lead.",
+            "sncaption_anonymized": "GOAL! [PLAYER] ([TEAM]) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the right-hand post. The score is 0:2.",
+            "query_ano": "GOAL! [PLAYER] ([TEAM]) got to the ball in front of the goal and he couldn't miss from there. His low drive went in off the right-hand post. The score is 0:2.",
+            "history": [
+                {
+                    "short-term": "Goal! Messi played the ball to Suárez, who tried to flick it on, but it hit Kompany and bounced back to him. Suárez then calmly finished with his left foot, sending the ball low and hard into the net. The goalkeeper had no chance. The score is 0:1.",
+                    "history_time": "15:27",
+                    "long-term": "The attacking duo has been a nightmare for the opposing defense, capitalizing on scoring opportunities with clinical finishes and potent link-up play. Their combinational chemistry has yielded crucial goals in pivotal moments."
+                }
+            ]
+        },
+        {
+            "query": "Barcelona keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "target": "The players are making run beyond the back four because the man on the ball has got so much time to play any pass he wants.",
+            "game_time": "31:52",
+            "short-term": "The players are making runs beyond the back four because the player on the ball has so much time to play any pass he wants. Barcelona keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "label": "other",
+            "short-term_anonymized": "The players are making runs beyond the back four because the player on the ball has so much time to play any pass he wants. [TEAM] keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "sncaption_anonymized": "[TEAM] keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "query_ano": "[TEAM] keep possession of the ball by producing short passes and one-two passes from player to player.",
+            "history": [
+                {
+                    "short-term": "Barcelona are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+                    "history_time": "23:35",
+                    "long-term": "They have been maintaining possession effectively through a series of short passes and one-twos, looking for openings to break through the opposition's defense. This persistent strategy has allowed them to control the tempo of the game."
+                }
+            ]
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball.",
+            "target": "",
+            "game_time": "33:49",
+            "short-term": "Edin Dzeko (Manchester City) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "history": [
+                {
+                    "short-term": "Gael Clichy sends a lofted cross towards Samir Nasri, but Jordi Alba deals his cross comfortably and intercepts the ball.",
+                    "history_time": "21:53",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses into the box, but have yet to find a breakthrough."
+                }
+            ]
+        },
+        {
+            "query": "Edin Dzeko (Manchester City) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "target": "[player]Dzeko[player] with the shot blocked by [player]Piqu[player]. Survives the handball appeals.",
+            "game_time": "39:18",
+            "short-term": "Edin Dzeko (Manchester City) reacts quickly to the rebound just outside the box and takes a shot, but Gerard Piqué (Barcelona) steps in with a crucial block. The referee dismisses the handball appeals from Manchester City.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) reacts quickly to the rebound just outside the box and takes a shot, but [PLAYER] ([TEAM]) steps in with a crucial block. The referee dismisses the handball appeals from [TEAM].",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "query_ano": "[PLAYER] ([TEAM]) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Edin Dzeko (Manchester City) swings a cross into the box, but it's far too close to Marc-Andre ter Stegen, who smothers the ball.",
+                    "history_time": "33:49",
+                    "long-term": "They have consistently threatened the opponent's goal with multiple attacks, although struggling to find the finishing touch, and leaving themselves open to counter-attacks. The player has shown determination, repeatedly testing the goalkeeper with powerful shots and dangerous crosses."
+                }
+            ]
+        },
+        {
+            "query": "Gael Clichy (Manchester City) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "target": "It was a dreadful cross from very good position.",
+            "game_time": "40:07",
+            "short-term": "Gael Clichy (Manchester City) delivered a cross into the box from a promising position, but it was poorly executed, and none of his teammates could connect with it.",
+            "label": "chance",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) delivered a cross into the box from a promising position, but it was poorly executed, and none of his teammates could connect with it.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "query_ano": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "history": [
+                {
+                    "short-term": "Gael Clichy sends a lofted cross towards Samir Nasri, but Jordi Alba deals his cross comfortably and intercepts the ball.",
+                    "history_time": "21:53",
+                    "long-term": "The player's crosses have been inconsistent and lackluster, failing to pose a significant threat in the opposition's box."
+                }
+            ]
+        },
+        {
+            "query": "Pablo Zabaleta (Manchester City) is penalised for a foul. The referee had a clear view and blows his whistle.",
+            "target": "",
+            "game_time": "41:52",
+            "short-term": "Pablo Zabaleta of Manchester City is penalised for a foul. The referee had a clear view of the incident and blew his whistle to signal a foul.",
+            "label": "foul",
+            "short-term_anonymized": "[PLAYER] of [TEAM] is penalised for a foul. The referee had a clear view of the incident and blew his whistle to signal a foul.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) is penalised for a foul. The referee had a clear view and blows his whistle.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for a foul. The referee had a clear view and blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Manchester City will try to make challenges and impose themselves on the game. Pablo Zabaleta is the type of player who will put his body on the line to win the ball. The referee, Felix Brych, was quick to blow the whistle and penalize Zabaleta for his foul.",
+                    "history_time": "34:04",
+                    "long-term": "He has shown tenacity in his defensive play but also picked up a foul, and it will be crucial for him to strike a balance between aggression and discipline in his game."
+                }
+            ]
+        },
+        {
+            "query": "Crossbar! Dani Alves (Barcelona) amazingly found his way through the defence, but lacked a precise finish as his effort from close range crashed against the crossbar.",
+            "target": "[playerJoe ]Hart[player] somehow helped it onto the crossbar.",
+            "game_time": "43:25",
+            "short-term": "Joe Hart (Manchester City) made an incredible save, tipping the ball onto the crossbar. Dani Alves of Barcelona made an impressive run through the defence. It was a close call, but Hart’s save prevented a goal.",
+            "label": "shoot",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) made an incredible save, tipping the ball onto the crossbar. [PLAYER] of [TEAM] made an impressive run through the defence. It was a close call, but [PLAYER]'s save prevented a goal.",
+            "sncaption_anonymized": "Crossbar! [PLAYER] ([TEAM]) amazingly found his way through the defence, but lacked a precise finish as his effort from close range crashed against the crossbar.",
+            "query_ano": "Crossbar! [PLAYER] ([TEAM]) amazingly found his way through the defence, but lacked a precise finish as his effort from close range crashed against the crossbar.",
+            "history": [
+                {
+                    "short-term": "Gael Clichy (Manchester City) delivered a cross into the box from a promising position, but it was poorly executed, and none of his teammates could connect with it.",
+                    "history_time": "40:07",
+                    "long-term": "They have been displaying impressive defensive skills, saving a crucial goal, but at the same time struggling to create scoring opportunities with poor crosses into the box."
+                }
+            ]
+        },
+        {
+            "query": "Dani Alves (Barcelona) sees a yellow card from Felix Brych after he sent one of the opposing players to the ground.",
+            "target": "[player]Dani Alves[player] just couldn't help himself, but haven't nibbled there at [player]Sergio Agcero[player] as he run away from him. It's a yellow card for the [team]Barcelona[team] right back. Pointing at the ball.",
+            "game_time": "44:19",
+            "short-term": ".Dani Alves (Barcelona) receives a yellow card from the referee after tripping Sergio Agüero (Manchester City) while trying to recover possession. The Barcelona right-back gestures towards the ball in an attempt to argue his case.",
+            "label": "foul-card",
+            "short-term_anonymized": "[PLAYER] ([TEAM]) receives a yellow card from the referee after tripping [PLAYER] ([TEAM]) while trying to recover possession. The [TEAM] right-back gestures towards the ball in an attempt to argue his case.",
+            "sncaption_anonymized": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground.",
+            "history": [
+                {
+                    "short-term": "Felix Brych issues a yellow card to Ivan Rakitic (Barcelona) for a reckless challenge made moments earlier.",
+                    "history_time": "40:37",
+                    "long-term": "They are demonstrating aggressive defending and have been booked twice, which could potentially put them at a disadvantage for the remainder of the match."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "annotations": [
+        {
+            "label": "chance",
+            "query": "Thiago Silva (Paris SG) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball.",
+            "game_time": "10:50",
+            "short-term": "Thiago Silva (Paris SG) sends a long ball in, but Marc-Andre ter Stegen comfortably gathers the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "label": "chance",
+            "query": "Gregory van der Wiel (Paris SG) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "game_time": "10:35",
+            "short-term": "Gregory van der Wiel (Paris SG) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Gerard Piqué reacted first and won the header to clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "label": "foul",
+            "query": "Luis Suarez (Barcelona) was too forceful with his tackle and Martin Atkinson interrupted the game to signal a free kick. A free kick to Paris SG.",
+            "game_time": "11:24",
+            "short-term": "Luis Suarez (Barcelona) was too forceful with his tackle and Martin Atkinson interrupted the game to signal a free kick. A free kick to Paris SG.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [PLAYER] interrupted the game to signal a free kick. A free kick to [TEAM]."
+        },
+        {
+            "label": "other",
+            "query": "Marco Verratti (Paris SG) releases Blaise Matuidi, who latched on to his perfect through pass and can continue with his team's attack.",
+            "game_time": "13:55",
+            "short-term": "Marco Verratti (Paris SG) releases Blaise Matuidi, who latched on to his perfect through pass and can continue with his team's attack.",
+            "query_ano": "[PLAYER] ([TEAM]) releases [PLAYER], who latched on to his perfect through pass and can continue with his team's attack."
+        },
+        {
+            "label": "other",
+            "query": "Zlatan Ibrahimovic (Paris SG) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack.",
+            "game_time": "14:15",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack. Lucas drives forward, adding urgency to Paris SG's attack.",
+            "query_ano": "[PLAYER] ([TEAM]) releases Lucas, who latched on to his perfect through pass and can continue with his team's attack."
+        },
+        {
+            "label": "goal",
+            "query": "What a goal! Blaise Matuidi plays it to Zlatan Ibrahimovic (Paris SG), who finds himself unmarked inside the box and slots a first-time shot past Marc-Andre ter Stegen into the bottom right corner. 0:1.",
+            "game_time": "14:32",
+            "short-term": "What a goal! Blaise Matuidi plays it to Zlatan Ibrahimovic (Paris SG), who finds himself unmarked inside the box and slots a first-time shot past Marc-Andre ter Stegen into the bottom right corner. Paris SG takes the lead, 0:1.",
+            "query_ano": "What a goal! [PLAYER] plays it to [PLAYER] ([TEAM]), who finds himself unmarked inside the box and slots a first-time shot past [PLAYER] into the bottom right corner. 0:1."
+        },
+        {
+            "label": "chance",
+            "query": "Luis Suarez (Barcelona) fizzes over a cross which doesn't cause any problems.",
+            "game_time": "16:29",
+            "short-term": "Luis Suarez (Barcelona) fizzes over a cross which doesn't cause any problems. His delivery lacked accuracy, failing to find a teammate in a dangerous area.",
+            "query_ano": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems."
+        },
+        {
+            "label": "chance",
+            "query": "Quick reactions by Edinson Cavani (Paris SG) and Maxwell, tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+            "game_time": "17:14",
+            "short-term": "Quick reactions by Edinson Cavani (Paris SG) and Maxwell, tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch.",
+            "query_ano": "Quick reactions by [PLAYER] ([TEAM]) and [PLAYER], tricking their opponents with a cheeky chip pass. A beautiful football moment and great skill, which caused the noise in the stadium to go up a notch."
+        },
+        {
+            "label": "other",
+            "query": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch.",
+            "game_time": "18:30",
+            "short-term": "Andres Iniesta (Barcelona) smashes the ball upfield and Luis Suarez brings it down with a fine first touch. A well-placed long pass that allowed Barcelona to advance quickly.",
+            "query_ano": "[PLAYER] ([TEAM]) smashes the ball upfield and [PLAYER] brings it down with a fine first touch."
+        },
+        {
+            "label": "goal",
+            "query": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless.",
+            "game_time": "18:46",
+            "short-term": "Goal - 1:1! Luis Suarez laid the ball off to Lionel Messi (Barcelona), who shot from close range into the right side of the goal, leaving the goalkeeper helpless. The move was well-crafted, with Suarez cutting the ball back to Messi, who finished with precision.",
+            "query_ano": "Goal - 1:1! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range into the right side of the goal, leaving the goalkeeper helpless."
+        },
+        {
+            "label": "other",
+            "query": "Paris SG exchange some short passes over a small area and control the game. Now they make a mistake and lose the ball and the whole situation changes completely.",
+            "game_time": "21:41",
+            "short-term": "Paris SG exchange some short passes over a small area and control the game. Now they make a mistake and lose the ball, allowing the opposition to launch a quick counter-attack. Their midfield is caught off guard, forcing the defenders to scramble back.",
+            "query_ano": "[TEAM] exchange some short passes over a small area and control the game. Now they make a mistake and lose the ball and the whole situation changes completely."
+        },
+        {
+            "label": "shoot",
+            "query": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. Barcelona win a corner.",
+            "game_time": "22:38",
+            "short-term": "Luis Suarez (Barcelona) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender, deflecting for a corner. The ball was heading towards the near post before being deflected out. Suarez throws his hands up, frustrated by the block.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. [TEAM] win a corner."
+        },
+        {
+            "label": "shoot",
+            "query": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The ball goes out of play and Paris SG will have a goal kick.",
+            "game_time": "23:11",
+            "short-term": "Sergio Busquets (Barcelona) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The goalkeeper barely needed to move as the ball sailed over. Busquets shakes his head, knowing he could have done better.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "label": "chance",
+            "query": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",
+            "game_time": "24:09",
+            "short-term": "Pedro (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but a defender reads the play well and intercepts it. The ball was floating towards the penalty spot before being cut out. Pedro looks up in frustration as his teammates were making good runs.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+        },
+        {
+            "label": "chance",
+            "query": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball.",
+            "game_time": "25:54",
+            "short-term": "Pedro (Barcelona) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball. The goalkeeper times his movement perfectly, stretching out to claim the ball before any attacker could reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball."
+        },
+        {
+            "label": "other",
+            "query": "Barcelona are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+            "game_time": "25:37",
+            "short-term": "Barcelona are showcasing great teamwork by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break. Their midfielders are constantly shifting positions to create openings.",
+            "query_ano": "[TEAM] are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "label": "foul",
+            "query": "Pedro (Barcelona) commits a rough challenge and Martin Atkinson blows his whistle for a foul. Paris SG have a free kick.",
+            "game_time": "29:43",
+            "short-term": "Pedro (Barcelona) commits a rough challenge and Martin Atkinson blows his whistle for a foul. Pedro caught Verratti late, clipping his ankle as he tried to turn. Verratti stays on the ground for a moment before getting back up.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough challenge and [PLAYER] blows his whistle for a foul. [TEAM] have a free kick."
+        },
+        {
+            "label": "shoot",
+            "query": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for Barcelona.",
+            "game_time": "28:35",
+            "short-term": "Lucas Moura (Paris SG) does well to meet a cross from Blaise Matuidi, but he directs his shot just wide of the left post. He was under pressure from the defender and couldn’t fully control the shot. Moura puts his hands on his head, disappointed with the miss.",
+            "query_ano": "[PLAYER] ([TEAM]) does well to meet a cross from [PLAYER], but he directs his shot just wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "label": "chance",
+            "query": "Lionel Messi (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+            "game_time": "29:21",
+            "short-term": "Lionel Messi (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him. He tried to weave past two defenders but was stopped just outside the box. The crowd reacts with a mix of cheers and groans.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "label": "shoot",
+            "query": "Marc-Andre ter Stegen gets a well deserved ovation! Edinson Cavani (Paris SG) produces a decent first-time strike towards the bottom left corner, but the goalkeeper is positioned well to block it.",
+            "game_time": "30:24",
+            "short-term": "Marc-Andre ter Stegen (Barcelona) gets a well-deserved ovation! Edinson Cavani (Paris SG) produces a decent first-time strike towards the bottom left corner, but the goalkeeper is positioned well to block it. Ter Stegen quickly gets back on his feet, ensuring no rebound opportunity.",
+            "query_ano": "[PLAYER] gets a well deserved ovation! [PLAYER] ([TEAM]) produces a decent first-time strike towards the bottom left corner, but the goalkeeper is positioned well to block it."
+        },
+        {
+            "label": "chance",
+            "query": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG.",
+            "game_time": "31:20",
+            "short-term": "Marc Bartra (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for Paris SG. Bartra gestures towards his teammates, asking for more movement.",
+            "query_ano": "Marc Bartra ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "label": "other",
+            "query": "A raking crossfield pass from Thiago Silva (Paris SG) lacks accuracy and the opposition gain possession.",
+            "game_time": "33:53",
+            "short-term": "A raking crossfield pass from Thiago Silva (Paris SG) lacks accuracy and the opposition gain possession. The ball skids off the surface, making it harder to control. Silva raises his hand in apology to his teammates.",
+            "query_ano": "A raking crossfield pass from [PLAYER] ([TEAM]) lacks accuracy and the opposition gain possession."
+        },
+        {
+            "query": "Neymar (Barcelona) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",
+            "game_time": "35:22",
+            "short-term": "Neymar (Barcelona) sends a cross into the box, but Maxwell quickly intercepted the ball and cleared the danger. The ball was aimed towards Suarez at the far post, but Maxwell reacted swiftly to prevent any chance.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "query": "Neymar (Barcelona) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",
+            "game_time": "36:57",
+            "short-term": "Neymar attempted to chip the ball into the box, aiming to find Lionel Messi in the middle. But one of the defending players reacted superbly and intercepted the pass. Neymar looked frustrated as he gestured for more movement from his teammates.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+        },
+        {
+            "query": "Neymar (Barcelona) unleashes a shot from long range but it's well blocked.",
+            "game_time": "36:37",
+            "short-term": "Neymar took a long-range shot, but it was charged down by Lucas, who blocked the effort. The ball deflected away from the goal, and Neymar showed a hint of frustration as he turned back to regroup.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from long range but it's well blocked."
+        },
+        {
+            "query": "What a spectacular moment! Neymar (Barcelona) skips past defenders and finds some space before firing a long-range strike at goal. The fans are amazed when they see the ball go inside the right post. The scoreline is 2:1.",
+            "game_time": "41:06",
+            "short-term": "Incredible goal from Neymar! Surrounded by five defenders, Neymar skillfully maneuvered past them, creating just enough space. With no hesitation, he fired a long-range strike that found the inside of the right post, leaving the goalkeeper rooted to the spot. The stadium erupted in applause as Neymar celebrated with his arms raised.",
+            "query_ano": "What a spectacular moment! [PLAYER] ([TEAM]) skips past defenders and finds some space before firing a long-range strike at goal. The fans are amazed when they see the ball go inside the right post. The scoreline is 2:1."
+        },
+        {
+            "query": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "game_time": "42:07",
+            "short-term": "The Barcelona players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence. The quick tempo of their play is making it difficult for the opposition to keep up, as they continue probing for an opening.",
+            "query_ano": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "query": "Marco Verratti (Paris SG) looks to break free, but an opposing player clears the ball away.",
+            "game_time": "45:04",
+            "short-term": "Marco Verratti (Paris SG) looked to break free, but an opposing player intercepted the ball and cleared it away. Verratti threw his arms up in frustration as the attack was cut short.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        }
+    ]
+}

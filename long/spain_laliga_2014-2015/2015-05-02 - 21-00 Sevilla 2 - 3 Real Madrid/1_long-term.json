@@ -1,0 +1,313 @@
+{
+    "annotations": [
+        {
+            "query": "Aleix Vidal (Sevilla) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "game_time": "13:52",
+            "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+                    "history_time": "11:47",
+                    "long-term": "They have been creating scoring opportunities but struggling to convert them, with the opposing team's defense effectively neutralizing their threats."
+                }
+            ]
+        },
+        {
+            "query": "Ever Banega (Sevilla) hammers the ball from far out, but his shot is blocked by an opposition player.",
+            "game_time": "15:38",
+            "short-term": "Ever Banega hammers the ball from far out, but his shot is blocked by an opposition player. The deflection slows down the attack, allowing the defense to reorganize.",
+            "query_ano": "[PLAYER] ([TEAM]) hammers the ball from far out, but his shot is blocked by an opposition player.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense has been effective in blocking their shots and preventing them from capitalizing on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Chicharito (Real Madrid) starts his run too early and the referee blows for offside.",
+            "game_time": "20:10",
+            "short-term": "Chicharito starts his run too early and the referee blows for offside. He pings the ball towards goal, but the flag was already raised.",
+            "query_ano": "[PLAYER] ([TEAM]) starts his run too early and the referee blows for offside.",
+            "history": [
+                {
+                    "short-term": "Daniel Carvajal pulls the jersey of one of the opposition players and Jose Luis Gonzalez blows his whistle for a foul. It was a moment of frustration as Carvajal struggled to keep up with the attacker.",
+                    "history_time": "16:49",
+                    "long-term": "They have shown moments of recklessness, with one player's impulsive run resulting in an offside call and another player's frustration leading to a conceded foul."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "game_time": "19:50",
+            "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+                    "history_time": "11:47",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been effective in neutralizing the threats."
+                }
+            ]
+        },
+        {
+            "query": "Carlos Bacca (Sevilla) dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him.",
+            "game_time": "20:55",
+            "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+            "query_ano": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's goalkeeper and defense have been doing well to neutralize the threats."
+                }
+            ]
+        },
+        {
+            "query": "Chicharito (Real Madrid) tries to pass the ball into the penalty area but it's blocked.",
+            "game_time": "21:25",
+            "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to pass the ball into the penalty area but it's blocked.",
+            "history": [
+                {
+                    "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+                    "history_time": "20:55",
+                    "long-term": "The defense has been solid, repelling multiple attacks and consistently thwarting opposition attempts to create clear scoring opportunities."
+                },
+                {
+                    "short-term": "Chicharito starts his run too early and the referee blows for offside. He pings the ball towards goal, but the flag was already raised.",
+                    "history_time": "20:10",
+                    "long-term": "He has been struggling to create scoring opportunities, with his efforts consistently thwarted by the defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+                    "history_time": "19:50",
+                    "long-term": "They have been consistently testing the defense with creative passing sequences, seeking to unlock scoring opportunities."
+                },
+                {
+                    "short-term": "Ever Banega hammers the ball from far out, but his shot is blocked by an opposition player. The deflection slows down the attack, allowing the defense to reorganize.",
+                    "history_time": "15:38",
+                    "long-term": "They have been consistently testing the defense with persistent attacks, but the opposition's backline has shown resilience in blocking their efforts."
+                },
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "They have been creating scoring opportunities but struggling to break down the opposition's defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+                    "history_time": "11:47",
+                    "long-term": "They have been consistently attempting to break through the opponent's defense, utilizing crosses and passes into the box to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "game_time": "23:30",
+            "short-term": "Aleix Vidal finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. Bacca had been lurking nearby, waiting for an opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+                    "history_time": "21:25",
+                    "long-term": "They have been pushing forward, attempting to find spaces behind the defense, but the offside trap and defensive blocks have thwarted their efforts so far."
+                },
+                {
+                    "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+                    "history_time": "20:55",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense, particularly the goalkeeper, has been alert to thwart their attacks."
+                },
+                {
+                    "short-term": "Chicharito starts his run too early and the referee blows for offside. He pings the ball towards goal, but the flag was already raised.",
+                    "history_time": "20:10",
+                    "long-term": "They have been pushing forward aggressively but struggled with precision in their timing, leading to consecutive offside calls that have stifled their attacking momentum."
+                },
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "He has been posing a threat to the opponent's defense, getting into promising positions, but hasn't quite capitalized on the chances."
+                }
+            ]
+        },
+        {
+            "query": "Isco (Real Madrid) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "game_time": "24:30",
+            "short-term": "Isco blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball deflects out for a corner, keeping the pressure on the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. Bacca had been lurking nearby, waiting for an opportunity.",
+                    "history_time": "23:30",
+                    "long-term": "They have been consistently pressuring the opposition's defense with creative attacking plays, despite encountering some obstacles along the way."
+                },
+                {
+                    "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+                    "history_time": "21:25",
+                    "long-term": "They have been consistently applying pressure on the opposition's defense, despite having their attempts blocked, and are likely to continue threatening with their attacking momentum."
+                },
+                {
+                    "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+                    "history_time": "20:55",
+                    "long-term": "They have been creating scoring opportunities with strong individual efforts, but the opposition's defense and goalkeeper have been able to neutralize these threats."
+                },
+                {
+                    "short-term": "Chicharito starts his run too early and the referee blows for offside. He pings the ball towards goal, but the flag was already raised.",
+                    "history_time": "20:10",
+                    "long-term": "They have been creating scoring opportunities, although some misunderstandings in timing have prevented them from capitalizing on these chances."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+                    "history_time": "19:50",
+                    "long-term": "They have been consistently applying pressure through consecutive attacks, despite the opposition's solid defensive blocks."
+                },
+                {
+                    "short-term": "Ever Banega hammers the ball from far out, but his shot is blocked by an opposition player. The deflection slows down the attack, allowing the defense to reorganize.",
+                    "history_time": "15:38",
+                    "long-term": "They have been consistently creating scoring opportunities with powerful shots from outside the box, but the opposition's defense has managed to hold firm so far."
+                },
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "They have been consistently creating scoring opportunities, but struggling to convert them due to solid defensive blocks."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+                    "history_time": "11:47",
+                    "long-term": "They have been consistently applying pressure on the opposition's defense, with multiple goal-scoring opportunities and creating threats through corners."
+                }
+            ]
+        },
+        {
+            "query": "Carlos Bacca (Sevilla) is forced to stop his attacking move after the linesman signals for offside.",
+            "game_time": "26:45",
+            "short-term": "Carlos Bacca is forced to stop his attacking move after the linesman signals for offside. He had timed his run well, but the assistant referee thought otherwise.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. Bacca had been lurking nearby, waiting for an opportunity.",
+                    "history_time": "23:30",
+                    "long-term": "They have consistently been testing the defensive line, but struggling with precise timing on their runs, resulting in consecutive offside calls."
+                },
+                {
+                    "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+                    "history_time": "20:55",
+                    "long-term": "He has shown a strong intent to attack, making timely runs and testing the goalkeeper, but ultimately being denied by the officials and opposing keeper."
+                }
+            ]
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",
+            "game_time": "31:23",
+            "short-term": "Aleix Vidal passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and clears the ball to safety.",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Isco blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball deflects out for a corner, keeping the pressure on the opposition.",
+                    "history_time": "24:30",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid, blocking their key passes and shots."
+                },
+                {
+                    "short-term": "Aleix Vidal finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. Bacca had been lurking nearby, waiting for an opportunity.",
+                    "history_time": "23:30",
+                    "long-term": "He has been actively creating scoring opportunities for his team, despite being closely monitored by the defense and getting flagged for offside."
+                },
+                {
+                    "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+                    "history_time": "21:25",
+                    "long-term": "The attacking team has consistently attempted to create scoring opportunities through precise passing, but the defense has shown solidity in intercepting these attempts."
+                },
+                {
+                    "short-term": "Carlos Bacca dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him. Casillas gives Bacca a look as if to say, 'That ball was always mine.'",
+                    "history_time": "20:55",
+                    "long-term": "They have shown impressive attacking intent, consistently creating scoring opportunities, but the opposition's defense has been resolute in thwarting their efforts."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+                    "history_time": "19:50",
+                    "long-term": "They have been consistently attempting to create scoring opportunities with clever passes, but the defense has been effective in blocking and clearing their efforts."
+                },
+                {
+                    "short-term": "Ever Banega hammers the ball from far out, but his shot is blocked by an opposition player. The deflection slows down the attack, allowing the defense to reorganize.",
+                    "history_time": "15:38",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been effective in blocking and clearing their attempts."
+                },
+                {
+                    "short-term": "Aleix Vidal collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. He almost apologetically shot that one, showing frustration at the missed chance.",
+                    "history_time": "13:52",
+                    "long-term": "He has consistently been creating scoring opportunities, but the opposition's defense has been effective in blocking his efforts."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "game_time": "32:52",
+            "short-term": "Cristiano Ronaldo delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball had been intended for Chicharito, but Sevilla defended well.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and clears the ball to safety.",
+                    "history_time": "31:23",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been solid in clearing the ball and blocking passes."
+                },
+                {
+                    "short-term": "Isco blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball deflects out for a corner, keeping the pressure on the opposition.",
+                    "history_time": "24:30",
+                    "long-term": "They have been consistently applying pressure on the opposition's defense with clever crosses and powerful shots, testing their opponent's resolve."
+                },
+                {
+                    "short-term": "Chicharito tries to pass the ball into the penalty area but it's blocked. He was looking for Cristiano Ronaldo or Bale, but the defense stood firm.",
+                    "history_time": "21:25",
+                    "long-term": "They have been consistently attempting to create scoring opportunities, but the opposing team's defense has been effective in countering their attacks."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Ronaldo had linked up with James in a quick one-two, but the play broke down as Sevilla regained possession.",
+                    "history_time": "19:50",
+                    "long-term": "They consistently showed skill in creating scoring opportunities with precise passing, but were thwarted by the opposing team's effective defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo passes the ball into the box but an opposing player clears. The ball is out of play. A goal-scoring opportunity from a corner for Real Madrid. The clearance was well-timed, preventing any immediate danger.",
+                    "history_time": "11:47",
+                    "long-term": "They consistently utilized crosses to create scoring opportunities, but were met with solid defensive clearances."
+                }
+            ]
+        },
+        {
+            "query": "Jose Luis Gonzalez blows his whistle after Sergio Ramos (Real Madrid) brings one of his opponents down with a strong tackle. The referee makes a call and blows his whistle for an infringement. Sevilla are awarded a penalty.",
+            "game_time": "45:41",
+            "short-term": "Jose Luis Gonzalez blows his whistle after Sergio Ramos brings Aleix Vidal down with a strong tackle. There was no contact with the ball, and Ramos missed by centimeters. The referee calls for a penalty in favor of Sevilla.",
+            "query_ano": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. The referee makes a call and blows his whistle for an infringement. [TEAM] are awarded a penalty.",
+            "history": [
+                {
+                    "short-term": "Sergio Ramos makes an overly-aggressive challenge, blocking Mbia from Sevilla. The referee blows his whistle for a foul, and Sevilla are awarded a free kick.",
+                    "history_time": "43:50",
+                    "long-term": "He has shown a pattern of aggressive defending, resulting in conceded set pieces that could potentially put pressure on his team."
+                },
+                {
+                    "short-term": "Jose Luis Gonzalez couldn't ignore the rough tackle by Raphael Varane and blew his whistle. No yellow cards were given, but the free kick was awarded.",
+                    "history_time": "34:10",
+                    "long-term": "The referee has been strict in calling fouls, as evidenced by the recent penalty and free kick awarded against the defending team."
+                }
+            ]
+        },
+        {
+            "query": "Yellow card! It's like Sergio Ramos (Real Madrid) was asking for a caution with his behaviour. Jose Luis Gonzalez agrees and books him.",
+            "game_time": "45:46",
+            "short-term": "Yellow card! Sergio Ramos was asking for a caution with his behavior. Jose Luis Gonzalez agrees and books him. Ramos appears to want to explain something to the referee.",
+            "query_ano": "Yellow card! It's like [PLAYER] ([TEAM]) was asking for a caution with his behaviour. [REFEREE] agrees and books him.",
+            "history": [
+                {
+                    "short-term": "Jose Luis Gonzalez blows his whistle after Sergio Ramos brings Aleix Vidal down with a strong tackle. There was no contact with the ball, and Ramos missed by centimeters. The referee calls for a penalty in favor of Sevilla.",
+                    "history_time": "45:41",
+                    "long-term": "He has been walking a disciplinary tightrope, committing multiple fouls and picking up a caution, which could put his team at risk."
+                },
+                {
+                    "short-term": "Sergio Ramos makes an overly-aggressive challenge, blocking Mbia from Sevilla. The referee blows his whistle for a foul, and Sevilla are awarded a free kick.",
+                    "history_time": "43:50",
+                    "long-term": "He has been walking a disciplinary tightrope with multiple infractions, testing the referee's patience."
+                }
+            ]
+        }
+    ]
+}

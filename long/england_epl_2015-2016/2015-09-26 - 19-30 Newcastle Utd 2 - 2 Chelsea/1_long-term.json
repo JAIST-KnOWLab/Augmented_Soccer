@@ -1,0 +1,820 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:20",
+            "game_time": "44:28",
+            "query": "Chelsea are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+            "short-term": "Chelsea are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break. They linking up well in midfield as winger provided an outlet on the wing. ",
+            "query_ano": "[TEAM] are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+            "history": [
+                {
+                    "short-term": "The Chelsea players are exchanging some short passes to try and open up the opposition’s defence and hit them swiftly on the break. Their midfield players were central in moving the ball, but defensive shape remained solid.",
+                    "history_time": "18:20",
+                    "long-term": "They tried to open up offensive space with short passes and ball control many times in this game."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:55",
+            "game_time": "41:38",
+            "query": "Vurnon Anita sends an inch-perfect lofted cross into the box. Ayoze Perez (Newcastle Utd) latches on to it and finishes with a quick shot which hits the left post and bounces in off it. The goalkeeper had no chance. The score changes to 1:0.",
+            "short-term": "Vurnon Anita sends an inch-perfect lofted cross into the box. Ayoze Perez (Newcastle Utd) latches on to it and finishes with a quick shot which hits the left post and bounces in off it. The goalkeeper had no chance. The score changes to 1:0. The ball fell to Ayoze, who made no mistake with his finish.",
+            "query_ano": "[PLAYER] sends an inch-perfect lofted cross into the box. [PLAYER] ([TEAM]) latches on to it and finishes with a quick shot which hits the left post and bounces in off it. The goalkeeper had no chance. The score changes to 1:0.",
+            "history": [
+                {
+                    "short-term": "Aleksandar Mitrovic (Newcastle Utd) collects a pass inside the box and unleashes a shot. Newcastle had been pressing high, forcing errors in Chelsea's backline before a clever pass found Mitrovic in the area, but his effort was well-defended.",
+                    "history_time": "41:22",
+                    "long-term": "They tried a series of crosses in a short period of time, finally this tactic worked and they scored a goal."
+                },
+                {
+                    "short-term": "Oscar (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and Chelsea will take a corner. They had been combining well, shifting play quickly before his delivery was turned behind by a defender.",
+                    "history_time": "38:54",
+                    "long-term": "After they showed their strong defense, they successfully scored another goal."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick. Chelsea continued their set-piece dominance, but he was unable to keep his header down despite good positioning.",
+                    "history_time": "37:45",
+                    "long-term": "They took the lead after their opponents had wasted several possible scoring chances."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner. He had found space after a well-worked build-up, but keeper's reflex save denied what looked like a certain goal.",
+                    "history_time": "37:14",
+                    "long-term": "They took the lead after their opponents had wasted several possible scoring chances."
+                },
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "He has been clinical in his finishing, scoring a goal earlier and nearly adding another with a well-aimed shot."
+                },
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "He has been a key figure in Newcastle's attacking efforts, showing both moments of brilliance and inaccuracies in front of goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:24",
+            "game_time": "41:22",
+            "query": "Aleksandar Mitrovic (Newcastle Utd) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Aleksandar Mitrovic (Newcastle Utd) collects a pass inside the box and unleashes a shot. Newcastle had been pressing high, forcing errors in Chelsea's backline before a clever pass found Mitrovic in the area, but his effort was well-defended.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Oscar (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. There are no teammates around the landing point",
+                    "history_time": "39:13",
+                    "long-term": "Both teams have shown flashes of attacking prowess, but defensive solidity has been the defining feature of this period."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick. Chelsea continued their set-piece dominance, but he was unable to keep his header down despite good positioning.",
+                    "history_time": "37:45",
+                    "long-term": "Their attacking duo has been squandering promising opportunities, with both players guilty of wayward shooting from favorable positions. They are struggling to find the target in key moments."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "Both teams have shown periods of attacking intent, but the opposing defenses have held firm, neutralizing their opponents' scoring opportunities."
+                },
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "They have been consistently pressuring Chelsea's defense with swift movements and creating scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:55",
+            "game_time": "39:50",
+            "query": "The linesman raises his flag. Pedro (Chelsea) is adjudged offside.",
+            "short-term": "The linesman raises his flag. Pedro (Chelsea) is adjudged offside. Moments before, One of the player played an incisive through ball to him, who had beaten his marker, but the assistant referee ruled that he had strayed just beyond the last defender.",
+            "query_ano": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+            "history": [
+                {
+                    "short-term": "Oscar (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and Chelsea will take a corner. They had been combining well, shifting play quickly before his delivery was turned behind by a defender.",
+                    "history_time": "38:54",
+                    "long-term": "They have been creating scoring opportunities with clever through balls and crosses, but the opposition's defense has been doing just enough to neutralize the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:29",
+            "game_time": "39:13",
+            "query": "Oscar (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "short-term": "Oscar (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. There are no teammates around the landing point",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+            "history": [
+                {
+                    "short-term": "Oscar (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and Chelsea will take a corner. They had been combining well, shifting play quickly before his delivery was turned behind by a defender.",
+                    "history_time": "38:54",
+                    "long-term": "This corner kick came from his cross, which was intended to create a goal-scoring opportunity, but was cleared by the sharp defender."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick. Chelsea continued their set-piece dominance, but he was unable to keep his header down despite good positioning.",
+                    "history_time": "37:45",
+                    "long-term": "They have been consistently threatening from set pieces, but struggling to capitalize on these opportunities with precision."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner. He had found space after a well-worked build-up, but keeper's reflex save denied what looked like a certain goal.",
+                    "history_time": "37:14",
+                    "long-term": "They have been consistently creating scoring opportunities with effective build-ups and set pieces, but struggling to capitalize on them due to the opposition's solid defensive work."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) sends a pass into the box, but his attempt is thwarted and cleared. He had moved to the left flank, looking to provide width in attack.",
+                    "history_time": "34:44",
+                    "long-term": "Both teams have been trying to create scoring opportunities through crosses and passes into the box, but the opposing defenses have been solid in clearing the threats."
+                },
+                {
+                    "short-term": "Pedro (Chelsea) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. This cross aimed for the far post, but the delivery was just beyond.",
+                    "history_time": "33:59",
+                    "long-term": "They have been consistently using crosses and corners to threaten the opposition's goal, but lack of presence in the box has hindered their attacking efforts."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "They have been consistently threatening from set pieces, particularly corners, but the opposition's defense has been solid in clearing the danger."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "They have been consistently pressuring the opposition's defense with crosses and corner kicks, but the opposition's defense is holding up well."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "Both teams have shown glimpses of creating attacking opportunities, but the final delivery has been lacking, resulting in opposition clearances and missed chances."
+                },
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "Both teams have been creating scoring opportunities, with Newcastle's fluid movement testing Chelsea's defense, while Chelsea has also been pushing forward, though struggling to find the final touch."
+                },
+                {
+                    "short-term": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge. He had support from his teammate but decided to take on the defender alone.",
+                    "history_time": "23:57",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense has been solid in blocking their attempts."
+                },
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+                    "history_time": "23:10",
+                    "long-term": "Both teams have been trying to create chances through crosses and corners, but the defensive lines have held strong so far, with neither team able to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "The player's set pieces have been dealt with effectively by the opposing team's defense so far, nullifying his attacking threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:04",
+            "game_time": "38:54",
+            "query": "Oscar (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and Chelsea will take a corner.",
+            "short-term": "Oscar (Chelsea) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and Chelsea will take a corner. They had been combining well, shifting play quickly before his delivery was turned behind by a defender.",
+            "query_ano": "[PLAYER] ([TEAM]) whips a promising cross into the box, but the opposition's defence intercepts the ball. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick. Chelsea continued their set-piece dominance, but he was unable to keep his header down despite good positioning.",
+                    "history_time": "37:45",
+                    "long-term": "They have been consistently creating scoring opportunities through effective combination play and dominating set pieces."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner. He had found space after a well-worked build-up, but keeper's reflex save denied what looked like a certain goal.",
+                    "history_time": "37:14",
+                    "long-term": "They have been consistently creating scoring opportunities through well-executed build-ups and precise deliveries into the box."
+                },
+                {
+                    "short-term": "Nemanja Matic (Chelsea) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. Chelsea had been struggling to break through, leading to some frustration in midfield, which resulted in his rash challenge.",
+                    "history_time": "36:21",
+                    "long-term": "They have been piling on the pressure but so far have been unable to break down the opposing team's defense."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "They have consistently shown strong attacking intent, creating scoring opportunities through quick combinations and set pieces."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:20",
+            "game_time": "37:45",
+            "query": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick.",
+            "short-term": "Branislav Ivanovic (Chelsea) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and Newcastle will have a goal kick. Chelsea continued their set-piece dominance, but he was unable to keep his header down despite good positioning.",
+            "query_ano": "[PLAYER] ([TEAM]) gets his head on the corner, but he can't find the target as his header flies high over the crossbar. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner. He had found space after a well-worked build-up, but keeper's reflex save denied what looked like a certain goal.",
+                    "history_time": "37:14",
+                    "long-term": "They constantly shot in the opponent's penalty area and caused chaos, and most importantly, they seized the rebound opportunity."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) sends a pass into the box, but his attempt is thwarted and cleared. He had moved to the left flank, looking to provide width in attack.",
+                    "history_time": "34:44",
+                    "long-term": "Both teams have been creating opportunities, but Chelsea has been particularly threatening from set pieces, while Newcastle has been trying to utilize width in their attack."
+                },
+                {
+                    "short-term": "Pedro (Chelsea) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. This cross aimed for the far post, but the delivery was just beyond.",
+                    "history_time": "33:59",
+                    "long-term": "They have been consistently creating scoring opportunities from set-pieces and crosses, but struggling to find the finishing touch."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "This was their second corner kick in a short period of time. The previous corner kick did not create any chances and was cleared directly."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "They have been consistently posing threats through set pieces, and despite some missed opportunities."
+                },
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "Both teams have shown promise in front of goal with Chelsea's set-piece threat and Newcastle's fluid counter-attacks, but have lacked the finishing touch to capitalize on their opportunities."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "He has been a key figure in Chelsea's set-piece threats, but struggled to create clear scoring opportunities in open play."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "Their continuous attack made the opponent breathless, but the final shot was off target."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:15",
+            "game_time": "37:14",
+            "query": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner.",
+            "short-term": "Cesc Fabregas (Chelsea) takes the ball on and fires in a shot from 25 metres out. Tim Krul stops the effort which is headed for the top right corner. The ball is out of play and Chelsea manage to earn a corner. He had found space after a well-worked build-up, but keeper's reflex save denied what looked like a certain goal.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the ball on and fires in a shot from 25 metres out. [PLAYER] stops the effort which is headed for the top right corner. The ball is out of play and [TEAM] manage to earn a corner.",
+            "history": [
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "They have been consistently creating scoring opportunities through well-executed build-ups, but the opposing goalkeeper's reflexes and solid defense have thwarted their efforts."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "He made a great contribution to the team's offense. He just tried a cross and resulted in a corner kick."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "Chelsea has been posing a significant threat with their shots on goal, while Newcastle Utd is struggling to create clear-cut chances."
+                },
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "Both teams have shown promising attacking intent, with Chelsea coming close to scoring through a well-worked move, while Newcastle's eagerness to push forward has been let down by a lack of precision in their finishing."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "They tried several different shots, and their teammates' shots in the penalty area went wide of the goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:32",
+            "game_time": "36:21",
+            "query": "Nemanja Matic (Chelsea) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle.",
+            "short-term": "Nemanja Matic (Chelsea) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. Chelsea had been struggling to break through, leading to some frustration in midfield, which resulted in his rash challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Martin Atkinson shows a yellow card to Jack Colback (Newcastle Utd) for his blatant foul. He lunge in on the oponent midfielder in an attempt to recover the ball. The challenge was late.",
+                    "history_time": "32:54",
+                    "long-term": "The game has seen an increase in aggressive challenges, as both teams struggle to gain control, leading to reckless fouls and yellow cards. The midfield battle is becoming increasingly intense and ill-tempered."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "They have been displaying a mix of frustrated and effective plays, with both creative attempts and reckless decisions under defensive pressure."
+                },
+                {
+                    "short-term": "Martin Atkinson couldn't ignore the rough tackle by Kevin Mbabu (Newcastle Utd) and blew his whistle. The challenge was aggressive, and players were quick to protest.",
+                    "history_time": "21:29",
+                    "long-term": "The match has seen an increase in aggressive challenges and frustration from both teams, as they struggle to gain momentum."
+                },
+                {
+                    "short-term": "Martin Atkinson blows the whistle, Branislav Ivanovic (Chelsea) is penalised for a foul. Newcastle had been looking to exploit space on the right.",
+                    "history_time": "17:08",
+                    "long-term": "They have been committing several fouls in an attempt to regain possession, showing signs of frustration in their midfield."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:16",
+            "game_time": "35:16",
+            "query": "Daryl Janmaat (Newcastle Utd) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender.",
+            "short-term": "Daryl Janmaat (Newcastle Utd) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender. Newcastle had been switching play quickly, with he finding space on the right before testing defense with his ambitious attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender.",
+            "history": [
+                {
+                    "short-term": "Asmir Begovic was forced into action to thwart Daryl Janmaat (Newcastle Utd). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper. Newcastle was increasing their attacking intensity, with most of them involved in the build-up.",
+                    "history_time": "27:47",
+                    "long-term": "He has been posing a significant threat to the opponent's defense with his repeated attempts on goal, consistently finding space to unleash powerful shots."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:46",
+            "game_time": "34:44",
+            "query": "Moussa Sissoko (Newcastle Utd) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "short-term": "Moussa Sissoko (Newcastle Utd) sends a pass into the box, but his attempt is thwarted and cleared. He had moved to the left flank, looking to provide width in attack.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "history": [
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "Both teams have been utilizing width in their attacks, with The players attempting crosses and passes into the box."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "He was active on the field and controlled the offensive rhythm. After the previous failure, he successfully created a threat."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "He was active in attack and his previous long-range shot was impressive."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:55",
+            "game_time": "33:59",
+            "query": "Pedro (Chelsea) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "short-term": "Pedro (Chelsea) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. This cross aimed for the far post, but the delivery was just beyond.",
+            "query_ano": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "history": [
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+                    "history_time": "30:37",
+                    "long-term": "They have been consistently attempting to utilize crosses and corners to create scoring opportunities in a short period of time but failed to score."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "Both teams have been attempting to create chances through crosses and passes, but they failed to break the deadlock."
+                },
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "Both teams have been struggling to create scoring opportunities, with misplaced crosses and poorly executed shots so far."
+                },
+                {
+                    "short-term": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge. He had support from his teammate but decided to take on the defender alone.",
+                    "history_time": "23:57",
+                    "long-term": "His passes and shots were well defended by the opposing players so far."
+                },
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+                    "history_time": "23:10",
+                    "long-term": "Both teams have been creating scoring opportunities, but are struggling to find the accuracy to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "32:03",
+            "game_time": "31:53",
+            "query": "Jack Colback (Newcastle Utd) has picked up a minor injury, but it looks like he will be able to continue.",
+            "short-term": "Jack Colback (Newcastle Utd) has picked up a minor injury, but it looks like he will be able to continue. He had been involved in a tough midfield battle and was seen limping slightly after a challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+            "history": [
+                {
+                    "short-term": "Jack Colback (Newcastle Utd) picks up an injury. The midfielder was struggling after his previous knock. He attempted to stay on the field, but discomfort was evident.",
+                    "history_time": "30:57",
+                    "long-term": "His lingering injury issues have impacted his performance, and it remains to be seen if he can fully recover and maintain his presence on the field."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:41",
+            "game_time": "30:37",
+            "query": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "short-term": "Cesc Fabregas (Chelsea) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense was well-organized.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "history": [
+                {
+                    "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+                    "history_time": "30:14",
+                    "long-term": "They have been consistently applying pressure through set pieces, but they are struggling to find the target in key moments."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "The teams have shown organized defensive strategies, with Chelsea effectively clearing a corner and Newcastle's attack failing to find its mark."
+                },
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "Both teams have showcased effective defensive organization, while also creating fluid attacking movements that test the opponent's backline."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "They have been having trouble creating scoring opportunities, with the opposing defense effectively countering their set pieces and crosses."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "They have been struggling to break down the opposing team's defense, with repeated attempts at goal being effectively repelled."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:15",
+            "game_time": "30:14",
+            "query": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick.",
+            "short-term": "Loic Remy (Chelsea) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Chelsea are awarded a corner kick. He attempted a cross, but won the corner under pressure from the defenders.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+                    "history_time": "29:19",
+                    "long-term": "They have been trying to create scoring chances in the last few minutes by crossing the ball, the last time it went straight out of pitch, this time they got a corner kick."
+                },
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "Both teams have been creating opportunities, but the accuracy and quality of their finishing efforts have been lacking, with neither side able to capitalize on their chances."
+                },
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+                    "history_time": "23:10",
+                    "long-term": "Both teams have shown intent in the attacking third, but their efforts have been thwarted by some solid defensive work, highlighting the competitive nature of this match."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "They have been trying to create scoring chances in the last few minutes by crossing the ball, the last time it went straight out of bounds, this time they got a corner kick"
+                }
+            ]
+        },
+        {
+            "gameTime": "29:31",
+            "game_time": "29:19",
+            "query": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea.",
+            "short-term": "Moussa Sissoko (Newcastle Utd) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Chelsea. He had support on the right from his teammate, but opted for a lofted pass that went too long.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "He has had a couple of promising moments in front of goal but has failed to capitalize on them. His effort high over the bar last time."
+                },
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+                    "history_time": "23:10",
+                    "long-term": "They have been attempting to create scoring opportunities, but have been struggling to break through the opponent's defensive line, with a series of overhit passes and intercepted crosses."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "They have been struggling to create clear chances, with Newcastle's attack being overly ambitious and Chelsea's crosses not causing enough problems."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "He has been attempting to create scoring opportunities, but so far, his efforts have been off target or fallen short."
+                },
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "They have been attempting to create scoring opportunities with long passes, but the execution has been lacking accuracy and potency."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "Both teams have shown glimpses of attacking intent, but accuracy and decision-making have let them down in crucial moments."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:50",
+            "game_time": "27:47",
+            "query": "Asmir Begovic was forced into action to thwart Daryl Janmaat (Newcastle Utd). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper.",
+            "short-term": "Asmir Begovic was forced into action to thwart Daryl Janmaat (Newcastle Utd). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper. Newcastle was increasing their attacking intensity, with most of them involved in the build-up.",
+            "query_ano": "[PLAYER] was forced into action to thwart [PLAYER] ([TEAM]). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper.",
+            "history": [
+                {
+                    "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+                    "history_time": "27:36",
+                    "long-term": "They have been consistently threatening the opponent's goal, creating multiple scoring opportunities through effective build-up and fluid movement around the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:37",
+            "game_time": "27:36",
+            "query": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same.",
+            "short-term": "Ayoze Perez (Newcastle Utd) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Asmir Begovic was alert and the score remains the same. Newcastle's forward movement was fluid, and they were finding spaces around Chelsea’s defense.",
+            "query_ano": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but [PLAYER] was alert and the score remains the same.",
+            "history": [
+                {
+                    "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+                    "history_time": "26:26",
+                    "long-term": "He has been consistently attempting to create scoring opportunities. Their forward movement and fluidity around the opponent's defense have been notable during this period."
+                },
+                {
+                    "short-term": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge. He had support from his teammate but decided to take on the defender alone.",
+                    "history_time": "23:57",
+                    "long-term": "Both teams have shown intent to attack with fluid movements, but their efforts have been thwarted by good defensive work and goalkeeping."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:27",
+            "game_time": "26:26",
+            "query": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea.",
+            "short-term": "What a poor attempt! Ayoze Perez (Newcastle Utd) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea. Newcastle had been pushing forward, but this effort lacked precision.",
+            "query_ano": "What a poor attempt! [PLAYER] ([TEAM]) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes yards wide of the left post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge. He had support from his teammate but decided to take on the defender alone.",
+                    "history_time": "23:57",
+                    "long-term": "Both teams have shown a willingness to create scoring opportunities, but their decision-making and precision in front of goal have been lacking so far."
+                },
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "Both teams have been wasteful in their attacking efforts, with Newcastle's shots lacking precision and Chelsea struggling to create clear chances in the final third."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "Newcastle's attacking efforts have been inconsistent, while Chelsea's attempts to break through have been met with a solid defensive wall."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "They have been creating chances but struggling to find accuracy in their long-range shots, lacking the precision needed to test the opposition's goalkeeper."
+                },
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "They have been creating scoring opportunities but are struggling with accuracy in their finishing."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "Both teams have been creating chances but lacking the precision to capitalize on their attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:58",
+            "game_time": "23:57",
+            "query": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Pedro (Chelsea) races towards goal but the defender gets back well to make a challenge. He had support from his teammate but decided to take on the defender alone.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "history": [
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+                    "history_time": "23:10",
+                    "long-term": "Both teams have shown attacking intent, but Chelsea's defense has been solid in dealing with Newcastle's threats, while their own attacking opportunities have been limited by the Magpies' defensive resilience."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:11",
+            "game_time": "23:10",
+            "query": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "short-term": "Kevin Mbabu (Newcastle Utd) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Newcastle was maintaining possession but struggled to break Chelsea’s defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",
+            "history": [
+                {
+                    "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+                    "history_time": "22:13",
+                    "long-term": "Their recent attacks have created a lot of scoring opportunities, while the opponent's crosses are of poor quality."
+                },
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "Their recent attacks have created a lot of scoring opportunities, while the opponent's crosses are of poor quality.. The game has been a tight and tactical affair so far."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses and long-range shots."
+                },
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "They have been utilizing crosses effectively, creating multiple scoring opportunities and managing to capitalize on the resulting chaos in the box."
+                },
+                {
+                    "short-term": "Kevin Mbabu (Newcastle Utd) picks up a pass, lines up a shot and strikes from 25 metres out, but Asmir Begovic thwarts the effort which is headed low to the middle of the goal. The shot lacked power, making it an easy save.",
+                    "history_time": "12:27",
+                    "long-term": "He performed well on the offensive end. His previous long shot was very exciting, and now he created threats with a cross."
+                },
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "They constantly created scoring opportunities through crosses, and the opponent was overwhelmed"
+                },
+                {
+                    "short-term": "A pass into the penalty area from Georginio Wijnaldum (Newcastle Utd) is intercepted by the defence. Their backline remained disciplined.",
+                    "history_time": "10:24",
+                    "long-term": "They have been consistently testing the opponent's defense with crosses and passes into the penalty area, but so far, the defensive line has held firm."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:13",
+            "game_time": "22:13",
+            "query": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick.",
+            "short-term": "Branislav Ivanovic (Chelsea) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Newcastle will have a goal kick. Chelsea was struggling to create clear chances in the final third.",
+            "query_ano": "[PLAYER] ([TEAM]) fizzes over a cross which doesn't cause any problems. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+                    "history_time": "21:09",
+                    "long-term": "They have been struggling to break down the opposing defense, with multiple failed attempts to create clear chances in the final third."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "Both teams have been finding it difficult to create decisive scoring opportunities, with each side seeing promising attempts fall just short."
+                },
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "Both teams have been struggling to create quality scoring opportunities, with Chelsea unable to find clarity in the final third and Newcastle's promising attacks faltering due to inaccurate finishing."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for Newcastle. Terry and Zouma were looking to push up, but the pass lacked precision.",
+                    "history_time": "13:54",
+                    "long-term": "Their passing always lacked precision, which could be caused by the huge pressure and the opponent's pressing."
+                },
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "Both teams have been ineffective with their crosses, struggling to create scoring opportunities from wide areas."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "They are all under great pressure and it is difficult to maintain their previous level. Not long ago, they missed a great opportunity in front of the goal and now they lost the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:12",
+            "game_time": "21:09",
+            "query": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Oscar (Chelsea) is thwarted and cleared to safety. Newcastle’s backline remained compact, limiting Chelsea’s attacking options.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+            "history": [
+                {
+                    "short-term": "Oscar (Chelsea) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. They are struggling to break through defense, with winger also trying to find space on the left.",
+                    "history_time": "18:46",
+                    "long-term": "He constantly passes the ball to create space and score goals. He almost starred in a goal not long ago."
+                },
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "Both teams attacked each other and created scoring opportunities, but they were just a little bit away from scoring."
+                },
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "Both teams have been exchanging attacking opportunities, but defensive solidity has been the hallmark so far, with neither team able to capitalize on their created chances."
+                },
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "Both teams have shown strong defensive capabilities, consistently clearing threats and limiting each other's attacking opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:52",
+            "game_time": "18:46",
+            "query": "Oscar (Chelsea) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "short-term": "Oscar (Chelsea) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. They are struggling to break through defense, with winger also trying to find space on the left.",
+            "query_ano": "[PLAYER] ([TEAM]) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",
+            "history": [
+                {
+                    "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+                    "history_time": "16:27",
+                    "long-term": "Both teams attacked each other and created scoring opportunities, but they were just a little bit away from scoring."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:28",
+            "game_time": "16:27",
+            "query": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. The ball goes out of play and Chelsea will have a goal kick.",
+            "short-term": "Moussa Sissoko (Newcastle Utd) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. He had received the ball from his teammate and decided to take on the shot rather than look for a pass.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and has an effort from 24 metres out, but it flies just wide of the left post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+                    "history_time": "15:38",
+                    "long-term": "They have been creating scoring opportunities with powerful shots from distance and precise long passes, but lack accuracy in their finishing."
+                },
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for Newcastle. Terry and Zouma were looking to push up, but the pass lacked precision.",
+                    "history_time": "13:54",
+                    "long-term": "Both teams have been trying to create scoring opportunities through long-range shots and precise passing, but the accuracy has been lacking so far."
+                },
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "They have been creating scoring opportunities, but the final touch has eluded them, with shots going wide and crosses being cleared."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:40",
+            "game_time": "15:38",
+            "query": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. The ball goes out of play and Chelsea will have a goal kick.",
+            "short-term": "Georginio Wijnaldum sends a lovely lofted pass forward that flies over the top of the defence and into the path of Aleksandar Mitrovic (Newcastle Utd), but he can't direct his header on target as it flies well wide of the right post. He had beaten opponent in the air but failed to generate enough accuracy.",
+            "query_ano": "[PLAYER] sends a lovely lofted pass forward that flies over the top of the defence and into the path of [PLAYER] ([TEAM]), but he can't direct his header on target as it flies well wide of the right post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Cesc Fabregas (Chelsea) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for Newcastle. Terry and Zouma were looking to push up, but the pass lacked precision.",
+                    "history_time": "13:54",
+                    "long-term": "Both teams have shown flashes of creativity in their attacking play, but accuracy and precision have been lacking in the final third."
+                },
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "They tried to cross the ball several times and after previous failures, they finally created a chance to score."
+                },
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "Both teams have been creating scoring opportunities with precise passes, but the finishing touches lacked accuracy."
+                },
+                {
+                    "short-term": "A pass into the penalty area from Georginio Wijnaldum (Newcastle Utd) is intercepted by the defence. Their backline remained disciplined.",
+                    "history_time": "10:24",
+                    "long-term": "He continued to create scoring chances through crosses within a few minutes, and after the failure last time, this time the cross was very effective."
+                }
+            ]
+        },
+        {
+            "gameTime": "13:54",
+            "game_time": "13:54",
+            "query": "Cesc Fabregas (Chelsea) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for Newcastle.",
+            "short-term": "Cesc Fabregas (Chelsea) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for Newcastle. Terry and Zouma were looking to push up, but the pass lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a through ball but overhits it. The referee and the linesman both signal a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+                    "history_time": "12:16",
+                    "long-term": "Both teams have shown moments of sloppy execution in their attacking plays, struggling to find precision in their passing and crossing."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:17",
+            "game_time": "12:16",
+            "query": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "short-term": "Daryl Janmaat (Newcastle Utd) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is not high enough and can be easily intercepted.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "history": [
+                {
+                    "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+                    "history_time": "11:14",
+                    "long-term": "Both teams have been creating scoring opportunities, with crosses and passes into the box."
+                },
+                {
+                    "short-term": "A pass into the penalty area from Georginio Wijnaldum (Newcastle Utd) is intercepted by the defence. Their backline remained disciplined.",
+                    "history_time": "10:24",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:16",
+            "game_time": "11:14",
+            "query": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle.",
+            "short-term": "Loic Remy (Chelsea) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Newcastle. IThe ball from the side, setting up the chance.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "A pass into the penalty area from Georginio Wijnaldum (Newcastle Utd) is intercepted by the defence. Their backline remained disciplined.",
+                    "history_time": "10:24",
+                    "long-term": "Both teams have shown moments of attacking flair, but also solidity in defense."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "annotations": [
+        {
+            "gameTime": "44:51",
+            "game_time": "44:51",
+            "query": "The ball is whipped in from the corner by Mesut Ozil (Arsenal), but one of the defenders gets it clear.",
+            "short-term": "The ball is whipped in from the corner by Mesut Ozil (Arsenal), but one of the defenders gets it clear. The clearance comes after intense pressure in the box as Arsenal pushed forward in the final moments of the half.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "44:41",
+            "game_time": "44:41",
+            "query": "Theo Walcott (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. ",
+            "short-term": "Theo Walcott (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. His movement forced the defender to react quickly and concede a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. "
+        },
+        {
+            "gameTime": "43:50",
+            "game_time": "43:50",
+            "query": "Theo Walcott (Arsenal) sends in a pass which fails to reach any of his teammates.",
+            "short-term": "Theo Walcott (Arsenal) sends in a pass which fails to reach any of his teammates. He attempted a cross after turning inside, but the ball was intercepted before reaching its target.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "40:12",
+            "game_time": "40:12",
+            "query": "Arsenal players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",
+            "short-term": "Arsenal players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence. Their opponent's defensive structure remained solid.",
+            "query_ano": "[TEAM] players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence."
+        },
+        {
+            "gameTime": "37:56",
+            "game_time": "37:56",
+            "query": "Mohamed Elneny (Arsenal) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+            "short-term": "Mohamed Elneny (Arsenal) whips in the corner, but one of the defending players gets a head on it and intercepts. The clearance came after Arsenal won the aerial battle in the box but couldn't direct it goalwards.",
+            "query_ano": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "37:35",
+            "game_time": "37:35",
+            "query": "Theo Walcott (Arsenal) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Arsenal force a corner. Their opponents will face another attacking threat.",
+            "short-term": "Theo Walcott (Arsenal) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Arsenal force a corner. The ball was deflected away near the far post after his pass found space inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. [TEAM] force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "35:46",
+            "game_time": "35:46",
+            "query": "Gaston Ramirez (Middlesbrough) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+            "short-term": "Gaston Ramirez (Middlesbrough) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear. The clearance was crucial as players lining up in the box.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "33:18",
+            "game_time": "33:18",
+            "query": "A header by Gaston Ramirez (Middlesbrough) from very close range goes towards the middle of the target, but doesn't get past Petr Cech, who makes a nice save. The ball is out of play. Middlesbrough win a corner kick.",
+            "short-term": "A header by Gaston Ramirez (Middlesbrough) from very close range goes towards the middle of the target, but doesn't get past Petr Cech, who makes a nice save. The ball is out of play. Middlesbrough win a corner kick. Ramirez had another dangerous effort just moments before, forcing Cech into action.",
+            "query_ano": "A header by [PLAYER] ([TEAM]) from very close range goes towards the middle of the target, but doesn't get past [PLAYER], who makes a nice save. The ball is out of play. [TEAM] win a corner kick."
+        },
+        {
+            "gameTime": "31:14",
+            "game_time": "31:14",
+            "query": "Referee sees the trip by Adam Clayton (Middlesbrough) and doesn't hesitate to blow his whistle.",
+            "short-term": "Referee sees the trip by Adam Clayton (Middlesbrough) and doesn't hesitate to blow his whistle. Arsenal had been building up play near the penalty area when he stepped in late.",
+            "query_ano": "[REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "29:04",
+            "game_time": "29:04",
+            "query": "Theo Walcott (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "short-term": "Theo Walcott (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates. He spotted his teammate making a run, but the pass was slightly off and the defender managed to intervene.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "26:25",
+            "game_time": "26:25",
+            "query": "Hector Bellerin (Arsenal) is penalised for holding. Referee signals a set piece.",
+            "short-term": "Hector Bellerin (Arsenal) is penalised for holding. Referee signals a set piece. His opponent felt continuous pressure from him before eventually falling, prompting the referee to award the foul.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece."
+        }
+    ]
+}

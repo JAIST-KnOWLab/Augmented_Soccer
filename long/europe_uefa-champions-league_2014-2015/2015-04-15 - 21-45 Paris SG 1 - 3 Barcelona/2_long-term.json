@@ -1,0 +1,365 @@
+{
+    "annotations": [
+        {
+            "query": "Neymar (Barcelona) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",
+            "game_time": "10:52",
+            "short-term": "Neymar attempts to find one of his teammates with a sweet pass into the box, but it is blocked by a well-positioned defender. The defensive effort prevented a dangerous situation in the penalty area.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a cross forward, but the ball is intercepted by an opposing defender before reaching its target.",
+                    "history_time": "3:20",
+                    "long-term": "The player's creative efforts in the attacking third have been consistently thwarted by the opposition's solid defensive organization."
+                }
+            ]
+        },
+        {
+            "query": "The corner kick from Xavi (Barcelona) is headed out of the penalty area by one of the defenders.",
+            "game_time": "14:16",
+            "short-term": "The corner kick from Xavi is headed out of the penalty area by a defender, clearing the immediate danger for the opposition.",
+            "label": "corner",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders.",
+            "history": [
+                {
+                    "short-term": "Neymar attempts to find one of his teammates with a sweet pass into the box, but it is blocked by a well-positioned defender. The defensive effort prevented a dangerous situation in the penalty area.",
+                    "history_time": "10:52",
+                    "long-term": "They have shown solid defensive organization, effectively neutralizing opposition threats in the penalty area."
+                },
+                {
+                    "short-term": "Javier Pastore takes the ball forward and fires a shot from distance. The ball dips, but the goalkeeper reacts quickly to make the save, preventing it from reaching the right post.",
+                    "history_time": "3:45",
+                    "long-term": "They have been consistently creating scoring opportunities through set pieces and distant shots, testing the opponent's defense."
+                },
+                {
+                    "short-term": "Neymar sends a cross forward, but the ball is intercepted by an opposing defender before reaching its target.",
+                    "history_time": "3:20",
+                    "long-term": "They have been consistently applying pressure through set pieces and crosses, yet the opposition's defense has managed to neutralize these threats effectively."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) fails to find a teammate across the pitch with a long ball.",
+            "game_time": "16:54",
+            "short-term": "Lionel Messi attempts a long ball across the pitch but fails to find a teammate. The pass was slightly overhit, leaving the intended recipient unable to reach it.",
+            "label": "other",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The defense read the play well and intercepted the pass before it could reach its target.",
+                    "history_time": "15:17",
+                    "long-term": "He has been trying to create scoring opportunities with long passes, but so far, they have been inaccurate and easily intercepted by the defense."
+                },
+                {
+                    "short-term": "Neymar attempts to find one of his teammates with a sweet pass into the box, but it is blocked by a well-positioned defender. The defensive effort prevented a dangerous situation in the penalty area.",
+                    "history_time": "10:52",
+                    "long-term": "They have been trying to create scoring opportunities with long passes, but so far, the defense has been able to neutralize their efforts."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) sends a pass into the penalty area, but the opponent manages to cut it out. Barcelona earn a corner.",
+            "game_time": "18:29",
+            "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the penalty area, but the opponent manages to cut it out. [TEAM] earn a corner.",
+            "history": [
+                {
+                    "short-term": "The corner kick from Xavi is headed out of the penalty area by a defender, clearing the immediate danger for the opposition.",
+                    "history_time": "14:16",
+                    "long-term": "They have been consistently pressuring the opponent's defense with precise passing and effective set pieces, but so far, the opposing team's defense has held firm."
+                },
+                {
+                    "short-term": "Neymar attempts to find one of his teammates with a sweet pass into the box, but it is blocked by a well-positioned defender. The defensive effort prevented a dangerous situation in the penalty area.",
+                    "history_time": "10:52",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities, but their opponents' solid defense has prevented them from capitalizing on these chances."
+                },
+                {
+                    "short-term": "Neymar sends a cross forward, but the ball is intercepted by an opposing defender before reaching its target.",
+                    "history_time": "3:20",
+                    "long-term": "They have been consistently using crosses and passes to create scoring opportunities, but the opposing team's defense has been successful in intercepting them."
+                }
+            ]
+        },
+        {
+            "query": "Ivan Rakitic (Barcelona) is about to take a corner kick.",
+            "game_time": "19:21",
+            "short-term": "Ivan Rakitic is about to take a corner kick. He takes a moment before delivering the ball, with the crowd sensing a bit of time-wasting.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "This corner kick comes after a pass into the penalty area was intercepted by the defense, who cleared the ball out of play under pressure."
+                },
+                {
+                    "short-term": "The corner kick from Xavi is headed out of the penalty area by a defender, clearing the immediate danger for the opposition.",
+                    "history_time": "14:16",
+                    "long-term": "They have been utilizing corner kicks as a key attacking strategy, attempting to create scoring opportunities through these set pieces."
+                }
+            ]
+        },
+        {
+            "query": "Neymar (Barcelona) is flagged for offside.",
+            "game_time": "20:36",
+            "short-term": "Neymar is flagged for offside as he moves forward to receive a pass, halting Barcelona's attacking play.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is flagged for offside.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "They have consistently attempted to create scoring opportunities, despite having one effort negated by an offside call."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) makes a great solo run and pulls the trigger from inside the box, beating Salvatore Sirigu with a strike into the right side of the goal. He makes it 0:2.",
+            "game_time": "21:30",
+            "short-term": "Luis Suarez makes a great solo run, weaving through the defense. He takes on a defender and beats him before pulling the trigger from inside the box, sending a powerful strike into the right side of the goal, leaving the goalkeeper helpless. That makes it 0:2, a brilliant individual effort.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) makes a great solo run and pulls the trigger from inside the box, beating Salvatore Sirigu with a strike into the right side of the goal. He makes it 0:2.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "They have consistently shown skill in breaking through the opponent's defense, creating multiple scoring opportunities through clever movement and precise passing."
+                }
+            ]
+        },
+        {
+            "query": "Yohan Cabaye (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag. It's a corner to Paris SG.",
+            "game_time": "23:30",
+            "short-term": "Yohan Cabaye slaloms past challenges but is denied by a well-timed defensive intervention. The ball is cleared out of play, and the referee awards a corner to Paris SG.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag. It's a corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "They have consistently shown skill in creating scoring opportunities, yet have struggled to get past the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "query": "What a wasted opportunity by Edinson Cavani (Paris SG)! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but Marc-Andre ter Stegen makes an astonishing save to thwart him. Paris SG get a corner.",
+            "game_time": "23:50",
+            "short-term": "Edinson Cavani creates space inside the penalty box and fires a shot toward the top corner. However, the goalkeeper reacts brilliantly, making a stunning save to deny him. The ball goes out for a corner to Paris SG.",
+            "label": "shoot",
+            "query_ano": "What a wasted opportunity by [PLAYER] ([TEAM])! He creates himself some space inside the penalty box and unleashes a decent strike towards the top of the net, but Marc-Andre ter Stegen makes an astonishing save to thwart him. [TEAM] get a corner.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani is caught offside as he attempts to break forward, but the flag is raised before he can continue the attack.",
+                    "history_time": "02:47",
+                    "long-term": "He has been posing a threat in the attacking third, testing the goalkeeper with a shot and looking to exploit the defense, although not always staying onside."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the left post.",
+            "game_time": "27:50",
+            "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "They have been consistently creating scoring opportunities with their speed and agility, showing promising signs in their attacking play."
+                },
+                {
+                    "short-term": "Lionel Messi attempts a long ball across the pitch but fails to find a teammate. The pass was slightly overhit, leaving the intended recipient unable to reach it.",
+                    "history_time": "16:54",
+                    "long-term": "He has shown flashes of brilliance with his exceptional dribbling skills but has struggled with accuracy in his shots and passes."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "game_time": "30:43",
+            "short-term": "Lionel Messi attempts a promising through ball to break through the defense, but a defender reads the play well and intercepts the pass.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+                    "history_time": "27:50",
+                    "long-term": "He has been showing flashes of brilliance, attempting to unlock the defense with his vision and skill, but has yet to find the desired end result."
+                },
+                {
+                    "short-term": "Lionel Messi attempts a long ball across the pitch but fails to find a teammate. The pass was slightly overhit, leaving the intended recipient unable to reach it.",
+                    "history_time": "16:54",
+                    "long-term": "He has been trying to create scoring opportunities with long passes, but so far, the opposing defense has been able to neutralize his efforts."
+                },
+                {
+                    "short-term": "Lionel Messi nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The defense read the play well and intercepted the pass before it could reach its target.",
+                    "history_time": "15:17",
+                    "long-term": "He has consistently been trying to create attacking opportunities, but the defense has been effective in reading his plays and intercepting his passes."
+                }
+            ]
+        },
+        {
+            "query": "Luis Suarez (Barcelona) scores a goal! He makes his way to the edge of the box without any help from his teammates and unleashes a shot that ends in the top right corner of the goal.",
+            "game_time": "33:30",
+            "short-term": "Luis Suarez scores a goal! He makes his way to the edge of the box alone and unleashes a shot into the top right corner, securing a crucial goal.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) scores a goal! He makes his way to the edge of the box without any help from his teammates and unleashes a shot that ends in the top right corner of the goal.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+                    "history_time": "27:50",
+                    "long-term": "They have shown incredible individual skill and determination in front of goal, creating chances out of nothing and stretching the opposing defense."
+                },
+                {
+                    "short-term": "Luis Suarez makes a great solo run, weaving through the defense. He takes on a defender and beats him before pulling the trigger from inside the box, sending a powerful strike into the right side of the goal, leaving the goalkeeper helpless. That makes it 0:2, a brilliant individual effort.",
+                    "history_time": "21:30",
+                    "long-term": "He has demonstrated exceptional skill and composure in front of goal, scoring two crucial goals through impressive individual efforts."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) passes the ball into the box but an opposing player clears.",
+            "game_time": "39:23",
+            "short-term": "Lionel Messi delivers a pass into the box, but a defender is alert and clears the danger.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi attempts a promising through ball to break through the defense, but a defender reads the play well and intercepts the pass.",
+                    "history_time": "30:43",
+                    "long-term": "They have consistently attempted to break through the defense with clever passes, but the opposing team's backline has shown great awareness to neutralize these threats."
+                },
+                {
+                    "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+                    "history_time": "27:50",
+                    "long-term": "He has shown flashes of brilliance, consistently creating scoring opportunities with his exceptional dribbling skills and vision."
+                }
+            ]
+        },
+        {
+            "query": "Javier Pastore (Paris SG) takes the ball on and fires in a shot from 20 metres out. Marc-Andre ter Stegen stops the effort which is headed to the right post.",
+            "game_time": "3:45",
+            "short-term": "Javier Pastore takes the ball forward and fires a shot from distance. The ball dips, but the goalkeeper reacts quickly to make the save, preventing it from reaching the right post.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) takes the ball on and fires in a shot from 20 metres out. Marc-Andre ter Stegen stops the effort which is headed to the right post.",
+            "history": [
+                {
+                    "short-term": "Neymar sends a cross forward, but the ball is intercepted by an opposing defender before reaching its target.",
+                    "history_time": "3:20",
+                    "long-term": "They have been consistently creating scoring opportunities with shots from distance and attempting to find openings through crosses."
+                }
+            ]
+        },
+        {
+            "query": "Adriano (Barcelona) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out for a corner. Barcelona can continue in their attacking effort.",
+            "game_time": "41:00",
+            "short-term": "Adriano (Barcelona) swings in a cross, but the ball is cleared by Marquinhos (Paris SG), who takes it off Messi’s head. This clears the danger, and the ball goes out for a corner.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+            "history": [
+                {
+                    "short-term": "Lionel Messi delivers a pass into the box, but a defender is alert and clears the danger.",
+                    "history_time": "39:23",
+                    "long-term": "They have been consistently testing the defense with precise crosses and passes into the box."
+                },
+                {
+                    "short-term": "The referee stops play for a substitution as Martin Montoya leaves the pitch and Adriano comes on. This change had been planned before the last goal.",
+                    "history_time": "34:45",
+                    "long-term": "They made some tactical adjustments, including a substitution, in an attempt to control the pace of the game and generate scoring opportunities."
+                },
+                {
+                    "short-term": "Neymar sends a pass into the penalty area, but the opponent manages to cut it out. The clearance results in a corner for Barcelona, providing another chance to threaten the goal.",
+                    "history_time": "18:29",
+                    "long-term": "They have been consistently creating scoring opportunities, particularly through crosses and passes into the penalty area."
+                }
+            ]
+        },
+        {
+            "query": "Edinson Cavani (Paris SG) fires the ball at goal from inside the area, but it's well blocked.",
+            "game_time": "43:20",
+            "short-term": "Edinson Cavani (Paris SG) fires the ball at goal from inside the area, but it's well blocked. Lavezzi almost had a chance to capitalize on the rebound, but Matuidi’s miss caused a brief moment of chaos before Mathieu and Adriano cleared the danger.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball at goal from inside the area, but it's well blocked.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani creates space inside the penalty box and fires a shot toward the top corner. However, the goalkeeper reacts brilliantly, making a stunning save to deny him. The ball goes out for a corner to Paris SG.",
+                    "history_time": "23:50",
+                    "long-term": "He has consistently posed a threat in the opponent's box, producing multiple high-quality chances that have tested the defensive line and goalkeeper."
+                }
+            ]
+        },
+        {
+            "query": "Mark Clattenburg blows the whistle, Javier Pastore (Paris SG) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position.",
+            "game_time": "43:53",
+            "short-term": "Mark Clattenburg blows the whistle, Javier Pastore (Paris SG) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position after Xavi’s pass was aimed for Adriano, but Pastore fouled him, knocking him off balance.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul. [TEAM] are awarded a free kick from a dangerous position.",
+            "history": [
+                {
+                    "short-term": "Adriano (Barcelona) swings in a cross, but the ball is cleared by Marquinhos (Paris SG), who takes it off Messi’s head. This clears the danger, and the ball goes out for a corner.",
+                    "history_time": "41:00",
+                    "long-term": "The Paris SG defense has been put under pressure by Barcelona's consistent attacking plays, managing to defuse key scoring opportunities."
+                },
+                {
+                    "short-term": "The referee stops play for a substitution as Martin Montoya leaves the pitch and Adriano comes on. This change had been planned before the last goal.",
+                    "history_time": "34:45",
+                    "long-term": "The referee has been actively involved in managing the game's tempo, calling a crucial foul and overseeing a strategic substitution."
+                }
+            ]
+        },
+        {
+            "query": "Lionel Messi (Barcelona) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu is alert and keeps the ball out.",
+            "game_time": "44:50",
+            "short-term": "Lionel Messi (Barcelona) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu (Paris SG) is alert and keeps the ball out.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting free kick from 25 metres out. He attempts to send his effort into the left side of the goal, but Salvatore Sirigu is alert and keeps the ball out.",
+            "history": [
+                {
+                    "short-term": "Mark Clattenburg blows the whistle, Javier Pastore (Paris SG) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position after Xavi’s pass was aimed for Adriano, but Pastore fouled him, knocking him off balance.",
+                    "history_time": "43:53",
+                    "long-term": "They have been creating scoring opportunities, with a notable free kick chance, and winning fouls in strategic areas of the pitch."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) fires the ball at goal from inside the area, but it's well blocked. Lavezzi almost had a chance to capitalize on the rebound, but Matuidi’s miss caused a brief moment of chaos before Mathieu and Adriano cleared the danger.",
+                    "history_time": "43:20",
+                    "long-term": "Both teams have shown incredible defensive prowess, with timely blocks and saves neutralizing threatening scoring opportunities."
+                },
+                {
+                    "short-term": "Adriano (Barcelona) swings in a cross, but the ball is cleared by Marquinhos (Paris SG), who takes it off Messi’s head. This clears the danger, and the ball goes out for a corner.",
+                    "history_time": "41:00",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper and defenders have done well to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Lionel Messi delivers a pass into the box, but a defender is alert and clears the danger.",
+                    "history_time": "39:23",
+                    "long-term": "They have been consistently threatening the opponent's goal with their free kicks and passes into the box, showing a high level of attacking intent."
+                },
+                {
+                    "short-term": "Lionel Messi attempts a promising through ball to break through the defense, but a defender reads the play well and intercepts the pass.",
+                    "history_time": "30:43",
+                    "long-term": "They have consistently utilized his exceptional skills to create scoring opportunities, showcasing his precision in set pieces and attempts to penetrate the opponent's defense."
+                },
+                {
+                    "short-term": "Lionel Messi skillfully skips past several challenges and finds himself on the edge of the box. His shot is misdirected, flying a few yards wide of the left post.",
+                    "history_time": "27:50",
+                    "long-term": "He has shown incredible skill and persistence in his attacks, creating and capitalizing on scoring opportunities despite struggling to find the target."
+                }
+            ]
+        },
+        {
+            "query": "Adrien Rabiot (Paris SG) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal.",
+            "game_time": "5:41",
+            "short-term": "Adrien Rabiot (Paris SG) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Marc-Andre ter Stegen stops the ball from going into the middle of the goal.",
+            "history": [
+                {
+                    "short-term": "Javier Pastore takes the ball forward and fires a shot from distance. The ball dips, but the goalkeeper reacts quickly to make the save, preventing it from reaching the right post.",
+                    "history_time": "3:45",
+                    "long-term": "They have consistently tested the goalkeeper with powerful shots from distance, only to be denied by outstanding saves."
+                }
+            ]
+        }
+    ]
+}

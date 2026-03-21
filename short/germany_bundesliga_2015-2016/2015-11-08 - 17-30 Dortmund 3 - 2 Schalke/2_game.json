@@ -1,0 +1,375 @@
+{
+    "annotations": [
+        {
+            "gameTime": "49:59",
+            "game_time": "49:59",
+            "query": "What a thrilling encounter, there was plenty of goal mouth action. The home team had more of the game. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break.",
+            "short-term": "What a thrilling encounter, there was plenty of goal mouth action. The home team had more of the game. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break.",
+            "query_ano": "What a thrilling encounter, there was plenty of goal mouth action. The home team had more of the game. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break."
+        },
+        {
+            "gameTime": "48:05",
+            "game_time": "47:47",
+            "query": "Substitution. Pierre-Emerick Aubameyang will be replaced by Adrian Ramos (Dortmund).",
+            "short-term": "Substitution. Pierre-Emerick Aubameyang will be replaced by Adrian Ramos (Dortmund). The change comes after a high-intensity match, with fresh legs introduced to maintain attacking pressure in the closing minutes.",
+            "query_ano": "Substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "47:05",
+            "game_time": "46:56",
+            "query": "Ilkay Gundogan (Dortmund) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",
+            "short-term": "Ilkay Gundogan (Dortmund) picks up a precise pass deep inside the box, but his strike is saved by the keeper. The shot was well-placed, but the goalkeeper reacted swiftly, stretching to parry the ball away from danger.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a precise pass deep inside the box, but his strike is saved by the keeper."
+        },
+        {
+            "gameTime": "46:51",
+            "game_time": "46:44",
+            "query": "Dortmund take a quick free kick with a short pass and play continues.",
+            "short-term": "Dortmund take a quick free kick with a short pass and play continues. The set-piece was taken swiftly to catch the opposition off guard, but the defense remained disciplined and organized.",
+            "query_ano": "[TEAM] take a quick free kick with a short pass and play continues."
+        },
+        {
+            "gameTime": "46:30",
+            "game_time": "46:13",
+            "query": "Felix Brych interrupts the game for a tactical foul by Leon Goretzka (Schalke). Another situation results in a direct free kick for Dortmund.",
+            "short-term": "Felix Brych interrupts the game for a tactical foul by Leon Goretzka (Schalke). Another situation results in a direct free kick for Dortmund. The referee had no hesitation as the challenge halted a developing attack.",
+            "query_ano": "[PLAYER] interrupts the game for a tactical foul by [PLAYER] ([TEAM]). Another situation results in a direct free kick for [TEAM]."
+        },
+        {
+            "gameTime": "45:59",
+            "game_time": "45:58",
+            "query": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",
+            "short-term": "Shinji Kagawa (Dortmund) produces an inaccurate low pass into the box that is blocked by one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The defensive line remained solid, preventing a potential late-game breakthrough.",
+            "query_ano": "[PLAYER] ([TEAM]) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net."
+        },
+        {
+            "gameTime": "45:05",
+            "game_time": "44:08",
+            "query": "Felix Platte (Schalke) picks up a caution.",
+            "short-term": "Felix Platte (Schalke) picks up a caution. The referee had a clear view of the incident and wasted no time in reaching for the card, signaling his control over the match.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a caution."
+        },
+        {
+            "gameTime": "43:30",
+            "game_time": "43:12",
+            "query": "Julian Weigl (Dortmund) goes into the book and receives a yellow card.",
+            "short-term": "Julian Weigl (Dortmund) goes into the book and receives a yellow card. A tactical foul stopped the opponent’s momentum, but it came at the cost of a booking.",
+            "query_ano": "[PLAYER] ([TEAM]) goes into the book and receives a yellow card."
+        },
+        {
+            "gameTime": "43:25",
+            "game_time": "43:25",
+            "query": "That will be all from Roman Neustadter who is being replaced by the fresh legs of Felix Platte (Schalke).",
+            "short-term": "That will be all from Roman Neustadter who is being replaced by the fresh legs of Felix Platte (Schalke). The substitution aims to inject fresh energy into the midfield in the closing stages of the match.",
+            "query_ano": "That will be all from Roman Neustadter who is being replaced by the fresh legs of [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "42:58",
+            "game_time": "42:48",
+            "query": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety.",
+            "short-term": "Another attempt to send the ball beyond the defence by Pierre-Emerick Aubameyang (Dortmund) is thwarted and cleared to safety. The defender read the pass well and stepped in just in time to intercept.",
+            "query_ano": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "41:55",
+            "game_time": "41:46",
+            "query": "Schalke are ruled offside.",
+            "short-term": "Schalke are ruled offside. The assistant referee quickly raised his flag, catching the attacking player in an advanced position.",
+            "query_ano": "[TEAM] are ruled offside."
+        },
+        {
+            "gameTime": "41:30",
+            "game_time": "41:25",
+            "query": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked.",
+            "short-term": "Leroy Sane (Schalke) shoots from outside the box, but his effort is blocked. The defender stepped in bravely to get in the way of the shot, preventing it from testing the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "gameTime": "41:04",
+            "game_time": "40:48",
+            "query": "The manager has decided to make a substitution and Gonzalo Castro walks off the pitch to be replaced by Sven Bender (Dortmund).",
+            "short-term": "The manager has decided to make a substitution and Gonzalo Castro walks off the pitch to be replaced by Sven Bender (Dortmund). The change comes late in the game, aiming to bring fresh legs into midfield and maintain defensive stability.",
+            "query_ano": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "39:56",
+            "game_time": "39:34",
+            "query": "Franco Di Santo (Schalke) is adjudged offside.",
+            "short-term": "Franco Di Santo (Schalke) is adjudged offside. The timing of the run was slightly off, and the assistant referee quickly raised his flag to stop the attack.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged offside."
+        },
+        {
+            "gameTime": "38:55",
+            "game_time": "38:57",
+            "query": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The linesman signals a throw-in for Dortmund.",
+            "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The opponent capitalized on the misplaced pass and quickly reorganized to launch a counterattack.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "37:28",
+            "game_time": "37:19",
+            "query": "Dennis Aogo (Schalke) takes the corner kick, but Roman Burki reads it well and stops the effort.",
+            "short-term": "Dennis Aogo (Schalke) takes the corner kick, but Roman Burki reads it well and stops the effort. The delivery was floated towards the crowded penalty area, but the keeper confidently came off his line to claim the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick, but [PLAYER] reads it well and stops the effort."
+        },
+        {
+            "gameTime": "37:08",
+            "game_time": "37:00",
+            "query": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The ball is out of play and Schalke manage to earn a corner.",
+            "short-term": "Maxim Choupo-Moting (Schalke) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The deflection sent the ball spinning out of play, and Schalke earned a valuable set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "gameTime": "36:36",
+            "game_time": "36:22",
+            "query": "Marcel Schmelzer (Dortmund) is booked after bringing down an opponent. Felix Brych had an easy-decision to make.",
+            "short-term": "Marcel Schmelzer (Dortmund) is booked after bringing down an opponent. The challenge stopped a developing attack, and the referee wasted no time in showing the yellow card.",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [PLAYER] had an easy-decision to make."
+        },
+        {
+            "gameTime": "34:48",
+            "game_time": "34:23",
+            "query": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save.",
+            "short-term": "Dennis Aogo (Schalke) sends in the corner, but the keeper steps in and makes a save. The delivery had decent pace, but the goalkeeper was well-positioned to collect the ball safely.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in the corner, but the keeper steps in and makes a save."
+        },
+        {
+            "gameTime": "34:15",
+            "game_time": "33:58",
+            "query": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. Schalke have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "short-term": "A great job from two opposing players there. Pierre-Emile Hojbjerg (Schalke) fired a shot nicely in on goal from distance towards the bottom right corner, while Roman Burki produced a wonderful piece of goalkeeping to parry the ball onto the post. The ball ricocheted off the post and went out for a corner, keeping the scoreline intact.",
+            "query_ano": "A great job from two opposing players there. [PLAYER] ([TEAM]) fired a shot nicely in on goal from distance towards the bottom right corner, while [PLAYER] produced a wonderful piece of goalkeeping to parry the ball onto the post. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "32:54",
+            "game_time": "32:46",
+            "query": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+            "short-term": "Gonzalo Castro (Dortmund) swings in a cross, but the ball is cleared to safety by one of the defending players. The delivery aimed towards the box was quickly anticipated, allowing the defense to regain control.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "gameTime": "31:33",
+            "game_time": "31:26",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out. The low shot forced the keeper into a quick reaction to prevent any rebound.",
+            "query_ano": "[PLAYER] ([TEAM]) makes contact with a cross and strikes a shot that lacks the power to find the back of the net, but the goalkeeper still has to make a good save to keep his effort out."
+        },
+        {
+            "gameTime": "30:36",
+            "game_time": "30:29",
+            "query": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "short-term": "Matthias Ginter (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The clearance was decisive, preventing any immediate danger inside the area.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "29:29",
+            "game_time": "29:21",
+            "query": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. Dortmund are taking a throw-in.",
+            "short-term": "Schalke are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. A misplaced pass near the touchline allowed the opponent to gain control and restart play with a throw-in.",
+            "query_ano": "[TEAM] are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. [TEAM] are taking a throw-in."
+        },
+        {
+            "gameTime": "27:22",
+            "game_time": "27:12",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) tries to send a low pass into the box, but it's blocked and cleared. The defense reacted quickly to close the passing lane and prevent a goal-scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a low pass into the box, but it's blocked and cleared."
+        },
+        {
+            "gameTime": "26:56",
+            "game_time": "26:46",
+            "query": "Matthias Ginter (Dortmund) sends a long ball in, but Ralf Fahrmann comfortably gathers the ball.",
+            "short-term": "Matthias Ginter (Dortmund) sends a long ball in, but Ralf Fahrmann comfortably gathers the ball. The high delivery was well-read by the keeper, who collected it without pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "gameTime": "23:56",
+            "game_time": "23:34",
+            "query": "The referee signals that it is time for a substitution and Pierre-Emile Hojbjerg (Schalke) is coming onto the pitch as Sead Kolasinac cannot continue after picking up an injury.",
+            "short-term": "The referee signals that it is time for a substitution and Pierre-Emile Hojbjerg (Schalke) is coming onto the pitch as Sead Kolasinac cannot continue after picking up an injury. The change introduces fresh energy into the midfield as the team adjusts to the loss.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) is coming onto the pitch as [PLAYER] cannot continue after picking up an injury."
+        },
+        {
+            "gameTime": "23:23",
+            "game_time": "23:13",
+            "query": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort.",
+            "short-term": "Sokratis (Dortmund) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort. The well-placed attempt required a strong save to deny the goal.",
+            "query_ano": "Sokratis ([TEAM]) wins himself just enough space inside the box to connect with the corner. His header flies towards the left post, but the goalkeeper dives superbly to stop the effort."
+        },
+        {
+            "gameTime": "23:04",
+            "game_time": "23:04",
+            "query": "Henrikh Mkhitaryan (Dortmund) will deliver the corner kick.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) will deliver the corner kick. The set-piece presents a valuable chance to create a scoring opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) will deliver the corner kick."
+        },
+        {
+            "gameTime": "22:49",
+            "game_time": "22:38",
+            "query": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "short-term": "Matthias Ginter (Dortmund) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, Dortmund are awarded a corner kick. The defensive block forced the ball out, giving the attacking side another chance from the corner.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to send a pass into the box as his effort is cut out. The referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "21:52",
+            "game_time": "21:30",
+            "query": "Dortmund continue the game with a quickly taken free kick.",
+            "short-term": "Dortmund continue the game with a quickly taken free kick. The team quickly reorganized, looking to regain control after a brief stoppage.",
+            "query_ano": "[TEAM] continue the game with a quickly taken free kick."
+        },
+        {
+            "gameTime": "21:25",
+            "game_time": "20:57",
+            "query": "Julian Weigl (Dortmund) has picked up a minor injury, but it looks like he will be able to continue.",
+            "short-term": "Julian Weigl (Dortmund) has picked up a minor injury, but it looks like he will be able to continue. The medical team checked on him, and he is back on his feet.",
+            "query_ano": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "20:59",
+            "game_time": "20:37",
+            "query": "The game is interrupted now, Julian Weigl (Dortmund) picks up a knock and the physio has to come on.",
+            "short-term": "The game is interrupted now, Julian Weigl (Dortmund) picks up a knock and the physio has to come on. A head collision left him momentarily shaken, but he is receiving medical attention.",
+            "query_ano": "The game is interrupted now, [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "20:24",
+            "game_time": "20:04",
+            "query": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "The referee blows his whistle as Klaas-Jan Huntelaar (Schalke) was too aggressive in his challenge. Dortmund win a free kick. It's a promising situation for a direct shot. The attacker protested the decision.",
+            "query_ano": "The referee blows his whistle as [PLAYER] ([TEAM]) was too aggressive in his challenge. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "19:40",
+            "game_time": "19:38",
+            "query": "Shinji Kagawa (Dortmund) looks to break free, but an opposing player clears the ball away.",
+            "short-term": "Shinji Kagawa (Dortmund) looks to break free, but an opposing player clears the ball away. He was momentarily through but faced strong defensive pressure that forced the clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "14:35",
+            "game_time": "14:08",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) looks to break free, but his touch lets him down and he loses the ball.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) looks to break free, but his touch lets him down and he loses the ball. He had a chance to push forward but miscontrolled, allowing the defender to recover.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "gameTime": "13:57",
+            "game_time": "13:58",
+            "query": "Junior Caicara (Schalke) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",
+            "short-term": "Junior Caicara (Schalke) takes the corner, but he overhits it and none of his teammates are able to reach the ball. The delivery sailed over everyone, wasting a potential attacking opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "gameTime": "13:45",
+            "game_time": "13:30",
+            "query": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner.",
+            "short-term": "Franco Di Santo (Schalke) flights in the cross, but the defender is alert and clears to safety. Schalke win a corner. The clearance was necessary as pressure was mounting inside the box.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. [TEAM] win a corner."
+        },
+        {
+            "gameTime": "12:25",
+            "game_time": "12:25",
+            "query": "Dortmund are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",
+            "short-term": "Dortmund are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball. The precise movement is frustrating the opposition, forcing them to chase the play.",
+            "query_ano": "[TEAM] are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball."
+        },
+        {
+            "gameTime": "10:20",
+            "game_time": "9:56",
+            "query": "Andre Breitenreiter has decided to substitute Max Meyer and he is replaced by Maxim Choupo-Moting (Schalke).",
+            "short-term": "Andre Breitenreiter has decided to substitute Max Meyer and he is replaced by Maxim Choupo-Moting (Schalke). The change introduces fresh legs on the wing, likely aiming to add more attacking threat.",
+            "query_ano": "Andre Breitenreiter has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "09:52",
+            "game_time": "9:40",
+            "query": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in.",
+            "short-term": "Shinji Kagawa (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Dortmund will have a throw-in. His quick footwork nearly created an opening, but the defense reacted swiftly.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "gameTime": "08:15",
+            "game_time": "8:07",
+            "query": "Ralf Fahrmann pulls off a great save to deny Henrikh Mkhitaryan (Dortmund), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner.",
+            "short-term": "Ralf Fahrmann pulls off a great save to deny Henrikh Mkhitaryan (Dortmund), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner. The keeper reacted instinctively, stretching low to push the shot away.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner."
+        },
+        {
+            "gameTime": "07:33",
+            "game_time": "7:26",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) is adjudged to have been offside when making his run.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) is adjudged to have been offside when making his run. The timing of his movement was just a fraction too early, leading to the flag being raised.",
+            "query_ano": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "06:42",
+            "game_time": "6:42",
+            "query": "Dortmund are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+            "short-term": "Dortmund are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break. The fluid passing is keeping the defense on high alert, searching for a breakthrough.",
+            "query_ano": "[TEAM] are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "06:25",
+            "game_time": "5:44",
+            "query": "Leon Goretzka (Schalke) sends a promising through ball, but the defence is alert and cuts out the pass.",
+            "short-term": "Leon Goretzka (Schalke) sends a promising through ball, but the defence is alert and cuts out the pass. The opposition anticipated the danger well, stepping in to intercept before the attack could develop.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "gameTime": "05:05",
+            "game_time": "4:45",
+            "query": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save.",
+            "short-term": "Ilkay Gundogan (Dortmund) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. Ralf Fahrmann has a clear sight of it and makes a comfortable save. The shot had good placement, but lacked the power to truly trouble the keeper.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the left post. [PLAYER] has a clear sight of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "04:35",
+            "game_time": "4:27",
+            "query": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save!",
+            "short-term": "Ralf Fahrmann is alert and has a clear sight of a long through ball from Shinji Kagawa (Dortmund). Easy save! The pass was well-intended, but the keeper read it early and came out to claim it.",
+            "query_ano": "[PLAYER] is alert and has a clear sight of a long through ball from [PLAYER] ([TEAM]). Easy save!"
+        },
+        {
+            "gameTime": "03:52",
+            "game_time": "3:42",
+            "query": "Ilkay Gundogan (Dortmund) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "short-term": "Ilkay Gundogan (Dortmund) receives a pass and unleashes a shot which goes well wide of the right post. He found space to take the attempt, but the effort lacked accuracy.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "gameTime": "02:59",
+            "game_time": "2:59",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) picks up a yellow card.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) picks up a yellow card. His celebration was deemed excessive, leading the referee to caution him.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card."
+        },
+        {
+            "gameTime": "01:59",
+            "game_time": "1:52",
+            "query": "Goal! Gonzalo Castro displays great vision and sends a pass to Pierre-Emerick Aubameyang (Dortmund), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1.",
+            "short-term": "Goal! Gonzalo Castro displays great vision and sends a pass to Pierre-Emerick Aubameyang (Dortmund), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1. The defense was stretched, allowing him the space to finish clinically.",
+            "query_ano": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 3:1."
+        },
+        {
+            "gameTime": "01:34",
+            "game_time": "1:18",
+            "query": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post.",
+            "short-term": "Close effort! Ilkay Gundogan (Dortmund) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post. The strike had the right idea but just failed to curl inside the post.",
+            "query_ano": "Close effort! [PLAYER] ([TEAM]) takes the resulting free kick from a promising distance, but he sends it narrowly wide of the right post."
+        },
+        {
+            "gameTime": "01:28",
+            "game_time": "1:08",
+            "query": "Dortmund are awarded a free kick from a dangerous position.",
+            "short-term": "Dortmund are awarded a free kick from a dangerous position. The team is setting up for what could be a decisive attempt on goal.",
+            "query_ano": "[TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "00:57",
+            "game_time": "0:40",
+            "query": "Felix Brych shows a yellow card to Junior Caicara (Schalke) for his blatant foul.",
+            "short-term": "Felix Brych shows a yellow card to Junior Caicara (Schalke) for his blatant foul. The challenge was late, leaving the referee with little choice but to book him.",
+            "query_ano": "[PLAYER] shows a yellow card to [PLAYER] ([TEAM]) for his blatant foul."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "annotations": [
+        {
+            "query": "meets a cross inside the box, but Diego Lopez (AC Milan) wins the battle for the ball and the chance is gone.",
+            "game_time": "28:52",
+            "short-term": "A cross inside the box was met by a player, but Diego Lopez (AC Milan) wins the battle for the ball and the chance is gone. He showed good anticipation to come off his line and claim it.",
+            "query_ano": "meets a cross inside the box, but [PLAYER] ([TEAM]) wins the battle for the ball and the chance is gone.",
+            "history": [
+                {
+                    "short-term": "Keisuke Honda (AC Milan) flights in the cross, but the defender is alert and clears to safety. The ball goes out for a corner. Honda had little space but managed to whip in a dangerous delivery.",
+                    "history_time": "25:12",
+                    "long-term": "They have been putting pressure on the defense with some great crosses into the box, but the opposing team's goalkeeper and defenders have been able to neutralize the threats so far."
+                }
+            ]
+        },
+        {
+            "query": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Empoli have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "game_time": "36:38",
+            "short-term": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Rui tried to catch the goalkeeper off guard, but Lopez reacted swiftly to parry it away for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, [PLAYER] makes a great save to stop his effort. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "history": [
+                {
+                    "short-term": "Elseid Hysaj (Empoli) sends a teasing cross into the area, but Diego Lopez intercepts the ball. Lopez read the trajectory well and stepped out confidently to collect.",
+                    "history_time": "33:00",
+                    "long-term": "The Empoli players have been consistently threatening the opponent's goal with precise passes and crosses."
+                }
+            ]
+        },
+        {
+            "query": "Mirko Valdifiori (Empoli) takes the corner with a short pass.",
+            "game_time": "36:58",
+            "short-term": "Mirko Valdifiori (Empoli) takes the corner with a short pass. Empoli looks to maintain possession rather than delivering a direct cross.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass.",
+            "history": [
+                {
+                    "short-term": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Rui tried to catch the goalkeeper off guard, but Lopez reacted swiftly to parry it away for a corner.",
+                    "history_time": "36:38",
+                    "long-term": "They have been utilizing different strategies to create scoring opportunities, combining short passes with direct attacks to challenge the opposing team's defense."
+                },
+                {
+                    "short-term": "Elseid Hysaj (Empoli) sends a teasing cross into the area, but Diego Lopez intercepts the ball. Lopez read the trajectory well and stepped out confidently to collect.",
+                    "history_time": "33:00",
+                    "long-term": "They have been utilizing different strategies on set pieces, mixing short passes with crosses into the area, but the opponent's goalkeeper has been prepared to handle them."
+                }
+            ]
+        },
+        {
+            "query": "Mirko Valdifiori (Empoli) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "game_time": "38:50",
+            "short-term": "Mirko Valdifiori (Empoli) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked pace and direction, making it an easy clearance for the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "history": [
+                {
+                    "short-term": "Mirko Valdifiori (Empoli) takes the corner with a short pass. Empoli looks to maintain possession rather than delivering a direct cross.",
+                    "history_time": "36:58",
+                    "long-term": "The player's set-piece deliveries have been inconsistent, with one poor cross and another more cautious, short-pass approach, indicating some uncertainty in their strategy."
+                },
+                {
+                    "short-term": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Rui tried to catch the goalkeeper off guard, but Lopez reacted swiftly to parry it away for a corner.",
+                    "history_time": "36:38",
+                    "long-term": "They have been pushing forward with set pieces and carefully crafted attacks, but so far, the opposition's defense has been up to the task."
+                },
+                {
+                    "short-term": "Elseid Hysaj (Empoli) sends a teasing cross into the area, but Diego Lopez intercepts the ball. Lopez read the trajectory well and stepped out confidently to collect.",
+                    "history_time": "33:00",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, with their crosses lacking quality and being easily dealt with by the opposition."
+                }
+            ]
+        }
+    ]
+}

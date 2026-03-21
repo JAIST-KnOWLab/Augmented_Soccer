@@ -1,0 +1,475 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:47",
+            "game_time": "45:42",
+            "query": "Olivier Giroud (Arsenal) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance!",
+            "short-term": "Olivier Giroud (Arsenal) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance! The goal equalizes the score right before halftime, shifting momentum in Arsenal’s favor.",
+            "query_ano": "[PLAYER] ([TEAM]) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance!",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) is heading towards the penalty spot to take it. The tension is high, with they eager to level the score before halftime.",
+                    "history_time": "45:40",
+                    "long-term": "They've capitalized on a crucial penalty opportunity to shift the momentum of the game in their favor."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball. Arsenal is starting to push forward more aggressively, searching for an opening before the break.",
+                    "history_time": "42:41",
+                    "long-term": "They have regained momentum with the equalizing goal and are aggressively pushing forward, increasing pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+                    "history_time": "39:31",
+                    "long-term": "He has been instrumental in shifting the momentum in his team's favor, first by scoring a crucial penalty and then by helping to increase the attacking pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:29",
+            "game_time": "44:18",
+            "query": "Grzegorz Krychowiak (Paris SG) brings an opponent down and Felix Brych interrupts the game. A penalty is given to Arsenal!",
+            "short-term": "Grzegorz Krychowiak (Paris SG) brings an opponent down and Felix Brych interrupts the game. A penalty is given to Arsenal! The foul leading to immediate protests from PSG players.",
+            "query_ano": "[PLAYER] ([TEAM]) brings an opponent down and [PLAYER] interrupts the game. A penalty is given to [TEAM]!",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+                    "history_time": "39:31",
+                    "long-term": "They have been putting pressure on the defense, as evidenced by winning a penalty and constantly pushing for opportunities through corners and passes."
+                },
+                {
+                    "short-term": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick. His aggressive approach halts PSG’s buildup, but the referee deems it excessive and awards the free kick.",
+                    "history_time": "20:40",
+                    "long-term": "The referee has been actively involved in managing the physicality of the game, calling fouls on both sides as the teams battle for control."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:44",
+            "game_time": "42:41",
+            "query": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball.",
+            "short-term": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball. Arsenal is starting to push forward more aggressively, searching for an opening before the break.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball.",
+            "history": [
+                {
+                    "short-term": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick. Arsenal continues to apply pressure, but PSG’s defense remains well-organized, limiting clear-cut chances.",
+                    "history_time": "41:40",
+                    "long-term": "They have been consistently applying pressure and probing for openings, but the opposing defense has shown resilience in limiting clear-cut chances."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+                    "history_time": "39:31",
+                    "long-term": "They have been consistently pushing forward, increasing their attacking momentum and seeking to exploit any weaknesses in the opposition's defense. The team's aggressive play has led to several promising opportunities, although they have yet to break through."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick. The defender times his defensive intervention perfectly, preventing him from capitalizing on pass.",
+                    "history_time": "27:35",
+                    "long-term": "They have increased the intensity of their attacks, consistently putting pressure on the opponent's defense with repeated goal attempts and strategic forward pushes."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball. PSG’s defense remains composed, with the defender reacting swiftly to his lofted ball.",
+                    "history_time": "26:38",
+                    "long-term": "He has been consistently attempting to create scoring opportunities with precise passes into the box, but the opposing goalkeeper has been equally alert to intercept them."
+                }
+            ]
+        },
+        {
+            "gameTime": "41:43",
+            "game_time": "41:40",
+            "query": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick.",
+            "short-term": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick. Arsenal continues to apply pressure, but PSG’s defense remains well-organized, limiting clear-cut chances.",
+            "query_ano": "[PLAYER] ([TEAM]) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+                    "history_time": "39:31",
+                    "long-term": "They have been consistently applying pressure, looking to penetrate the opponent's well-organized defense, but so far, clear-cut chances have been limited."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick. The defender times his defensive intervention perfectly, preventing him from capitalizing on pass.",
+                    "history_time": "27:35",
+                    "long-term": "They have consistently applied pressure, but the opposing defense has shown resolute organization, effectively neutralizing scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:34",
+            "game_time": "39:31",
+            "query": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner.",
+            "short-term": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner. The team is increasing its attacking momentum, looking to break down PSG’s well-organized defense.",
+            "query_ano": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. [TEAM] win a corner.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick. The defender times his defensive intervention perfectly, preventing him from capitalizing on pass.",
+                    "history_time": "27:35",
+                    "long-term": "They have been consistently aggressive in their attacks, yet struggling to break through the opponent's solid defensive line."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG. The defense expertly tracks his movement, staying on his feet and cutting out the pass without conceding a corner.",
+                    "history_time": "24:37",
+                    "long-term": "They have consistently attempted to penetrate the opponent's defense through targeted passes, but the defense has been up to the task so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:22",
+            "game_time": "29:19",
+            "query": "Carl Jenkinson (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "short-term": "Carl Jenkinson (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates. PSG’s pressing forces them into making rushed decisions.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates.",
+            "history": [
+                {
+                    "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+                    "history_time": "21:35",
+                    "long-term": "He has been struggling to create scoring opportunities due to PSG's intense defensive pressure and quick closing down of spaces."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:43",
+            "game_time": "27:35",
+            "query": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick.",
+            "short-term": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick. The defender times his defensive intervention perfectly, preventing him from capitalizing on pass.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball. PSG’s defense remains composed, with the defender reacting swiftly to his lofted ball.",
+                    "history_time": "26:38",
+                    "long-term": "They have shown promising attacking movements, but the opposing team's defense has been solid in thwarting their goal-scoring opportunities."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG. The defense expertly tracks his movement, staying on his feet and cutting out the pass without conceding a corner.",
+                    "history_time": "24:37",
+                    "long-term": "They have shown impressive defensive skills, as evidenced by two successful interventions that denied scoring opportunities."
+                },
+                {
+                    "short-term": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick. Maxwell tries to advance on the left flank, but Arsenal’s defense holds firm, forcing the ball out of play.",
+                    "history_time": "23:58",
+                    "long-term": "Both teams' defenses have shown resilience in these instances, preventing opposition advances and demonstrating disciplined defensive interventions. They have effectively countered opponents' moves."
+                },
+                {
+                    "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+                    "history_time": "21:35",
+                    "long-term": "They have shown great intent in counter-attacking, but so far, the opposition's defense has been equal to the task, effectively shutting down these opportunities."
+                },
+                {
+                    "short-term": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick. His aggressive approach halts PSG’s buildup, but the referee deems it excessive and awards the free kick.",
+                    "history_time": "20:40",
+                    "long-term": "They have adopted an aggressive approach, making strong defensive interventions, although this sometimes results in conceded free kicks."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+                    "history_time": "19:42",
+                    "long-term": "Both teams are creating scoring opportunities, but the defenders have been making crucial interventions to prevent any goals so far."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "Both teams have shown impressive defensive skills, with key interventions preventing scoring opportunities, while also displaying intelligent attacking strategies."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "Both teams have shown strong defensive capabilities, with Arsenal's Koscielny and Paris SG's defender making crucial interventions to neutralize opponents' attacks."
+                },
+                {
+                    "short-term": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge. The route is cut off before he could release a shot.",
+                    "history_time": "13:15",
+                    "long-term": "They have shown great intent in counter-attacking, but their opponents' defense has consistently made key interventions to prevent potential scoring opportunities."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "Both teams have shown defensive solidity, with key interventions preventing potential scoring opportunities and goalkeepers making decisive claims to alleviate pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:43",
+            "game_time": "26:38",
+            "query": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball.",
+            "short-term": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball. PSG’s defense remains composed, with the defender reacting swiftly to his lofted ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball.",
+            "history": [
+                {
+                    "short-term": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG. The defense expertly tracks his movement, staying on his feet and cutting out the pass without conceding a corner.",
+                    "history_time": "24:37",
+                    "long-term": "They have consistently shown excellent defensive organization, effectively nullifying opposition attacks with swift interceptions and composed decision-making."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to rise to head the ball away, ensuring they maintain control after their early goal.",
+                    "history_time": "16:02",
+                    "long-term": "He has been trying to create scoring opportunities with his clever passing, but the opposing defense has been alert to intercept his efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:17",
+            "game_time": "26:14",
+            "query": "Edinson Cavani (Paris SG) fails to beat a perfect example of the offside trap.",
+            "short-term": "Edinson Cavani (Paris SG) fails to beat a perfect example of the offside trap. Arsenal’s defensive line remains disciplined, stepping up just in time to catch Cavani offside as he tries to connect with a pass.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to beat a perfect example of the offside trap.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "He has struggled to make an impact in the opponent's half, being caught offside and producing a poor pass that was easily cleared."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort. He found space between the two central defenders, capitalizing on the cross.",
+                    "history_time": "14:43",
+                    "long-term": "He has been posing a threat to the opponent's defense, testing them with his movement and efforts on goal, but so far, they have managed to contain him."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:42",
+            "game_time": "24:37",
+            "query": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG.",
+            "short-term": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG. The defense expertly tracks his movement, staying on his feet and cutting out the pass without conceding a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for [TEAM].",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick. Maxwell tries to advance on the left flank, but Arsenal’s defense holds firm, forcing the ball out of play.",
+                    "history_time": "23:58",
+                    "long-term": "Both teams' defenses have shown great solidity, compactness, and have often thwarted the opposition's threatening moves."
+                },
+                {
+                    "short-term": "The linesman signals that Olivier Giroud (Arsenal) is offside and the referee confirms the decision. He has been a threat against PSG in the past, mistimes his run and is caught offside while trying to exploit space behind the defense.",
+                    "history_time": "22:41",
+                    "long-term": "They have struggled to create clear-cut scoring opportunities, as the defense has shown resilience in containing their threat. The players are getting into good positions but lacking precision in their final moves."
+                },
+                {
+                    "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+                    "history_time": "21:35",
+                    "long-term": "They have been struggling to break down Paris SG's defense, with multiple attempted passes and runs being effectively intercepted and blocked."
+                },
+                {
+                    "short-term": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick. His aggressive approach halts PSG’s buildup, but the referee deems it excessive and awards the free kick.",
+                    "history_time": "20:40",
+                    "long-term": "They have shown a mix of measured and overzealous defensive plays, resulting in a combination of effective and needless concessions of possession."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+                    "history_time": "19:42",
+                    "long-term": "Both teams have shown strong defensive capabilities, with Arsenal's attack being neutralized and Paris SG's set-piece threat being effectively dealt with."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "Both teams have showcased exceptional defensive skills, effectively nullifying their opponents' attacking opportunities."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "Both teams have showcased strong defensive skills, effectively nullifying the opponent's attacking efforts, with a series of timely interceptions and well-executed tackles."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "Both teams have shown intent in their attacking plays, but the defensive lines have been compact and conceded little."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:02",
+            "game_time": "23:58",
+            "query": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick.",
+            "short-term": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick. Maxwell tries to advance on the left flank, but Arsenal’s defense holds firm, forcing the ball out of play.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "The linesman signals that Olivier Giroud (Arsenal) is offside and the referee confirms the decision. He has been a threat against PSG in the past, mistimes his run and is caught offside while trying to exploit space behind the defense.",
+                    "history_time": "22:41",
+                    "long-term": "Both teams are creating opportunities but struggling to break through the opposing defense, with Maxwell's run down the flank being shut down and Giroud's offside positioning hindering Arsenal's attack."
+                },
+                {
+                    "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+                    "history_time": "21:35",
+                    "long-term": "Both teams have shown some intent in the attacking third, but their opposing defenses have stood firm to repel the threats. Chances have been scarce so far due to solid defensive work on both sides."
+                },
+                {
+                    "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+                    "history_time": "19:42",
+                    "long-term": "They have consistently been testing the opponent's defense with effective attacks down the flanks and corners, seeking an opening to change the score."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "They have been consistently testing the opponent's defense with active forays down the flanks, even though the end product has been lacking. The repeated attacking efforts show their intent to find a breakthrough."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "They have consistently applied pressure and tested the opponent's defense with continuous attacking attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:39",
+            "game_time": "21:35",
+            "query": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in.",
+            "short-term": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw-in. He finds little space to operate as PSG’s defense quickly shifts to close down his movement.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. [TEAM] are taking a throw-in.",
+            "history": [
+                {
+                    "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+                    "history_time": "19:42",
+                    "long-term": "Both teams have shown defensive solidity, with each side effectively nullifying the other's attacking threats."
+                },
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "Both teams have shown intent in their respective attacks, but have been unable to break down the opposing defense to create clear scoring opportunities. The Paris SG defense has been quick to respond to threats, while Arsenal's solo efforts have been met with strong opposition."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "Both teams have shown periods of attacking flair, but solid defensive plays have prevented any significant scoring opportunities from arising."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:43",
+            "game_time": "20:40",
+            "query": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick.",
+            "short-term": "Laurent Koscielny (Arsenal) tackles a bit over-zealously and Felix Brych blows for a foul. Paris SG win a free kick. His aggressive approach halts PSG’s buildup, but the referee deems it excessive and awards the free kick.",
+            "query_ano": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [PLAYER] blows for a foul. [TEAM] win a free kick.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "The player's aggressive defending has been noteworthy, and they have been pressuring the opponent's buildup, meanwhile, Paris SG is establishing its attacking rhythm through a sequence of possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:42",
+            "game_time": "19:42",
+            "query": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear.",
+            "short-term": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear. Their forward was positioned at the near post, but the delivery did not reach him.",
+            "query_ano": "The ball is whipped in from the corner by [PLAYER] ([TEAM]), but one of the defenders gets it clear.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+                    "history_time": "19:14",
+                    "long-term": "This corner kick comes after an attempted pass into the box was cleared away by the defense, conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "It's in the back of the net! Blaise Matuidi is the provider as he slips the ball to Edinson Cavani (Paris SG) who simply steers it home from close range. It's 0:1. The forward made a sharp run into the box to meet a perfectly timed pass, leaving the defense unable to respond in time.",
+                    "history_time": "17:48",
+                    "long-term": "They have been consistently posing threats from set pieces and breaks, eventually capitalizing on a well-executed combination to take the lead."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) will deliver the corner kick. The previous attack, initiated by a cross, forced them into defensive action, leading to this set-piece opportunity.",
+                    "history_time": "14:37",
+                    "long-term": "They have been utilizing set-piece opportunities to create attacking chances, putting pressure on the opposing team's defense."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "They have consistently applied pressure through crosses and corners, despite struggling to break through the opponent's defense and create a clear goal-scoring opportunity."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "He has been posing a threat with his crosses into the box, but the opposing defense and goalkeeper have done well to neutralize the danger so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:27",
+            "game_time": "19:14",
+            "query": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box.",
+            "short-term": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box. The attack followed a well-executed sequence of Parisian possession, with midfielder finding his teamate in space before defense intervened.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a poor pass. He attempts to get the ball into the box but it's hacked away. [TEAM] force a corner. They send men into the box.",
+            "history": [
+                {
+                    "short-term": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort. He found space between the two central defenders, capitalizing on the cross.",
+                    "history_time": "14:43",
+                    "long-term": "He has been at the forefront of Paris SG's attacking efforts, attempting to create chances with passes into the box and generating scoring opportunities with headers from crosses."
+                },
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "They have been consistently pressuring the defense with targeted passes into the box, earning corners and maintaining possession to create scoring opportunities."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "They have been consistently pressuring the defense with crosses and passes into the box, but have yet to capitalize on these opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:08",
+            "game_time": "16:02",
+            "query": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "short-term": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to rise to head the ball away, ensuring they maintain control after their early goal.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "history": [
+                {
+                    "short-term": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge. The route is cut off before he could release a shot.",
+                    "history_time": "13:15",
+                    "long-term": "They have been struggling to break through the opponent's defense, with multiple attempted passes and runs towards goal being effectively shut down."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "Both teams have shown intent in their passing, attempting to carve out opportunities with creative deliveries, but have been matched by resolute defensive reactions."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:48",
+            "game_time": "14:43",
+            "query": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort.",
+            "short-term": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort. He found space between the two central defenders, capitalizing on the cross.",
+            "query_ano": "[PLAYER] ([TEAM]) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort.",
+            "history": [
+                {
+                    "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+                    "history_time": "14:11",
+                    "long-term": "They have been consistently pressuring the defense with headers and crosses into the box, attempting to capitalize on any available space."
+                },
+                {
+                    "short-term": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge. The route is cut off before he could release a shot.",
+                    "history_time": "13:15",
+                    "long-term": "Both teams have shown a desire to score, creating promising chances but struggling to break down each other's defenses."
+                },
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, testing the defense with deliveries into the box."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:32",
+            "game_time": "14:37",
+            "query": "Lucas (Paris SG) will deliver the corner kick.",
+            "short-term": "Lucas (Paris SG) will deliver the corner kick. The previous attack, initiated by a cross, forced them into defensive action, leading to this set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) will deliver the corner kick.",
+            "history": [
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "They have been utilizing set pieces and crosses to create scoring opportunities, but the opposing goalkeeper has been responding effectively."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:15",
+            "game_time": "14:11",
+            "query": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner.",
+            "short-term": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner. Meunier had been actively pressing forward and delivered a strong cross into the box, but Koscielny’s well-timed tackle ensured Arsenal remained defensively solid.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and [TEAM] manage to earn a corner.",
+            "history": [
+                {
+                    "short-term": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball. The defense poor positioning gave him room to deliver the cross, but keeper reacted quickly to claim possession.",
+                    "history_time": "12:52",
+                    "long-term": "They have been consistently applying pressure with crosses into the box, testing the opponent's defense with goal-scoring opportunities."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "annotations": [
+        {
+            "query": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar.",
+            "game_time": "13:07",
+            "short-term": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. He chested the ball down well but couldn’t keep his shot under control.",
+            "query_ano": "[PLAYER] ([TEAM]) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar."
+        },
+        {
+            "query": "The substitution is prepared. Ezequiel Lavezzi (Paris SG) joins the action as a substitute, replacing Edinson Cavani.",
+            "game_time": "13:40",
+            "short-term": "The substitution is prepared. Ezequiel Lavezzi (Paris SG) joins the action as a substitute, replacing Edinson Cavani. This swap adds fresh attacking energy to the team.",
+            "query_ano": "The substitution is prepared. [PLAYER] ([TEAM]) joins the action as a substitute, replacing [PLAYER]."
+        },
+        {
+            "query": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "game_time": "15:07",
+            "short-term": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The keeper reacted quickly to keep it out.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal."
+        },
+        {
+            "query": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille.",
+            "game_time": "18:27",
+            "short-term": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille. His cross created danger but was well dealt with.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "query": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted.",
+            "game_time": "18:53",
+            "short-term": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted. The delivery lacked accuracy, allowing the defenders to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "query": "Maxwell (Paris SG) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "game_time": "1:02",
+            "short-term": "Maxwell (Paris SG) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. A good cross but well-defended.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker.",
+            "game_time": "20:44",
+            "short-term": "Javier Pastore (Paris SG) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. A brilliant solo effort that deserved a goal.",
+            "query_ano": "[PLAYER] ([TEAM]) and his stunning dribble! He zig-zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker."
+        },
+        {
+            "query": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "game_time": "25:15",
+            "short-term": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. A well-timed clearance prevented danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "query": "Andre-Pierre Gignac comes off the pitch to be replaced by Michy Batshuayi (Marseille).",
+            "game_time": "25:44",
+            "short-term": "Andre-Pierre Gignac comes off the pitch to be replaced by Michy Batshuayi (Marseille). The substitution provides fresh legs in attack for Marseille.",
+            "query_ano": "[PLAYER] comes off the pitch to be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner.",
+            "game_time": "26:46",
+            "short-term": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner. The rebound almost led to another chance.",
+            "query_ano": "[PLAYER] ([TEAM]) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner."
+        },
+        {
+            "query": "An attempted cross from Benjamin Mendy (Marseille) is cleared.",
+            "game_time": "27:31",
+            "short-term": "An attempted cross from Benjamin Mendy (Marseille) is cleared. The defender read the delivery well and cut out the danger.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared."
+        },
+        {
+            "query": "Mario Lemina (Marseille) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post.",
+            "game_time": "30:20",
+            "short-term": "Mario Lemina (Marseille) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post. This gives PSG a moment to reset.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post."
+        },
+        {
+            "query": "Jeremy Morel (Marseille) makes a strong challenge and Ruddy Buquet blows for a foul. Paris SG are awarded a free kick from a dangerous position.",
+            "game_time": "2:28",
+            "short-term": "Jeremy Morel (Marseille) makes a strong challenge and Ruddy Buquet blows for a foul. Paris SG are awarded a free kick from a dangerous position. The opposition sets up their defensive line carefully.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a strong challenge and [REFEREE] blows for a foul. [TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "query": "Dimitri Payet (Marseille) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar.",
+            "game_time": "1:55",
+            "short-term": "Dimitri Payet (Marseille) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. A well-placed attempt, but just too much elevation.",
+            "query_ano": "[PLAYER] ([TEAM]) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar."
+        },
+        {
+            "query": "It seems like Zlatan Ibrahimovic (Paris SG) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot.",
+            "game_time": "2:48",
+            "short-term": "It seems like Zlatan Ibrahimovic (Paris SG) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot, and he has scored from similar positions before.",
+            "query_ano": "It seems like [PLAYER] ([TEAM]) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot."
+        },
+        {
+            "query": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "game_time": "32:33",
+            "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "query": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal.",
+            "game_time": "35:32",
+            "short-term": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal. A strong save to keep the score unchanged.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal."
+        },
+        {
+            "query": "The referee signals that it is time for a substitution and Adrien Rabiot (Paris SG) comes onto the pitch so that Javier Pastore can be given a rest.",
+            "game_time": "35:55",
+            "short-term": "The referee signals that it is time for a substitution and Adrien Rabiot (Paris SG) comes onto the pitch so that Javier Pastore can be given a rest. Pastore exits after a strong performance.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that [PLAYER] can be given a rest."
+        },
+        {
+            "query": "Steve Mandanda pulls off a great save to deny Zlatan Ibrahimovic (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. Paris SG will have a chance to score from a corner.",
+            "game_time": "38:19",
+            "short-term": "Steve Mandanda pulls off a great save to deny Zlatan Ibrahimovic (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. Paris SG will have a chance to score from a corner. A vital stop from the keeper.",
+            "query_ano": "Steve Mandanda pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "query": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick.",
+            "game_time": "37:05",
+            "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+            "query_ano": "Golden chance! [PLAYER] ([TEAM]) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "query": "The resulting corner, taken by Ezequiel Lavezzi (Paris SG), comes to nothing.",
+            "game_time": "39:29",
+            "short-term": "The resulting corner, taken by Ezequiel Lavezzi (Paris SG), comes to nothing. The delivery was cleared before reaching the intended target.",
+            "query_ano": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing."
+        },
+        {
+            "query": "Goal! Marquinhos (Paris SG) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top left corner. It's 2:2.",
+            "game_time": "3:40",
+            "short-term": "Goal! Marquinhos (Paris SG) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top left corner. It's 2:2. A crucial equalizer to bring the game level.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top left corner. It's 2:2."
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) unleashes a bullet of a shot that is blocked by a defender.",
+            "game_time": "3:39",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) unleashes a bullet of a shot that is blocked by a defender. A crucial intervention to deny a dangerous chance.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a bullet of a shot that is blocked by a defender."
+        },
+        {
+            "query": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick.",
+            "game_time": "40:13",
+            "short-term": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick. The referee plays the advantage before stopping play.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] are given an advantage. They have a free kick."
+        },
+        {
+            "query": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "game_time": "41:22",
+            "short-term": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The set-piece lacked precision and was easily dealt with.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) is caught offside, but it was a really close call.",
+            "game_time": "43:26",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) is caught offside, but it was a really close call. The assistant referee raised his flag just in time.",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside, but it was a really close call."
+        },
+        {
+            "query": "The Paris SG players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball.",
+            "game_time": "42:32",
+            "short-term": "The Paris SG players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball, disrupting their build-up play.",
+            "query_ano": "The [TEAM] players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball."
+        },
+        {
+            "query": "Mario Lemina (Marseille) makes an overly-aggressive challenge and Ruddy Buquet blows his whistle for a foul.",
+            "game_time": "42:42",
+            "short-term": "Mario Lemina (Marseille) makes an overly-aggressive challenge and Ruddy Buquet blows his whistle for a foul. Blaise Matuidi wins the free kick for Paris SG in a dangerous area.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "query": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball.",
+            "game_time": "44:11",
+            "short-term": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball, eliminating any danger before an attacker could pounce.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball."
+        },
+        {
+            "query": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted.",
+            "game_time": "43:56",
+            "short-term": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted. The opposition defense reacts quickly to cut out the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "query": "Thiago Motta (Paris SG) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+            "game_time": "44:45",
+            "short-term": "Thiago Motta (Paris SG) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes. His absence could impact the midfield battle.",
+            "query_ano": "[PLAYER] ([TEAM]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "query": "Lucas Ocampos (Marseille) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "game_time": "47:08",
+            "short-term": "Lucas Ocampos (Marseille) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar. A frustrating miss for the home side.",
+            "query_ano": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar."
+        },
+        {
+            "query": "Lucas Ocampos (Marseille) commits a rough foul. Ruddy Buquet stops the game and makes a call. There is a free kick near the sideline to Paris SG.",
+            "game_time": "49:11",
+            "short-term": "Lucas Ocampos (Marseille) commits a rough foul. Ruddy Buquet stops the game and makes a call. There is a free kick near the sideline to Paris SG. A strong challenge that leaves the opposition player on the ground.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "query": "The referee blows his whistle for the final time to end this match.",
+            "game_time": "50:44",
+            "short-term": "The referee blows his whistle for the final time to end this match. Both teams battled hard, but the contest has reached its conclusion.",
+            "query_ano": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) is clearly in an offside position and the linesman raises his flag.",
+            "game_time": "50:15",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) is clearly in an offside position and the linesman raises his flag. A close call, but the decision stands.",
+            "query_ano": "[PLAYER] ([TEAM]) is clearly in an offside position and the linesman raises his flag."
+        },
+        {
+            "query": "The match is over and Andre Ayew (Marseille) gets a red card for unsporting behaviour.",
+            "game_time": "51:32",
+            "short-term": "The match is over and Andre Ayew (Marseille) gets a red card for unsporting behaviour. A frustrating end to the game for him and his team.",
+            "query_ano": "The match is over and [PLAYER] ([TEAM]) gets a red card for unsporting behaviour."
+        },
+        {
+            "query": "Salvatore Sirigu stretches to his right and makes a brilliant save! Andre Ayew (Marseille) met a rebound outside the box and attempted to beat the keeper inside the left post.",
+            "game_time": "7:16",
+            "short-term": "Salvatore Sirigu stretches to his right and makes a brilliant save! Andre Ayew (Marseille) met a rebound outside the box and attempted to beat the keeper inside the left post. The goalkeeper's strong hands kept the ball out.",
+            "query_ano": "[PLAYER] stretches to his right and makes a brilliant save! [PLAYER] ([TEAM]) met a rebound outside the box and attempted to beat the keeper inside the left post."
+        }
+    ]
+}

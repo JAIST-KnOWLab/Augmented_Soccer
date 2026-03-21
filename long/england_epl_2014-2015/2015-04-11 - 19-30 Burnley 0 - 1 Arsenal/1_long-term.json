@@ -1,0 +1,703 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:56",
+            "game_time": "43:56",
+            "query": "Michael Dean blows his whistle for a foul after Danny Ings (Burnley) hacks down one of his opponents. It's a free kick to Arsenal in a dangerous position.",
+            "short-term": "Michael Dean blows his whistle for a foul after Danny Ings (Burnley) hacks down one of his opponents. It's a free kick to Arsenal in a dangerous position. Ings and his teammates protested the decision, but the referee stood firm.",
+            "query_ano": "[REFEREE] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. It's a free kick to [TEAM] in a dangerous position.",
+            "history": [
+                {
+                    "short-term": "A pass by Alexis Sanchez (Arsenal) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for Burnley. Sanchez had just made an excellent defensive effort to win back possession but lacked precision in his final pass.",
+                    "history_time": "43:19",
+                    "long-term": "They have shown a mix of defensive and attacking intent, with tackles and passes not quite coming together as desired."
+                },
+                {
+                    "short-term": "A pass by Danny Ings (Burnley) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. Arsenal will take a throw-in. Ings attempted to link up with Trippier, but the pass was overhit and possession was lost.",
+                    "history_time": "40:01",
+                    "long-term": "He lost the ball before because of too much force in the pass, and he fouled again this time."
+                },
+                {
+                    "short-term": "Ashley Barnes (Burnley) makes a rough challenge and Michael Dean blows his whistle for a foul. Mee, already on a yellow card, committed an earlier foul on Giroud and will need to be cautious.",
+                    "history_time": "34:37",
+                    "long-term": "Their aggressive style of play has resulted in multiple fouls, testing the referee's patience and potentially putting their players at risk of bookings."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+                    "history_time": "33:30",
+                    "long-term": "They have been committing several aggressive fouls, resulting in multiple free kicks for the opposing team."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+                    "history_time": "31:12",
+                    "long-term": "The referee has been actively enforcing discipline, calling out fouls committed by both teams in crucial areas of the pitch. The match is seeing an intense midfield battle with both teams often attempting to gain an advantage."
+                },
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:19",
+            "game_time": "43:19",
+            "query": "A pass by Alexis Sanchez (Arsenal) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for Burnley.",
+            "short-term": "A pass by Alexis Sanchez (Arsenal) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for Burnley. Sanchez had just made an excellent defensive effort to win back possession but lacked precision in his final pass.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for [TEAM].",
+            "history": [
+                {
+                    "short-term": "A pass by Danny Ings (Burnley) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. Arsenal will take a throw-in. Ings attempted to link up with Trippier, but the pass was overhit and possession was lost.",
+                    "history_time": "40:01",
+                    "long-term": "Both teams have struggled with precision in their passing, resulting in multiple attacking efforts coming to an end without posing a significant threat."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+                    "history_time": "31:12",
+                    "long-term": "He has shown a mix of defensive diligence and attacking inefficiency."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:28",
+            "game_time": "42:28",
+            "query": "David Ospina (Arsenal) sends a long ball across the pitch, but it misses its target.",
+            "short-term": "David Ospina (Arsenal) sends a long ball across the pitch, but it misses its target. Arsenal had been calmly circulating the ball at the back before Ospina decided to go long, but the pass was overhit.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. The build-up play started with Ozil finding Monreal on the left, who linked up with Sanchez before the Chilean's pass carried too much weight.",
+                    "history_time": "37:40",
+                    "long-term": "They have been struggling with the accuracy of their long passes, failing to find their target on multiple occasions and losing possession as a result."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) tries to take the opposition by surprise with a quick free kick into the box. The ball was intended for Giroud, but the forward couldn't get a shot off under pressure from the defense.",
+                    "history_time": "35:56",
+                    "long-term": "They have been trying to create scoring opportunities through long passes and set pieces, but the execution has been slightly off so far."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. He had just combined with Giroud before delivering the cross, but the ball curled too much and went out of play.",
+                    "history_time": "29:55",
+                    "long-term": "They have been trying to create scoring opportunities with long passes and crosses, but so far, the deliveries have been inaccurate and haven't found their intended targets."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:01",
+            "game_time": "40:01",
+            "query": "A pass by Danny Ings (Burnley) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. Arsenal will take a throw-in.",
+            "short-term": "A pass by Danny Ings (Burnley) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. Arsenal will take a throw-in. Ings attempted to link up with Trippier, but the pass was overhit and possession was lost.",
+            "query_ano": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end. The ball is out of play. [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Mesut Ozil (Arsenal) attempted to dribble past an opposing player. The ball is behind the touchline and Arsenal will take a throw-in. Burnley had been pressing high, forcing Ozil to take on his defender before losing possession.",
+                    "history_time": "38:33",
+                    "long-term": "Both teams have shown intent in their attacking plays but struggled with the final pass, leading to frequent turnovers and throw-ins. The match is becoming a test of persistence and precision in the attacking third."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+                    "history_time": "33:30",
+                    "long-term": "They have been struggling to maintain possession and create scoring opportunities, resorting to physical challenges that resulted in a free kick for the opposing team."
+                },
+                {
+                    "short-term": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick. Cazorla, Ozil, and Sanchez all gathered around the ball, preparing for the set-piece opportunity.",
+                    "history_time": "25:10",
+                    "long-term": "They struggled to maintain possession and create scoring opportunities, with inaccurate passing and reckless tackles before hindering their attacking momentum."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. Arsenal are taking a throw-in. Ramsey had received the ball from Özil but was quickly closed down, forcing the clearance.",
+                    "history_time": "20:47",
+                    "long-term": "Both teams have struggled to create meaningful connections in their attacking plays, with passes going astray and possession being easily lost. This has resulted in a stop-start rhythm to the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:33",
+            "game_time": "38:33",
+            "query": "The ball is cleared after Mesut Ozil (Arsenal) attempted to dribble past an opposing player. The ball is behind the touchline and Arsenal will take a throw-in.",
+            "short-term": "The ball is cleared after Mesut Ozil (Arsenal) attempted to dribble past an opposing player. The ball is behind the touchline and Arsenal will take a throw-in. Burnley had been pressing high, forcing Ozil to take on his defender before losing possession.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is behind the touchline and [TEAM] will take a throw-in.",
+            "history": [
+                {
+                    "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+                    "history_time": "33:30",
+                    "long-term": "The match has seen both teams displaying an aggressive mindset, with Burnley's pressing defense and Arsenal's tricky offense creating challenges for each other."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+                    "history_time": "31:12",
+                    "long-term": "They have shown a mix of attacking intent and caution, as seen in Ozil's attempted dribble and Sanchez's aggressive challenge, but also periods of conservative play."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. Arsenal are taking a throw-in. Ramsey had received the ball from Özil but was quickly closed down, forcing the clearance.",
+                    "history_time": "20:47",
+                    "long-term": "They have been struggling to maintain possession under pressure from the opposing team, resorting to taking throw-ins after losing the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:40",
+            "game_time": "37:40",
+            "query": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass.",
+            "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. The build-up play started with Ozil finding Monreal on the left, who linked up with Sanchez before the Chilean's pass carried too much weight.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) tries to take the opposition by surprise with a quick free kick into the box. The ball was intended for Giroud, but the forward couldn't get a shot off under pressure from the defense.",
+                    "history_time": "35:56",
+                    "long-term": "He has been attempting to create scoring opportunities, but his passes into the box have been inconsistent, sometimes over-hitting or failing to find the target."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. He had just combined with Giroud before delivering the cross, but the ball curled too much and went out of play.",
+                    "history_time": "29:55",
+                    "long-term": "He has consistently struggled to create scoring opportunities with his passes, particularly with over-hit and misdirected attempts."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:56",
+            "game_time": "35:56",
+            "query": "Alexis Sanchez (Arsenal) tries to take the opposition by surprise with a quick free kick into the box.",
+            "short-term": "Alexis Sanchez (Arsenal) tries to take the opposition by surprise with a quick free kick into the box. The ball was intended for Giroud, but the forward couldn't get a shot off under pressure from the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to take the opposition by surprise with a quick free kick into the box.",
+            "history": [
+                {
+                    "short-term": "The free kick is delivered by Mesut Ozil (Arsenal) but it's not one of his best and is easily cleared. The ball was sent towards the penalty spot, but Mertesacker couldn’t challenge effectively, and the defender header for the goalkeeper",
+                    "history_time": "33:51",
+                    "long-term": "They have been utilizing free kicks to create scoring opportunities, but so far, the deliveries have been well-defended by the opposition."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. He had just combined with Giroud before delivering the cross, but the ball curled too much and went out of play.",
+                    "history_time": "29:55",
+                    "long-term": "He has been attempting to create scoring opportunities with clever set pieces and crosses, but so far, they have not yielded the desired outcome."
+                },
+                {
+                    "short-term": "Santi Cazorla (Arsenal) sends the resulting free kick a whisker wide of the left post! His curling effort was just inches away from finding the top corner, brushing past the upright.",
+                    "history_time": "25:39",
+                    "long-term": "They have been utilizing free kicks as a key strategy to create scoring opportunities, showing good vision but lacking the finishing touch."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:47",
+            "game_time": "35:47",
+            "query": "David Jones (Burnley) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. That's a free kick to Arsenal.",
+            "short-term": "David Jones (Burnley) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. That's a free kick to Arsenal. Jones was under pressure from Sanchez and Coquelin before committing the foul.",
+            "query_ano": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. That's a free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+                    "history_time": "33:30",
+                    "long-term": "They have been resorting to physical play and foul tactics to counter their opponents' attack, as seen in the consecutive fouls committed."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+                    "history_time": "31:12",
+                    "long-term": "The match has seen a series of tough tackles, with both sides committing fouls as they fiercely contest for possession."
+                },
+                {
+                    "short-term": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick. Cazorla, Ozil, and Sanchez all gathered around the ball, preparing for the set-piece opportunity.",
+                    "history_time": "25:10",
+                    "long-term": "He has consistently shown aggressive defending, committing multiple fouls under pressure from opponents."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:37",
+            "game_time": "34:37",
+            "query": "Ashley Barnes (Burnley) makes a rough challenge and Michael Dean blows his whistle for a foul.",
+            "short-term": "Ashley Barnes (Burnley) makes a rough challenge and Michael Dean blows his whistle for a foul. Mee, already on a yellow card, committed an earlier foul on Giroud and will need to be cautious.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a rough challenge and [REFEREE] blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+                    "history_time": "33:30",
+                    "long-term": "They have been committing aggressive fouls, and now multiple players are at risk of getting another yellow card."
+                },
+                {
+                    "short-term": "Michael Duff (Burnley) attempts to discuss the decision with Michael Dean, but he soon realises that it's not the right thing to do as he sees the yellow. The referee had already made up his mind, showing no hesitation in booking Duff.",
+                    "history_time": "26:00",
+                    "long-term": "They have been displaying aggressive defense and been getting bookings, indicating a need to work on discipline in their play."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "The match has seen an increase in aggressive challenges, with both sides committing rough fouls in an attempt to gain an advantage. This period has been marked by a lack of control and discipline from the players."
+                },
+                {
+                    "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+                    "history_time": "18:35",
+                    "long-term": "They have been displaying aggressive defense, committing multiple fouls and receiving warnings, which may put them at risk for more severe penalties."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:51",
+            "game_time": "33:51",
+            "query": "The free kick is delivered by Mesut Ozil (Arsenal) but it's not one of his best and is easily cleared.",
+            "short-term": "The free kick is delivered by Mesut Ozil (Arsenal) but it's not one of his best and is easily cleared. The ball was sent towards the penalty spot, but Mertesacker couldn’t challenge effectively, and the defender header for the goalkeeper",
+            "query_ano": "The free kick is delivered by [PLAYER] ([TEAM]) but it's not one of his best and is easily cleared.",
+            "history": [
+                {
+                    "short-term": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save. Ospina had it covered, making a comfortable stop before launching a quick counterattack.",
+                    "history_time": "23:23",
+                    "long-term": "The set pieces have not been particularly threatening for either side, with both teams struggling to create clear chances from dead-ball situations."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:30",
+            "game_time": "33:30",
+            "query": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal.",
+            "short-term": "Scott Arfield (Burnley) commits an ugly challenge. The referee sees it and immediately blows his whistle. Arsenal win a free kick and will be able to apply some pressure on the opposition goal. Giroud had just been working deep to receive the ball and provide an outlet before the foul was committed.",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+                    "history_time": "31:12",
+                    "long-term": "The match has seen an increase in aggressive challenges from both sides, with the referee consistently intervening to maintain control."
+                },
+                {
+                    "short-term": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick. Cazorla, Ozil, and Sanchez all gathered around the ball, preparing for the set-piece opportunity.",
+                    "history_time": "25:10",
+                    "long-term": "They have been committing several fouls in this period. The last time was a vicious tackle from his teammate."
+                },
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "The match has seen an increase in aggressive challenges and fouls, leading to more set-piece opportunities for both teams."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "The match has seen an increase in aggressive challenges, with both sides committing harsh fouls in an attempt to regain possession."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": "They have been applying consistent pressure on the opposition goal and probing for defensive vulnerabilities."
+                },
+                {
+                    "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+                    "history_time": "18:35",
+                    "long-term": "They have been committing several aggressive fouls, resulting in multiple free kicks for the opposing team."
+                }
+            ]
+        },
+        {
+            "gameTime": "31:12",
+            "game_time": "31:12",
+            "query": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley.",
+            "short-term": "Alexis Sanchez (Arsenal) commits a foul and Michael Dean immediately signals a free kick. A free kick has been awarded to Burnley. Arsenal had been sitting deeper, focusing on a more conservative approach, before Sanchez’s aggressive challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick. A free kick has been awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick. Cazorla, Ozil, and Sanchez all gathered around the ball, preparing for the set-piece opportunity.",
+                    "history_time": "25:10",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control. It may lead to bookings if they don't regain their composure."
+                },
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "They have been adopting a more defensive strategy, conceding free kicks in the process, which is giving their opponents opportunities to threaten from set pieces."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "They have been displaying aggressive defending tactics, committing multiple fouls to regain possession."
+                },
+                {
+                    "short-term": "Francis Coquelin (Arsenal) makes a bad challenge and leaves Michael Dean with no other option than to blow for a foul. Burnley have a free kick from a promising distance. He lunged aggressively but colliding with his opponent. He raised his arms in disbelief as the referee immediately signaled the foul.",
+                    "history_time": "15:43",
+                    "long-term": "They have been showing signs of frustration and recklessness in their challenges, leading to consecutive free kicks awarded to their opponents. This aggressive approach might put them at risk of receiving more cautions or even a sending-off."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:55",
+            "game_time": "30:55",
+            "query": "Kieran Trippier (Burnley) produces a dangerous lofted cross into the box which is intercepted.",
+            "short-term": "Kieran Trippier (Burnley) produces a dangerous lofted cross into the box which is intercepted. Bellerín was alert to the threat and managed to deflect the ball, allowing Ospina to collect it safely.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. He had just combined with Giroud before delivering the cross, but the ball curled too much and went out of play.",
+                    "history_time": "29:55",
+                    "long-term": "Both teams have been utilizing crosses to create scoring opportunities, but so far, the defenders have been able to neutralize these threats."
+                },
+                {
+                    "short-term": "Kieran Trippier (Burnley) sends a lofted cross into the box which is headed clear. Mertesacker was well-positioned to deal with the aerial threat, ensuring Arsenal remained solid at the back.",
+                    "history_time": "27:48",
+                    "long-term": "The player has consistently posed a threat from the wing in these few minutes, but all the crosses were cleared safely."
+                },
+                {
+                    "short-term": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save. Ospina had it covered, making a comfortable stop before launching a quick counterattack.",
+                    "history_time": "23:23",
+                    "long-term": "They have consistently posed a threat from set pieces and crosses, but the opposing goalkeeper has been equal to the task, neutralizing the danger."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) sends a chip pass into the box, but David Ospina is quickest to intercept the ball. He quickly distributes the ball with a long throw to initiate a counterattack.",
+                    "history_time": "17:53",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, But just like before: nothing."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:55",
+            "game_time": "29:55",
+            "query": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "short-term": "Alexis Sanchez (Arsenal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. He had just combined with Giroud before delivering the cross, but the ball curled too much and went out of play.",
+            "query_ano": "[PLAYER] ([TEAM]) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",
+            "history": [
+                {
+                    "short-term": "Santi Cazorla (Arsenal) sends the resulting free kick a whisker wide of the left post! His curling effort was just inches away from finding the top corner, brushing past the upright.",
+                    "history_time": "25:39",
+                    "long-term": "They have been creating scoring opportunities with crosses and set pieces, the last free kick also hit the post and went wide."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": "They have been consistently creating scoring opportunities through crosses and runs, demonstrating strong attacking intent despite struggling to capitalize on them. The midfield control has been largely dictated by them."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:48",
+            "game_time": "27:48",
+            "query": "Kieran Trippier (Burnley) sends a lofted cross into the box which is headed clear.",
+            "short-term": "Kieran Trippier (Burnley) sends a lofted cross into the box which is headed clear. Mertesacker was well-positioned to deal with the aerial threat, ensuring Arsenal remained solid at the back.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear.",
+            "history": [
+                {
+                    "short-term": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save. Ospina had it covered, making a comfortable stop before launching a quick counterattack.",
+                    "history_time": "23:23",
+                    "long-term": "His consecutive free kicks and crosses failed to cause any threat."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) sends a chip pass into the box, but David Ospina is quickest to intercept the ball. He quickly distributes the ball with a long throw to initiate a counterattack.",
+                    "history_time": "17:53",
+                    "long-term": "They have been using crosses to create scoring opportunities, but the opposing team's defense has been effective in dealing with these aerial threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:00",
+            "game_time": "26:00",
+            "query": "Michael Duff (Burnley) attempts to discuss the decision with Michael Dean, but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "short-term": "Michael Duff (Burnley) attempts to discuss the decision with Michael Dean, but he soon realises that it's not the right thing to do as he sees the yellow. The referee had already made up his mind, showing no hesitation in booking Duff.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to discuss the decision with [REFEREE], but he soon realises that it's not the right thing to do as he sees the yellow.",
+            "history": [
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "They have been involved in several confrontations with the referee, while the opposing team has committed some tactical fouls to impede their opponents' momentum."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "The match has seen an increase in aggressive challenges, resulting in multiple bookings and interruptions, affecting the rhythm of the game. This trend may influence the team's strategy, shifting towards more cautious play."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:39",
+            "game_time": "25:39",
+            "query": "Santi Cazorla (Arsenal) sends the resulting free kick a whisker wide of the left post!",
+            "short-term": "Santi Cazorla (Arsenal) sends the resulting free kick a whisker wide of the left post! His curling effort was just inches away from finding the top corner, brushing past the upright.",
+            "query_ano": "[PLAYER] ([TEAM]) sends the resulting free kick a whisker wide of the left post!",
+            "history": [
+                {
+                    "short-term": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save. Ospina had it covered, making a comfortable stop before launching a quick counterattack.",
+                    "history_time": "23:23",
+                    "long-term": "The set pieces have been a crucial aspect of this match, with both teams coming close to scoring from free kicks, but neither able to capitalize on these opportunities."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) works the corner short. Arsenal had been dominating possession in the opponent's half, looking to create an opening through patient build-up play.",
+                    "history_time": "19:00",
+                    "long-term": "They have been dominating possession and creating scoring opportunities through clever play and set pieces, consistently threatening the opponent's goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:10",
+            "game_time": "25:10",
+            "query": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick.",
+            "short-term": "David Jones (Burnley) commits a foul after making a slide tackle on his opponent. Arsenal will take a free kick. Cazorla, Ozil, and Sanchez all gathered around the ball, preparing for the set-piece opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after making a slide tackle on his opponent. [TEAM] will take a free kick.",
+            "history": [
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "The match has seen an increase in set-piece opportunities, with both teams committing fouls and taking advantage of free kicks to threaten their opponents' defenses."
+                },
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "The match has seen an increase in aggressive tackles and fouls, indicating a growing intensity and competitiveness between the two teams."
+                },
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": "They have been putting pressure on the opponent's defense with consecutive set-piece opportunities and teammate coordination in midfield control."
+                },
+                {
+                    "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+                    "history_time": "18:35",
+                    "long-term": "The high pressure from the opponent made it difficult for them to adapt. He had previously committed a handball foul under pressure."
+                },
+                {
+                    "short-term": "Francis Coquelin (Arsenal) makes a bad challenge and leaves Michael Dean with no other option than to blow for a foul. Burnley have a free kick from a promising distance. He lunged aggressively but colliding with his opponent. He raised his arms in disbelief as the referee immediately signaled the foul.",
+                    "history_time": "15:43",
+                    "long-term": "The game has seen an increase in aggressive challenges, with both teams committing fouls and creating set-piece opportunities for their opponents."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:23",
+            "game_time": "23:23",
+            "query": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save.",
+            "short-term": "Kieran Trippier (Burnley) stands over the free kick and opts to take it himself, sending it towards the left post only for David Ospina to dive and make a save. Ospina had it covered, making a comfortable stop before launching a quick counterattack.",
+            "query_ano": "[PLAYER] ([TEAM]) stands over the free kick and opts to take it himself, sending it towards the left post only for [PLAYER] to dive and make a save.",
+            "history": [
+                {
+                    "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+                    "history_time": "22:33",
+                    "long-term": "This free kick in a good position comes from a dangerous play by the opponent."
+                },
+                {
+                    "short-term": "Ashley Barnes (Burnley) connects with a pass but sees his shot from the edge of the box blocked. He had a brief opening, but Monreal reacted quickly to close down the space and make the block.",
+                    "history_time": "21:54",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper and defense have been effective in preventing them from finding the back of the net."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) sends a chip pass into the box, but David Ospina is quickest to intercept the ball. He quickly distributes the ball with a long throw to initiate a counterattack.",
+                    "history_time": "17:53",
+                    "long-term": "The goalkeeper has been sharp, he intercepted the cross several times and caught the ball accurately this time"
+                },
+                {
+                    "short-term": "The goalkeeper is not tested by the free kick from the edge of the box by David Jones (Burnley) as his effort only hit the wall. Burnley had lined up multiple options, with Trippier and Jones standing over the ball, but the shot was wasted.",
+                    "history_time": "16:00",
+                    "long-term": "They have been consistently threatening from set pieces, particularly free kicks, but have yet to capitalize on these opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:33",
+            "game_time": "22:33",
+            "query": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley.",
+            "short-term": "Dangerous play by Laurent Koscielny (Arsenal). Michael Dean blows his whistle for a foul. A free kick has been awarded to Burnley. Arsenal had been dropping deeper to protect their lead, leading to more set-piece opportunities for Burnley.",
+            "query_ano": "Dangerous play by [PLAYER] ([TEAM]). [REFEREE] blows his whistle for a foul. A free kick has been awarded to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+                    "history_time": "21:30",
+                    "long-term": "They have been committing several fouls in this period. The last time was a vicious tackle from his teammate."
+                },
+                {
+                    "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+                    "history_time": "18:35",
+                    "long-term": "The match has seen an intense tactical battle, with both teams creating scoring opportunities through pressuring their opponents and capitalizing on defensive mistakes."
+                },
+                {
+                    "short-term": "Francis Coquelin (Arsenal) makes a bad challenge and leaves Michael Dean with no other option than to blow for a foul. Burnley have a free kick from a promising distance. He lunged aggressively but colliding with his opponent. He raised his arms in disbelief as the referee immediately signaled the foul.",
+                    "history_time": "15:43",
+                    "long-term": " They have been committing critical fouls, leading to set-piece opportunities for the opposing team, and placing their defense under more pressure."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:10",
+            "game_time": "22:10",
+            "query": "Alexis Sanchez (Arsenal) handles the ball and everyone in the stadium shouts 'handball'.",
+            "short-term": "Alexis Sanchez (Arsenal) handles the ball and everyone in the stadium shouts 'handball'. Sanchez immediately protested the call, but the referee was unmoved as Burnley regained possession.",
+            "query_ano": "[PLAYER] ([TEAM]) handles the ball and everyone in the stadium shouts 'handball'.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": "They have been maintaining possession and creating scoring opportunities, although being risky at times with a handball incident, while displaying glimpses of individual brilliance in midfield control."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:54",
+            "game_time": "21:54",
+            "query": "Ashley Barnes (Burnley) connects with a pass but sees his shot from the edge of the box blocked.",
+            "short-term": "Ashley Barnes (Burnley) connects with a pass but sees his shot from the edge of the box blocked. He had a brief opening, but Monreal reacted quickly to close down the space and make the block.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked.",
+            "history": [
+                {
+                    "short-term": "Ashley Barnes (Burnley) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The offside call was a close one, as Barnes had timed his run well but was just a step ahead of the last defender.",
+                    "history_time": "10:06",
+                    "long-term": "He has been posing a threat to the opposition's defense, testing them with a blocked shot and also pushing the limits with a close offside call."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:30",
+            "game_time": "21:30",
+            "query": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line.",
+            "short-term": "Olivier Giroud (Arsenal) didn't hesitate to knock his opponent down with a harsh sliding tackle. Michael Dean could probably show him a yellow, but he only goes with blowing the whistle for a foul. Burnley will take a free kick nearby the side line. Arsenal had been struggling to control possession, leading Giroud to commit a desperate challenge.",
+            "query_ano": "[PLAYER] ([TEAM]) didn't hesitate to knock his opponent down with a harsh sliding tackle. [REFEREE] could probably show him a yellow, but he only goes with blowing the whistle for a foul. [TEAM] will take a free kick nearby the side line.",
+            "history": [
+                {
+                    "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+                    "history_time": "18:35",
+                    "long-term": "They have been displaying an aggressive defensive strategy, committing tough fouls and putting pressure on the opponent's backline to regain possession."
+                },
+                {
+                    "short-term": "Francis Coquelin (Arsenal) makes a bad challenge and leaves Michael Dean with no other option than to blow for a foul. Burnley have a free kick from a promising distance. He lunged aggressively but colliding with his opponent. He raised his arms in disbelief as the referee immediately signaled the foul.",
+                    "history_time": "15:43",
+                    "long-term": "Their aggressive style of play has resulted in multiple fouls, testing the referee's patience and potentially putting their players at risk of bookings."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:47",
+            "game_time": "20:47",
+            "query": "Aaron Ramsey (Arsenal) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. Arsenal are taking a throw-in.",
+            "short-term": "Aaron Ramsey (Arsenal) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. Arsenal are taking a throw-in. Ramsey had received the ball from Özil but was quickly closed down, forcing the clearance.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. [TEAM] are taking a throw-in.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": " He has been consistently attempting to create opportunities, navigating through defenders but facing stiff opposition in his pursuit of goal-scoring chances."
+                },
+                {
+                    "short-term": "Kieran Trippier (Burnley) fails to send a pass into the box as his effort is cut out. The ball is out of play. Burnley will have a throw-in. He attempted a short pass to Arfield before delivering a cross, but Cazorla stepped in to intercept.",
+                    "history_time": "13:42",
+                    "long-term": "Both teams have shown strong defensive presence, with Arsenal and Burnley effectively nullifying each other's attacking threats through swift clearances and interceptions."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:00",
+            "game_time": "19:00",
+            "query": "Aaron Ramsey (Arsenal) works the corner short.",
+            "short-term": "Aaron Ramsey (Arsenal) works the corner short. Arsenal had been dominating possession in the opponent's half, looking to create an opening through patient build-up play.",
+            "query_ano": "[PLAYER] ([TEAM]) works the corner short.",
+            "history": [
+                {
+                    "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+                    "history_time": "18:55",
+                    "long-term": "He has been instrumental in controlling the midfield and creating attacking opportunities through his movement and passing."
+                },
+                {
+                    "short-term": "Scott Arfield (Burnley) sends a chip pass into the box, but David Ospina is quickest to intercept the ball. He quickly distributes the ball with a long throw to initiate a counterattack.",
+                    "history_time": "17:53",
+                    "long-term": "They have shown contrasting styles, with one side dominating possession through patient build-up and the other utilizing quick, direct passes to catch their opponents off guard."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:55",
+            "game_time": "18:55",
+            "query": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box.",
+            "short-term": "Aaron Ramsey (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. Arsenal force a corner. They send men into the box. Ramsey had been heavily involved in Arsenal’s midfield control, looking to exploit Burnley’s defensive gaps.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. [TEAM] force a corner. They send men into the box.",
+            "history": [
+                {
+                    "short-term": "Scott Arfield (Burnley) sends a chip pass into the box, but David Ospina is quickest to intercept the ball. He quickly distributes the ball with a long throw to initiate a counterattack.",
+                    "history_time": "17:53",
+                    "long-term": "Both teams have been displaying a mix of defense and swift counterattacks, highlighting their competitive strategies and midfielder supremacy."
+                },
+                {
+                    "short-term": "The linesman raises his flag for offside before Aaron Ramsey (Arsenal) heads on. Ramsey had moved up to support the attack, receiving a cross from Alexis, but was caught just offside.",
+                    "history_time": "16:57",
+                    "long-term": "He has been influential in controlling the midfield and creating opportunities, although he's had a couple of moves thwarted by the opposition's defense and the offside trap."
+                },
+                {
+                    "short-term": "One of the defending players stopped the first attempt, but the ball lands at the feet of Aaron Ramsey (Arsenal) and he unleashes a shot which goes into the top right corner, ricocheting in off the post. The goal came after a scrappy exchange in the box, with Coquelin recovering the ball and Alexis providing a quick pass before the finish.",
+                    "history_time": "11:35",
+                    "long-term": "He has been instrumental in controlling the midfield and was rewarded with a goal after consistently threatening the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:35",
+            "game_time": "18:35",
+            "query": "The referee blows his whistle, a clear handball by David Jones (Burnley).",
+            "short-term": "The referee blows his whistle, a clear handball by David Jones (Burnley). Arsenal had been pressing high, forcing Burnley into mistakes as they struggled to build from the back.",
+            "query_ano": "The referee blows his whistle, a clear handball by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "The linesman raises his flag for offside before Aaron Ramsey (Arsenal) heads on. Ramsey had moved up to support the attack, receiving a cross from Alexis, but was caught just offside.",
+                    "history_time": "16:57",
+                    "long-term": "They have been putting pressure on the opponent's defense with aggressive play, although not all of their efforts have been successful due to errors in positioning."
+                },
+                {
+                    "short-term": "Francis Coquelin (Arsenal) makes a bad challenge and leaves Michael Dean with no other option than to blow for a foul. Burnley have a free kick from a promising distance. He lunged aggressively but colliding with his opponent. He raised his arms in disbelief as the referee immediately signaled the foul.",
+                    "history_time": "15:43",
+                    "long-term": "The game has seen an increase in intense battles for possession, with both sides committing fouls in their attempts to gain control.."
+                },
+                {
+                    "short-term": "Ashley Barnes (Burnley) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The offside call was a close one, as Barnes had timed his run well but was just a step ahead of the last defender.",
+                    "history_time": "10:06",
+                    "long-term": "They have been vulnerable in defense, giving away a clear handball and an offside call, struggling to contain Arsenal's high press. Burnley's attacking efforts have been compromised by these defensive lapses."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:57",
+            "game_time": "16:57",
+            "query": "The linesman raises his flag for offside before Aaron Ramsey (Arsenal) heads on.",
+            "short-term": "The linesman raises his flag for offside before Aaron Ramsey (Arsenal) heads on. Ramsey had moved up to support the attack, receiving a cross from Alexis, but was caught just offside.",
+            "query_ano": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+            "history": [
+                {
+                    "short-term": "Ashley Barnes (Burnley) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The offside call was a close one, as Barnes had timed his run well but was just a step ahead of the last defender.",
+                    "history_time": "10:06",
+                    "long-term": "In a short period of time, both players were judged offside when attacking."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:35",
+            "game_time": "14:35",
+            "query": "Scott Arfield (Burnley) pulls the shirt of his opponent and the referee stops play for a foul.",
+            "short-term": "Scott Arfield (Burnley) pulls the shirt of his opponent and the referee stops play for a foul. Coquelin was shielding the ball when Arfield grabbed his shirt, preventing him from turning.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the shirt of his opponent and the referee stops play for a foul.",
+            "history": [
+                {
+                    "short-term": "Ashley Barnes (Burnley) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside. The offside call was a close one, as Barnes had timed his run well but was just a step ahead of the last defender.",
+                    "history_time": "10:06",
+                    "long-term": "They have been struggling to create scoring opportunities due to infractions, with a foul and an offside call stifling their attacking momentum."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:35",
+            "game_time": "11:35",
+            "query": "One of the defending players stopped the first attempt, but the ball lands at the feet of Aaron Ramsey (Arsenal) and he unleashes a shot which goes into the top right corner, ricocheting in off the post.",
+            "short-term": "One of the defending players stopped the first attempt, but the ball lands at the feet of Aaron Ramsey (Arsenal) and he unleashes a shot which goes into the top right corner, ricocheting in off the post. The goal came after a scrappy exchange in the box, with Coquelin recovering the ball and Alexis providing a quick pass before the finish.",
+            "query_ano": "One of the defending players stopped the first attempt, but the ball lands at the feet of [PLAYER] ([TEAM]) and he unleashes a shot which goes into the top right corner, ricocheting in off the post.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Coquelin had initially won the ball back and found Alexis with a quick pass, but his shot was met by a crucial block in the crowded penalty area.",
+                    "history_time": "11:25",
+                    "long-term": "They have been consistently creating scoring opportunities through swift passes and second-chance efforts in the box."
+                },
+                {
+                    "short-term": "Tom Heaton pulls off a great save to deny Mesut Ozil (Arsenal) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. Ozil had done well to control the ball in a tight space, but Heaton reacted brilliantly to keep it out.",
+                    "history_time": "11:20",
+                    "long-term": "They have consistently shown a strong attacking presence, with moments of impressive ball control and shots on goal, testing the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:25",
+            "game_time": "11:25",
+            "query": "Alexis Sanchez (Arsenal) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition.",
+            "short-term": "Alexis Sanchez (Arsenal) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Coquelin had initially won the ball back and found Alexis with a quick pass, but his shot was met by a crucial block in the crowded penalty area.",
+            "query_ano": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition.",
+            "history": [
+                {
+                    "short-term": "Tom Heaton pulls off a great save to deny Mesut Ozil (Arsenal) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. Ozil had done well to control the ball in a tight space, but Heaton reacted brilliantly to keep it out.",
+                    "history_time": "11:20",
+                    "long-term": "Their continuous threatening attacks left the opponent almost breathless."
+                }
+            ]
+        }
+    ]
+}

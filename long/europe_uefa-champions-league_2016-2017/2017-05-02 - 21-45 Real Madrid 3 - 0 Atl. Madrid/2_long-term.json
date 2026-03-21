@@ -1,0 +1,117 @@
+{
+    "annotations": [
+        {
+            "gameTime": "40:33",
+            "game_time": "40:06",
+            "query": "Goal - 3:0! Lucas laid the ball off to Cristiano Ronaldo (Real Madrid), who shot from close range low into the back of the net, leaving the goalkeeper helpless.",
+            "short-term": "Goal - 3:0! Lucas laid the ball off to Cristiano Ronaldo (Real Madrid), who shot from close range low into the back of the net, leaving the goalkeeper helpless. The quick combination play opened up the defense, allowing an easy finish.",
+            "query_ano": "Goal - 3:0! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range low into the back of the net, leaving the goalkeeper helpless.",
+            "history": [
+                {
+                    "short-term": "Lucas (Real Madrid) takes a first-time shot from inside the box, but his poor effort flies way wide of the right post. The build-up showed promise, but the finish lacked precision.",
+                    "history_time": "35:00",
+                    "long-term": "They have displayed impressive attacking prowess, exemplified by a clinical finish, but also struggled with execution, firing a shot wide from a promising position."
+                },
+                {
+                    "short-term": "Goal! That was a fantastic finish by Cristiano Ronaldo (Real Madrid) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net. The stadium erupted as Madrid extended their lead, with he showcasing his lethal finishing ability.",
+                    "history_time": "27:42",
+                    "long-term": "He has demonstrated exceptional goal-scoring prowess, netting two impressive goals with precise finishes that highlight his team's dominant attacking play."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:41",
+            "game_time": "37:18",
+            "query": "Stefan Savic (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier.",
+            "short-term": "Stefan Savic (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier. The decision comes after persistent fouling, disrupting the opposition's rhythm.",
+            "query_ano": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier.",
+            "history": [
+                {
+                    "short-term": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul. Madrid’s defensive line held firm, forcing Atletico’s attackers into physical duels.",
+                    "history_time": "26:06",
+                    "long-term": "He has been walking a disciplinary tightrope, committing multiple fouls and struggling to contain his aggression in the match."
+                }
+            ]
+        },
+        {
+            "gameTime": "26:31",
+            "game_time": "26:06",
+            "query": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "short-term": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul. Madrid’s defensive line held firm, forcing Atletico’s attackers into physical duels.",
+            "query_ano": "[PLAYER] ([TEAM]) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. Atletico is pressing high but struggles to regain control in midfield.",
+                    "history_time": "23:38",
+                    "long-term": "They have been displaying overly aggressive behavior in an attempt to regain possession, committing multiple fouls in the process."
+                },
+                {
+                    "short-term": "Antoine Griezmann (Atl. Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle. His defensive effort was notable, but his overzealous tackle resulted in a foul.",
+                    "history_time": "17:18",
+                    "long-term": "They have been displaying a tenacious defensive strategy, resulting in numerous physical confrontations and earning multiple fouls."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:58",
+            "game_time": "23:38",
+            "query": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle.",
+            "short-term": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. Atletico is pressing high but struggles to regain control in midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Antoine Griezmann (Atl. Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle. His defensive effort was notable, but his overzealous tackle resulted in a foul.",
+                    "history_time": "17:18",
+                    "long-term": "They have been adopting an aggressive defensive strategy, as evidenced by multiple fouls committed by their players, which suggests a high level of intensity in their gameplay."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:40",
+            "game_time": "22:15",
+            "query": "Diego Simeone decides to make a substitution. Yannick Carrasco will be replaced by Angel Correa (Atl. Madrid).",
+            "short-term": "Diego Simeone decides to make a substitution. Yannick Carrasco will be replaced by Angel Correa (Atl. Madrid). Carrasco, who had been pushing forward aggressively, is replaced by Correa to inject fresh energy into Atletico’s attack.",
+            "query_ano": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Diego Simeone has decided to make a change. Nicolas Gaitan (Atl. Madrid) replaces Saul. Gaitan is introduced to provide more creativity and one-on-one ability in Atletico’s attack.",
+                    "history_time": "12:14",
+                    "long-term": "They are injecting fresh energy and creativity into their attack with consecutive substitutions, aiming to intensify their offensive efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "07:30",
+            "game_time": "7:20",
+            "query": "Martin Atkinson shows a yellow card to Saul (Atl. Madrid) for a tough tackle.",
+            "short-term": "Martin Atkinson shows a yellow card to Saul (Atl. Madrid) for a tough tackle. The Atletico midfielder's aggressive play draws protests from the crowd, while Simeone gestures from the sidelines in frustration.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+            "history": [
+                {
+                    "short-term": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge. The midfielder arrived late, bringing down his opponent, prompting quick intervention from the referee.",
+                    "history_time": "2:56",
+                    "long-term": "The referee has been actively enforcing discipline, issuing yellow cards for tough tackles, indicating a tightly controlled and intense match. Both teams are showing signs of aggression in their play."
+                },
+                {
+                    "short-term": "Referee Martin Atkinson sees the trip by Stefan Savic (Atl. Madrid) and doesn't hesitate to blow his whistle. Madrid players appeal for a booking, but the referee keeps his cards in his pocket.",
+                    "history_time": "1:53",
+                    "long-term": "Atletico Madrid's aggressive play has been drawing the referee's attention, resulting in a yellow card, and they need to be cautious to avoid further bookings."
+                }
+            ]
+        },
+        {
+            "gameTime": "02:51",
+            "game_time": "2:56",
+            "query": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge.",
+            "short-term": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge. The midfielder arrived late, bringing down his opponent, prompting quick intervention from the referee.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge.",
+            "history": [
+                {
+                    "short-term": "Referee Martin Atkinson sees the trip by Stefan Savic (Atl. Madrid) and doesn't hesitate to blow his whistle. Madrid players appeal for a booking, but the referee keeps his cards in his pocket.",
+                    "history_time": "1:53",
+                    "long-term": "The referee has been closely monitoring the match, issuing a yellow card for a heavy challenge and not hesitating to intervene in instances of fouling, indicating a strict stance on player conduct."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:20",
+            "game_time": "45:20",
+            "query": "Raphael Varane (Real Madrid) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "short-term": "Raphael Varane (Real Madrid) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. He looks disappointed as he jogs back into position.",
+            "query_ano": "[PLAYER] ([TEAM]) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar.",
+            "history": [
+                {
+                    "short-term": "Unbelievable miss! Dani Abalo (Ludogorets) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The chance came after a deflection left him unmarked near the penalty spot.",
+                    "history_time": "40:30",
+                    "long-term": "Both teams have been wasteful with their chances, missing opportunities to take the lead with poor finishing."
+                },
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have been creating scoring opportunities, but the finishing touches have been lacking, with shots either going off target or being denied by the goalkeeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:30",
+            "game_time": "44:30",
+            "query": "Gareth Bale (Real Madrid) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The ball is out of play. Real Madrid will have a chance to score from a corner.",
+            "short-term": "Gareth Bale (Real Madrid) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The move started with a clever dribble before Bale lifted the ball into the area.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. His frustration is evident as he turns away, shaking his head.",
+                    "history_time": "42:09",
+                    "long-term": "They have been consistently threatening the opponent's goal with clever passes and shots, but the defense has held strong with impressive blocks and interceptions. The attacking pressure has been relentless, with key players creating scoring opportunities despite being thwarted so far."
+                },
+                {
+                    "short-term": "Real Madrid are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. Illarramendi has been dictating the play well, showcasing his sharp passing.",
+                    "history_time": "36:59",
+                    "long-term": "They have been displaying impressive ball control and movement, with some crisp passing and clever interplay, although the opposing defense has been able to snuff out the danger so far."
+                },
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and clever movements into the box."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been consistently probing the opposition's defense with precise passing and clever movement, creating opportunities despite the defensive interceptions."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:09",
+            "game_time": "42:09",
+            "query": "Cristiano Ronaldo (Real Madrid) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. His frustration is evident as he turns away, shaking his head.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Real Madrid are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. Illarramendi has been dictating the play well, showcasing his sharp passing.",
+                    "history_time": "36:59",
+                    "long-term": "They have been displaying impressive teamwork and creating scoring opportunities, but have been met with solid defensive blocks."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) swings a cross into the box, but it's far too close to Vladislav Stoyanov, who smothers the ball. Chicharito was making a run but couldn’t reach it.",
+                    "history_time": "34:12",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposition's defense has been solid in blocking their attempts."
+                },
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have been creating scoring opportunities, but the opposing team's defense has been solid, preventing them from finding the back of the net."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "He has been consistently posing a threat to the opposition's defense, creating chances and attempting to pick out his teammates with clever passes."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:30",
+            "game_time": "40:30",
+            "query": "Unbelievable miss! Dani Abalo (Ludogorets) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar!",
+            "short-term": "Unbelievable miss! Dani Abalo (Ludogorets) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar! The chance came after a deflection left him unmarked near the penalty spot.",
+            "query_ano": "Unbelievable miss! [PLAYER] ([TEAM]) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar!",
+            "history": [
+                {
+                    "short-term": "A dangerous attempt from Fabio Espinho (Ludogorets) was aimed towards the roof of the net, but Keylor Navas pulls off a superb save and stops this one. The shot had power, but Navas reacted quickly to tip it over.",
+                    "history_time": "38:58",
+                    "long-term": "They have been creating quality chances but are struggling to capitalize on them, with near misses and incredible saves by the opposition goalkeeper defining their attack."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:26",
+            "game_time": "39:26",
+            "query": "Fabio Espinho (Ludogorets) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "short-term": "Fabio Espinho (Ludogorets) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat. The ball was well-delivered, but the Real Madrid defense remained disciplined.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",
+            "history": [
+                {
+                    "short-term": "A dangerous attempt from Fabio Espinho (Ludogorets) was aimed towards the roof of the net, but Keylor Navas pulls off a superb save and stops this one. The shot had power, but Navas reacted quickly to tip it over.",
+                    "history_time": "38:58",
+                    "long-term": "This corner kick came from a wonderful long shot, but it was saved by the goalkeeper, resulting in a corner kick."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) swings a cross into the box, but it's far too close to Vladislav Stoyanov, who smothers the ball. Chicharito was making a run but couldn’t reach it.",
+                    "history_time": "34:12",
+                    "long-term": "Both teams have shown great defensive organization, effectively neutralizing threatening crosses and preventing scoring opportunities."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Chicharito (Real Madrid). The forward was looking for a teammate but was quickly closed down.",
+                    "history_time": "32:28",
+                    "long-term": "Both teams have shown excellent defensive organization, effectively nullifying threatening crosses and preventing scoring opportunities."
+                },
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "Both teams have shown excellent defensive organization, with each side's backline coming up with crucial interventions to nullify the opponent's attacking threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:58",
+            "game_time": "38:58",
+            "query": "A dangerous attempt from Fabio Espinho (Ludogorets) was aimed towards the roof of the net, but Keylor Navas pulls off a superb save and stops this one. Ludogorets have been awarded a corner kick.",
+            "short-term": "A dangerous attempt from Fabio Espinho (Ludogorets) was aimed towards the roof of the net, but Keylor Navas pulls off a superb save and stops this one. The shot had power, but Navas reacted quickly to tip it over.",
+            "query_ano": "A dangerous attempt from [PLAYER] ([TEAM]) was aimed towards the roof of the net, but [PLAYER] pulls off a superb save and stops this one. [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "Both goalkeepers have been impressive, making crucial saves to deny the opposing team's threatening attempts and keeping their teams in the contest."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:43",
+            "game_time": "37:43",
+            "query": "It's in the back of the net! The corner is whipped in and Gareth Bale (Real Madrid) finds himself some space to meet the cross. His stunning header from near the penalty spot goes in off the crossbar. The score is 2:0.",
+            "short-term": "It's in the back of the net! The corner is whipped in and Gareth Bale (Real Madrid) finds himself some space to meet the cross. His stunning header from near the penalty spot goes in off the crossbar. The ball struck the bar before bouncing over the line.",
+            "query_ano": "It's in the back of the net! The corner is whipped in and [PLAYER] ([TEAM]) finds himself some space to meet the cross. His stunning header from near the penalty spot goes in off the crossbar. The score is 2:0.",
+            "history": [
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have been posing a significant threat in the air and on the ground, consistently creating scoring opportunities through their attacking plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:30",
+            "game_time": "37:30",
+            "query": "Toni Kroos (Real Madrid) prepares to take a corner kick.",
+            "short-term": "Toni Kroos (Real Madrid) prepares to take a corner kick. He takes a deep breath before delivering the ball into the packed penalty area.",
+            "query_ano": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Real Madrid are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. Illarramendi has been dictating the play well, showcasing his sharp passing.",
+                    "history_time": "36:59",
+                    "long-term": "This corner kick was the result of a brilliant anticipation by the defender, who prevented the opponent from making a combination football move."
+                },
+                {
+                    "short-term": "This corner kick is taken with a short pass by Toni Kroos (Real Madrid). The midfielder calmly sets up the next play.",
+                    "history_time": "25:54",
+                    "long-term": "He has been controlling the set pieces, consistently delivering well-placed corner kicks that create opportunities for his team."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) is about to take a corner kick. The midfield maestro steps up to deliver a precise set-piece.",
+                    "history_time": "18:15",
+                    "long-term": "He has been tasked with delivering set-pieces and has been doing so with precision and consistency, showing great composure under pressure."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+                    "history_time": "17:53",
+                    "long-term": "He has been utilizing different corner kick strategies, mixing up the approach to create uncertainty for the opposing team."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:59",
+            "game_time": "36:59",
+            "query": "Real Madrid are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. The referee signals a corner kick to Real Madrid.",
+            "short-term": "Real Madrid are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. Illarramendi has been dictating the play well, showcasing his sharp passing.",
+            "query_ano": "[TEAM] are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) swings a cross into the box, but it's far too close to Vladislav Stoyanov, who smothers the ball. Chicharito was making a run but couldn’t reach it.",
+                    "history_time": "34:12",
+                    "long-term": "They have been dominating possession, creating scoring opportunities through well-coordinated passes and crosses into the box."
+                },
+                {
+                    "short-term": "The defence is alert as they clear a dangerous cross from Chicharito (Real Madrid). The forward was looking for a teammate but was quickly closed down.",
+                    "history_time": "32:28",
+                    "long-term": "They have maintained possession well, creating scoring opportunities through a combination of precise passing and clever movement, but the opposition's defense has been solid in countering their attacks."
+                },
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have maintained possession and created scoring opportunities through precise passing and movement, but the opposing defense has done well to neutralize their attacks."
+                },
+                {
+                    "short-term": "Real Madrid move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid. The buildup play was patient and controlled.",
+                    "history_time": "24:50",
+                    "long-term": "They have consistently demonstrated strong teamwork and coordination in their buildup play, maintaining possession and creating opportunities through precise passing."
+                },
+                {
+                    "short-term": "Real Madrid spell of possession comes to an end after a mistake. The linesman points to the corner flag, Real Madrid are going to take it. The team is pushing forward, looking for a breakthrough.",
+                    "history_time": "18:11",
+                    "long-term": "They have been dominating possession, creating scoring opportunities through combination play and consistently pressuring the opponent's defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been controlling the tempo of the game, creating chances through precise passing and effective movement off the ball."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:12",
+            "game_time": "34:12",
+            "query": "Cristiano Ronaldo (Real Madrid) swings a cross into the box, but it's far too close to Vladislav Stoyanov, who smothers the ball.",
+            "short-term": "Cristiano Ronaldo (Real Madrid) swings a cross into the box, but it's far too close to Vladislav Stoyanov, who smothers the ball. Chicharito was making a run but couldn’t reach it.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+            "history": [
+                {
+                    "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+                    "history_time": "30:33",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and runs into the box, but the opposing goalkeeper has been equal to the task so far."
+                },
+                {
+                    "short-term": "Gareth Bale (Real Madrid) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. Vladislav Stoyanov pulls off a reflexive save to block his effort. The goalkeeper did well to react in time.",
+                    "history_time": "28:29",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses and strikes, but the opposing goalkeeper has been exceptional in preventing them from taking the lead."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposing goalkeeper has been effective in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:33",
+            "game_time": "30:33",
+            "query": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save.",
+            "short-term": "Fabio Coentrao (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save. Coentrao looked disappointed after the effort.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. The goalkeeper is alert and denies him with a nice save.",
+            "history": [
+                {
+                    "short-term": "Gareth Bale (Real Madrid) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. Vladislav Stoyanov pulls off a reflexive save to block his effort. The goalkeeper did well to react in time.",
+                    "history_time": "28:29",
+                    "long-term": "They have been consistently creating scoring opportunities with precise passing and quick movements into the penalty area, testing the goalkeeper's reflexes on multiple occasions."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) sends Vladislav Stoyanov the wrong way and fires the penalty into the middle of the goal! He calmly converts, extending his record in the Champions League.",
+                    "history_time": "20:00",
+                    "long-term": "They have been posing a significant threat in front of goal, with their players creating notable scoring opportunities and showing composure in crucial moments."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+                    "history_time": "17:53",
+                    "long-term": "They have been showing great intent in their attacking forays, creating scoring opportunities through diverse means."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been consistently testing the opposition's defense with incisive passes and shots on goal, forcing the goalkeeper to make crucial saves."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They have been creating scoring opportunities, but the opposition's defense and goalkeeper have been up to the task, preventing them from finding the back of the net."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "They have been consistently testing the opponent's defense with dynamic movements into the penalty area and precise crosses."
+                },
+                {
+                    "short-term": "Chicharito (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. His delivery lacked precision.",
+                    "history_time": "11:32",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has been lacking, with the opposition's defense and goalkeeper making key interventions."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:29",
+            "game_time": "28:29",
+            "query": "Gareth Bale (Real Madrid) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. Vladislav Stoyanov pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "short-term": "Gareth Bale (Real Madrid) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. Vladislav Stoyanov pulls off a reflexive save to block his effort. The goalkeeper did well to react in time.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a low pass just outside the box and drills a fine strike towards the middle of the goal. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) sends Vladislav Stoyanov the wrong way and fires the penalty into the middle of the goal! He calmly converts, extending his record in the Champions League.",
+                    "history_time": "20:00",
+                    "long-term": "They have been posing a significant threat to the opponent's goal, with multiple shots on target, including a penalty conversion, demonstrating their consistent attacking pressure."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "The goalkeeper has been impressive, making crucial saves and cutting out threatening crosses to keep his team's defensive stability intact."
+                }
+            ]
+        },
+        {
+            "gameTime": "25:54",
+            "game_time": "25:54",
+            "query": "This corner kick is taken with a short pass by Toni Kroos (Real Madrid).",
+            "short-term": "This corner kick is taken with a short pass by Toni Kroos (Real Madrid). The midfielder calmly sets up the next play.",
+            "query_ano": "This corner kick is taken with a short pass by [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Real Madrid move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid. The buildup play was patient and controlled.",
+                    "history_time": "24:50",
+                    "long-term": "They have been maintaining possession effectively, dictating the pace of the game with calculated plays and patient buildup."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) is about to take a corner kick. The midfield maestro steps up to deliver a precise set-piece.",
+                    "history_time": "18:15",
+                    "long-term": "He has been dictating the pace of the game, particularly on set-pieces, and his corner kicks have been exceptional."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+                    "history_time": "17:53",
+                    "long-term": "The player is consistently utilizing short corner kicks to maintain possession and control the tempo of the game."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They have consistently utilized corner kicks as a means to launch attacks and create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:50",
+            "game_time": "24:50",
+            "query": "Real Madrid move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid.",
+            "short-term": "Real Madrid move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid. The buildup play was patient and controlled.",
+            "query_ano": "[TEAM] move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. The ball is out of play and the linesman points at the corner flag. Corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "The players claim that Marcelinho (Ludogorets) handled the ball and it seems they are right. PENALTY to Real Madrid! The referee had no hesitation in pointing to the spot.",
+                    "history_time": "18:47",
+                    "long-term": "They have been dictating the pace of the game, creating scoring opportunities through sustained possession and pressing, which ultimately led to a penalty."
+                },
+                {
+                    "short-term": "Real Madrid spell of possession comes to an end after a mistake. The linesman points to the corner flag, Real Madrid are going to take it. The team is pushing forward, looking for a breakthrough.",
+                    "history_time": "18:11",
+                    "long-term": "They have been dominating possession, consistently creating opportunities through controlled build-up play and putting pressure on the opposition's defense."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+                    "history_time": "17:53",
+                    "long-term": "They have been maintaining possession and controlling the tempo of the game with patient buildup play."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been dominating possession and creating chances through controlled buildup play, consistently pressuring the opposition's defense with precise passing and aggressive attacking intent."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They maintained possession and created scoring opportunities with precise passing, but the opposition's defense was solid."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "They have been maintaining possession and creating scoring opportunities through consistent buildup plays."
+                }
+            ]
+        },
+        {
+            "gameTime": "21:55",
+            "game_time": "21:55",
+            "query": "Cristiano Ronaldo (Real Madrid) sends in a pass which fails to reach any of his teammates.",
+            "short-term": "Cristiano Ronaldo (Real Madrid) sends in a pass which fails to reach any of his teammates. His attempt to pick out a forward was intercepted before it could cause danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in a pass which fails to reach any of his teammates.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "He has been consistently attempting to create scoring opportunities, despite struggling to find the target with his passing efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:00",
+            "game_time": "20:00",
+            "query": "Cristiano Ronaldo (Real Madrid) sends Vladislav Stoyanov the wrong way and fires the penalty into the middle of the goal!",
+            "short-term": "Cristiano Ronaldo (Real Madrid) sends Vladislav Stoyanov the wrong way and fires the penalty into the middle of the goal! He calmly converts, extending his record in the Champions League.",
+            "query_ano": "[PLAYER] ([TEAM]) sends [PLAYER] the wrong way and fires the penalty into the middle of the goal!",
+            "history": [
+                {
+                    "short-term": "The players claim that Marcelinho (Ludogorets) handled the ball and it seems they are right. PENALTY to Real Madrid! The referee had no hesitation in pointing to the spot.",
+                    "history_time": "18:47",
+                    "long-term": "They have capitalized on a crucial penalty opportunity, showcasing his exceptional goal-scoring ability in high-pressure situations."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "He has been a key threat in the opposition's half, extending his goal tally and constantly seeking openings to create scoring chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:50",
+            "game_time": "18:50",
+            "query": "The referee shows a red card! Marcelinho (Ludogorets) has to leave the pitch.",
+            "short-term": "The referee shows a red card! Marcelinho (Ludogorets) has to leave the pitch. Ludogorets now faces an uphill battle with one man down.",
+            "query_ano": "The referee shows a red card! [PLAYER] ([TEAM]) has to leave the pitch.",
+            "history": [
+                {
+                    "short-term": "The players claim that Marcelinho (Ludogorets) handled the ball and it seems they are right. PENALTY to Real Madrid! The referee had no hesitation in pointing to the spot.",
+                    "history_time": "18:47",
+                    "long-term": "His exit has put the team in a tough spot, and now the opponents have a promising chance with the upcoming penalty kick."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:47",
+            "game_time": "18:47",
+            "query": "The players claim that Marcelinho (Ludogorets) handled the ball and it seems they are right. PENALTY to Real Madrid!",
+            "short-term": "The players claim that Marcelinho (Ludogorets) handled the ball and it seems they are right. PENALTY to Real Madrid! The referee had no hesitation in pointing to the spot.",
+            "query_ano": "The players claim that [PLAYER] ([TEAM]) handled the ball and it seems they are right. PENALTY to [TEAM]!",
+            "history": [
+                {
+                    "short-term": "Real Madrid spell of possession comes to an end after a mistake. The linesman points to the corner flag, Real Madrid are going to take it. The team is pushing forward, looking for a breakthrough.",
+                    "history_time": "18:11",
+                    "long-term": "They have been consistently pressuring the opponent's defense, and now have a significant scoring opportunity from the penalty spot."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "Real Madrid is piling on the pressure, consistently testing the opposition's defense with clever passing and positioning and earning a penalty."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "Real Madrid has been putting pressure on the opponent's defense, creating chances through set pieces and threatening shots from distance."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:15",
+            "game_time": "18:15",
+            "query": "Toni Kroos (Real Madrid) is about to take a corner kick.",
+            "short-term": "Toni Kroos (Real Madrid) is about to take a corner kick. The midfield maestro steps up to deliver a precise set-piece.",
+            "query_ano": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+                    "history_time": "17:53",
+                    "long-term": "They have consistently utilized the corner kicks to control the rhythm of the game and create scoring opportunities."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been consistently creating scoring opportunities, utilizing set-pieces and clever passing to unlock the opposition's defense."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They have consistently utilized set-pieces as an attacking option, providing precise deliveries into the box."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "They have been consistently creating scoring opportunities, utilizing set-pieces and long-range efforts to put pressure on the opposition's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:11",
+            "game_time": "18:11",
+            "query": "Real Madrid spell of possession comes to an end after a mistake. The linesman points to the corner flag, Real Madrid are going to take it.",
+            "short-term": "Real Madrid spell of possession comes to an end after a mistake. The linesman points to the corner flag, Real Madrid are going to take it. The team is pushing forward, looking for a breakthrough.",
+            "query_ano": "[TEAM] spell of possession comes to an end after a mistake. The linesman points to the corner flag, [TEAM] are going to take it.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "They have been consistently pushing forward, creating opportunities and taking corners in an effort to break through the opponent's defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "They have been consistently pushing forward, maintaining possession, and creating chances, although struggling to find the breakthrough."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:53",
+            "game_time": "17:53",
+            "query": "Toni Kroos (Real Madrid) takes a short corner kick.",
+            "short-term": "Toni Kroos (Real Madrid) takes a short corner kick. He looks to build play rather than swinging it directly into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a short corner kick.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+                    "history_time": "17:39",
+                    "long-term": "This corner kick comes from a sweet pass into the box, but is intercepted by the defender and results in a corner kick."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They have been consistently utilizing the corner kicks to create scoring opportunities, trying different approaches to break through the opponent's defense."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "They have been utilizing different strategies to create scoring opportunities, including taking short corner kicks and attempting long-range shots."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "They have been utilizing different strategies to create scoring opportunities, including taking short corners and delivering crosses into the box."
+                },
+                {
+                    "short-term": "Chicharito (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. His delivery lacked precision.",
+                    "history_time": "11:32",
+                    "long-term": "They have been attempting to create scoring opportunities through set pieces and crosses."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:39",
+            "game_time": "17:39",
+            "query": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box.",
+            "short-term": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Real Madrid force a corner. They send men into the box. Ronaldo is actively seeking openings in the opposition defense.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. [TEAM] force a corner. They send men into the box.",
+            "history": [
+                {
+                    "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+                    "history_time": "16:11",
+                    "long-term": "They have been consistently pressuring the opposition's defense, utilizing various channels to create scoring opportunities, including strategic passing and set pieces."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "He has been consistently creating scoring opportunities with his passing and shooting, but the opposition defense has been able to neutralize his efforts so far."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "They have been consistently testing the opposition's defense with well-crafted passes and crosses into the box."
+                },
+                {
+                    "short-term": "Chicharito (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. His delivery lacked precision.",
+                    "history_time": "11:32",
+                    "long-term": "They have been consistently probing the opposition's defense with crosses and passes, seeking an opening to create a scoring opportunity."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:11",
+            "game_time": "16:11",
+            "query": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence.",
+            "short-term": "Toni Kroos (Real Madrid) takes the corner which is cleared by the opposition's defence. The delivery was accurate but well defended.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner which is cleared by the opposition's defence.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) collects a pass and has an effort from distance which is blocked. It will be a corner kick for Real Madrid. His long-range strike was powerful but deflected away.",
+                    "history_time": "15:58",
+                    "long-term": "This corner kick came from a pass, but was blocked by the defender and resulted in a corner kick."
+                },
+                {
+                    "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+                    "history_time": "15:10",
+                    "long-term": "They have been consistently putting pressure on the opposition's defense with accurate set pieces and crosses, but the opposing team's defense and goalkeeper have done well to neutralize the threats so far."
+                },
+                {
+                    "short-term": "Chicharito (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. His delivery lacked precision.",
+                    "history_time": "11:32",
+                    "long-term": "They have been consistently applying pressure through set pieces and crosses, but the opposition's defense has held firm to repel these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:10",
+            "game_time": "15:10",
+            "query": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball.",
+            "short-term": "Alvaro Arbeloa (Real Madrid) sends a cross into the box, but Vladislav Stoyanov comes off his line to gather the ball. The keeper read the play well and cut out the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Chicharito (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. His delivery lacked precision.",
+                    "history_time": "11:32",
+                    "long-term": "They have been consistently attempting to create scoring opportunities through crosses, but the opposing team's defense and goalkeeper have been effective in neutralizing these threats."
+                }
+            ]
+        }
+    ]
+}

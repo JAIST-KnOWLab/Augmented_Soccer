@@ -1,0 +1,200 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:59",
+            "game_time": "46:59",
+            "query": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The home fans will be really pleased with what they've seen from their players so far. Pass and move. The home side have played some possession football so far, while the visitors have been patient as they wait for the right moment to hit them on the break.",
+            "short-term": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The home fans will be really pleased with what they've seen from their players so far. Pass and move. The home side have played some possession football so far, while the visitors have been patient as they wait for the right moment to hit them on the break.",
+            "query_ano": "[TEAM] are watching a run-of-the-mill game with only a few moments to ignite the crowd. [TEAM] players surely can surely perform better, they just need to motivate themselves. [TEAM] home fans will be really pleased with what they've seen from their players so far. [TEAM] and move. [TEAM] home side have played some possession football so far, while the visitors have been patient as they wait for the right moment to hit them on the break."
+        },
+        {
+            "gameTime": "45:50",
+            "game_time": "45:50",
+            "query": "Osman Tarik Camdal (Galatasaray) is able to continue to play.",
+            "short-term": "Osman Tarik Camdal (Galatasaray) is able to continue to play. He looks terrible and doesn't move very well.",
+            "query_ano": "[TEAM] [PLAYER] ([TEAM]) is able to continue to play."
+        },
+        {
+            "gameTime": "44:58",
+            "game_time": "44:58",
+            "query": "The game is interrupted now, Osman Tarik Camdal (Galatasaray) picks up a knock and the physio has to come on.",
+            "short-term": "The game is interrupted now, Osman Tarik Camdal (Galatasaray) picks up a knock and the physio has to come on. The defender challenged him with a header, causing him to go down momentarily.",
+            "query_ano": "[TEAM] game is interrupted now, [TEAM] [PLAYER] ([TEAM]) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "44:18",
+            "game_time": "44:18",
+            "query": "Pavel Kralovec shows the yellow card to Selcuk Inan (Galatasaray) for a heavy challenge.",
+            "short-term": "Pavel Kralovec shows the yellow card to Selcuk Inan (Galatasaray) for a heavy challenge. He needs to be careful, as repeated fouls could lead to a suspension.",
+            "query_ano": "[TEAM] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "gameTime": "43:21",
+            "game_time": "43:21",
+            "query": "Henrikh Mkhitaryan (Dortmund) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar. He has been given more space as the game opens up.",
+            "query_ano": "[PLAYER] ([TEAM]) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar."
+        },
+        {
+            "gameTime": "42:46",
+            "game_time": "42:46",
+            "query": "Henrikh Mkhitaryan (Dortmund) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Aubameyang made a run but couldn't connect with the ball.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous low pass into the penalty area, but the defence manage to cut it out."
+        },
+        {
+            "gameTime": "41:02",
+            "game_time": "41:02",
+            "query": "Selcuk Inan (Galatasaray) crosses the ball into the box from the free kick, but the defence clears the danger.",
+            "short-term": "Selcuk Inan (Galatasaray) crosses the ball into the box from the free kick, but the defence clears the danger. The striker was held briefly but the referee allowed play to continue.",
+            "query_ano": "[PLAYER] ([TEAM]) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "40:29",
+            "game_time": "40:29",
+            "query": "Pavel Kralovec blows his whistle for a foul after Sokratis Papastathopoulos (Dortmund) hacks down one of his opponents. Galatasaray have a free kick.",
+            "short-term": "Pavel Kralovec blows his whistle for a foul after Sokratis Papastathopoulos (Dortmund) hacks down one of his opponents. Galatasaray have a free kick. The referee had the option to call handball but decided on the foul instead.",
+            "query_ano": "[TEAM] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] have a free kick."
+        },
+        {
+            "gameTime": "38:28",
+            "game_time": "38:28",
+            "query": "Marco Reus (Dortmund) collects a killer pass and fires a low shot into the middle of the net, giving the goalkeeper no chance.",
+            "short-term": "Marco Reus (Dortmund) collects a killer pass and fires a low shot into the middle of the net, giving the goalkeeper no chance. The assist came from his teammate with a well-timed through ball.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a killer pass and fires a low shot into the middle of the net, giving the goalkeeper no chance."
+        },
+        {
+            "gameTime": "36:24",
+            "game_time": "36:24",
+            "query": "The referee blows his whistle and it's Marco Reus (Dortmund) who is penalised for an offensive foul. Good decision by the referee.",
+            "short-term": "The referee blows his whistle and it's Marco Reus (Dortmund) who is penalised for an offensive foul.",
+            "query_ano": "[TEAM] referee blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. [TEAM] decision by the referee."
+        },
+        {
+            "gameTime": "35:05",
+            "game_time": "35:05",
+            "query": "Neven Subotic (Dortmund) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar.",
+            "short-term": "Neven Subotic (Dortmund) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar. The defense left him completely free near the goal.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a fine cross inside the box and attempts to score a goal, but his strike flies just a few inches over the bar."
+        },
+        {
+            "gameTime": "34:48",
+            "game_time": "34:48",
+            "query": "The referee blows his whistle, Dortmund are awarded a corner kick.",
+            "short-term": "The referee blows his whistle, Dortmund are awarded a corner kick. Galatasaray struggled to clear the ball under pressure.",
+            "query_ano": "[TEAM] referee blows his whistle, [TEAM] are awarded a corner kick."
+        },
+        {
+            "gameTime": "34:40",
+            "game_time": "34:40",
+            "query": "A pass into the penalty area from Marco Reus (Dortmund) is intercepted by the defence.",
+            "short-term": "A pass into the penalty area from Marco Reus (Dortmund) is intercepted by the defence. The defenders stayed compact, defend that in the room back there.",
+            "query_ano": "A pass into the penalty area from [PLAYER] ([TEAM]) is intercepted by the defence."
+        },
+        {
+            "gameTime": "28:50",
+            "game_time": "28:50",
+            "query": "Pavel Kralovec blows his whistle after Henrikh Mkhitaryan (Dortmund) kicks an opponent's legs instead of the ball.",
+            "short-term": "Pavel Kralovec blows his whistle after Henrikh Mkhitaryan (Dortmund) kicks an opponent's legs instead of the ball. They have dominated possession but is showing frustration.",
+            "query_ano": "[TEAM] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "27:27",
+            "game_time": "27:27",
+            "query": "Henrikh Mkhitaryan (Dortmund) and Lukasz Piszczek matched up again to find some space for an unmarked teammate.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) and Lukasz Piszczek matched up again to find some space for an unmarked teammate. They have been combining well, with Kagawa also involved.",
+            "query_ano": "[PLAYER] ([TEAM]) and [TEAM] matched up again to find some space for an unmarked teammate."
+        },
+        {
+            "gameTime": "24:15",
+            "game_time": "24:15",
+            "query": "Henrikh Mkhitaryan (Dortmund) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",
+            "short-term": "Henrikh Mkhitaryan (Dortmund) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender. The striker was ready, but the shot was deflected before reaching him.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender."
+        },
+        {
+            "gameTime": "24:14",
+            "game_time": "24:14",
+            "query": "Sokratis (Dortmund) latches on to the corner kick inside the box, but his header crashes against the crossbar!",
+            "short-term": "Sokratis (Dortmund) latches on to the corner kick inside the box, but his header crashes against the crossbar!   The ball bounced back into the penalty area causing chaos.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to the corner kick inside the box, but his header crashes against the crossbar!"
+        },
+        {
+            "gameTime": "23:53",
+            "game_time": "23:53",
+            "query": "The referee and his assistant both point at the corner flag. Dortmund will have an opportunity to threaten the opposition's goal.",
+            "short-term": "The referee and his assistant both point at the corner flag. Dortmund will have an opportunity to threaten the opposition's goal.",
+            "query_ano": "[TEAM] referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "23:42",
+            "game_time": "23:42",
+            "query": "Shinji Kagawa (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "short-term": "Shinji Kagawa (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender. Their patient possession of the ball was not rewarded.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "22:46",
+            "game_time": "22:46",
+            "query": "Erik Durm (Dortmund) attempted to send a defence-splitting pass into space where Pierre-Emerick Aubameyang was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",
+            "short-term": "Erik Durm (Dortmund) attempted to send a defence-splitting pass into space where Pierre-Emerick Aubameyang was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat. Their strikers have now moved into the center, adding another attacking option.",
+            "query_ano": "[PLAYER] ([TEAM]) attempted to send a defence-splitting pass into space where [TEAM]-[TEAM] was lurking. [TEAM] could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat."
+        },
+        {
+            "gameTime": "20:25",
+            "game_time": "20:25",
+            "query": "Felipe Melo (Galatasaray) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "short-term": "Felipe Melo (Galatasaray) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. They enter the final third for the first time.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "18:48",
+            "game_time": "18:48",
+            "query": "Dortmund are seeing far more of the ball now.",
+            "short-term": "Dortmund are seeing far more of the ball now. The attack is leaning towards the left, with Reus heavily involved.",
+            "query_ano": "[TEAM] are seeing far more of the ball now."
+        },
+        {
+            "gameTime": "16:45",
+            "game_time": "16:45",
+            "query": "Selcuk Inan (Galatasaray) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Selcuk Inan (Galatasaray) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The delivery was well-placed and quickly.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "16:29",
+            "game_time": "16:29",
+            "query": "A fine lofted pass into the box, sent by Osman Tarik Camdal (Galatasaray), is intercepted by the opposition's defence.",
+            "short-term": "A fine lofted pass into the box, sent by Osman Tarik Camdal (Galatasaray), is intercepted by the opposition's defence. The attempt was quick and well-timed, the ball is out of the play and Galatasaray have a corner. ",
+            "query_ano": "A fine lofted pass into the box, sent by [TEAM] [PLAYER] ([TEAM]), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "16:11",
+            "game_time": "16:11",
+            "query": "Galatasaray try to maintain the tempo of the game by taking a quick free kick.",
+            "short-term": "Galatasaray try to maintain the tempo of the game by taking a quick free kick. They are looking to catch Dortmund off guard.",
+            "query_ano": "[TEAM] try to maintain the tempo of the game by taking a quick free kick."
+        },
+        {
+            "gameTime": "15:42",
+            "game_time": "15:42",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) makes a slide tackle, but referee Pavel Kralovec blows for a foul. Galatasaray are given an advantage. They have a free kick.",
+            "short-term": "Pierre-Emerick Aubameyang (Dortmund) makes a slide tackle, but referee Pavel Kralovec blows for a foul. Galatasaray are given an advantage. They have a free kick. Borussia Dortmund is clearly the superior team but struggling to create clear chances.",
+            "query_ano": "[TEAM]-[PLAYER] ([TEAM]) makes a slide tackle, but referee [TEAM] blows for a foul. [TEAM] are given an advantage. [TEAM] have a free kick."
+        },
+        {
+            "gameTime": "14:34",
+            "game_time": "14:34",
+            "query": "Roman Weidenfeller can hear the fans clapping for his superb goalkeeping after he magnificently stops the close-range effort from Wesley Sneijder (Galatasaray). The ball would have probably ended up low inside the middle of the net.",
+            "short-term": "Roman Weidenfeller can hear the fans clapping for his superb goalkeeping after he magnificently stops the close-range effort from Wesley Sneijder (Galatasaray). The ball would have probably ended up low inside the middle of the net. He remains composed despite the pressure.",
+            "query_ano": "[TEAM] can hear the fans clapping for his superb goalkeeping after he magnificently stops the close-range effort from [PLAYER] ([TEAM]). [TEAM] ball would have probably ended up low inside the middle of the net."
+        },
+        {
+            "gameTime": "12:51",
+            "game_time": "12:51",
+            "query": "Referee Pavel Kralovec sees the trip by Sven Bender (Dortmund) and doesn't hesitate to blow his whistle.",
+            "short-term": "Referee Pavel Kralovec sees the trip by Sven Bender (Dortmund) and doesn't hesitate to blow his whistle. The challenge was borderline as he went in with an open sole.",
+            "query_ano": "[REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        }
+    ]
+}

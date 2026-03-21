@@ -1,0 +1,369 @@
+{
+    "annotations": [
+        {
+            "query": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar.",
+            "game_time": "13:07",
+            "short-term": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. He chested the ball down well but couldn’t keep his shot under control.",
+            "query_ano": "[PLAYER] ([TEAM]) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar.",
+            "history": [
+                {
+                    "short-term": "Dimitri Payet (Marseille) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. A well-placed attempt, but just too much elevation.",
+                    "history_time": "1:55",
+                    "long-term": "They have been creating scoring opportunities but lack precision in their finishing, which has prevented them from taking the lead."
+                }
+            ]
+        },
+        {
+            "query": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "game_time": "15:07",
+            "short-term": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The keeper reacted quickly to keep it out.",
+            "query_ano": "[PLAYER] pulls off a great save to deny [PLAYER] ([TEAM]) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "history": [
+                {
+                    "short-term": "Salvatore Sirigu stretches to his right and makes a brilliant save! Andre Ayew (Marseille) met a rebound outside the box and attempted to beat the keeper inside the left post. The goalkeeper's strong hands kept the ball out.",
+                    "history_time": "7:16",
+                    "long-term": "The goalkeepers have been exceptional in this match, making crucial saves to deny the opposing team's attacking opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille.",
+            "game_time": "18:27",
+            "short-term": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille. His cross created danger but was well dealt with.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. He chested the ball down well but couldn’t keep his shot under control.",
+                    "history_time": "13:07",
+                    "long-term": "They have been creating scoring opportunities with crosses into the penalty area but are struggling to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "query": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted.",
+            "game_time": "18:53",
+            "short-term": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted. The delivery lacked accuracy, allowing the defenders to clear comfortably.",
+            "query_ano": "[PLAYER] ([TEAM]) floats the ball in from the corner but it's intercepted.",
+            "history": [
+                {
+                    "short-term": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille. His cross created danger but was well dealt with.",
+                    "history_time": "18:27",
+                    "long-term": "They have been consistently posing threats from set pieces, particularly corners, but the opposing team's defense has managed to neutralize these opportunities."
+                },
+                {
+                    "short-term": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. He chested the ball down well but couldn’t keep his shot under control.",
+                    "history_time": "13:07",
+                    "long-term": "They have been struggling with precision in their set pieces and are missing clear scoring opportunities."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar. A well-placed attempt, but just too much elevation.",
+                    "history_time": "1:55",
+                    "long-term": "He has been attempting to create scoring opportunities, despite struggling with accuracy on his deliveries."
+                }
+            ]
+        },
+        {
+            "query": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "game_time": "25:15",
+            "short-term": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. A well-timed clearance prevented danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "history": [
+                {
+                    "short-term": "Andre-Pierre Gignac (Marseille) controls a cross inside the six-yard box, but unbelievably sends his shot over the bar. He chested the ball down well but couldn’t keep his shot under control.",
+                    "history_time": "13:07",
+                    "long-term": "They have been creating scoring opportunities with effective crosses, but the finishing touch has been lacking precision."
+                }
+            ]
+        },
+        {
+            "query": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner.",
+            "game_time": "26:46",
+            "short-term": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner. The rebound almost led to another chance.",
+            "query_ano": "[PLAYER] ([TEAM]) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner.",
+            "history": [
+                {
+                    "short-term": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. A well-timed clearance prevented danger.",
+                    "history_time": "25:15",
+                    "long-term": "The match has seen a series of dynamic and threatening attacks, with both goalkeepers playing crucial roles in preventing their teams from falling behind."
+                },
+                {
+                    "short-term": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The keeper reacted quickly to keep it out.",
+                    "history_time": "15:07",
+                    "long-term": "The goalkeeper has been impressive, making crucial saves to deny their opponents' threatening chances on multiple occasions."
+                }
+            ]
+        },
+        {
+            "query": "An attempted cross from Benjamin Mendy (Marseille) is cleared.",
+            "game_time": "27:31",
+            "short-term": "An attempted cross from Benjamin Mendy (Marseille) is cleared. The defender read the delivery well and cut out the danger.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. A well-timed clearance prevented danger.",
+                    "history_time": "25:15",
+                    "long-term": "The player's crosses have been consistently cut out by the opposing defense, limiting his impact on the game so far."
+                }
+            ]
+        },
+        {
+            "query": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "game_time": "32:33",
+            "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "history": [
+                {
+                    "short-term": "Mario Lemina (Marseille) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post. This gives PSG a moment to reset.",
+                    "history_time": "30:20",
+                    "long-term": "Both teams have been trying to create scoring opportunities through different means, with one attempting to utilize quick passes and the other opting for long-range shots, but neither has been successful so far."
+                },
+                {
+                    "short-term": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner. The rebound almost led to another chance.",
+                    "history_time": "26:46",
+                    "long-term": "They have been consistently creating scoring opportunities with clever passing and quick movements, but the opposition's defense has been equally impressive in thwarting their attacks."
+                },
+                {
+                    "short-term": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille. His cross created danger but was well dealt with.",
+                    "history_time": "18:27",
+                    "long-term": "Both teams have showcased excellent vision in creating attacking opportunities, but the defenders have been equally impressive in neutralizing these threats. The midfielders are playing a crucial role in controlling the tempo of the game."
+                }
+            ]
+        },
+        {
+            "query": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal.",
+            "game_time": "35:32",
+            "short-term": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal. A strong save to keep the score unchanged.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal.",
+            "history": [
+                {
+                    "short-term": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner. The rebound almost led to another chance.",
+                    "history_time": "26:46",
+                    "long-term": "Both goalkeepers have been impressive, making crucial saves to deny the opposing team's scoring opportunities and keeping the scoreline intact."
+                }
+            ]
+        },
+        {
+            "query": "Steve Mandanda pulls off a great save to deny Zlatan Ibrahimovic (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. Paris SG will have a chance to score from a corner.",
+            "game_time": "38:19",
+            "short-term": "Steve Mandanda pulls off a great save to deny Zlatan Ibrahimovic (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. Paris SG will have a chance to score from a corner. A vital stop from the keeper.",
+            "query_ano": "Steve Mandanda pulls off a great save to deny [PLAYER] ([TEAM]), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. [TEAM] will have a chance to score from a corner.",
+            "history": [
+                {
+                    "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+                    "history_time": "37:05",
+                    "long-term": "He has been posing a significant threat in the attacking third, testing the goalkeeper with a powerful shot and then missing a clear opportunity from close range."
+                },
+                {
+                    "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+                    "history_time": "32:33",
+                    "long-term": "They have been posing a significant threat in the opposition's box, testing the goalkeeper and requiring defenders to be alert to intercept scoring opportunities."
+                },
+                {
+                    "short-term": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner. The rebound almost led to another chance.",
+                    "history_time": "26:46",
+                    "long-term": "The goalkeeper has been a crucial factor in preventing multiple scoring opportunities for Paris SG, making key saves to keep the opposition at bay."
+                },
+                {
+                    "short-term": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The keeper reacted quickly to keep it out.",
+                    "history_time": "15:07",
+                    "long-term": "The goalkeeper has been instrumental in preventing scoring opportunities for Paris SG, making crucial saves to deny their attacking threats."
+                }
+            ]
+        },
+        {
+            "query": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick.",
+            "game_time": "37:05",
+            "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+            "query_ano": "Golden chance! [PLAYER] ([TEAM]) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and [TEAM] will have a goal kick.",
+            "history": [
+                {
+                    "short-term": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal. A strong save to keep the score unchanged.",
+                    "history_time": "35:32",
+                    "long-term": "Both teams have created high-quality scoring opportunities, but accuracy and goalkeeping have prevented a breakthrough so far."
+                },
+                {
+                    "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+                    "history_time": "32:33",
+                    "long-term": "They have been creating scoring opportunities, but the final execution has been lacking, with some shots going wide and others being well-defended. The attacking pressure is there, but accuracy is needed to capitalize on these chances."
+                },
+                {
+                    "short-term": "Mario Lemina (Marseille) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post. This gives PSG a moment to reset.",
+                    "history_time": "30:20",
+                    "long-term": "Both teams have been creating scoring opportunities, but are struggling to find accuracy in their finishing, with shots consistently going wide of the target."
+                }
+            ]
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) unleashes a bullet of a shot that is blocked by a defender.",
+            "game_time": "3:39",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) unleashes a bullet of a shot that is blocked by a defender. A crucial intervention to deny a dangerous chance.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a bullet of a shot that is blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "It seems like Zlatan Ibrahimovic (Paris SG) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot, and he has scored from similar positions before.",
+                    "history_time": "2:48",
+                    "long-term": "He has been posing a significant threat in front of goal, testing the defense with a powerful shot and now has an opportunity to showcase his expertise from a set piece."
+                }
+            ]
+        },
+        {
+            "query": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick.",
+            "game_time": "40:13",
+            "short-term": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick. The referee plays the advantage before stopping play.",
+            "query_ano": "[PLAYER] ([TEAM]) pulls the jersey of one of the opposition players and [REFEREE] blows his whistle for a foul. [TEAM] are given an advantage. They have a free kick.",
+            "history": [
+                {
+                    "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+                    "history_time": "37:05",
+                    "long-term": "They have shown inconsistent discipline in their defense, conceding a free kick, while also creating but missing promising scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "game_time": "41:22",
+            "short-term": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The set-piece lacked precision and was easily dealt with.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "history": [
+                {
+                    "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+                    "history_time": "37:05",
+                    "long-term": "Set pieces and crosses have not been precise, and the teams are struggling to capitalize on these opportunities, resulting in missed chances."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal. A strong save to keep the score unchanged.",
+                    "history_time": "35:32",
+                    "long-term": "He has been struggling to create scoring opportunities, with a poorly delivered free kick and a shot from distance that was saved by the goalkeeper. His set-pieces and shots have been comfortably dealt with by the opposition defense."
+                },
+                {
+                    "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+                    "history_time": "32:33",
+                    "long-term": "Both teams have been attempting to create scoring opportunities through set pieces and clever passes, but the defenses have been solid in clearing the threats."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted. The delivery lacked accuracy, allowing the defenders to clear comfortably.",
+                    "history_time": "18:53",
+                    "long-term": "His set-piece deliveries have been below par, lacking precision and allowing the opposing team's defenders to clear with ease."
+                }
+            ]
+        },
+        {
+            "query": "Zlatan Ibrahimovic (Paris SG) is caught offside, but it was a really close call.",
+            "game_time": "43:26",
+            "short-term": "Zlatan Ibrahimovic (Paris SG) is caught offside, but it was a really close call. The assistant referee raised his flag just in time.",
+            "query_ano": "[PLAYER] ([TEAM]) is caught offside, but it was a really close call.",
+            "history": [
+                {
+                    "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+                    "history_time": "32:33",
+                    "long-term": "They have been testing the opponent's defense with quick through balls and positioning, but so far, the offside trap has been effective in neutralizing their attacks."
+                }
+            ]
+        },
+        {
+            "query": "Mario Lemina (Marseille) makes an overly-aggressive challenge and Ruddy Buquet blows his whistle for a foul.",
+            "game_time": "42:42",
+            "short-term": "Mario Lemina (Marseille) makes an overly-aggressive challenge and Ruddy Buquet blows his whistle for a foul. Blaise Matuidi wins the free kick for Paris SG in a dangerous area.",
+            "query_ano": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+            "history": [
+                {
+                    "short-term": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick. The referee plays the advantage before stopping play.",
+                    "history_time": "40:13",
+                    "long-term": "The referee has been actively enforcing discipline, calling fouls on both sides, which may impact the teams' strategies going forward."
+                }
+            ]
+        },
+        {
+            "query": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball.",
+            "game_time": "44:11",
+            "short-term": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball, eliminating any danger before an attacker could pounce.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball.",
+            "history": [
+                {
+                    "short-term": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted. The opposition defense reacts quickly to cut out the threat.",
+                    "history_time": "43:56",
+                    "long-term": "They have consistently attempted to create scoring opportunities through crosses and passes into the box, but the opposition's defense and goalkeeper have been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The set-piece lacked precision and was easily dealt with.",
+                    "history_time": "41:22",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces and crosses, with the opposing goalkeeper and defenders dealing with their attempts effectively."
+                },
+                {
+                    "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+                    "history_time": "37:05",
+                    "long-term": "Both teams have created promising scoring opportunities, but precise finishing has been lacking, particularly in the critical moments."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal. A strong save to keep the score unchanged.",
+                    "history_time": "35:32",
+                    "long-term": "They have been creating scoring opportunities, but the opposing goalkeeper has consistently denied them with crucial saves."
+                },
+                {
+                    "short-term": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. A clever pass that was just cut out in time.",
+                    "history_time": "32:33",
+                    "long-term": "Both teams have been utilizing crosses and through balls effectively to create scoring opportunities, but their opponents' defenses have been equally impressive in neutralizing these threats."
+                }
+            ]
+        },
+        {
+            "query": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted.",
+            "game_time": "43:56",
+            "short-term": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted. The opposition defense reacts quickly to cut out the threat.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a low pass into the box which is intercepted.",
+            "history": [
+                {
+                    "short-term": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The set-piece lacked precision and was easily dealt with.",
+                    "history_time": "41:22",
+                    "long-term": "They have been struggling to create clear scoring opportunities from their set pieces and crosses into the box."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted. The delivery lacked accuracy, allowing the defenders to clear comfortably.",
+                    "history_time": "18:53",
+                    "long-term": "They have been struggling to create clear scoring opportunities due to inaccurate deliveries into the box."
+                }
+            ]
+        },
+        {
+            "query": "Lucas Ocampos (Marseille) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "game_time": "47:08",
+            "short-term": "Lucas Ocampos (Marseille) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar. A frustrating miss for the home side.",
+            "query_ano": "[PLAYER] ([TEAM]) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball, eliminating any danger before an attacker could pounce.",
+                    "history_time": "44:11",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them, with some wasteful finishing and decisive goalkeeping interventions by the opposition."
+                },
+                {
+                    "short-term": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted. The opposition defense reacts quickly to cut out the threat.",
+                    "history_time": "43:56",
+                    "long-term": "They have been creating scoring opportunities but struggling to capitalize on them, with some wasteful finishing and effective opposition defending."
+                },
+                {
+                    "short-term": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The set-piece lacked precision and was easily dealt with.",
+                    "history_time": "41:22",
+                    "long-term": "They have been struggling to capitalize on scoring opportunities, with shots flying off target and set-pieces lacking precision."
+                },
+                {
+                    "short-term": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick. A rare miss from close range.",
+                    "history_time": "37:05",
+                    "long-term": "Both teams have been guilty of wasting key opportunities in front of goal, struggling to find the precision needed to capitalize on their attacking efforts."
+                }
+            ]
+        },
+        {
+            "query": "Lucas Ocampos (Marseille) commits a rough foul. Ruddy Buquet stops the game and makes a call. There is a free kick near the sideline to Paris SG.",
+            "game_time": "49:11",
+            "short-term": "Lucas Ocampos (Marseille) commits a rough foul. Ruddy Buquet stops the game and makes a call. There is a free kick near the sideline to Paris SG. A strong challenge that leaves the opposition player on the ground.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. There is a free kick near the sideline to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick. The referee plays the advantage before stopping play.",
+                    "history_time": "40:13",
+                    "long-term": "The game has seen a rise in intense challenges and fouls, with both teams guilty of committing rough tackles and the referee has had to intervene multiple times."
+                }
+            ]
+        }
+    ]
+}

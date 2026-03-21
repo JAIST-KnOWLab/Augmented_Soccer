@@ -1,0 +1,82 @@
+{
+    "annotations": [
+        {
+            "query": "The game is interrupted as Daniele Croce (Empoli) is flagged offside.",
+            "game_time": "12:10",
+            "short-term": "The game is interrupted as Daniele Croce (Empoli) is flagged offside. He mistimed his run, stepping ahead of the last defender just before the pass was played.",
+            "query_ano": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "query": "Luca Antonelli (AC Milan) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",
+            "game_time": "16:00",
+            "short-term": "Luca Antonelli (AC Milan) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The delivery had good pace, but the defenders were quick to react and clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "query": "[PLAYER] is penalised after knocking an opponent down.",
+            "game_time": "18:37",
+            "short-term": "[PLAYER] is penalised after knocking an opponent down. The referee immediately called the foul as the opponent lost balance and fell to the ground.",
+            "query_ano": "[PLAYER] is penalised after knocking an opponent down."
+        },
+        {
+            "query": "The Empoli players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",
+            "game_time": "21:47",
+            "short-term": "The Empoli players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break. Their patient build-up play is drawing defenders out of position.",
+            "query_ano": "The [TEAM] players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "query": "Nigel De Jong (AC Milan) commits a foul after making a slide tackle on his opponent.",
+            "game_time": "23:46",
+            "short-term": "Nigel De Jong (AC Milan) commits a foul after making a slide tackle on his opponent. He won some of the ball, but his follow-through was deemed reckless by the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after making a slide tackle on his opponent."
+        },
+        {
+            "query": "Keisuke Honda (AC Milan) flights in the cross, but the defender is alert and clears to safety. The ball goes out for a corner. AC Milan can continue in their attacking effort.",
+            "game_time": "25:12",
+            "short-term": "Keisuke Honda (AC Milan) flights in the cross, but the defender is alert and clears to safety. The ball goes out for a corner. Honda had little space but managed to whip in a dangerous delivery.",
+            "query_ano": "[PLAYER] ([TEAM]) flights in the cross, but the defender is alert and clears to safety. The ball goes out for a corner. [TEAM] can continue in their attacking effort."
+        },
+        {
+            "query": "meets a cross inside the box, but Diego Lopez (AC Milan) wins the battle for the ball and the chance is gone.",
+            "game_time": "28:52",
+            "short-term": "A cross inside the box was met by a player, but Diego Lopez (AC Milan) wins the battle for the ball and the chance is gone. He showed good anticipation to come off his line and claim it.",
+            "query_ano": "meets a cross inside the box, but [PLAYER] ([TEAM]) wins the battle for the ball and the chance is gone."
+        },
+        {
+            "query": "Giacomo Bonaventura (AC Milan) times his run too early and the linesman raises his flag for offside.",
+            "game_time": "29:24",
+            "short-term": "Giacomo Bonaventura (AC Milan) times his run too early and the linesman raises his flag for offside. He was a couple of steps ahead when the pass was played, making it an easy decision for the assistant referee.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "query": "Elseid Hysaj (Empoli) sends a teasing cross into the area, but Diego Lopez intercepts the ball.",
+            "game_time": "33:00",
+            "short-term": "Elseid Hysaj (Empoli) sends a teasing cross into the area, but Diego Lopez intercepts the ball. Lopez read the trajectory well and stepped out confidently to collect.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "query": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Empoli have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",
+            "game_time": "36:38",
+            "short-term": "Mario Rui (Empoli) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Diego Lopez makes a great save to stop his effort. Rui tried to catch the goalkeeper off guard, but Lopez reacted swiftly to parry it away for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, [PLAYER] makes a great save to stop his effort. [TEAM] have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "query": "Mirko Valdifiori (Empoli) takes the corner with a short pass.",
+            "game_time": "36:58",
+            "short-term": "Mirko Valdifiori (Empoli) takes the corner with a short pass. Empoli looks to maintain possession rather than delivering a direct cross.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner with a short pass."
+        },
+        {
+            "query": "Mirko Valdifiori (Empoli) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "game_time": "38:50",
+            "short-term": "Mirko Valdifiori (Empoli) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked pace and direction, making it an easy clearance for the opposition.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "query": "Mattia Destro (AC Milan) receives a precise pass inside the box from Giacomo Bonaventura and he beats the goalkeeper with a neat finish into the left side of the net. 1:0.",
+            "game_time": "39:36",
+            "short-term": "Mattia Destro (AC Milan) receives a precise pass inside the box from Giacomo Bonaventura and he beats the goalkeeper with a neat finish into the left side of the net. 1:0. The striker took his chance well under pressure from the defenders.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a precise pass inside the box from [PLAYER] and he beats the goalkeeper with a neat finish into the left side of the net. 1:0."
+        }
+    ]
+}

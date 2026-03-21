@@ -1,0 +1,249 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:59",
+            "game_time": "46:59",
+            "query": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The game is quite balanced. The home team are playing possession football, while the away team look to find a weakness in the opposition's defence mainly with their rapid counter-attacks.",
+            "short-term": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The game is quite balanced. The home team are playing possession football, while the away team look to find a weakness in the opposition's defence mainly with their rapid counter-attacks.",
+            "query_ano": "We are watching a run-of-the-mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The game is quite balanced. The home team are playing possession football, while the away team look to find a weakness in the opposition's defence mainly with their rapid counter-attacks."
+        },
+        {
+            "gameTime": "44:28",
+            "game_time": "44:28",
+            "query": "Decent spell from Dortmund here and they keep the pressure on until one of the defending players steps in.",
+            "short-term": "Decent spell from Dortmund here and they keep the pressure on until one of the defending players steps in. They pushed forward aggressively, but their opposent defense held firm.",
+            "query_ano": "Decent spell from [TEAM] here and they keep the pressure on until one of the defending players steps in."
+        },
+        {
+            "gameTime": "42:55",
+            "game_time": "42:55",
+            "query": "Leonardo Bonucci (Juventus) quickly takes the free kick with a short pass.",
+            "short-term": "Leonardo Bonucci quickly takes the free kick with a short pass. Juventus are looking to maintain possession, slowing the tempo after Dortmund’s period of pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "42:45",
+            "game_time": "42:45",
+            "query": "Sven Bender (Dortmund) commits a foul after unfairly battling his opponent for the ball.",
+            "short-term": "Sven Bender commits a foul after unfairly battling his opponent for the ball. Juventus players call for a quick restart as they attempt to transition into attack before Dortmund can regroup.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "41:50",
+            "game_time": "41:50",
+            "query": "Alvaro Morata (Juventus) fails to score from close range. He picks up a rebound, but sends it wide of the target!",
+            "short-term": "Alvaro Morata fails to score from close range. He picks up a rebound, but sends it wide of the target! Morata holds his head in frustration, knowing that was a golden opportunity with the goalkeeper already committed.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to score from close range. He picks up a rebound, but sends it wide of the target!"
+        },
+        {
+            "gameTime": "40:01",
+            "game_time": "40:01",
+            "query": "Sokratis (Dortmund) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and Juventus will take a throw-in.",
+            "short-term": "Sokratis slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and Juventus will take a throw-in. Dortmund's attacking momentum stalls as their passing sequence breaks down near the final third.",
+            "query_ano": "[PLAYER] ([TEAM]) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates. The ball is behind the touchline and [TEAM] will take a throw-in."
+        },
+        {
+            "gameTime": "37:12",
+            "game_time": "37:12",
+            "query": "The ball is cleared after Roberto Pereyra (Juventus) attempted to dribble past an opposing player. The linesman signals a throw-in for Dortmund.",
+            "short-term": "The ball is cleared after Roberto Pereyra attempted to dribble past an opposing player. The linesman signals a throw-in for Dortmund. He had tried to cut inside but was quickly closed down, forcing him to lose control before the ball was cleared out of play.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The linesman signals a throw-in for [TEAM]."
+        },
+        {
+            "gameTime": "36:36",
+            "game_time": "36:36",
+            "query": "Pierre-Emerick Aubameyang (Dortmund) unleashes a shot, but it's well wide of the left-hand post.",
+            "short-term": "Pierre-Emerick Aubameyang unleashes a shot, but it's well wide of the left-hand post. He had found space just outside the box, but his rushed effort sailed far off target, missing the goal by a significant margin.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot, but it's well wide of the left-hand post."
+        },
+        {
+            "gameTime": "35:49",
+            "game_time": "35:49",
+            "query": "Claudio Marchisio (Juventus) is unable to feed an accurate cross into the box.",
+            "short-term": "Claudio Marchisio is unable to feed an accurate cross into the box. His delivery was slightly overhit, floating past the intended target and allowing the Dortmund defense to regain possession.",
+            "query_ano": "[PLAYER] ([TEAM]) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "34:33",
+            "game_time": "34:33",
+            "query": "Ilkay Gundogan (Dortmund) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Ilkay Gundogan sends a cross into the box, but the opposition's defence clears the ball to safety. The ball was aimed towards the back post, but Juventus’ defenders anticipated it well and managed to head it away.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "gameTime": "34:20",
+            "game_time": "34:20",
+            "query": "Some patient build-up play from Dortmund as they look to unlock the defence.",
+            "short-term": "Some patient build-up play from Dortmund as they look to unlock the defence. They move the ball from flank to flank, trying to stretch Juventus’ defensive line, but the final pass is still missing.",
+            "query_ano": "Some patient build-up play from [TEAM] as they look to unlock the defence."
+        },
+        {
+            "gameTime": "32:42",
+            "game_time": "32:42",
+            "query": "Sven Bender (Dortmund) sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball.",
+            "short-term": "Sven Bender sends a teasing cross into the area, but Gianluigi Buffon intercepts the ball. The goalkeeper came off his line confidently, catching the ball in midair before any Dortmund attackers could get a touch.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a teasing cross into the area, but [PLAYER] intercepts the ball."
+        },
+        {
+            "gameTime": "31:19",
+            "game_time": "31:19",
+            "query": "Marco Reus (Dortmund) plays a one-two with Henrikh Mkhitaryan, but the move breaks down.",
+            "short-term": "Marco Reus plays a one-two with Henrikh Mkhitaryan, but the move breaks down. Reus’ return pass was slightly underhit, allowing Juventus to step in and intercept before the attack could develop further.",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down."
+        },
+        {
+            "gameTime": "30:57",
+            "game_time": "30:57",
+            "query": "Kevin Kampl (Dortmund) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+            "short-term": "Kevin Kampl swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. The delivery had good pace, but Juventus’ defenders stood firm, winning the aerial duel.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "30:38",
+            "game_time": "30:38",
+            "query": "Marco Reus (Dortmund) puts a cross into the box from the free kick, but the defender gets there first. The referee and one of his assistants signal for a corner kick to Dortmund.",
+            "short-term": "Marco Reus puts a cross into the box from the free kick, but the defender gets there first. The ball deflected off a Juventus defender and went behind, leading to another corner for Dortmund.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first. The referee and one of his assistants signal for a corner kick to [TEAM]."
+        },
+        {
+            "gameTime": "29:28",
+            "game_time": "29:28",
+            "query": "Milorad Mazic blows his whistle for a foul after Alvaro Morata (Juventus) hacks down one of his opponents. Dortmund get a free kick.",
+            "short-term": "Milorad Mazic blows his whistle for a foul after Alvaro Morata hacks down one of his opponents. Morata mistimed his challenge as he tried to win back possession, conceding a free kick just inside Dortmund’s half.",
+            "query_ano": "[PLAYER] blows his whistle for a foul after [PLAYER] ([TEAM]) hacks down one of his opponents. [TEAM] get a free kick."
+        },
+        {
+            "gameTime": "28:57",
+            "game_time": "28:57",
+            "query": "Kevin Kampl (Dortmund) whips in a cross from the corner, but Gianluigi Buffon is well positioned and punches the ball away.",
+            "short-term": "Kevin Kampl whips in a cross from the corner, but Gianluigi Buffon is well positioned, clearing the ball with a strong punch to prevent any danger inside the six-yard box.",
+            "query_ano": "[PLAYER] ([TEAM]) whips in a cross from the corner, but [PLAYER] is well positioned and punches the ball away."
+        },
+        {
+            "gameTime": "28:36",
+            "game_time": "28:36",
+            "query": "A cross from Marcel Schmelzer (Dortmund) fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick.",
+            "short-term": "A cross from Marcel Schmelzer fails to reach the box as the defence clears the ball away to safety. Dortmund will take a corner kick. The delivery was low and driven, but Juventus' backline managed to step up in time to intercept.",
+            "query_ano": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. [TEAM] will take a corner kick."
+        },
+        {
+            "gameTime": "26:39",
+            "game_time": "26:39",
+            "query": "Massimiliano Allegri is forced to make a change. Paul Pogba is not able to carry on due to injury. He is replaced by Andrea Barzagli (Juventus).",
+            "short-term": "Massimiliano Allegri is forced to make a change. Paul Pogba is not able to carry on due to injury. He is replaced by Andrea Barzagli. Pogba limped off clutching his thigh, and after a quick assessment, Allegri opted to bring on Barzagli to reinforce the defense.",
+            "query_ano": "[COACH] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "25:47",
+            "game_time": "25:47",
+            "query": "Paul Pogba (Juventus) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "short-term": "Paul Pogba requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch. Pogba appeared to be in discomfort after a previous duel, and the medical team quickly rushed onto the field to assess his condition.",
+            "query_ano": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "25:25",
+            "game_time": "25:25",
+            "query": "Alvaro Morata tries to slide the ball through to a teammate but it's well blocked by a defender. Juventus earn a corner.",
+            "short-term": "Alvaro Morata tries to slide the ball through to a teammate but it's well blocked by a defender. Juventus earn a corner. Morata attempted a clever pass into the box, but the alert Dortmund defender read the play and deflected it behind.",
+            "query_ano": "[PLAYER] tries to slide the ball through to a teammate but it's well blocked by a defender. [TEAM] earn a corner."
+        },
+        {
+            "gameTime": "22:33",
+            "game_time": "22:33",
+            "query": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",
+            "short-term": "Marco Reus attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity. The ball was floated in dangerously, but Buffon timed his jump well to catch it securely.",
+            "query_ano": "[PLAYER] attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "gameTime": "21:21",
+            "game_time": "21:21",
+            "query": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Let's see what they create from this.",
+            "short-term": "Arturo Vidal makes an overly-aggressive challenge and Milorad Mazic blows his whistle for a foul. Dortmund are awarded a free kick. Vidal went in hard for the tackle, but mistimed his challenge, leaving the referee with little choice.",
+            "query_ano": "[PLAYER] makes an overly-aggressive challenge and [PLAYER] blows his whistle for a foul. [TEAM] are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "gameTime": "20:57",
+            "game_time": "20:57",
+            "query": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders.",
+            "short-term": "Marcel Schmelzer pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders. The shot had power, but Juventus' defensive line held firm, making a crucial block just inside the box.",
+            "query_ano": "[PLAYER] pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders."
+        },
+        {
+            "gameTime": "20:37",
+            "game_time": "20:37",
+            "query": "Marco Reus (Dortmund) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety.",
+            "short-term": "Marco Reus steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety. The set-piece was well-placed, curling towards the far post, but a strong defensive header prevented any real danger.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take a free kick and sends it in, but the opposition's defence is alert and clears the ball to safety."
+        },
+        {
+            "gameTime": "19:30",
+            "game_time": "19:30",
+            "query": "Milorad Mazic blows his whistle after Arturo Vidal (Juventus) kicks an opponent's legs instead of the ball. Dortmund have a free kick from a promising distance.",
+            "short-term": "Milorad Mazic blows his whistle after Arturo Vidal kicks an opponent's legs instead of the ball. Dortmund have a free kick from a promising distance.",
+            "query_ano": "[PLAYER] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. [TEAM] have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "17:53",
+            "game_time": "17:53",
+            "query": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+            "short-term": "The Dortmund players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up. one of the player starts the movement on the left, looking for an opening as Juventus remains compact in defense.",
+            "query_ano": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "15:48",
+            "game_time": "15:48",
+            "query": "Arturo Vidal (Juventus) clearly handles the ball, but he is surprised when the referee blows his whistle.",
+            "short-term": "Arturo Vidal clearly handles the ball, but he is surprised when the referee blows his whistle. Vidal looked around in disbelief, but the referee had a clear view and immediately awarded the free kick to Dortmund.",
+            "query_ano": "[PLAYER] ([TEAM]) clearly handles the ball, but he is surprised when the referee blows his whistle."
+        },
+        {
+            "gameTime": "15:31",
+            "game_time": "15:31",
+            "query": "Claudio Marchisio (Juventus) takes the corner, but the goalkeeper jumps and gathers the ball.",
+            "short-term": "Claudio Marchisio takes the corner, but the goalkeeper jumps and gathers the ball. The ball was too close to the goal and too slow, making it easy for the goalkeeper to catch it.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "14:58",
+            "game_time": "14:58",
+            "query": "Roman Weidenfeller gets a well deserved ovation! He pulls off a remarkable save to block a long-range effort from Stephan Lichtsteiner (Juventus) towards the left side of the target. Nice goalkeeping skills! The referee points to the corner flag and Juventus will take a corner.",
+            "short-term": "Roman Weidenfeller gets a well deserved ovation! He pulls off a remarkable save to block a long-range effort from Stephan Lichtsteiner towards the left side of the target. Nice goalkeeping skills! The diving stop from Weidenfeller was crucial, stretching out fully to deflect the powerful strike past the post.",
+            "query_ano": "[PLAYER] gets a well deserved ovation! He pulls off a remarkable save to block a long-range effort from [PLAYER] ([TEAM]) towards the left side of the target. Nice goalkeeping skills! The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "gameTime": "14:07",
+            "game_time": "14:07",
+            "query": "Marcel Schmelzer (Dortmund) sends a long ball in, but Gianluigi Buffon comfortably gathers the ball.",
+            "short-term": "Marcel Schmelzer sends a long ball in, but Gianluigi Buffon comfortably gathers the ball. The delivery had good height but lacked the precision to trouble Buffon.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a long ball in, but [PLAYER] comfortably gathers the ball."
+        },
+        {
+            "gameTime": "13:05",
+            "game_time": "13:05",
+            "query": "Alvaro Morata (Juventus) gives away a foul during an attacking move and the referee blows his whistle.",
+            "short-term": "Alvaro Morata gives away a foul during an attacking move and the referee blows his whistle. Morata attempted to shield the ball but leaned too aggressively into his marker, drawing the referee's attention.",
+            "query_ano": "[PLAYER] ([TEAM]) gives away a foul during an attacking move and the referee blows his whistle."
+        },
+        {
+            "gameTime": "11:44",
+            "game_time": "11:44",
+            "query": "Mats Hummels (Dortmund) fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick.",
+            "short-term": "Mats Hummels fails to find a teammate across the pitch with a long ball. The ball goes out of play and Juventus will have a goal kick. The idea was right, but the execution lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "11:04",
+            "game_time": "11:04",
+            "query": "Dortmund quickly take the free kick with a short pass.",
+            "short-term": "Dortmund quickly take the free kick with a short pass. They attempt to catch Juventus off guard, but the Italian side stays disciplined and well-positioned.",
+            "query_ano": "[TEAM] quickly take the free kick with a short pass."
+        },
+        {
+            "gameTime": "10:54",
+            "game_time": "10:54",
+            "query": "The game is interrupted, a clear handball by Arturo Vidal (Juventus).",
+            "short-term": "The game is interrupted, a clear handball by Arturo Vidal. Vidal tried to control the ball under pressure but miscalculated.",
+            "query_ano": "The game is interrupted, a clear handball by [PLAYER] ([TEAM])."
+        }
+    ]
+}

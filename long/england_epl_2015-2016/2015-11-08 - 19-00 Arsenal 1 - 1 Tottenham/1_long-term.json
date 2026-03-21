@@ -1,0 +1,399 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:30",
+            "game_time": "45:30",
+            "query": "Joel Campbell (Arsenal) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "short-term": "Joel Campbell (Arsenal) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Tottenham's defense remained composed, clearing the danger without much difficulty.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",
+            "history": [
+                {
+                    "short-term": "Harry Kane (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared. Arsenal's defense reacted quickly to prevent a dangerous opportunity.",
+                    "history_time": "38:46",
+                    "long-term": "Both teams have shown glimpses of creating attacking chances, but the defensive lines have been resolute in neutralizing these threats."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Hugo Lloris is alert and denies him., keep Arsenal from equalizing.",
+                    "history_time": "38:14",
+                    "long-term": "They have been consistently posing threats in the opponent's penalty area, but the opposing team's defense has held firm to deny them scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:41",
+            "game_time": "44:16",
+            "query": "Harry Kane (Tottenham) commits a foul after unfairly battling his opponent for the ball.",
+            "short-term": "Harry Kane (Tottenham) commits a foul after unfairly battling his opponent for the ball. His physical approach to winning the ball was deemed excessive by the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+            "history": [
+                {
+                    "short-term": "Harry Kane (Tottenham) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well positioned keeper. Arsenal's defense was caught off guard, but their goalkeeper made a crucial save to keep them in the game.",
+                    "history_time": "44:11",
+                    "long-term": "After his long-range shot attempt was blocked by the opponent's goalkeeper, he immediately joined the defense to prevent the opponent's counterattack"
+                },
+                {
+                    "short-term": "Harry Kane (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared. Arsenal's defense reacted quickly to prevent a dangerous opportunity.",
+                    "history_time": "38:46",
+                    "long-term": "He has shown a mix of aggression and creativity, but his efforts have been well contained by the opposing defense so far."
+                },
+                {
+                    "short-term": "Mathieu Debuchy (Arsenal) makes a bad challenge and the referee blows his whistle for a foul. The referee had no hesitation in stopping the play as the challenge was mistimed.",
+                    "history_time": "37:40",
+                    "long-term": "The referee has been actively monitoring the game. The players' aggressive behavior has resulted in several interruptions to the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:00",
+            "game_time": "44:11",
+            "query": "Harry Kane (Tottenham) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well positioned keeper.",
+            "short-term": "Harry Kane (Tottenham) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well positioned keeper. Arsenal's defense was caught off guard, but their goalkeeper made a crucial save to keep them in the game.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to an accurate pass on the edge of the box and unleashes a strong shot towards goal, but his effort is denied by the well positioned keeper.",
+            "history": [
+                {
+                    "short-term": "Harry Kane (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared. Arsenal's defense reacted quickly to prevent a dangerous opportunity.",
+                    "history_time": "38:46",
+                    "long-term": "He was very active on the offensive end and completed a wonderful threatening pass not long ago."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Hugo Lloris is alert and denies him., keep Arsenal from equalizing.",
+                    "history_time": "38:14",
+                    "long-term": "Both teams have been creating quality scoring opportunities, but the goalkeepers have been crucial in keeping the score level with their impressive saves."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:52",
+            "game_time": "38:46",
+            "query": "Harry Kane (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "short-term": "Harry Kane (Tottenham) sends a pass into the box, but his attempt is thwarted and cleared. Arsenal's defense reacted quickly to prevent a dangerous opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Hugo Lloris is alert and denies him., keep Arsenal from equalizing.",
+                    "history_time": "38:14",
+                    "long-term": "Both teams have been creating scoring opportunities."
+                },
+                {
+                    "short-term": "Danny Rose (Tottenham) wastes a good opportunity as his pass into the box is blocked by the defence. Arsenal’s backline stayed compact, preventing any dangerous penetration.",
+                    "history_time": "29:26",
+                    "long-term": "They have been struggling to break down the opponent's defense, with multiple passes into the box being blocked or cleared."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) tries to slide the ball through to a teammate but it's well blocked by a defender. Tottenham’s defense anticipated the pass well, intercepting to regain possession.",
+                    "history_time": "28:44",
+                    "long-term": "Both teams have shown solid defensive organization, with Arsenal and Tottenham effectively nullifying each other's attacking threats through swift reactions and clever anticipation."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) races towards goal but the defender gets back well to make a challenge. Arsenal's defense reacted swiftly, preventing he from getting a clear shot.",
+                    "history_time": "23:39",
+                    "long-term": "They have been consistently testing Arsenal's defense with threatening attacks, but the opposing team's backline has shown impressive resilience to neutralize these scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "38:14",
+            "game_time": "38:14",
+            "query": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Hugo Lloris is alert and denies him.",
+            "short-term": "Alexis Sanchez (Arsenal) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Hugo Lloris is alert and denies him., keep Arsenal from equalizing.",
+            "query_ano": "[PLAYER] ([TEAM]) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but [PLAYER] is alert and denies him.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Tottenham’s backline remained solid, preventing Arsenal from creating a clear chance.",
+                    "history_time": "17:35",
+                    "long-term": "He was very active on the offensive end and completed a wonderful threatening pass before. This time his shot went towards the middle of the goal and did not test the goalkeeper."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:00",
+            "game_time": "33:00",
+            "query": "Mousa Dembele (Tottenham) was too forceful with his tackle and Martin Atkinson interrupted the game to signal a free kick.",
+            "short-term": "Mousa Dembele (Tottenham) was too forceful with his tackle and Martin Atkinson interrupted the game to signal a free kick. Arsenal players quickly positioned themselves for the set-piece, looking to capitalize on the opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick.",
+            "history": [
+                {
+                    "short-term": "Martin Atkinson interrupts the game. One of the players from Arsenal won the ball, but his effort is adjudged unfair. Tottenham are awarded the free kick. The Spurs players quickly positioned themselves for the set-piece, hoping to create a chance.",
+                    "history_time": "23:55",
+                    "long-term": "The referee has been actively monitoring the match, consistently calling out fouls and maintaining order."
+                },
+                {
+                    "short-term": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham. Arsenal’s defenders reacted quickly to close down the space.",
+                    "history_time": "18:31",
+                    "long-term": "He has shown a mix of defensive mistakes and attacking intentions, committing a foul and having a shot blocked."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:31",
+            "game_time": "29:26",
+            "query": "Danny Rose (Tottenham) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "short-term": "Danny Rose (Tottenham) wastes a good opportunity as his pass into the box is blocked by the defence. Arsenal’s backline stayed compact, preventing any dangerous penetration.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a good opportunity as his pass into the box is blocked by the defence.",
+            "history": [
+                {
+                    "short-term": "Danny Rose (Tottenham) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post. His technique let him down in what could have been a promising chance.",
+                    "history_time": "27:09",
+                    "long-term": "He has had a couple of promising moments in front of goal but has failed to capitalize on them. His effort got right of the post last time."
+                }
+            ]
+        },
+        {
+            "gameTime": "28:47",
+            "game_time": "28:44",
+            "query": "Mesut Ozil (Arsenal) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "short-term": "Mesut Ozil (Arsenal) tries to slide the ball through to a teammate but it's well blocked by a defender. Tottenham’s defense anticipated the pass well, intercepting to regain possession.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen (Tottenham) races towards goal but the defender gets back well to make a challenge. Arsenal's defense reacted swiftly, preventing he from getting a clear shot.",
+                    "history_time": "23:39",
+                    "long-term": "Both teams' defenses have been solid, with well-timed blocks and interceptions neutralizing attacking opportunities. The midfield battle has been intense."
+                }
+            ]
+        },
+        {
+            "gameTime": "27:00",
+            "game_time": "27:09",
+            "query": "Danny Rose (Tottenham) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post.",
+            "short-term": "Danny Rose (Tottenham) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post. His technique let him down in what could have been a promising chance.",
+            "query_ano": "[PLAYER] ([TEAM]) hits a first-time volley towards goal from the edge of the penalty box, but his effort is way off target and the ball goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Eric Dier (Tottenham) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post. Arsenal's defense failed to mark him properly, nearly paying the price.",
+                    "history_time": "24:31",
+                    "long-term": "They attacked like crazy during this period, and their continuous shots made the opponent run around, but they lacked accuracy and failed to convert into goals."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) receives a pass and unleashes a shot which goes well wide of the right post. They are building up through the midfield, but his finishing let him down on this occasion.",
+                    "history_time": "19:43",
+                    "long-term": "They attacked like crazy during this period, and their continuous shots made the opponent run around, but they are struggling to find the target in key moments."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:35",
+            "game_time": "24:31",
+            "query": "Eric Dier (Tottenham) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post.",
+            "short-term": "Eric Dier (Tottenham) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post. Arsenal's defense failed to mark him properly, nearly paying the price.",
+            "query_ano": "[PLAYER] ([TEAM]) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen (Tottenham) races towards goal but the defender gets back well to make a challenge. Arsenal's defense reacted swiftly, preventing he from getting a clear shot.",
+                    "history_time": "23:39",
+                    "long-term": "They have been posing threats through set pieces and quick breaks, testing the opponent's defense with near misses and shots under pressure."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) receives a pass and unleashes a shot which goes well wide of the right post. They are building up through the midfield, but his finishing let him down on this occasion.",
+                    "history_time": "19:43",
+                    "long-term": "They have been creating scoring opportunities through set pieces and midfield build-ups, but their finishing has been lacking precision."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) decides to speed play up with a short corner kick. Tottenham opted for a quick delivery, trying to catch Arsenal’s defense off guard.",
+                    "history_time": "18:54",
+                    "long-term": "They have been consistently posing threats through set pieces."
+                },
+                {
+                    "short-term": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham. Arsenal’s defenders reacted quickly to close down the space.",
+                    "history_time": "18:31",
+                    "long-term": "They have been posing threats through set pieces and open play, forcing the opposing defense to stay alert."
+                }
+            ]
+        },
+        {
+            "gameTime": "24:00",
+            "game_time": "23:55",
+            "query": "Martin Atkinson interrupts the game. One of the players from Arsenal won the ball, but his effort is adjudged unfair. Tottenham are awarded the free kick.",
+            "short-term": "Martin Atkinson interrupts the game. One of the players from Arsenal won the ball, but his effort is adjudged unfair. Tottenham are awarded the free kick. The Spurs players quickly positioned themselves for the set-piece, hoping to create a chance.",
+            "query_ano": "[REFEREE] interrupts the game. One of the players from [TEAM] won the ball, but his effort is adjudged unfair. [TEAM] are awarded the free kick.",
+            "history": [
+                {
+                    "short-term": "Per Mertesacker (Arsenal) commits a foul and Martin Atkinson immediately signals a free kick. Arsenal players protested the decision, but the referee was firm in his call.",
+                    "history_time": "16:16",
+                    "long-term": "They have been struggling with discipline, as they conceded two free kicks in a short span, which might put pressure on their defense."
+                },
+                {
+                    "short-term": "Erik Lamela (Tottenham) pulls the jersey of one of the opposition players and Martin Atkinson blows his whistle for a foul. A free kick has been awarded to Arsenal. The referee had a clear view and made an easy decision.",
+                    "history_time": "10:16",
+                    "long-term": "The referee has been actively monitoring the game. The players' aggressive behavior has resulted in several interruptions to the game."
+                }
+            ]
+        },
+        {
+            "gameTime": "23:41",
+            "game_time": "23:39",
+            "query": "Christian Eriksen (Tottenham) races towards goal but the defender gets back well to make a challenge.",
+            "short-term": "Christian Eriksen (Tottenham) races towards goal but the defender gets back well to make a challenge. Arsenal's defense reacted swiftly, preventing he from getting a clear shot.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen (Tottenham) receives a pass and unleashes a shot which goes well wide of the right post. They are building up through the midfield, but his finishing let him down on this occasion.",
+                    "history_time": "19:43",
+                    "long-term": "He had several chances to shoot within a few minutes, but he wasted them all and did not convert them into goals."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) makes a run into the box in an attempt to get onto a long through ball, but one of the opponents comes up with a vital clearance. Arsenal’s defense stayed organized, preventing a potential goal-scoring opportunity.",
+                    "history_time": "14:54",
+                    "long-term": "He has been presented with a couple of promising scoring opportunities but has been unable to capitalize on them."
+                }
+            ]
+        },
+        {
+            "gameTime": "22:18",
+            "game_time": "21:57",
+            "query": "Danny Rose (Tottenham) seems to be alright and is okay to carry on.",
+            "short-term": "Danny Rose (Tottenham) seems to be alright and is okay to carry on. He showed resilience after an earlier collision but appeared ready to continue.",
+            "query_ano": "[PLAYER] ([TEAM]) seems to be alright and is okay to carry on.",
+            "history": [
+                {
+                    "short-term": "Looks like Danny Rose (Tottenham) is struggling after picking up a knock. Hopefully he can run it off. He was involved in a physical challenge and seemed to be in discomfort for a moment.",
+                    "history_time": "21:11",
+                    "long-term": "His fitness will be a concern going forward, and it remains to be seen if he can fully recover and maintain his performance level."
+                }
+            ]
+        },
+        {
+            "gameTime": "20:00",
+            "game_time": "19:43",
+            "query": "Christian Eriksen (Tottenham) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "short-term": "Christian Eriksen (Tottenham) receives a pass and unleashes a shot which goes well wide of the right post. They are building up through the midfield, but his finishing let him down on this occasion.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Christian Eriksen (Tottenham) decides to speed play up with a short corner kick. Tottenham opted for a quick delivery, trying to catch Arsenal’s defense off guard.",
+                    "history_time": "18:54",
+                    "long-term": "He has been actively involved in the attacking plays both in corner kick."
+                },
+                {
+                    "short-term": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham. Arsenal’s defenders reacted quickly to close down the space.",
+                    "history_time": "18:31",
+                    "long-term": "They have been creating scoring opportunities through the midfield but struggling to find the target with their finishing."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) makes a run into the box in an attempt to get onto a long through ball, but one of the opponents comes up with a vital clearance. Arsenal’s defense stayed organized, preventing a potential goal-scoring opportunity.",
+                    "history_time": "14:54",
+                    "long-term": "He has been actively creating scoring opportunities, but struggling with his finishing and facing solid defensive blocks."
+                }
+            ]
+        },
+        {
+            "gameTime": "19:13",
+            "game_time": "18:54",
+            "query": "Christian Eriksen (Tottenham) decides to speed play up with a short corner kick.",
+            "short-term": "Christian Eriksen (Tottenham) decides to speed play up with a short corner kick. Tottenham opted for a quick delivery, trying to catch Arsenal’s defense off guard.",
+            "query_ano": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+            "history": [
+                {
+                    "short-term": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham. Arsenal’s defenders reacted quickly to close down the space.",
+                    "history_time": "18:31",
+                    "long-term": "This corner kick came from his teammate's shot, which was blocked by the defensive player and formed a corner kick."
+                },
+                {
+                    "short-term": "Mesut Ozil (Arsenal) will take a corner kick. Arsenal looked to utilize their set-piece strength, sending their taller players into the box.",
+                    "history_time": "16:05",
+                    "long-term": "The two teams used completely different corner kick tactics, one team aimed to control the ball and open up space, while the other team was good at using their aerial advantage."
+                }
+            ]
+        },
+        {
+            "gameTime": "18:47",
+            "game_time": "18:31",
+            "query": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham.",
+            "short-term": "Mousa Dembele (Tottenham) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Tottenham. Arsenal’s defenders reacted quickly to close down the space.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Per Mertesacker (Arsenal) commits a foul and Martin Atkinson immediately signals a free kick. Arsenal players protested the decision, but the referee was firm in his call.",
+                    "history_time": "16:16",
+                    "long-term": "The match has seen both teams create opportunities, with Tottenham testing the goalkeeper and Arsenal's defense showing resilience, while Arsenal has made mistakes that have led to free kicks."
+                },
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, Arsenal are going to take it. Tottenham’s defenders reacted just in time to prevent a dangerous attempt.",
+                    "history_time": "15:31",
+                    "long-term": "Both teams have shown strong defensive capabilities, consistently thwarting potentially threatening attacks with timely blocks and interceptions."
+                },
+                {
+                    "short-term": "Christian Eriksen (Tottenham) makes a run into the box in an attempt to get onto a long through ball, but one of the opponents comes up with a vital clearance. Arsenal’s defense stayed organized, preventing a potential goal-scoring opportunity.",
+                    "history_time": "14:54",
+                    "long-term": "They have been consistently testing the opponent's defense with threatening runs and shots, but the defense has held strong so far."
+                },
+                {
+                    "short-term": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared. Tottenham’s defense held firm, successfully dealing with the aerial delivery.",
+                    "history_time": "11:08",
+                    "long-term": "Both teams have shown strong defensive capabilities, with each side able to effectively neutralize the opponent's attacking opportunities."
+                },
+                {
+                    "short-term": "Erik Lamela (Tottenham) pulls the jersey of one of the opposition players and Martin Atkinson blows his whistle for a foul. A free kick has been awarded to Arsenal. The referee had a clear view and made an easy decision.",
+                    "history_time": "10:16",
+                    "long-term": "Tottenham's attacking efforts have been consistently thwarted by Arsenal's defense, and they have also been giving away free kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "17:38",
+            "game_time": "17:35",
+            "query": "Alexis Sanchez (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "short-term": "Alexis Sanchez (Arsenal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Tottenham’s backline remained solid, preventing Arsenal from creating a clear chance.",
+            "query_ano": "[PLAYER] ([TEAM]) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, Arsenal are going to take it. Tottenham’s defenders reacted just in time to prevent a dangerous attempt.",
+                    "history_time": "15:31",
+                    "long-term": "They used crosses several times in these minutes to try to score goals, but the results were not good."
+                }
+            ]
+        },
+        {
+            "gameTime": "16:40",
+            "game_time": "16:16",
+            "query": "Per Mertesacker (Arsenal) commits a foul and Martin Atkinson immediately signals a free kick.",
+            "short-term": "Per Mertesacker (Arsenal) commits a foul and Martin Atkinson immediately signals a free kick. Arsenal players protested the decision, but the referee was firm in his call.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+            "history": [
+                {
+                    "short-term": "Alexis Sanchez (Arsenal) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, Arsenal are going to take it. Tottenham’s defenders reacted just in time to prevent a dangerous attempt.",
+                    "history_time": "15:31",
+                    "long-term": "They have been struggling to create clear-cut chances and have been on the wrong end of some crucial refereeing decisions."
+                },
+                {
+                    "short-term": "Erik Lamela (Tottenham) pulls the jersey of one of the opposition players and Martin Atkinson blows his whistle for a foul. A free kick has been awarded to Arsenal. The referee had a clear view and made an easy decision.",
+                    "history_time": "10:16",
+                    "long-term": "The match is seeing an intense and physical battle, with both teams committing fouls in their attempts to gain possession."
+                }
+            ]
+        },
+        {
+            "gameTime": "15:39",
+            "game_time": "15:31",
+            "query": "Alexis Sanchez (Arsenal) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, Arsenal are going to take it.",
+            "short-term": "Alexis Sanchez (Arsenal) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, Arsenal are going to take it. Tottenham’s defenders reacted just in time to prevent a dangerous attempt.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The linesman points to the corner flag, [TEAM] are going to take it.",
+            "history": [
+                {
+                    "short-term": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared. Tottenham’s defense held firm, successfully dealing with the aerial delivery.",
+                    "history_time": "11:08",
+                    "long-term": "They have been consistently testing Tottenham's defense with multiple scoring opportunities, but the opposing team's defense has been solid in blocking their attempts."
+                },
+                {
+                    "short-term": "Erik Lamela (Tottenham) pulls the jersey of one of the opposition players and Martin Atkinson blows his whistle for a foul. A free kick has been awarded to Arsenal. The referee had a clear view and made an easy decision.",
+                    "history_time": "10:16",
+                    "long-term": "The match has seen intense defensive efforts from both teams, with crucial blocks and timely interventions preventing promising scoring opportunities."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:11",
+            "game_time": "11:08",
+            "query": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared.",
+            "short-term": "The free kick is taken by Santi Cazorla (Arsenal), but ball is cleared. Tottenham’s defense held firm, successfully dealing with the aerial delivery.",
+            "query_ano": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+            "history": [
+                {
+                    "short-term": "Erik Lamela (Tottenham) pulls the jersey of one of the opposition players and Martin Atkinson blows his whistle for a foul. A free kick has been awarded to Arsenal. The referee had a clear view and made an easy decision.",
+                    "history_time": "10:16",
+                    "long-term": "The set pieces have been a crucial part of this match, with both teams trying to capitalize on free kicks, but Tottenham's defense has shown resilience in dealing with these threats."
+                }
+            ]
+        }
+    ]
+}

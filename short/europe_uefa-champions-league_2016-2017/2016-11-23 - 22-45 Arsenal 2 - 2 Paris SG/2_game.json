@@ -1,0 +1,249 @@
+{
+    "annotations": [
+        {
+            "gameTime": "43:14",
+            "game_time": "43:08",
+            "query": "It's time for a substitution. Jese (Paris SG) comes on in place of Lucas.",
+            "short-term": "It's time for a substitution. Jese (Paris SG) comes on in place of Lucas. He receives a standing ovation from the fans after one of his best performances for PSG, having been a key attacking presence throughout the match.",
+            "query_ano": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "gameTime": "42:24",
+            "game_time": "42:18",
+            "query": "Thomas Meunier (Paris SG) swings a cross into the box, but it's far too close to David Ospina, who smothers the ball.",
+            "short-term": "Thomas Meunier (Paris SG) swings a cross into the box, but it's far too close to David Ospina, who smothers the ball. He had been actively pushing forward, linking up well with his teammates, but this time his delivery lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "gameTime": "36:37",
+            "game_time": "36:32",
+            "query": "What a chance that is! Lucas swings the ball into the box, and Edinson Cavani (Paris SG) gets in front of his man and powers his header just wide of the left post.",
+            "short-term": "What a chance that is! Lucas swings the ball into the box, and Edinson Cavani (Paris SG) gets in front of his man and powers his header just wide of the left post. He made an excellent run to the near post, timing his movement perfectly, but couldn't direct the header on target.",
+            "query_ano": "What a chance that is! [PLAYER] swings the ball into the box, and [PLAYER] ([TEAM]) gets in front of his man and powers his header just wide of the left post."
+        },
+        {
+            "gameTime": "35:37",
+            "game_time": "35:27",
+            "query": "Arsene Wenger has decided to introduce fresh legs, with Alex Oxlade-Chamberlain (Arsenal) replacing Carl Jenkinson.",
+            "short-term": "Arsene Wenger has decided to introduce fresh legs, with Alex Oxlade-Chamberlain (Arsenal) replacing Carl Jenkinson. Oxlade-Chamberlain had made an impact in the previous match against Manchester United, providing an assist, and now looks to bring energy to Arsenal's attack.",
+            "query_ano": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+        },
+        {
+            "gameTime": "34:31",
+            "game_time": "34:33",
+            "query": "The substitution has been made. Theo Walcott (Arsenal) has replaced Francis Coquelin.",
+            "short-term": "The substitution has been made. Theo Walcott (Arsenal) has replaced Francis Coquelin. Arsenal now shift to a more attacking formation.",
+            "query_ano": "The substitution has been made. [PLAYER] ([TEAM]) has replaced [PLAYER]."
+        },
+        {
+            "gameTime": "34:00",
+            "game_time": "33:55",
+            "query": "Aaron Ramsey (Arsenal) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post.",
+            "short-term": "Aaron Ramsey (Arsenal) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post. His attempt lacked power and precision, similar to Cavani's earlier miss.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post."
+        },
+        {
+            "gameTime": "33:33",
+            "game_time": "33:26",
+            "query": "Edinson Cavani (Paris SG) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble David Ospina.",
+            "short-term": "Edinson Cavani (Paris SG) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble David Ospina. Lucas had sprinted past defense before delivering the pass, but Cavani's finish was tame.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble [PLAYER]."
+        },
+        {
+            "gameTime": "32:00",
+            "game_time": "32:00",
+            "query": "Here is a change. Alex Iwobi is going off and Arsene Wenger gives the last tactical orders to Granit Xhaka (Arsenal).",
+            "short-term": "Here is a change. Alex Iwobi is going off and Arsene Wenger gives the last tactical orders to Granit Xhaka (Arsenal). He looked dejected as he left the field after his defensive mistake.",
+            "query_ano": "Here is a change. [PLAYER] is going off and Arsene Wenger gives the last tactical orders to [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "31:30",
+            "game_time": "31:00",
+            "query": "Alex Iwobi (Arsenal) attempts to head the ball away from inside the six-yard box, but unluckily he turns the resulting corner into his own net.",
+            "short-term": "Alex Iwobi (Arsenal) attempts to head the ball away from inside the six-yard box, but unluckily he turns the resulting corner into his own net. The corner delivery was precise, and the deflection caught keeper off guard.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to head the ball away from inside the six-yard box, but unluckily he turns the resulting corner into his own net."
+        },
+        {
+            "gameTime": "31:00",
+            "game_time": "30:55",
+            "query": "Hatem Ben Arfa (Paris SG) will try to find the head of one of his teammates from a corner kick.",
+            "short-term": "Hatem Ben Arfa (Paris SG) will try to find the head of one of his teammates from a corner kick. His previous delivery led to a dangerous situation, with Lucas heading towards goal.",
+            "query_ano": "[PLAYER] ([TEAM]) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "28:47",
+            "game_time": "28:36",
+            "query": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass.",
+            "short-term": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over-hit chip pass. One of the player had positioned himself well in the box, but the pass sailed over everyone.",
+            "query_ano": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass."
+        },
+        {
+            "gameTime": "26:24",
+            "game_time": "26:18",
+            "query": "Thomas Meunier (Paris SG) delivers a promising cross into the box, but it's cleared. The ball is out of play. Paris SG will have a throw-in.",
+            "short-term": "Thomas Meunier (Paris SG) delivers a promising cross into the box, but it's cleared. The ball is out of play. Paris SG will have a throw-in. His teamate had created space before feeding him, who delivered a dangerous cross.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. The ball is out of play. [TEAM] will have a throw-in."
+        },
+        {
+            "gameTime": "25:17",
+            "game_time": "25:12",
+            "query": "Thiago Motta (Paris SG) collects a pass and strikes from about 28 metres out. It's a poor attempt which flies well over the bar. The ball is off of the pitch and it's a goal kick for Arsenal.",
+            "short-term": "Thiago Motta (Paris SG) collects a pass and strikes from about 28 metres out. It's a poor attempt which flies well over the bar. The ball is off of the pitch and it's a goal kick for Arsenal. He is not known for long-range shooting, took a speculative effort that never troubled the goal.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass and strikes from about 28 metres out. It's a poor attempt which flies well over the bar. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "24:22",
+            "game_time": "24:18",
+            "query": "Olivier Giroud (Arsenal) was standing in a clear offside position, making it an easy call for the linesman.",
+            "short-term": "Olivier Giroud (Arsenal) was standing in a clear offside position, making it an easy call for the linesman. The decision seemed straightforward, though some players gestured in disagreement.",
+            "query_ano": "[PLAYER] ([TEAM]) was standing in a clear offside position, making it an easy call for the linesman."
+        },
+        {
+            "gameTime": "23:53",
+            "game_time": "23:50",
+            "query": "Felix Brych blows his whistle after Thiago Motta (Paris SG) kicks an opponent's legs instead of the ball.",
+            "short-term": "Felix Brych blows his whistle after Thiago Motta (Paris SG) kicks an opponent's legs instead of the ball. The fouled player stayed down momentarily before getting back on his feet.",
+            "query_ano": "[PLAYER] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "22:28",
+            "game_time": "22:23",
+            "query": "The ball is cleared after Hatem Ben Arfa (Paris SG) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Arsenal.",
+            "short-term": "The ball is cleared after Hatem Ben Arfa (Paris SG) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Arsenal. The attacking side had looked promising in this sequence but failed to break through.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for [TEAM]."
+        },
+        {
+            "gameTime": "21:21",
+            "game_time": "21:06",
+            "query": "The referee signals that it is time for a substitution and Hatem Ben Arfa (Paris SG) will replace Grzegorz Krychowiak.",
+            "short-term": "The referee signals that it is time for a substitution and Hatem Ben Arfa (Paris SG) will replace Grzegorz Krychowiak. The outgoing player took his time leaving the pitch, while the incoming substitute was given last-minute instructions.",
+            "query_ano": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) will replace [PLAYER]."
+        },
+        {
+            "gameTime": "20:50",
+            "game_time": "20:39",
+            "query": "Edinson Cavani (Paris SG) times his run too early and the linesman raises his flag for offside.",
+            "short-term": "Edinson Cavani (Paris SG) times his run too early and the linesman raises his flag for offside. The forward had made a sharp move behind the defense but was caught just ahead of the last defender.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "20:37",
+            "game_time": "20:17",
+            "query": "Lucas (Paris SG) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+            "short-term": "Lucas (Paris SG) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger. The defense remained well-organized, allowing no clear opportunities.",
+            "query_ano": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "20:13",
+            "game_time": "19:47",
+            "query": "Edinson Cavani (Paris SG) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Good work from Paris SG as they win a corner.",
+            "short-term": "Edinson Cavani (Paris SG) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Good work from Paris SG as they win a corner. The buildup was well-executed, but the final touch was lacking.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Good work from [TEAM] as they win a corner."
+        },
+        {
+            "gameTime": "18:43",
+            "game_time": "18:37",
+            "query": "Marco Verratti (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+            "short-term": "Marco Verratti (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away. The quick footwork was impressive, but the defender read the move well and cleared the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "17:45",
+            "game_time": "17:36",
+            "query": "Edinson Cavani (Paris SG) dribbles into the box, but David Ospina is quick enough to come off his line and stop him.",
+            "short-term": "Edinson Cavani (Paris SG) dribbles into the box, but David Ospina is quick enough to come off his line and stop him. The play continued.",
+            "query_ano": "[PLAYER] ([TEAM]) dribbles into the box, but [PLAYER] is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "17:01",
+            "game_time": "16:56",
+            "query": "Edinson Cavani (Paris SG) unleashes a shot from 20 metres out but is unable to find the target and it goes well wide of the left post. The ball goes out of play and Arsenal will have a goal kick.",
+            "short-term": "Edinson Cavani (Paris SG) unleashes a shot from 20 metres out but is unable to find the target and it goes well wide of the left post. He had options available but opted to take the strike himself in frustration.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 20 metres out but is unable to find the target and it goes well wide of the left post. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "gameTime": "16:32",
+            "game_time": "16:34",
+            "query": "The Arsenal players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball.",
+            "short-term": "The Arsenal players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball. The defending side has been forced deeper in this half, struggling to maintain possession.",
+            "query_ano": "The [TEAM] players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball."
+        },
+        {
+            "gameTime": "14:26",
+            "game_time": "13:59",
+            "query": "Marco Verratti (Paris SG) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal!",
+            "short-term": "Marco Verratti (Paris SG) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal! A misjudged clearance led to the unfortunate deflection, giving the opposition an unexpected lead.",
+            "query_ano": "[PLAYER] ([TEAM]) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal!"
+        },
+        {
+            "gameTime": "14:00",
+            "game_time": "13:57",
+            "query": "Aaron Ramsey (Arsenal) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",
+            "short-term": "Aaron Ramsey (Arsenal) reacts well to latch onto a rebound inside the box, but his shot is well blocked. The defense had to react quickly as the ball bounced unpredictably in the area.",
+            "query_ano": "[PLAYER] ([TEAM]) reacts well to latch onto a rebound inside the box, but his shot is well blocked."
+        },
+        {
+            "gameTime": "12:59",
+            "game_time": "13:06",
+            "query": "Mesut Ozil (Arsenal) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",
+            "short-term": "Mesut Ozil (Arsenal) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The delivery was dangerous, but the defensive header was firm and effective.",
+            "query_ano": "[PLAYER] ([TEAM]) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "08:46",
+            "game_time": "8:35",
+            "query": "Felix Brych blows for a foul after Kieran Gibbs (Arsenal) was too aggressive in the battle for the ball. Free kick. Paris SG will probably just try to cross the ball in from here.",
+            "short-term": "Felix Brych blows for a foul after Kieran Gibbs (Arsenal) was too aggressive in the battle for the ball. Free kick. Paris SG will probably just try to cross the ball in from here. The team has regained control after a shaky start, using set-pieces to create opportunities.",
+            "query_ano": "[PLAYER] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball. Free kick. [TEAM] will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "08:16",
+            "game_time": "8:08",
+            "query": "Lucas (Paris SG) takes a mid-range free kick and his stunning strike crashes against the crossbar.",
+            "short-term": "Lucas (Paris SG) takes a mid-range free kick and his stunning strike crashes against the crossbar. The keeper was beaten, but luck was not on his side as the ball rattled off the frame.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a mid-range free kick and his stunning strike crashes against the crossbar."
+        },
+        {
+            "gameTime": "07:10",
+            "game_time": "7:02",
+            "query": "Laurent Koscielny (Arsenal) picks up a yellow card for a foul. Paris SG win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "Laurent Koscielny (Arsenal) picks up a yellow card for a foul. Paris SG win a free kick. It's a promising situation for a direct shot. The referee initially played advantage but quickly pulled it back after the attack broke down.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a yellow card for a foul. [TEAM] win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "05:53",
+            "game_time": "5:49",
+            "query": "Alex Iwobi (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out.",
+            "short-term": "Alex Iwobi (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The attacking side has increased their aggression, pushing higher up the field to break down the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "04:16",
+            "game_time": "4:11",
+            "query": "Thomas Meunier (Paris SG) commits a foul and Felix Brych immediately signals a free kick.",
+            "short-term": "Thomas Meunier (Paris SG) commits a foul and Felix Brych immediately signals a free kick. The challenge was slightly reckless, and the defending side is now facing increased pressure.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [PLAYER] immediately signals a free kick."
+        },
+        {
+            "gameTime": "02:21",
+            "game_time": "2:16",
+            "query": "Lucas (Paris SG) brings down his opponent with a very late tackle. It's a free kick to Arsenal, but they probably won't attempt a direct shot on goal from here.",
+            "short-term": "Lucas (Paris SG) brings down his opponent with a very late tackle. It's a free kick to Arsenal, but they probably won't attempt a direct shot on goal from here. The referee did not hesitate, immediately blowing his whistle for the clear infringement.",
+            "query_ano": "[PLAYER] ([TEAM]) brings down his opponent with a very late tackle. It's a free kick to [TEAM], but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "01:25",
+            "game_time": "1:18",
+            "query": "Poor challenge! Aaron Ramsey (Arsenal) is penalised for tripping and Felix Brych blows his whistle. A free kick has been awarded to Paris SG.",
+            "short-term": "Poor challenge! Aaron Ramsey (Arsenal) is penalised for tripping and Felix Brych blows his whistle. A free kick has been awarded to Paris SG. Arsenal has been pressing aggressively, but this time it was a mistimed tackle.",
+            "query_ano": "Poor challenge! [PLAYER] ([TEAM]) is penalised for tripping and [PLAYER] blows his whistle. A free kick has been awarded to [TEAM]."
+        },
+        {
+            "gameTime": "00:28",
+            "game_time": "0:26",
+            "query": "The linesman raises his flag. Francis Coquelin (Arsenal) is adjudged offside.",
+            "short-term": "The linesman raises his flag. Francis Coquelin (Arsenal) is adjudged offside. The attacking side was looking for a quick breakthrough, but the timing of the run was slightly off.",
+            "query_ano": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside."
+        }
+    ]
+}

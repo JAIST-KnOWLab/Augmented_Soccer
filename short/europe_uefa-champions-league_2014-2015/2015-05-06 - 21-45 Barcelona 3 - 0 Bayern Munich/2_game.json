@@ -1,0 +1,154 @@
+{
+    "annotations": [
+        {
+            "query": "The game is interrupted as Thomas Muller (Bayern Munich) is flagged offside.",
+            "game_time": "09:35",
+            "short-term": "The game is interrupted as Thomas Muller (Bayern Munich) is flagged offside. He had space to run into but mistimed his movement, leading to the call.",
+            "query_ano": "The game is interrupted as [PLAYER] ([TEAM]) is flagged offside."
+        },
+        {
+            "query": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner.",
+            "game_time": "10:08",
+            "short-term": "An attempted cross from Robert Lewandowski (Bayern Munich) is cleared. The ball is out of play. Bayern Munich will have a chance to score from a corner. The defender reacted quickly to prevent any danger.",
+            "query_ano": "An attempted cross from [PLAYER] ([TEAM]) is cleared. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "query": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",
+            "game_time": "10:34",
+            "short-term": "Thiago Alcantara (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. The flick from a Bayern player wasn’t enough to trouble the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "query": "Lionel Messi (Barcelona) picks up a pass, lines up a shot and strikes from 18 metres out, but Manuel Neuer thwarts the effort which is headed to the middle of the goal.",
+            "game_time": "12:07",
+            "short-term": "Lionel Messi (Barcelona) picks up a pass, lines up a shot, and strikes from 18 metres out, but Manuel Neuer thwarts the effort, reading the shot well and making a comfortable save.",
+            "query_ano": "[PLAYER] ([TEAM]) picks up a pass, lines up a shot and strikes from 18 metres out, but [PLAYER] thwarts the effort which is headed to the middle of the goal."
+        },
+        {
+            "query": "Manuel Neuer is alert and has a clear sight of a long through ball from Lionel Messi (Barcelona). Easy save!",
+            "game_time": "15:49",
+            "short-term": "Manuel Neuer is alert and has a clear sight of a long through ball from Lionel Messi (Barcelona). Easy save! The goalkeeper anticipated the pass early and positioned himself well to collect it.",
+            "query_ano": "[PLAYER] is alert and has a clear sight of a long through ball from [PLAYER] ([TEAM]). Easy save!"
+        },
+        {
+            "query": "Jerome Boateng (Bayern Munich) jumps into a tackle and Nicola Rizzoli blows his whistle for a foul.",
+            "game_time": "17:10",
+            "short-term": "Jerome Boateng (Bayern Munich) jumps into a tackle and Nicola Rizzoli blows his whistle for a foul. The player protested the decision, but the referee remained firm.",
+            "query_ano": "[PLAYER] ([TEAM]) jumps into a tackle and [REFEREE] blows his whistle for a foul."
+        },
+        {
+            "query": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot flew well over the bar.",
+            "game_time": "18:31",
+            "short-term": "Neymar (Barcelona) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot and flew well over the bar. The goalkeeper had anticipated the move and was well-positioned.",
+            "query_ano": "[PLAYER] ([TEAM]) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot, but the ball skewed off his foot flew well over the bar."
+        },
+        {
+            "query": "Bayern Munich are awarded a free kick from a dangerous position.",
+            "game_time": "00:60",
+            "short-term": "Bayern Munich are awarded a free kick from a dangerous position. It’s their first real chance to create a goal-scoring opportunity in the second half.",
+            "query_ano": "[TEAM] are awarded a free kick from a dangerous position."
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall. The ball is out of play. A goal-scoring opportunity from a corner for Bayern Munich.",
+            "game_time": "1:50",
+            "short-term": "Xabi Alonso (Bayern Munich) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall and deflected out for a corner, offering another chance for Bayern Munich.",
+            "query_ano": "[PLAYER] ([TEAM]) wasted an opportunity to score from the free kick from about 19 metres out. His attempt hit the defensive wall. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM]."
+        },
+        {
+            "query": "Gerard Pique (Barcelona) sees a yellow card from Nicola Rizzoli after he sent one of the opposing players to the ground.",
+            "game_time": "20:06",
+            "short-term": "Gerard Pique (Barcelona) sees a yellow card from Nicola Rizzoli after he sent one of the opposing players to the ground. The referee had no hesitation in making the call.",
+            "query_ano": "[PLAYER] ([TEAM]) sees a yellow card from [REFEREE] after he sent one of the opposing players to the ground."
+        },
+        {
+            "query": "Bayern Munich are awarded a mid-range free kick.",
+            "game_time": "21:49",
+            "short-term": "Bayern Munich are awarded a mid-range free kick. The goalkeeper is setting up a defensive wall to block the attempt.",
+            "query_ano": "[TEAM] are awarded a mid-range free kick."
+        },
+        {
+            "query": "Xabi Alonso (Bayern Munich) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball is out of play and Bayern Munich manage to earn a corner.",
+            "game_time": "22:01",
+            "short-term": "Xabi Alonso (Bayern Munich) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball deflects out, and Bayern Munich earn a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger. The ball is out of play and [TEAM] manage to earn a corner."
+        },
+        {
+            "query": "Neymar (Barcelona) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Nicola Rizzoli didn't think twice about pulling it out of his pocket.",
+            "game_time": "23:10",
+            "short-term": "Neymar (Barcelona) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. He appeared frustrated and briefly protested before walking away.",
+            "query_ano": "[PLAYER] ([TEAM]) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. [REFEREE] didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "query": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",
+            "game_time": "26:40",
+            "short-term": "Luis Suarez (Barcelona) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It was an ambitious attempt to break through the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "query": "Luis Suarez (Barcelona) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",
+            "game_time": "27:19",
+            "short-term": "Luis Suarez (Barcelona) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it. The ball sailed harmlessly past the attacking players.",
+            "query_ano": "[PLAYER] ([TEAM]) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+        },
+        {
+            "query": "The ball is cleared after Andres Iniesta (Barcelona) attempted to dribble past an opposing player.",
+            "game_time": "28:01",
+            "short-term": "The ball is cleared after Andres Iniesta (Barcelona) attempted to dribble past an opposing player. A well-timed defensive intervention stopped his progress.",
+            "query_ano": "The ball is cleared after Andres Iniesta ([TEAM]) attempted to dribble past an opposing player."
+        },
+        {
+            "query": "Marc-Andre ter Stegen leaps to collect the ball from the corner which was sent over by Thiago Alcantara (Bayern Munich).",
+            "game_time": "2:16",
+            "short-term": "Marc-Andre ter Stegen leaps to collect the ball from the corner which was sent over by Thiago Alcantara (Bayern Munich). He showed great composure in securing the ball under pressure.",
+            "query_ano": "[PLAYER] leaps to collect the ball from the corner which was sent over by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Goal! Dani Alves slips it to Lionel Messi (Barcelona) on the edge of the box and he finds the right side of the net with a great effort. The score is 1:0.",
+            "game_time": "31:47",
+            "short-term": "Goal! Dani Alves slips it to Lionel Messi (Barcelona) on the edge of the box and he finds the right side of the net with a great effort. Despite the goalkeeper’s quick reaction, the ball had too much pace to be stopped.",
+            "query_ano": "Goal! [PLAYER] slips it to [PLAYER] ([TEAM]) on the edge of the box and he finds the right side of the net with a great effort. The score is 1:0."
+        },
+        {
+            "query": "It's time for a substitution. Mario Gotze (Bayern Munich) comes on in place of Thomas Muller.",
+            "game_time": "33:14",
+            "short-term": "It's time for a substitution. Mario Gotze (Bayern Munich) comes on in place of Thomas Muller, adding fresh energy to Bayern Munich's attack.",
+            "query_ano": "It's time for a substitution. Mario Gotze ([TEAM]) comes on in place of [PLAYER]."
+        },
+        {
+            "query": "Luis Suarez (Barcelona) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",
+            "game_time": "38:09",
+            "short-term": "Luis Suarez (Barcelona) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. He looks frustrated with himself after missing the target.",
+            "query_ano": "[PLAYER] ([TEAM]) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!"
+        },
+        {
+            "query": "A substitution has been made. Andres Iniesta goes off and Rafinha (Barcelona) comes on.",
+            "game_time": "41:20",
+            "short-term": "A substitution has been made. Andres Iniesta goes off and Rafinha (Barcelona) comes on. This change brings fresh legs into midfield as Barcelona look to maintain control.",
+            "query_ano": "A substitution has been made. Andres Iniesta goes off and Rafinha ([TEAM]) comes on."
+        },
+        {
+            "query": "The manager has been forced to make a substitution and the injured Javier Mascherano leaves the pitch to be replaced by Marc Bartra (Barcelona).",
+            "game_time": "43:31",
+            "short-term": "The manager has been forced to make a substitution and the injured Javier Mascherano leaves the pitch to be replaced by Marc Bartra (Barcelona). This defensive switch aims to stabilize Barcelona’s backline.",
+            "query_ano": "The manager has been forced to make a substitution and the injured [PLAYER] leaves the pitch to be replaced by Marc Bartra ([TEAM])."
+        },
+        {
+            "query": "Goal! Lionel Messi puts the ball on a plate for Neymar (Barcelona), who scores with a simple close-range finish. It's 3:0.",
+            "game_time": "48:05",
+            "short-term": "Goal! Lionel Messi puts the ball on a plate for Neymar (Barcelona), who scores with a simple close-range finish. Barcelona extends their lead with another well-executed attack.",
+            "query_ano": "Goal! [PLAYER] puts the ball on a plate for [PLAYER] ([TEAM]), who scores with a simple close-range finish. It's 3:0."
+        },
+        {
+            "query": "Mehdi Benatia (Bayern Munich) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+            "game_time": "6:00",
+            "short-term": "Mehdi Benatia (Bayern Munich) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision, expressing his frustration.",
+            "query_ano": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "query": "Philipp Lahm receives a short pass from Thomas Muller (Bayern Munich), but the opposition's defence thwarts his effort.",
+            "game_time": "8:40",
+            "short-term": "Philipp Lahm receives a short pass from Thomas Muller (Bayern Munich), but the opposition's defence thwarts his effort, blocking any clear path forward.",
+            "query_ano": "[PLAYER] receives a short pass from [PLAYER] ([TEAM]), but the opposition's defence thwarts his effort."
+        }
+    ]
+}

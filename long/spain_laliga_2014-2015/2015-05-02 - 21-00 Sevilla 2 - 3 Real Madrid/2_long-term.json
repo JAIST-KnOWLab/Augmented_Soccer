@@ -1,0 +1,298 @@
+{
+    "annotations": [
+        {
+            "query": "Carlos Bacca (Sevilla) times his run too early and the linesman raises his flag for offside.",
+            "game_time": "13:36",
+            "short-term": "Carlos Bacca (Sevilla) times his run too early. The long ball is flicked on by Bacca, but he had already come from an offside position. The linesman raises his flag. It was an easy call for the referee's assistant as Bacca was several paces offside.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside.",
+            "history": [
+                {
+                    "short-term": "Carlos Bacca (Sevilla) is penalised for a foul. Jose Luis Gonzalez had a clear view and blows his whistle. Bacca used his arm to gain an advantage, which was spotted immediately by the referee.",
+                    "history_time": "6:26",
+                    "long-term": "He has struggled to make a positive impact, getting caught offside and committing a foul, showing a lack of discipline in his play."
+                }
+            ]
+        },
+        {
+            "query": "Isco sprays a wonderful pass out to Toni Kroos (Real Madrid), who cannot get enough power or direction to cause Sergio Rico problems and the goalkeeper is able to watch the ball go just over the crossbar.",
+            "game_time": "20:05",
+            "short-term": "Isco sprays a wonderful pass out to Toni Kroos (Real Madrid), who cannot get enough power or direction to cause Sergio Rico problems and the goalkeeper is able to watch the ball go just over the crossbar. Kroos struck it first-time, but the shot lacked accuracy and failed to test the keeper.",
+            "query_ano": "[PLAYER] sprays a wonderful pass out to [PLAYER] ([TEAM]), who cannot get enough power or direction to cause [PLAYER] problems and the goalkeeper is able to watch the ball go just over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) plays a pass into the box, but Sergio Rico reacts well to snuff out the attack. Ronaldo aimed at Chicharito, who was positioned near the penalty spot, but Rico's quick reflexes allowed him to come off his line and intercept the pass before Chicharito could get a touch.",
+                    "history_time": "16:27",
+                    "long-term": "They consistently posed a threat in the attacking third, despite failing to capitalize on a couple of decent chances."
+                }
+            ]
+        },
+        {
+            "query": "A yellow card for a tackle by Jose Antonio Reyes (Sevilla). Jose Luis Gonzalez doesn't hesitate at all to make this decision.",
+            "game_time": "21:15",
+            "short-term": "A yellow card for a tackle by Jose Antonio Reyes (Sevilla). Jose Luis Gonzalez doesn't hesitate at all to make this decision. Reyes' challenge was late and reckless, making it an easy call for the referee.",
+            "query_ano": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+            "history": [
+                {
+                    "short-term": "Carlos Bacca (Sevilla) times his run too early. The long ball is flicked on by Bacca, but he had already come from an offside position. The linesman raises his flag. It was an easy call for the referee's assistant as Bacca was several paces offside.",
+                    "history_time": "13:36",
+                    "long-term": "They have been struggling with discipline, with one player booked for a reckless tackle and another caught offside."
+                }
+            ]
+        },
+        {
+            "query": "Cristiano Ronaldo (Real Madrid) looks to break free, but an opposing player clears the ball away.",
+            "game_time": "22:20",
+            "short-term": "Cristiano Ronaldo (Real Madrid) looks to break free, but an opposing player clears the ball away. Ronaldo was closely marked by two defenders and had little space to maneuver before the ball was intercepted.",
+            "query_ano": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+            "history": [
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) plays a pass into the box, but Sergio Rico reacts well to snuff out the attack. Ronaldo aimed at Chicharito, who was positioned near the penalty spot, but Rico's quick reflexes allowed him to come off his line and intercept the pass before Chicharito could get a touch.",
+                    "history_time": "16:27",
+                    "long-term": "They have consistently been looking to create scoring opportunities through Ronaldo, but the opposing team's defense has been effective in neutralizing his efforts."
+                }
+            ]
+        },
+        {
+            "query": "Gareth Bale sends a superb cross into the box. Cristiano Ronaldo (Real Madrid) latches on to it and from close range plants a header inside the right post, leaving Sergio Rico beaten. He displayed his eye for goal there - excellent finish. The score is 1:3.",
+            "game_time": "23:02",
+            "short-term": "Gareth Bale sends a superb cross into the box. Cristiano Ronaldo (Real Madrid) latches on to it and from close range plants a header inside the right post, leaving Sergio Rico beaten. He displayed his eye for goal there - excellent finish. The defender had little opportunity to stop Ronaldo’s precision and power. The score is 1:3.",
+            "query_ano": "[PLAYER] sends a superb cross into the box. [PLAYER] ([TEAM]) latches on to it and from close range plants a header inside the right post, leaving [PLAYER] beaten. He displayed his eye for goal there - excellent finish. The score is 1:3.",
+            "history": [
+                {
+                    "short-term": "Isco sprays a wonderful pass out to Toni Kroos (Real Madrid), who cannot get enough power or direction to cause Sergio Rico problems and the goalkeeper is able to watch the ball go just over the crossbar. Kroos struck it first-time, but the shot lacked accuracy and failed to test the keeper.",
+                    "history_time": "20:05",
+                    "long-term": "They consistently displayed exceptional attacking prowess, creating scoring opportunities with precise crosses and clinical finishes, although not all attempts resulted in a goal."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) plays a pass into the box, but Sergio Rico reacts well to snuff out the attack. Ronaldo aimed at Chicharito, who was positioned near the penalty spot, but Rico's quick reflexes allowed him to come off his line and intercept the pass before Chicharito could get a touch.",
+                    "history_time": "16:27",
+                    "long-term": "He consistently poses a threat in the box, showcasing both his finishing skills and ability to create chances for his teammates."
+                }
+            ]
+        },
+        {
+            "query": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2.",
+            "game_time": "33:33",
+            "short-term": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2. The goal energizes Sevilla, and their players quickly rush back to the center circle, knowing they have a chance to push for an equalizer.",
+            "query_ano": "Goal! [PLAYER] ([TEAM]) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. [PLAYER] assisted in the goal. 1:2.",
+            "history": [
+                {
+                    "short-term": "Gareth Bale sends a superb cross into the box. Cristiano Ronaldo (Real Madrid) latches on to it and from close range plants a header inside the right post, leaving Sergio Rico beaten. He displayed his eye for goal there - excellent finish. The defender had little opportunity to stop Ronaldo’s precision and power. The score is 1:3.",
+                    "history_time": "23:02",
+                    "long-term": "They are going head-to-head, with both teams having created chances and converting them into goals, Sevilla trying to level and Real Madrid looking to stretch their lead."
+                }
+            ]
+        },
+        {
+            "query": "Kevin Gameiro (Sevilla) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Sevilla force a corner. Their opponents will face another attacking threat.",
+            "game_time": "34:55",
+            "short-term": "Kevin Gameiro (Sevilla) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Sevilla force a corner. Their opponents will face another attacking threat. Gameiro had made a sharp run into space, but the defenders reacted quickly to block the pass and clear the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. [TEAM] force a corner. Their opponents will face another attacking threat.",
+            "history": [
+                {
+                    "short-term": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2. The goal energizes Sevilla, and their players quickly rush back to the center circle, knowing they have a chance to push for an equalizer.",
+                    "history_time": "33:33",
+                    "long-term": "They have maintained an aggressive offense, creating multiple scoring opportunities and ultimately capitalizing on one to score."
+                },
+                {
+                    "short-term": "A cross is clipped into the penalty area by Aleix Vidal (Sevilla) but poses no threat. The ball was directed towards the near post but lacked speed, making it an easy clearance for the defenders.",
+                    "history_time": "29:06",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and passes into the penalty area, testing their opponent's defensive solidity."
+                }
+            ]
+        },
+        {
+            "query": "Toni Kroos (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the right-hand post, but Sergio Rico was alert and the score remains the same.",
+            "game_time": "37:27",
+            "short-term": "Toni Kroos (Real Madrid) connected with a pass around the edge of the box, aiming and shooting towards the right-hand post. However, Sergio Rico was alert and made a good save. Kroos' shot lacked power, making it an easy catch for the goalkeeper.",
+            "query_ano": "[PLAYER] ([TEAM]) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the right-hand post, but [PLAYER] was alert and the score remains the same.",
+            "history": [
+                {
+                    "short-term": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2. The goal energizes Sevilla, and their players quickly rush back to the center circle, knowing they have a chance to push for an equalizer.",
+                    "history_time": "33:33",
+                    "long-term": "Real Madrid was struggling to capitalize on their chances, and Sevilla ultimately seized the initiative with a clinical finish, setting the tone for a potential comeback."
+                },
+                {
+                    "short-term": "Gareth Bale sends a superb cross into the box. Cristiano Ronaldo (Real Madrid) latches on to it and from close range plants a header inside the right post, leaving Sergio Rico beaten. He displayed his eye for goal there - excellent finish. The defender had little opportunity to stop Ronaldo’s precision and power. The score is 1:3.",
+                    "history_time": "23:02",
+                    "long-term": "They consistently applied pressure around the box, creating scoring opportunities through different channels, ultimately capitalizing on a well-delivered cross to extend their lead."
+                },
+                {
+                    "short-term": "Isco sprays a wonderful pass out to Toni Kroos (Real Madrid), who cannot get enough power or direction to cause Sergio Rico problems and the goalkeeper is able to watch the ball go just over the crossbar. Kroos struck it first-time, but the shot lacked accuracy and failed to test the keeper.",
+                    "history_time": "20:05",
+                    "long-term": "They have been creating scoring opportunities, but the final shots have lacked power and accuracy, allowing the goalkeeper to make easy saves."
+                },
+                {
+                    "short-term": "Cristiano Ronaldo (Real Madrid) plays a pass into the box, but Sergio Rico reacts well to snuff out the attack. Ronaldo aimed at Chicharito, who was positioned near the penalty spot, but Rico's quick reflexes allowed him to come off his line and intercept the pass before Chicharito could get a touch.",
+                    "history_time": "16:27",
+                    "long-term": "They have consistently posed threats in the opponent's box but have been thwarted by the goalkeeper's sharp reflexes. Real Madrid's attacking duo has shown promising link-up play."
+                }
+            ]
+        },
+        {
+            "query": "Kevin Gameiro (Sevilla) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save.",
+            "game_time": "40:15",
+            "short-term": "Kevin Gameiro (Sevilla) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save. The ball took an awkward deflection before reaching him, making it difficult to generate enough power.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save.",
+            "history": [
+                {
+                    "short-term": "Toni Kroos (Real Madrid) connected with a pass around the edge of the box, aiming and shooting towards the right-hand post. However, Sergio Rico was alert and made a good save. Kroos' shot lacked power, making it an easy catch for the goalkeeper.",
+                    "history_time": "37:27",
+                    "long-term": "Both teams have been creating scoring opportunities, but struggling to capitalize on them due to imprecise finishing and solid goalkeeping."
+                },
+                {
+                    "short-term": "Kevin Gameiro (Sevilla) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Sevilla force a corner. Their opponents will face another attacking threat. Gameiro had made a sharp run into space, but the defenders reacted quickly to block the pass and clear the danger.",
+                    "history_time": "34:55",
+                    "long-term": "He has been creating scoring opportunities, despite struggling to find the net, and continues to threaten the opposing team's defense."
+                },
+                {
+                    "short-term": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2. The goal energizes Sevilla, and their players quickly rush back to the center circle, knowing they have a chance to push for an equalizer.",
+                    "history_time": "33:33",
+                    "long-term": "They have shown mixed results in capitalizing on scoring opportunities, with one player missing a big chance and another making the most of a well-created opening."
+                }
+            ]
+        },
+        {
+            "query": "The referee stops play so that a substitution can be made and Marcelo leaves the pitch and Alvaro Arbeloa (Real Madrid) comes on.",
+            "game_time": "42:40",
+            "short-term": "The referee stops play so that a substitution can be made and Marcelo leaves the pitch and Alvaro Arbeloa (Real Madrid) comes on. Marcelo had put in a solid shift, and Arbeloa is brought on to provide defensive cover in the final moments.",
+            "query_ano": "The referee stops play so that a substitution can be made and [PLAYER] leaves the pitch and [PLAYER] ([TEAM]) comes on.",
+            "history": [
+                {
+                    "short-term": "Asier Illarramendi (Real Madrid) receives a signal from the referee and is now allowed to enter the pitch as Isco walks off. Illarramendi comes on to provide fresh legs in midfield and help maintain defensive stability as the match enters its final stages.",
+                    "history_time": "38:50",
+                    "long-term": "They have been making strategic substitutions to boost their defense and maintain stability in the final stages of the match."
+                }
+            ]
+        },
+        {
+            "query": "Iborra (Sevilla) blows a clear opportunity to score a goal. He was one-on-one with Iker Casillas inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save.",
+            "game_time": "44:30",
+            "short-term": "Iborra (Sevilla) blows a clear opportunity to score a goal. He was one-on-one with Iker Casillas inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save. Casillas anticipated the shot well and rushed off his line to close the angle.",
+            "query_ano": "[PLAYER] ([TEAM]) blows a clear opportunity to score a goal. He was one-on-one with [PLAYER] inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save.",
+            "history": [
+                {
+                    "short-term": "Kevin Gameiro (Sevilla) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save. The ball took an awkward deflection before reaching him, making it difficult to generate enough power.",
+                    "history_time": "40:15",
+                    "long-term": "They have struggled to capitalize on their scoring chances, with two key opportunities denied by the goalkeeper's exceptional reflexes and an unfortunate deflection."
+                },
+                {
+                    "short-term": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first-time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2. The goal energizes Sevilla, and their players quickly rush back to the center circle, knowing they have a chance to push for an equalizer.",
+                    "history_time": "33:33",
+                    "long-term": "He has been a key figure in Sevilla's attack, creating a major threat but initially being denied, and ultimately succeeding in scoring a crucial goal."
+                }
+            ]
+        },
+        {
+            "query": "That will be a yellow card for one of the players. The one who gets booked is Daniel Carrico (Sevilla).",
+            "game_time": "45:26",
+            "short-term": "That will be a yellow card for one of the players. The one who gets booked is Daniel Carrico (Sevilla). The Sevilla defender committed a tactical foul to stop a potential counterattack.",
+            "query_ano": "That will be a yellow card for one of the players. The one who gets booked is [PLAYER] ([TEAM]).",
+            "history": [
+                {
+                    "short-term": "Benoit Tremoulinas (Sevilla) is punished with the yellow card. He brought down James Rodríguez with a mistimed tackle, leaving the referee no choice but to book him.",
+                    "history_time": "42:00",
+                    "long-term": "They have been using tactical fouls to break up opposition counterattacks, and as a result, are accumulating yellow cards. This trend could potentially lead to a crucial sending-off later in the game."
+                }
+            ]
+        },
+        {
+            "query": "Aleix Vidal (Sevilla) is yellow-carded.",
+            "game_time": "47:10",
+            "short-term": "Aleix Vidal (Sevilla) is yellow-carded. He committed a tough challenge and then kicked the ball away in frustration, prompting an immediate booking from the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) is yellow-carded.",
+            "history": [
+                {
+                    "short-term": "That will be a yellow card for one of the players. The one who gets booked is Daniel Carrico (Sevilla). The Sevilla defender committed a tactical foul to stop a potential counterattack.",
+                    "history_time": "45:26",
+                    "long-term": "They have been adopting an overly aggressive approach, with two players already booked for tough challenges and unsportsmanlike conduct."
+                },
+                {
+                    "short-term": "Benoit Tremoulinas (Sevilla) is punished with the yellow card. He brought down James Rodríguez with a mistimed tackle, leaving the referee no choice but to book him.",
+                    "history_time": "42:00",
+                    "long-term": "They have been struggling with discipline, with two players already receiving yellow cards for reckless tackles, which may impact their strategy for the rest of the game."
+                }
+            ]
+        },
+        {
+            "query": "Jose Antonio Reyes (Sevilla) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and Sevilla have been awarded a corner kick.",
+            "game_time": "48:10",
+            "short-term": "Jose Antonio Reyes (Sevilla) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and Sevilla have been awarded a corner kick. Reyes had little pressure when delivering the cross, but the defenders were well-positioned to deal with it.",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Iborra (Sevilla) blows a clear opportunity to score a goal. He was one-on-one with Iker Casillas inside the six-yard box and attempted to put the ball into the middle of the target, but was denied by a great save. Casillas anticipated the shot well and rushed off his line to close the angle.",
+                    "history_time": "44:30",
+                    "long-term": "They have been creating scoring opportunities, consistently testing the defense with crosses and getting into position for shots on goal."
+                },
+                {
+                    "short-term": "Kevin Gameiro (Sevilla) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Sevilla force a corner. Their opponents will face another attacking threat. Gameiro had made a sharp run into space, but the defenders reacted quickly to block the pass and clear the danger.",
+                    "history_time": "34:55",
+                    "long-term": "They have been consistently posing threats through crosses and passes into the box, testing the defensive setup."
+                }
+            ]
+        },
+        {
+            "query": "Jose Antonio Reyes (Sevilla) prepares to take a corner kick.",
+            "game_time": "6:30",
+            "short-term": "Jose Antonio Reyes (Sevilla) prepares to take a corner kick. He takes a moment to assess his options before delivering the ball into the box.",
+            "query_ano": "[PLAYER] ([TEAM]) prepares to take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Jose Antonio Reyes (Sevilla) shoots from outside the box, but his effort is blocked. The ball goes out of play. Sevilla are awarded a corner kick. The shot took a slight deflection, making it difficult for the goalkeeper to judge its path.",
+                    "history_time": "6:05",
+                    "long-term": "This corner kick came from a long shot outside the penalty area, which was blocked by the defensive player and resulted in a corner kick."
+                },
+                {
+                    "short-term": "Jose Antonio Reyes (Sevilla) will try to find the head of one of his teammates from a corner kick. Sevilla are pushing forward in search of an equalizer, making this a crucial set-piece opportunity.",
+                    "history_time": "3:23",
+                    "long-term": "They have been consistently using corner kicks as a key strategy to create scoring opportunities."
+                }
+            ]
+        },
+        {
+            "query": "Jose Antonio Reyes (Sevilla) shoots from outside the box, but his effort is blocked. The ball goes out of play. Sevilla are awarded a corner kick.",
+            "game_time": "6:05",
+            "short-term": "Jose Antonio Reyes (Sevilla) shoots from outside the box, but his effort is blocked. The ball goes out of play. Sevilla are awarded a corner kick. The shot took a slight deflection, making it difficult for the goalkeeper to judge its path.",
+            "query_ano": "[PLAYER] ([TEAM]) shoots from outside the box, but his effort is blocked. The ball goes out of play. [TEAM] are awarded a corner kick.",
+            "history": [
+                {
+                    "short-term": "Aleix Vidal (Sevilla) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence. The ball goes out for a corner. Sevilla can continue in their attacking effort. They have been applying early pressure, much like how they started the first half.",
+                    "history_time": "2:00",
+                    "long-term": "They have been maintaining a strong attacking presence, creating opportunities and testing the defense with shots and clever through balls."
+                }
+            ]
+        },
+        {
+            "query": "Carlos Bacca (Sevilla) is penalised for a foul. Jose Luis Gonzalez had a clear view and blows his whistle.",
+            "game_time": "6:26",
+            "short-term": "Carlos Bacca (Sevilla) is penalised for a foul. Jose Luis Gonzalez had a clear view and blows his whistle. Bacca used his arm to gain an advantage, which was spotted immediately by the referee.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Daniel Carvajal (Real Madrid) is awarded a yellow card. The referee showed him no mercy. Carvajal committed a late challenge, making no real attempt to get the ball, forcing the referee to take action.",
+                    "history_time": "5:30",
+                    "long-term": "The referee has been strict in enforcing discipline, promptly calling out fouls and issuing yellow cards to maintain control of the game."
+                }
+            ]
+        },
+        {
+            "query": "Jose Antonio Reyes (Sevilla) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt.",
+            "game_time": "7:47",
+            "short-term": "Jose Antonio Reyes (Sevilla) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. It was a rushed effort, lacking both accuracy and power.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt.",
+            "history": [
+                {
+                    "short-term": "Jose Antonio Reyes (Sevilla) shoots from outside the box, but his effort is blocked. The ball goes out of play. Sevilla are awarded a corner kick. The shot took a slight deflection, making it difficult for the goalkeeper to judge its path.",
+                    "history_time": "6:05",
+                    "long-term": "He has been consistently attempting shots from distance, although yet to find the accuracy and power to trouble the goalkeeper."
+                },
+                {
+                    "short-term": "Toni Kroos (Real Madrid) collects a pass and has an effort from 22 metres out, but it flies just wide of the left post. He struck it cleanly, but the ball curled slightly away from goal, missing the target by inches.",
+                    "history_time": "4:14",
+                    "long-term": "They have been creating long-range shooting opportunities, but so far, the accuracy has been lacking in their powerful attempts."
+                }
+            ]
+        }
+    ]
+}

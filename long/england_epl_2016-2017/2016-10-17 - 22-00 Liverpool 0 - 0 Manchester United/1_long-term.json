@@ -1,0 +1,131 @@
+{
+    "annotations": [
+        {
+            "game_time": "16:55",
+            "query": "Zlatan Ibrahimovic (Manchester United) receives a pass and tries his luck with a shot from 20 metres out. Loris Karius pulls off a comfortable save to stop the effort going into the middle of the goal.",
+            "short-term": "Zlatan Ibrahimovic receives a pass and tries his luck with a shot from 20 metres out. He managed to create space for the attempt, but the goalkeeper reacted well to make a routine save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a shot from 20 metres out. [PLAYER] pulls off a comfortable save to stop the effort going into the middle of the goal.",
+            "history": [
+                {
+                    "short-term": "Paul Pogba collects a pass and strikes from about 35 metres out. Positioned high up the pitch, his shot was poorly executed and flew well over the bar.",
+                    "history_time": "13:10",
+                    "long-term": "They have been attempting to create scoring opportunities from distance, but so far, their long-range shots have been effectively dealt with by the opposition's goalkeeper or have lacked accuracy."
+                }
+            ]
+        },
+        {
+            "game_time": "22:09",
+            "query": "Emre Can (Liverpool) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar.",
+            "short-term": "Emre Can receives a pass and tries his luck with a long-range powerful effort. He got into range but failed to keep his shot on target, sending it high over the crossbar.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic receives a pass and tries his luck with a shot from 20 metres out. He managed to create space for the attempt, but the goalkeeper reacted well to make a routine save.",
+                    "history_time": "16:55",
+                    "long-term": "They have been trying to create scoring opportunities with powerful long-range shots, but so far, the opposing goalkeeper has been equal to the task."
+                },
+                {
+                    "short-term": "Paul Pogba collects a pass and strikes from about 35 metres out. Positioned high up the pitch, his shot was poorly executed and flew well over the bar.",
+                    "history_time": "13:10",
+                    "long-term": "They have been attempting to create scoring opportunities with powerful long-range shots, but their efforts have lacked accuracy."
+                }
+            ]
+        },
+        {
+            "game_time": "29:58",
+            "query": "A clumsy foul by Antonio Valencia (Manchester United) and Anthony Taylor blows his whistle.",
+            "short-term": "A clumsy foul by Antonio Valencia and Anthony Taylor blows his whistle. The referee had a clear view and wasted no time making the call.",
+            "label": "foul",
+            "query_ano": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle.",
+            "history": [
+                {
+                    "short-term": "Dejan Lovren brings his opponent down. Anthony Taylor had a clear sight of it and immediately blew his whistle for a foul. It was an unnecessary challenge, putting his team under pressure in a dangerous position.",
+                    "history_time": "9:44",
+                    "long-term": "The team's defensive strategy has been marred by sloppy tackles and avoidable fouls, which has put pressure on them in critical areas of the pitch."
+                }
+            ]
+        },
+        {
+            "game_time": "31:00",
+            "query": "James Milner (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea.",
+            "short-term": "James Milner whips a long ball in from the free kick, but it is intercepted by David de Gea. It was a routine save, as the delivery lacked precision.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER].",
+            "history": [
+                {
+                    "short-term": "Roberto Firmino attempts to convert a cross into a goal, but his promising header from near the penalty spot is denied by David de Gea. There were numbers in the box, but his attempt lacked the power to challenge the goalkeeper.",
+                    "history_time": "28:58",
+                    "long-term": "They have been consistently putting pressure on the opponent's defense with crosses and free kicks, but lacking precision and power to really challenge the goalkeeper."
+                },
+                {
+                    "short-term": "A pass from Marcus Rashford is intercepted by Loris Karius and the move breaks down. The goalkeeper did well to read the play and push the ball away from danger.",
+                    "history_time": "24:20",
+                    "long-term": "Both goalkeepers have shown sharp reflexes, nullifying the opponents' attacks with their precise interventions."
+                }
+            ]
+        },
+        {
+            "game_time": "33:50",
+            "query": "Nathaniel Clyne (Liverpool) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Nathaniel Clyne sends a cross into the box, but the opposition's defence clears the ball to safety. A defender stepped in with a timely challenge, forcing the ball behind for a corner.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "James Milner whips a long ball in from the free kick, but it is intercepted by David de Gea. It was a routine save, as the delivery lacked precision.",
+                    "history_time": "31:00",
+                    "long-term": "They have been consistently using crosses and long balls to threaten the opponent's goal, but so far, the opposition's defense has been able to neutralize these attempts."
+                },
+                {
+                    "short-term": "Roberto Firmino attempts to convert a cross into a goal, but his promising header from near the penalty spot is denied by David de Gea. There were numbers in the box, but his attempt lacked the power to challenge the goalkeeper.",
+                    "history_time": "28:58",
+                    "long-term": "They have been consistently threatening the opposition's goal with crosses into the box, but so far, the defense has managed to clear or the goalkeeper has made crucial saves."
+                }
+            ]
+        },
+        {
+            "game_time": "43:53",
+            "query": "Philippe Coutinho (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea.",
+            "short-term": "Philippe Coutinho whips a long ball in from the free kick, but it is intercepted by David de Gea. The attempt lacked danger as the goalkeeper collected it with ease.",
+            "label": "free-kick",
+            "query_ano": "[PLAYER] ([TEAM]) whips a long ball in from the free kick which is intercepted by [PLAYER].",
+            "history": [
+                {
+                    "short-term": "James Milner whips a long ball in from the free kick, but it is intercepted by David de Gea. It was a routine save, as the delivery lacked precision.",
+                    "history_time": "31:00",
+                    "long-term": "They have been consistently struggling with set-piece execution, failing to create scoring opportunities from free kicks due to inaccurate deliveries."
+                }
+            ]
+        },
+        {
+            "game_time": "44:10",
+            "query": "Flag goes up against Marcus Rashford (Manchester United) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Marcus Rashford and the referee blows his whistle for offside. The decision was made quickly, leaving no room for argument.",
+            "label": "offside",
+            "query_ano": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "history": [
+                {
+                    "short-term": "Zlatan Ibrahimovic is flagged for offside. He had space to time his run better but made his move too soon.",
+                    "history_time": "36:51",
+                    "long-term": "They have been struggling with offside traps, as evidenced by multiple instances of players being caught offside."
+                }
+            ]
+        },
+        {
+            "game_time": "45:50",
+            "query": "Ashley Young (Manchester United) kept talking out of turn to the referee until Anthony Taylor lost patience and pulled out a yellow card.",
+            "short-term": "Ashley Young kept talking out of turn to the referee until Anthony Taylor lost patience and pulled out a yellow card. It was Manchester United's second booking in a short span.",
+            "label": "foul-card",
+            "query_ano": "[PLAYER] ([TEAM]) kept talking out of turn to the referee until [REFEREE] lost patience and pulled out a yellow card.",
+            "history": [
+                {
+                    "short-term": "Flag goes up against Marcus Rashford and the referee blows his whistle for offside. The decision was made quickly, leaving no room for argument.",
+                    "history_time": "44:10",
+                    "long-term": "They have been struggling with discipline, as evidenced by a series of bookings and an offside call that broke their momentum."
+                }
+            ]
+        }
+    ]
+}

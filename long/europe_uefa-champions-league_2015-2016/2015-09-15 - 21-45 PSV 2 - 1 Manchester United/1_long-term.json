@@ -1,0 +1,615 @@
+{
+    "annotations": [
+        {
+            "gameTime": "46:45",
+            "game_time": "46:45",
+            "query": "The corner from Maxime Lestienne goes into a dangerous area and finds Hector Moreno (PSV), who outjumps the defence and glances a header into the back of the net. 1:1.",
+            "short-term": "The corner from Maxime Lestienne goes into a dangerous area and finds Hector Moreno, who outjumps the defence and glances a header into the back of the net. The ball took a slight deflection off Danny Blind, which may have affected the goalkeeper's reaction.",
+            "query_ano": "The corner from [PLAYER] goes into a dangerous area and finds [PLAYER] ([TEAM]), who outjumps the defence and glances a header into the back of the net. 1:1.",
+            "history": [
+                {
+                    "short-term": "Maxime Lestienne will take a corner kick. The previous play saw a mix-up in the opposition's defense, almost leading to an own goal.",
+                    "history_time": "46:21",
+                    "long-term": "They have been posing threats from set pieces, particularly corner kicks, and capitalized on one such opportunity with a clever header that found the back of the net."
+                },
+                {
+                    "short-term": "Maxime Lestienne sends a cross into the box, but the opposition's defence quickly intercepts the ball. Smalling and Darmian both went for the same clearance, nearly causing a defensive mishap.",
+                    "history_time": "46:00",
+                    "long-term": "They have consistently utilized crosses and corners to create scoring opportunities, indicating a strategy focused on exploiting aerial threats."
+                },
+                {
+                    "short-term": "The free kick into the penalty area from Hector Moreno is cleared. PSV is looking to press forward, taking advantage of set-piece opportunities.",
+                    "history_time": "45:16",
+                    "long-term": "They have been utilizing set pieces effectively, creating scoring opportunities and maintaining pressure on the opponent's defense."
+                },
+                {
+                    "short-term": "Ashley Young brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. Their players take their time setting up for the free kick, looking to capitalize on a rare attacking opportunity.",
+                    "history_time": "44:44",
+                    "long-term": "They have posed threats through set pieces, scoring from a corner and now winning a free kick in a promising position."
+                },
+                {
+                    "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+                    "history_time": "43:39",
+                    "long-term": "Both teams have shown flashes of brilliance in the box, with one converting a well-delivered corner and the other being denied by a remarkable save."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have been posing threats through set pieces and targeted crosses into the box, capitalizing on one such opportunity to score."
+                },
+                {
+                    "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+                    "history_time": "37:39",
+                    "long-term": "The set pieces have been a crucial factor in their attacking strategy, creating chaos in the box and resulting in a goal, while also coming close to scoring on other occasions."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:21",
+            "game_time": "46:21",
+            "query": "Maxime Lestienne (PSV) will take a corner kick.",
+            "short-term": "Maxime Lestienne will take a corner kick. The previous play saw a mix-up in the opposition's defense, almost leading to an own goal.",
+            "query_ano": "[PLAYER] ([TEAM]) will take a corner kick.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata will take the free kick. Manchester United players are positioning themselves for a potential aerial threat inside the box.",
+                    "history_time": "37:27",
+                    "long-term": "They have been creating opportunities from set pieces, consistently threatening the opposition's defense with well-placed kicks."
+                }
+            ]
+        },
+        {
+            "gameTime": "46:00",
+            "game_time": "46:00",
+            "query": "Maxime Lestienne (PSV) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee points to the corner flag and PSV will take a corner.",
+            "short-term": "Maxime Lestienne sends a cross into the box, but the opposition's defence quickly intercepts the ball. Smalling and Darmian both went for the same clearance, nearly causing a defensive mishap.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee points to the corner flag and [TEAM] will take a corner.",
+            "history": [
+                {
+                    "short-term": "Ashley Young brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. Their players take their time setting up for the free kick, looking to capitalize on a rare attacking opportunity.",
+                    "history_time": "44:44",
+                    "long-term": "They have struggled to create clear-cut chances, with crosses being easily intercepted and resorting to set pieces to try and pose a threat."
+                },
+                {
+                    "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay takes it short. The decision surprises some of his teammates, as they had positioned themselves for an aerial duel.",
+                    "history_time": "44:20",
+                    "long-term": "They have shown inconsistent coordination in their attacking and defensive movements, at times resulting in confusion and near mistakes."
+                },
+                {
+                    "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+                    "history_time": "43:39",
+                    "long-term": "They have shown some flashes of brilliance in attack, but ultimately couldn't capitalize on their scoring opportunities."
+                },
+                {
+                    "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+                    "history_time": "42:12",
+                    "long-term": "The opposition's defence has been solid in dealing with crosses, demonstrating good organization and composure under pressure to neutralize threats."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have consistently created scoring opportunities through crosses, but the opposing defense has shown resilience in clearing the ball and denying them clear shots on goal."
+                },
+                {
+                    "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+                    "history_time": "35:08",
+                    "long-term": "The opposition's defence has been solid, consistently anticipating and neutralizing crosses and passes into the box, while the attacking team struggles to find a breakthrough."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, although the opposition's defense has managed to neutralize these attempts so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "45:16",
+            "game_time": "45:16",
+            "query": "The free kick into the penalty area from Hector Moreno (PSV) is cleared.",
+            "short-term": "The free kick into the penalty area from Hector Moreno is cleared. PSV is looking to press forward, taking advantage of set-piece opportunities.",
+            "query_ano": "The free kick into the penalty area from [PLAYER] ([TEAM]) is cleared.",
+            "history": [
+                {
+                    "short-term": "Ashley Young brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. Their players take their time setting up for the free kick, looking to capitalize on a rare attacking opportunity.",
+                    "history_time": "44:44",
+                    "long-term": "They have been utilizing set pieces to create scoring chances, with mixed results in terms of capitalizing on these opportunities."
+                },
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "Both teams have been utilizing set pieces to create attacking opportunities, but the defenses have held strong to clear the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:44",
+            "game_time": "44:44",
+            "query": "Ashley Young (Manchester United) brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. A free kick to PSV.",
+            "short-term": "Ashley Young brings his opponent down. Nicola Rizzoli has a clear vision and blows his whistle for a foul. Their players take their time setting up for the free kick, looking to capitalize on a rare attacking opportunity.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear vision and blows his whistle for a foul. A free kick to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+                    "history_time": "43:39",
+                    "long-term": "They have displayed a mix of reckless defense and potent attacking skill."
+                },
+                {
+                    "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+                    "history_time": "42:12",
+                    "long-term": "They have struggled to create scoring chances, with the opponent's defense neutralizing their attacking efforts."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have been creating scoring opportunities through set pieces and deliveries into the box."
+                },
+                {
+                    "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+                    "history_time": "37:39",
+                    "long-term": "They have been trying to capitalize on set pieces to create scoring opportunities, but so far, the end product has been lacking precision."
+                },
+                {
+                    "short-term": "Joshua Brenet commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot, as he was caught late while pushing forward.",
+                    "history_time": "36:18",
+                    "long-term": "They have been on the receiving end of some tough tackling, as the opposing team has been called for multiple fouls, providing them with crucial set piece opportunities."
+                },
+                {
+                    "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+                    "history_time": "33:21",
+                    "long-term": "They have been creating opportunities through set pieces, with fouls and corners providing them chances to test their opponent's defense."
+                },
+                {
+                    "short-term": "Flag goes up against Luciano Narsingh and the referee blows his whistle for offside. Burnett had delivered a promising pass, but Narsingh had strayed beyond the defensive line.",
+                    "history_time": "29:49",
+                    "long-term": "They have struggled to create scoring opportunities and have been getting caught offside."
+                }
+            ]
+        },
+        {
+            "gameTime": "44:20",
+            "game_time": "44:20",
+            "query": "A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay (Manchester United) takes it short.",
+            "short-term": "A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay takes it short. The decision surprises some of his teammates, as they had positioned themselves for an aerial duel.",
+            "query_ano": "A horde of players are waiting inside the penalty area for a cross from the corner, but [PLAYER] ([TEAM]) takes it short.",
+            "history": [
+                {
+                    "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+                    "history_time": "43:39",
+                    "long-term": "They have shown flexibility in their attacking approach, with unexpected set-piece decisions and skillful individual plays testing the opposition's defense."
+                },
+                {
+                    "short-term": "Chance! Memphis Depay comes within inches of scoring after picking up a pass from Juan Mata, but his shot from inside the box flashes inches wide of the right post. The move was a quick break, with Mata threading a perfect ball into Depay’s path.",
+                    "history_time": "42:30",
+                    "long-term": "He has been showing great vision and creativity in his attacking play, opting for a short corner and nearly scoring with a clever run and shot."
+                },
+                {
+                    "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+                    "history_time": "42:12",
+                    "long-term": "They have been attempting to create scoring opportunities through crosses, but so far, the opposing defense has been able to effectively counter their efforts."
+                },
+                {
+                    "short-term": "Memphis Depay displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded. His quick footwork and sharp movement left the defenders helpless, making it a stunning solo effort.",
+                    "history_time": "40:52",
+                    "long-term": "He has shown incredible creativity and skill on the field, first with an unexpected decision on a corner kick and then with a solo effort that left defenders grasping at air."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have been utilizing crosses to create scoring opportunities, varying their approach with both short and long deliveries to keep the defense on their toes."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have consistently utilized corner kicks to create scoring opportunities, despite varying degrees of success in their execution."
+                }
+            ]
+        },
+        {
+            "gameTime": "43:39",
+            "game_time": "43:39",
+            "query": "Chris Smalling (Manchester United) runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save to stop the shot going into the middle of the target. The ball is out of play. A goal-scoring opportunity from a corner for Manchester Utd.",
+            "short-term": "Chris Smalling runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save. Smalling displayed great skill in his dribble before the shot, nearly taking it all the way himself.",
+            "query_ano": "[PLAYER] ([TEAM]) runs with the ball towards the keeper and pulls the trigger from close range, but Jeroen Zoet anticipates his intention and makes an amazing save to stop the shot going into the middle of the target. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM].",
+            "history": [
+                {
+                    "short-term": "Chance! Memphis Depay comes within inches of scoring after picking up a pass from Juan Mata, but his shot from inside the box flashes inches wide of the right post. The move was a quick break, with Mata threading a perfect ball into Depay’s path.",
+                    "history_time": "42:30",
+                    "long-term": "They have been creating quality scoring opportunities, showcasing great individual skill and swift teamwork in the attacking third."
+                },
+                {
+                    "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+                    "history_time": "42:12",
+                    "long-term": "The defense has been solid, neutralizing multiple threatening situations, while the offense has had some quality chances, showcasing individual skill."
+                },
+                {
+                    "short-term": "Memphis Depay displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded. His quick footwork and sharp movement left the defenders helpless, making it a stunning solo effort.",
+                    "history_time": "40:52",
+                    "long-term": "Both teams have shown incredible individual skill, with dépailed surges and lively strikes visibly shifting the game dynamics."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have been posing a significant threat in the opposition's box, creating clear-cut chances but have been thwarted by some brilliant goalkeeping and last-ditch defending."
+                },
+                {
+                    "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+                    "history_time": "37:39",
+                    "long-term": "They have been creating quality scoring opportunities but struggling to capitalize, with the goalkeeper making a crucial save and a header sailing wide."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have shown great attacking intent, with players making notable runs into the box and creating opportunities for goal-scoring chances, but the opposition's defense has held firm so far."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+                    "history_time": "28:05",
+                    "long-term": "They consistently created scoring opportunities, but the goalkeeper's sharp reflexes denied them a goal."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:30",
+            "game_time": "42:30",
+            "query": "Chance! Memphis Depay (Manchester United) comes within inches of scoring after picking up a pass from Juan Manuel Mata, but his shot from inside the box flashes inches wide of the right post.",
+            "short-term": "Chance! Memphis Depay comes within inches of scoring after picking up a pass from Juan Mata, but his shot from inside the box flashes inches wide of the right post. The move was a quick break, with Mata threading a perfect ball into Depay’s path.",
+            "query_ano": "Chance! [PLAYER] ([TEAM]) comes within inches of scoring after picking up a pass from [PLAYER], but his shot from inside the box flashes inches wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Memphis Depay displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded. His quick footwork and sharp movement left the defenders helpless, making it a stunning solo effort.",
+                    "history_time": "40:52",
+                    "long-term": "He has shown incredible skill and pace, creating scoring opportunities with his agility and ball control, and managing to capitalize on one of those chances."
+                },
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have consistently shown the ability to create scoring opportunities with precise passes and well-timed runs, applying pressure on the defense."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "He has been posing a significant threat in the attacking third, creating scoring opportunities with his pace and vision, but the end product has been lacking so far."
+                }
+            ]
+        },
+        {
+            "gameTime": "42:12",
+            "game_time": "42:12",
+            "query": "Joshua Brenet (PSV) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "short-term": "Joshua Brenet sends a cross into the box, but the opposition's defence clears the ball to safety. The cross was delivered under pressure, and the defensive line remained well-organized to cut out the danger.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have consistently utilized crosses to create scoring opportunities, but the opposing defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "Joshua Brenet commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot, as he was caught late while pushing forward.",
+                    "history_time": "36:18",
+                    "long-term": "He has shown mixed performance so far, creating a chance with a cross into the box but also giving away a free kick in a dangerous position."
+                },
+                {
+                    "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+                    "history_time": "35:08",
+                    "long-term": "The opposition's defence has been solid, consistently dealing with crosses and through balls effectively, neutralizing potential attacking threats."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have been consistently using crosses to create scoring opportunities, but the opposing defense has been solid in clearing the danger."
+                },
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "The opposition's defense has been solid in dealing with crosses, consistently clearing the ball to safety and neutralizing potential threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:52",
+            "game_time": "40:52",
+            "query": "Memphis Depay (Manchester United) displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded.",
+            "short-term": "Memphis Depay displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded. His quick footwork and sharp movement left the defenders helpless, making it a stunning solo effort.",
+            "query_ano": "[PLAYER] ([TEAM]) displays great tekkers inside the box leading to a fantastic goal, leaving the goalkeeper stranded.",
+            "history": [
+                {
+                    "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+                    "history_time": "40:10",
+                    "long-term": "They have showcased exceptional skill and creativity in the attacking third, consistently testing the opposing team's defense with precise movements and shots."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "He has consistently demonstrated exceptional skill and creativity in his attacking plays, posing a significant threat to the opposing team's defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "40:10",
+            "game_time": "40:10",
+            "query": "Juan Manuel Mata (Manchester United) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety.",
+            "short-term": "Juan Manuel Mata connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. Mata found a pocket of space but was quickly closed down, denying him a clean strike.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety.",
+            "history": [
+                {
+                    "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+                    "history_time": "37:39",
+                    "long-term": "They have been creating scoring opportunities through well-placed crosses and set pieces, but haven't yet found the precision to capitalize on them."
+                },
+                {
+                    "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+                    "history_time": "35:08",
+                    "long-term": "They have been creating scoring opportunities with effective crosses, but the opposing defense has been successful in nullifying the threats so far."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Positioned deep, He was dictating play like a quarterback, but his long ball was well anticipated by the defense.",
+                    "history_time": "34:18",
+                    "long-term": "They have been creating scoring opportunities with precise passing, but the defense has been able to anticipate and neutralize these efforts so far."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses, but the opposing team's defense has been effective in neutralizing these threats."
+                },
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "They consistently pressured the opponent's defense with precise crosses and shots but were unable to capitalize due to swift defensive interventions."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+                    "history_time": "28:05",
+                    "long-term": "They have been consistently creating scoring opportunities, but the opposing team's defense has been up to the task so far, effectively neutralizing the threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "39:14",
+            "game_time": "39:14",
+            "query": "Maxime Lestienne (PSV) unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post.",
+            "short-term": "Maxime Lestienne unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post. He had time to compose himself but rushed the strike, sending it harmlessly off target.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post.",
+            "history": [
+                {
+                    "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+                    "history_time": "37:39",
+                    "long-term": "They have been creating scoring opportunities but lack precision in their finishing, with multiple shots and headers sailing wide of the target."
+                }
+            ]
+        },
+        {
+            "gameTime": "37:39",
+            "game_time": "37:39",
+            "query": "Anthony Martial (Manchester United) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post.",
+            "short-term": "Anthony Martial launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post. He got good elevation but couldn't direct it on target.",
+            "query_ano": "[PLAYER] ([TEAM]) launches himself at the ball from the free kick and produces a header which lacks accuracy, sending it just wide of the right post.",
+            "history": [
+                {
+                    "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+                    "history_time": "35:08",
+                    "long-term": "They have been creating scoring opportunities, but the final touches and link-up plays have lacked precision, making it hard to find the back of the net."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have been creating scoring opportunities through set pieces, but the finishing touches have been lacking precision."
+                }
+            ]
+        },
+        {
+            "gameTime": "36:18",
+            "game_time": "36:18",
+            "query": "Joshua Brenet (PSV) commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot.",
+            "short-term": "Joshua Brenet commits a rough foul. Nicola Rizzoli stops the game and makes a call. Manchester Utd win a free kick. It's a promising situation for a direct shot, as he was caught late while pushing forward.",
+            "query_ano": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+                    "history_time": "33:21",
+                    "long-term": "They have been creating opportunities through set pieces and corner kicks, also attempting to break through with individual skill."
+                }
+            ]
+        },
+        {
+            "gameTime": "35:08",
+            "game_time": "35:08",
+            "query": "Daley Blind (Manchester United) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "short-term": "Daley Blind sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The defenders positioned themselves well to cut out the attempted through ball.",
+            "query_ano": "[PLAYER] ([TEAM]) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Positioned deep, He was dictating play like a quarterback, but his long ball was well anticipated by the defense.",
+                    "history_time": "34:18",
+                    "long-term": "They have been consistently probing the opposition's defense with precise passing, but the defenders have been equal to the task so far."
+                },
+                {
+                    "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+                    "history_time": "33:37",
+                    "long-term": "They have been consistently testing the opposition's defense with threatening crosses and passes into the box, but have yet to find a breakthrough."
+                },
+                {
+                    "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+                    "history_time": "33:21",
+                    "long-term": "They have consistently attempted to create scoring opportunities, but the opposition's defense has been solid in intercepting and clearing the threats."
+                },
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "They have been consistently pressuring the opponent's defense with passes into the box, but the opposing team's defense has been well-organized to neutralize these attacks."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+                    "history_time": "28:05",
+                    "long-term": "They have been consistently trying to break through the opposition's defense with precise passes, but the opposing team's backline has shown great awareness and anticipation to neutralize these threats."
+                }
+            ]
+        },
+        {
+            "gameTime": "34:18",
+            "game_time": "34:18",
+            "query": "Bastian Schweinsteiger (Manchester United) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "short-term": "Bastian Schweinsteiger attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Positioned deep, He was dictating play like a quarterback, but his long ball was well anticipated by the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+            "history": [
+                {
+                    "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+                    "history_time": "28:05",
+                    "long-term": "He has been trying to control the tempo of the game with his long passes, but the opposition's defense has been able to anticipate and neutralize his efforts."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:37",
+            "game_time": "33:37",
+            "query": "Memphis Depay (Manchester United) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "short-term": "Memphis Depay puts a dangerous cross into the box, but the corner is cleared by the first man. One of the player was waiting at the far post, but the ball was cut out before reaching him.",
+            "query_ano": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+            "history": [
+                {
+                    "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+                    "history_time": "33:21",
+                    "long-term": "This corner kick comes after an attempted dribble was interrupted by the defense, deflecting the ball out of play and resulting in a set-piece opportunity."
+                },
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "They have been consistently creating scoring opportunities with precise crosses into the box, but the opposing team's defense has been effective in clearing the danger."
+                },
+                {
+                    "short-term": "Bastian Schweinsteiger sends a long ball in, but Jeroen Zoet comfortably gathers the ball. Herrera initially made a run but stopped, leaving Zoet unchallenged to claim the ball.",
+                    "history_time": "28:05",
+                    "long-term": "They have been consistently creating scoring opportunities with crosses and long balls into the box, but the opposing team's defense has been effective in clearing the threats."
+                },
+                {
+                    "short-term": "Memphis Depay sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The delivery was slightly off-target, making it an easy clearance for the defense.",
+                    "history_time": "12:46",
+                    "long-term": "He has consistently posed a threat with his crosses and corners, but the delivery has lacked precision, allowing the defense to clear with ease."
+                }
+            ]
+        },
+        {
+            "gameTime": "33:21",
+            "game_time": "33:21",
+            "query": "The ball is cleared after Daley Blind (Manchester United) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal.",
+            "short-term": "The ball is cleared after Daley Blind attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Manchester Utd will have an opportunity to threaten the opposition's goal. Blind tried to weave his way through but was dispossessed near the byline.",
+            "query_ano": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. [TEAM] will have an opportunity to threaten the opposition's goal.",
+            "history": [
+                {
+                    "short-term": "An attempted cross from Ashley Young is cleared. Young was looking to pick out Martial at the near post, but Hendricks tracked back well to clear the danger.",
+                    "history_time": "32:26",
+                    "long-term": "They have been consistently applying pressure down the flanks, searching for openings through crosses and dribbling, but the opposition's defense has managed to neutralize these threats so far."
+                },
+                {
+                    "short-term": "Flag goes up against Luciano Narsingh and the referee blows his whistle for offside. Burnett had delivered a promising pass, but Narsingh had strayed beyond the defensive line.",
+                    "history_time": "29:49",
+                    "long-term": "Both teams have shown intent to create attacking opportunities, but disciplined defending has limited their ability to capitalize on these chances."
+                }
+            ]
+        },
+        {
+            "gameTime": "30:49",
+            "game_time": "30:49",
+            "query": "Maxime Lestienne (PSV) is forced to stop his attacking move after the linesman signals for offside.",
+            "short-term": "Maxime Lestienne is forced to stop his attacking move after the linesman signals for offside. He mistimed his run while trying to latch onto a through ball from Hendricks.",
+            "query_ano": "[PLAYER] ([TEAM]) is forced to stop his attacking move after the linesman signals for offside.",
+            "history": [
+                {
+                    "short-term": "Flag goes up against Luciano Narsingh and the referee blows his whistle for offside. Burnett had delivered a promising pass, but Narsingh had strayed beyond the defensive line.",
+                    "history_time": "29:49",
+                    "long-term": "The attacking moves have been consistently thwarted by offside calls, indicating a need for better timing and coordination in their forward runs."
+                }
+            ]
+        },
+        {
+            "gameTime": "29:49",
+            "game_time": "29:49",
+            "query": "Flag goes up against Luciano Narsingh (PSV) and the referee blows his whistle for offside.",
+            "short-term": "Flag goes up against Luciano Narsingh and the referee blows his whistle for offside. Burnett had delivered a promising pass, but Narsingh had strayed beyond the defensive line.",
+            "query_ano": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+            "history": [
+                {
+                    "short-term": "Luciano Narsingh times his run too early and the linesman raises his flag for offside. He was a step ahead when attempting to break past the defensive line.",
+                    "history_time": "11:01",
+                    "long-term": "He has been struggling with his timing, getting caught offside multiple times while trying to make runs behind the defense."
+                }
+            ]
+        },
+        {
+            "gameTime": "14:20",
+            "game_time": "14:20",
+            "query": "Luke Shaw (Manchester United) races towards goal but the defender gets back well to make a challenge. Corner kick. Manchester Utd will have an opportunity.",
+            "short-term": "Luke Shaw races towards goal but the defender gets back well to make a challenge. Corner kick. Manchester Utd will have an opportunity. Shaw’s burst of speed nearly saw him through, but the well-timed tackle forced the ball out for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. Corner kick. [TEAM] will have an opportunity.",
+            "history": [
+                {
+                    "short-term": "Memphis Depay sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The delivery was slightly off-target, making it an easy clearance for the defense.",
+                    "history_time": "12:46",
+                    "long-term": "They had a promising attacking sequence, but the well-timed defensive tackle and inaccurate corner delivery denied them a scoring opportunity."
+                },
+                {
+                    "short-term": "Matteo Darmian goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd. Darmian attempted to weave through defenders, but the opposition stood firm.",
+                    "history_time": "12:23",
+                    "long-term": "They have been consistently aggressive on the offense, attempting to create scoring opportunities with individual runs."
+                },
+                {
+                    "short-term": "Ashley Young fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV. The cross had too much weight on it, missing its intended target.",
+                    "history_time": "10:30",
+                    "long-term": "They have been pushing forward with pace and creating chances, but the final delivery has let them down at times."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:46",
+            "game_time": "12:46",
+            "query": "Memphis Depay (Manchester United) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "short-term": "Memphis Depay sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The delivery was slightly off-target, making it an easy clearance for the defense.",
+            "query_ano": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+            "history": [
+                {
+                    "short-term": "Matteo Darmian goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd. Darmian attempted to weave through defenders, but the opposition stood firm.",
+                    "history_time": "12:23",
+                    "long-term": "This corner kick comes after a solo run was halted by a well-timed defensive block, deflecting the ball out of play and conceding a set-piece opportunity."
+                },
+                {
+                    "short-term": "Ashley Young fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV. The cross had too much weight on it, missing its intended target.",
+                    "history_time": "10:30",
+                    "long-term": "They have been struggling to create scoring opportunities from set pieces, with inaccurate deliveries failing to find their targets."
+                }
+            ]
+        },
+        {
+            "gameTime": "12:23",
+            "game_time": "12:23",
+            "query": "Matteo Darmian (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd.",
+            "short-term": "Matteo Darmian goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to Manchester Utd. Darmian attempted to weave through defenders, but the opposition stood firm.",
+            "query_ano": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag. It's a corner to [TEAM].",
+            "history": [
+                {
+                    "short-term": "Luciano Narsingh times his run too early and the linesman raises his flag for offside. He was a step ahead when attempting to break past the defensive line.",
+                    "history_time": "11:01",
+                    "long-term": "Both teams have shown moments of individual brilliance, but ultimately struggled to break down each other's defenses."
+                },
+                {
+                    "short-term": "Ashley Young fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV. The cross had too much weight on it, missing its intended target.",
+                    "history_time": "10:30",
+                    "long-term": "They have been struggling to create clear-cut chances, with individual efforts being blocked and deliveries into the box not finding their intended targets."
+                }
+            ]
+        },
+        {
+            "gameTime": "11:01",
+            "game_time": "11:01",
+            "query": "Luciano Narsingh (PSV) times his run too early and the linesman raises his flag for offside.",
+            "short-term": "Luciano Narsingh times his run too early and the linesman raises his flag for offside. He was a step ahead when attempting to break past the defensive line.",
+            "query_ano": "[PLAYER] ([TEAM]) times his run too early and the linesman raises his flag for offside.",
+            "history": [
+                {
+                    "short-term": "Ashley Young fails to pick a body out in the box with an over-hit cross to the back post. The ball is off of the pitch and it's a goal kick for PSV. The cross had too much weight on it, missing its intended target.",
+                    "history_time": "10:30",
+                    "long-term": "They have struggled to create scoring opportunities due to mistimed runs and inaccurate deliveries into the box."
+                }
+            ]
+        }
+    ]
+}

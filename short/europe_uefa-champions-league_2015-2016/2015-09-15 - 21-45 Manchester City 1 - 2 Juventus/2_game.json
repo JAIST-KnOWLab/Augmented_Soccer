@@ -1,0 +1,228 @@
+{
+    "annotations": [
+        {
+            "query": "What an unlucky own goal by Giorgio Chiellini (Juventus)!",
+            "game_time": "11:45",
+            "short-term": "What an unlucky own goal by Giorgio Chiellini (Juventus)! The ball hit Vincent Kompany's chest, then bounced off Chiellini's forehead and went into the back of the net. A very unlucky moment for him.",
+            "label": "goal",
+            "query_ano": "What an unlucky own goal by [PLAYER] ([TEAM])!"
+        },
+        {
+            "query": "David Silva (Manchester City) plays a one-two with Raheem Sterling, but the move breaks down. The referee points to the corner flag and Manchester City will take a corner.",
+            "game_time": "11:20",
+            "short-term": "David Silva (Manchester City) plays a one-two with Raheem Sterling, but the move breaks down due to a challenge from Cuadrado. The referee points to the corner flag and Manchester City will take a corner. Their centre back have the opportunity to get forward.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) plays a one-two with Raheem Sterling, but the move breaks down. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "query": "David Silva (Manchester City) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "game_time": "14:59",
+            "short-term": "David Silva (Manchester City) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",
+            "label": "corner",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "query": "Gianluigi Buffon pulls off a superb save! He leapt to block the shot David Silva (Manchester City) fired on target from the rebound. His effort from inside the box was directed low to the middle of the goal. Now Manchester City have a corner.",
+            "game_time": "14:20",
+            "short-term": "Gianluigi Buffon pulls off a superb save! He leapt to block the shot David Silva (Manchester City) fired on target from the rebound. His effort from inside the box was directed low to the middle of the goal. Now Manchester City have a corner. Keeper reacted quickly to push the ball over the bar, making another crucial stop for Juventus.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] pulls off a superb save! He leapt to block the shot [PLAYER] ([TEAM]) fired on target from the rebound. His effort from inside the box was directed low to the middle of the goal. Now [TEAM] have a corner."
+        },
+        {
+            "query": "Gianluigi Buffon pulls off a great save to deny Raheem Sterling (Manchester City), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner.",
+            "game_time": "14:00",
+            "short-term": "Gianluigi Buffon pulls off a great save to deny Raheem Sterling (Manchester City), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] pulls off a great save to deny Raheem Sterling ([TEAM]), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner."
+        },
+        {
+            "query": "Joe Hart pulls off a great save to deny Stefano Sturaro (Juventus) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",
+            "game_time": "16:56",
+            "short-term": "Joe Hart pulls off a great save to deny Stefano Sturaro (Juventus), who makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The defender reacted quickly to clear away the danger after keeper's save.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] pulls off a great save to deny Stefano Sturaro ([TEAM]) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal."
+        },
+        {
+            "query": "Patrice Evra (Juventus) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee signals a corner kick to Juventus.",
+            "game_time": "18:19",
+            "short-term": "Patrice Evra (Juventus) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee signals a corner kick to Juventus.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee signals a corner kick to [TEAM]."
+        },
+        {
+            "query": "Nightmare of a shot. Paul Pogba (Juventus) is first to a rebound inside the 6-yard box but his shot goes high and wide of the goal. The ball goes out of play and Manchester City will have a goal kick.",
+            "game_time": "18:50",
+            "short-term": "Nightmare of a shot. Paul Pogba (Juventus) is first to a rebound inside the 6-yard box but his shot goes high and wide of the goal. The ball initially came off head from a directed play, giving him a golden opportunity that he failed to convert.",
+            "label": "shoot",
+            "query_ano": "Nightmare of a shot. [PLAYER] ([TEAM]) is first to a rebound inside the 6-yard box but his shot goes high and wide of the goal. The ball goes out of play and [TEAM] will have a goal kick."
+        },
+        {
+            "query": "Bacary Sagna (Manchester City) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+            "game_time": "22:25",
+            "short-term": "Bacary Sagna (Manchester City) sent a promising cross into the box, but a defender outjumped the attackers and cleared the threat.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "query": "Mario Mandzukic (Juventus) meets a perfect cross from Paul Pogba deep inside the box and controls it with a nice first touch. He produces an accurate strike into the back of the net via the right post. The score is 1:1.",
+            "game_time": "24:48",
+            "short-term": "Mario Mandzukic (Juventus) meets a perfect cross from Paul Pogba deep inside the box and controls it with a nice first touch. He steps off the back of Mangala, stretches to reach the ball, and directs it into the back of the net via the right post. A well-worked goal for Juventus.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) meets a perfect cross from [PLAYER] deep inside the box and controls it with a nice first touch. He produces an accurate strike into the back of the net via the right post. The score is 1:1."
+        },
+        {
+            "query": "It's time for a substitution. Kevin De Bruyne (Manchester City) comes on in place of Raheem Sterling.",
+            "game_time": "25:52",
+            "short-term": "Kevin De Bruyne (Manchester City) comes on in place of Raheem Sterling, as Manchester City hopes he can help spark a change in the game.",
+            "label": "substitution",
+            "query_ano": "It's time for a substitution. Kevin De Bruyne ([TEAM]) comes on in place of Raheem Sterling."
+        },
+        {
+            "query": "Mario Mandzukic (Juventus) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",
+            "game_time": "30:25",
+            "short-term": "Mario Mandzukic (Juventus) clearly holds his opponent to prevent him from getting the ball, and the referee blows his whistle for a foul. Vincent Kompany looked disappointed as Juventus were building momentum after equalizing.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+        },
+        {
+            "query": "Fernandinho (Manchester City) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",
+            "game_time": "31:37",
+            "short-term": "Fernandinho (Manchester City) dinks a cross into the box, attempting to find one of his teammates, but the defence reacts quickly and clears the danger before any real threat emerges.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "query": "A beautiful low pass from the side is received by David Silva (Manchester City), who was waiting for his chance. However, the defence is alert and spanks the ball away.",
+            "game_time": "31:19",
+            "short-term": "Bacary Sagna (Manchester City) sent a beautiful low pass towards David Silva, but Giorgio Chiellini (Juventus) was alert and intercepted the ball, making a well-timed clearance to stop the attack.",
+            "label": "chance",
+            "query_ano": "A beautiful low pass from the side is received by [PLAYER] ([TEAM]), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "query": "Massimiliano Allegri is forced to make a change. Mario Mandzukic is not able to carry on due to injury. He is replaced by Paulo Dybala (Juventus).",
+            "game_time": "32:42",
+            "short-term": "Massimiliano Allegri is forced to make a change, as Mario Mandzukic is unable to continue due to injury. Paulo Dybala comes on, adding fresh energy to Juventus' attack.",
+            "label": "substitution",
+            "query_ano": "[PLAYER] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by Paulo Dybala ([TEAM])."
+        },
+        {
+            "query": "Alvaro Morata (Juventus) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes in off the left post and the score changes to 2:1.",
+            "game_time": "35:34",
+            "short-term": "Alvaro Morata (Juventus) makes himself some space on the edge of the penalty area and pulls the trigger. His fantastic finish goes in off the left post, giving Juventus the lead at 2-1.",
+            "label": "goal",
+            "query_ano": "[PLAYER] ([TEAM]) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes in off the left post and the score changes to 2:1."
+        },
+        {
+            "query": "Aleksandar Kolarov (Manchester City) makes a bad challenge and the referee blows his whistle for a foul.",
+            "game_time": "37:50",
+            "short-term": "Aleksandar Kolarov (Manchester City) makes a bad challenge, catching Cuadrado. The referee awards Juventus a free kick. Kolarov, visibly frustrated, jogs away as Cuadrado falls easily to buy the foul.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "query": "Manuel Pellegrini prepares a substitution. Samir Nasri is replaced by Sergio Aguero (Manchester City).",
+            "game_time": "38:00",
+            "short-term": "Manuel Pellegrini prepares a substitution. Samir Nasri is replaced by Sergio Aguero (Manchester City), a player known for delivering crucial moments for the team in the past.",
+            "label": "substitution",
+            "query_ano": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "query": "Damir Skomina blows for a foul after Eliaquim Mangala (Manchester City) was too aggressive in the battle for the ball. Juventus have a free kick.",
+            "game_time": "38:32",
+            "short-term": "Damir Skomina blows for a foul after Eliaquim Mangala (Manchester City) was too aggressive in the battle for the ball. Juventus have a free kick, allowing them to slow down the game and regain control.",
+            "label": "foul",
+            "query_ano": "[REFEREE] blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball. [TEAM] have a free kick."
+        },
+        {
+            "query": "Juventus produce a short pass from the free kick.",
+            "game_time": "39:30",
+            "short-term": "Juventus took a short pass from the free kick, aiming to control the ball in the final third.",
+            "label": "free-kick",
+            "query_ano": "[TEAM] produce a short pass from the free kick."
+        },
+        {
+            "query": "Mario Mandzukic (Juventus) commits a foul and Damir Skomina immediately signals a free kick.",
+            "game_time": "3:20",
+            "short-term": "Mario Mandzukic (Juventus) committed a foul, and the referee immediately signaled for a free kick. The assistant referee on the near side had his eyes on the play and noticed Mandzukic’s push.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick."
+        },
+        {
+            "query": "Yaya Toure (Manchester City) makes a slide tackle, but referee Damir Skomina blows for a foul. Juventus earn a free kick.",
+            "game_time": "40:40",
+            "short-term": "Yaya Touré (Manchester City) made a slide tackle, but the referee blew for a foul, awarding Juventus a free kick.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) makes a slide tackle, but referee [REFEREE] blows for a foul. [TEAM] earn a free kick."
+        },
+        {
+            "query": "Yaya Toure (Manchester City) receives a pass and tries his luck with a shot from 25 metres out. Gianluigi Buffon pulls off a decent save to stop the effort going into the top right corner. Manchester City will have a chance to score from a corner kick.",
+            "game_time": "42:39",
+            "short-term": "Yaya Touré (Manchester City) made a lovely strike from 25 metres out, but Gianluigi Buffon produced a great save to stop the shot from going into the top right corner. The ball had a nice volley to it but was just curling wide as Buffon reacted.",
+            "label": "shoot",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and tries his luck with a shot from 25 metres out. [PLAYER] pulls off a decent save to stop the effort going into the top right corner. [TEAM] will have a chance to score from a corner kick."
+        },
+        {
+            "query": "One of the defenders reacts at the last minute to brilliantly block a pass from Aleksandar Kolarov (Manchester City). The referee and the linesman both signal a throw-in for Manchester City.",
+            "game_time": "44:03",
+            "short-term": "One of the defenders reacted quickly at the last minute to brilliantly block a pass from Aleksandar Kolarov (Manchester City). It was Leonardo Bonucci who stepped in with the block.",
+            "label": "chance",
+            "query_ano": "One of the defenders reacts at the last minute to brilliantly block a pass from [PLAYER] ([TEAM]). The referee and the linesman both signal a throw-in for [TEAM]."
+        },
+        {
+            "query": "David Silva (Manchester City) shows too much aggression during an attacking move and ends up fouling his opponent.",
+            "game_time": "44:55",
+            "short-term": "David Silva (Manchester City) showed too much aggression during an attacking move and fouled his opponent. He mistimed his movement while challenging for a cross.",
+            "label": "foul",
+            "query_ano": "[PLAYER] ([TEAM]) shows too much aggression during an attacking move and ends up fouling his opponent."
+        },
+        {
+            "query": "Bacary Sagna (Manchester City) swings a cross into the box, but it's far too close to Gianluigi Buffon, who smothers the ball.",
+            "game_time": "44:50",
+            "short-term": "Bacary Sagna (Manchester City) delivered a cross into the box, but it was too close to Gianluigi Buffon, who smothered the ball. Buffon, significantly taller than David Silva, was able to make an easy take.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+        },
+        {
+            "query": "Manchester City seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",
+            "game_time": "46:58",
+            "short-term": "Manchester City are enjoying some possession and looking to create new attacking opportunities when the moment is right.",
+            "label": "other",
+            "query_ano": "[TEAM] seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "query": "The foul by Wilfried Bony (Manchester City) was seen by Damir Skomina who didn't hesitate to blow the whistle.",
+            "game_time": "47:05",
+            "short-term": "Wilfried Bony (Manchester City) committed a foul, and the referee Damir Skomina quickly blew the whistle. It was a clear challenge that left no room for debate.",
+            "label": "foul",
+            "query_ano": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle."
+        },
+        {
+            "query": "Paul Pogba (Juventus) attempts a long crossfield pass, but the defence does well to intercept the ball.",
+            "game_time": "4:38",
+            "short-term": "Paul Pogba (Juventus) attempted a long crossfield pass, but the defence intercepted the ball. Pogba had swung the pass towards Mario Mandzukic, but Bacary Sagna stepped in to cut it off.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "query": "Mario Mandzukic (Juventus) is offside and the linesman raises his flag.",
+            "game_time": "4:55",
+            "short-term": "Mario Mandzukic (Juventus) was caught offside, and the linesman raised his flag to signal the infringement.",
+            "label": "offside",
+            "query_ano": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+        },
+        {
+            "query": "Juan Cuadrado (Juventus) races towards goal but the defender gets back well to make a challenge.",
+            "game_time": "6:33",
+            "short-term": "Juan Cuadrado (Juventus) raced towards goal, but the defender got back well to make a challenge. Cuadrado attempted a trick to get past Mangala on the edge of the box but lost his balance.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "query": "Mario Mandzukic (Juventus) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It's a throw-in for Juventus.",
+            "game_time": "8:05",
+            "short-term": "Mario Mandzukic (Juventus) played a quick through ball into space for his teammate, but the pass was intercepted by the defender, resulting in a throw-in for Juventus.",
+            "label": "chance",
+            "query_ano": "[PLAYER] ([TEAM]) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. It's a throw-in for [TEAM]."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "game_time": "10:30",
+            "query": "Goal! The ball breaks to Alexis Sanchez (Arsenal) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He makes it 1:0.",
+            "short-term": "Goal! The ball breaks to Alexis Sanchez (Arsenal) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He kept his cool to score in his 100th appearance for Arsenal.",
+            "query_ano": "Goal! The ball breaks to [PLAYER] ([TEAM]) after some poor defending, he finds himself one-on-one with the goalkeeper and calmly puts the ball into the back of the net! He makes it 1:0."
+        },
+        {
+            "game_time": "13:12",
+            "query": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. 2:0.",
+            "short-term": "What a goal! Hector Bellerin plays it to Theo Walcott (Arsenal), who finds himself unmarked inside the box and slots a first-time shot past Thibaut Courtois. Arsenal extend their lead with a well-worked team goal.",
+            "query_ano": "What a goal! [PLAYER] plays it to [PLAYER] ([TEAM]), who finds himself unmarked inside the box and slots a first-time shot past [PLAYER]. 2:0."
+        },
+        {
+            "game_time": "17:52",
+            "query": "Arsenal are bossing possession at the moment by exchanging some precise passes from player to player.",
+            "short-term": "Arsenal are bossing possession at the moment by exchanging some precise passes from player to player. Chelsea are dropping deep, allowing their midfield too much time on the ball.",
+            "query_ano": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "game_time": "18:50",
+            "query": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post.",
+            "short-term": "Alexis Sanchez (Arsenal) receives a pass and unleashes a shot which goes well wide of the right post. He looks frustrated as he sees the opportunity wasted.",
+            "query_ano": "[PLAYER] ([TEAM]) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "game_time": "20:28",
+            "query": "CHANCE! Eden Hazard finds Willian (Chelsea) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post!",
+            "short-term": "CHANCE! Eden Hazard finds Willian (Chelsea) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post! A promising moment for Chelsea as they push forward.",
+            "query_ano": "CHANCE! [PLAYER] finds [PLAYER] ([TEAM]) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the left post!"
+        },
+        {
+            "game_time": "23:32",
+            "query": "This shall not pass! Eden Hazard (Chelsea) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",
+            "short-term": "This shall not pass! Eden Hazard (Chelsea) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by Laurent Koscielny. Arsenal's defense stands firm.",
+            "query_ano": "This shall not pass! [PLAYER] ([TEAM]) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "game_time": "24:37",
+            "query": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee points to the corner flag and Arsenal will take a corner.",
+            "short-term": "Hector Bellerin (Arsenal) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee awards a corner, giving Arsenal another chance to attack.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. The referee points to the corner flag and [TEAM] will take a corner."
+        },
+        {
+            "game_time": "25:20",
+            "query": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger.",
+            "short-term": "The resulting corner from Santi Cazorla (Arsenal) only finds one of the defenders, who heads it out of danger. Arsenal’s attackers look disappointed as the ball is cleared.",
+            "query_ano": "The resulting corner from [PLAYER] ([TEAM]) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "game_time": "27:45",
+            "query": "Today's referee Michael Oliver rightly decides to book Branislav Ivanovic (Chelsea) for his harsh tackle.",
+            "short-term": "Today's referee Michael Oliver rightly decides to book Branislav Ivanovic (Chelsea) for his harsh tackle. Arsenal win a free kick just outside the Chelsea box.",
+            "query_ano": "Today's referee [REFEREE] rightly decides to book [PLAYER] ([TEAM]) for his harsh tackle."
+        },
+        {
+            "game_time": "29:54",
+            "query": "The corner kick from Mesut Ozil (Arsenal) is headed out of the penalty area by one of the defenders.",
+            "short-term": "The corner kick from Mesut Ozil (Arsenal) is headed out of the penalty area by one of the defenders. Arsenal retain possession and look to build another attack.",
+            "query_ano": "The corner kick from [PLAYER] ([TEAM]) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "game_time": "29:30",
+            "query": "The free kick from the edge of the box is taken by Alexis Sanchez (Arsenal), but he hits it straight in the defensive wall. Arsenal have been awarded a corner kick.",
+            "short-term": "The free kick from the edge of the box is taken by Alexis Sanchez (Arsenal), but he hits it straight in the defensive wall. The Chelsea defenders stood firm, and Arsenal win a corner.",
+            "query_ano": "The free kick from the edge of the box is taken by [PLAYER] ([TEAM]), but he hits it straight in the defensive wall. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "game_time": "30:48",
+            "query": "Arsene Wenger is forced to make a change. Francis Coquelin is unable to continue due to injury, Granit Xhaka (Arsenal) comes on.",
+            "short-term": "Arsene Wenger is forced to make a change. Francis Coquelin is unable to continue due to injury, Granit Xhaka (Arsenal) comes on. He quickly settles into midfield.",
+            "query_ano": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        },
+        {
+            "game_time": "34:03",
+            "query": "Theo Walcott (Arsenal) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+            "short-term": "Theo Walcott (Arsenal) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. Arsenal reset their attack.",
+            "query_ano": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "game_time": "39:40",
+            "query": "It's a goal! Mesut Ozil (Arsenal) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from Alexis Sanchez. The score is 3:0.",
+            "short-term": "It's a goal! Mesut Ozil (Arsenal) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from Alexis Sanchez. Arsenal extend their lead.",
+            "query_ano": "It's a goal! [PLAYER] ([TEAM]) scores with a brilliant shot into the right side of the goal after being released inside the box by a superb lofted pass from [PLAYER]. The score is 3:0."
+        },
+        {
+            "game_time": "43:17",
+            "query": "David Luiz (Chelsea) brings his opponent down with a tackle and Michael Oliver blows his whistle for a foul.",
+            "short-term": "David Luiz (Chelsea) brings his opponent down with a tackle and Michael Oliver blows his whistle for a foul. Chelsea’s defense looks unsettled without John Terry.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul."
+        }
+    ]
+}

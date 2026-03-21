@@ -1,0 +1,136 @@
+{
+    "annotations": [
+        {
+            "game_time": "1:14",
+            "query": "Joe Hart (Manchester City) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+            "short-term": "Joe Hart requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch. The goalkeeper looks to be in discomfort as the medical staff rush onto the field.",
+            "query_ano": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "game_time": "14:10",
+            "query": "Sergio Aguero (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Sergio Aguero tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal. Aguero was looking for an opening, but the defender anticipated well.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to send a pass but it's blocked. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "game_time": "16:27",
+            "query": "Wilfried Bony (Manchester City) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",
+            "short-term": "Wilfried Bony fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates. He was trying to work a quick one-two with a teammate, but the shot was inadvertently stopped.",
+            "query_ano": "[PLAYER] ([TEAM]) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates."
+        },
+        {
+            "game_time": "18:13",
+            "query": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",
+            "short-term": "Wilfried Bony collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. The forward had positioned himself well, but the defender reacted quickly to deny him. Players appealed for a corner, but the referee ruled it a goal kick.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "game_time": "20:20",
+            "query": "Sergio Aguero (Manchester City) connects with a cross from out wide in the six-yard box, but only plants his header onto the right post.",
+            "short-term": "Sergio Aguero connects with a cross from out wide in the six-yard box, but only plants his header onto the right post. It was inches away from leveling the score, but the ball bounced away harmlessly.",
+            "query_ano": "[PLAYER] ([TEAM]) connects with a cross from out wide in the six-yard box, but only plants his header onto the right post."
+        },
+        {
+            "game_time": "24:20",
+            "query": "Today's match ends for Juan Manuel Mata who will be replaced by Bastian Schweinsteiger (Manchester United).",
+            "short-term": "Today's match ends for Juan Manuel Mata who will be replaced by Bastian Schweinsteiger. Schweinsteiger enters the field for his 31st appearance, wearing number 31.",
+            "query_ano": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "26:40",
+            "query": "Wow, what an escape. Wilfried Bony (Manchester City) has an effort from inside the box but it's brilliantly blocked. The ball is out of play. Manchester City will have a chance to score from a corner.",
+            "short-term": "Wow, what an escape. Wilfried Bony has an effort from inside the box but it's brilliantly blocked. The ball is out of play. Manchester City will have a chance to score from a corner. A crucial defensive intervention kept the scoreline unchanged.",
+            "query_ano": "Wow, what an escape. [PLAYER] ([TEAM]) has an effort from inside the box but it's brilliantly blocked. The ball is out of play. [TEAM] will have a chance to score from a corner."
+        },
+        {
+            "game_time": "26:32",
+            "query": "Jesus Navas (Manchester City) takes the resulting corner which is well defended. Manchester City will take a corner kick.",
+            "short-term": "Jesus Navas takes the resulting corner which is well defended. Manchester City will take a corner kick. The outswinging delivery was dangerous, but the defense stayed firm.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the resulting corner which is well defended. [TEAM] will take a corner kick."
+        },
+        {
+            "game_time": "29:17",
+            "query": "Jesus Navas (Manchester City) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar.",
+            "short-term": "Jesus Navas strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar. Lacking confidence, he failed to keep the shot down despite having time to set himself.",
+            "query_ano": "[PLAYER] ([TEAM]) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar."
+        },
+        {
+            "game_time": "30:14",
+            "query": "Eliaquim Mangala (Manchester City) is booked after bringing down an opponent. Michael Oliver had an easy-decision to make. There is a free kick near the sideline to Manchester Utd.",
+            "short-term": "Eliaquim Mangala is booked after bringing down an opponent. Michael Oliver had an easy decision to make. There is a free kick near the sideline to Manchester Utd. A late challenge left the referee with no hesitation in issuing the yellow card.",
+            "query_ano": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make. There is a free kick near the sideline to [TEAM]."
+        },
+        {
+            "game_time": "30:56",
+            "query": "Michael Carrick (Manchester United) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",
+            "short-term": "Michael Carrick delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The delivery lacked precision and didn’t trouble the well-organized defense.",
+            "query_ano": "[PLAYER] ([TEAM]) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "game_time": "33:17",
+            "query": "Fernando (Manchester City) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post.",
+            "short-term": "Fernando wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post. The delivery was well-placed, but the execution let him down.",
+            "query_ano": "[PLAYER] ([TEAM]) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header, but it goes well wide of the left post."
+        },
+        {
+            "game_time": "41:10",
+            "query": "Fernandinho (Manchester City) brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Manchester Utd are awarded a free kick.",
+            "short-term": "Fernandinho brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Manchester Utd are awarded a free kick. The fouled player did well to draw the challenge and win possession for his team.",
+            "query_ano": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] are awarded a free kick."
+        },
+        {
+            "game_time": "40:28",
+            "query": "Morgan Schneiderlin (Manchester United) makes a driving run into the box but he cannot work any space for a shot.",
+            "short-term": "Morgan Schneiderlin makes a driving run into the box but he cannot work any space for a shot. The defense stood firm, forcing the ball out of play for a corner.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot."
+        },
+        {
+            "game_time": "42:28",
+            "query": "Jesus Navas (Manchester City) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+            "short-term": "Jesus Navas takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The attacking side had loaded the box, but the defenders remained composed.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "game_time": "45:28",
+            "query": "Sergio Aguero (Manchester City) misses a great chance after he found some space in the box! His effort goes inches wide of the left post.",
+            "short-term": "Sergio Aguero misses a great chance after he found some space in the box! His effort goes inches wide of the left post. He looked frustrated as he knew that was an opportunity to level the score.",
+            "query_ano": "[PLAYER] ([TEAM]) misses a great chance after he found some space in the box! His effort goes inches wide of the left post."
+        },
+        {
+            "game_time": "46:30",
+            "query": "A lofted cross from Gael Clichy (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and Manchester City have been awarded a corner kick.",
+            "short-term": "A lofted cross from Gael Clichy is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and Manchester City have been awarded a corner kick. The clearance was well-timed to prevent any danger.",
+            "query_ano": "A lofted cross from Gael Clichy ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "game_time": "3:27",
+            "query": "Joe Hart is substituted due to injury. Manuel Pellegrini gives a chance to Wilfredo Caballero (Manchester City).",
+            "short-term": "Joe Hart is substituted due to injury. Manuel Pellegrini gives a chance to Wilfredo Caballero. The home fans acknowledge his previous heroics with a warm reception.",
+            "query_ano": "[PLAYER] is substituted due to injury. [COACH] gives a chance to [PLAYER] ([TEAM])."
+        },
+        {
+            "game_time": "7:08",
+            "query": "Substitution. Wilfried Bony (Manchester City) in, Martin Demichelis out.",
+            "short-term": "Substitution. Wilfried Bony comes in, replacing Martin Demichelis. The defender endured a tough time on the pitch and is taken off for a more attacking approach.",
+            "query_ano": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+        },
+        {
+            "game_time": "9:03",
+            "query": "Marcus Rashford (Manchester United) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Manchester Utd have been awarded a corner kick.",
+            "short-term": "Marcus Rashford collects a brilliant pass inside the box and finds himself in a goal-scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The deflection could have caused trouble, but the defense managed to clear it.",
+            "query_ano": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. [TEAM] have been awarded a corner kick."
+        },
+        {
+            "game_time": "8:34",
+            "query": "Wilfried Bony (Manchester City) latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save.",
+            "short-term": "Wilfried Bony latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save. He seemed to mistime his jump, preventing a stronger connection.",
+            "query_ano": "[PLAYER] ([TEAM]) latched on to a cross into the box and headed the ball under the crossbar. A decent header but it lacked power, allowing the goalkeeper to make a comfortable save."
+        },
+        {
+            "game_time": "9:40",
+            "query": "Daley Blind (Manchester United) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",
+            "short-term": "Daley Blind takes the corner but only sends it into a huddle of defenders. One of them makes a good clearance, ensuring the attacking team couldn't capitalize.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        }
+    ]
+}

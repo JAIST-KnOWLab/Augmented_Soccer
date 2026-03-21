@@ -1,0 +1,165 @@
+{
+    "annotations": [
+        {
+            "gameTime": "45:11",
+            "game_time": "45:11",
+            "query": "Marco Asensio (Real Madrid) produces a dangerous lofted cross into the box which is intercepted. The ball goes out of play and Real Madrid have been awarded a corner kick.",
+            "short-term": "Marco Asensio (Real Madrid) produces a dangerous lofted cross into the box which is intercepted. The ball goes out of play and Real Madrid have been awarded a corner kick. Madrid continues its push forward, looking to capitalize on set-piece opportunities.",
+            "query_ano": "[PLAYER] ([TEAM]) produces a dangerous lofted cross into the box which is intercepted. The ball goes out of play and [TEAM] have been awarded a corner kick."
+        },
+        {
+            "gameTime": "42:53",
+            "game_time": "42:53",
+            "query": "Close! Luka Modric (Real Madrid) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post.",
+            "short-term": "Close! Luka Modric (Real Madrid) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post. The attempt had power but narrowly missed, keeping the opposition on edge.",
+            "query_ano": "Close! [PLAYER] ([TEAM]) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post."
+        },
+        {
+            "gameTime": "40:33",
+            "game_time": "40:06",
+            "query": "Goal - 3:0! Lucas laid the ball off to Cristiano Ronaldo (Real Madrid), who shot from close range low into the back of the net, leaving the goalkeeper helpless.",
+            "short-term": "Goal - 3:0! Lucas laid the ball off to Cristiano Ronaldo (Real Madrid), who shot from close range low into the back of the net, leaving the goalkeeper helpless. The quick combination play opened up the defense, allowing an easy finish.",
+            "query_ano": "Goal - 3:0! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range low into the back of the net, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "37:41",
+            "game_time": "37:18",
+            "query": "Stefan Savic (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier.",
+            "short-term": "Stefan Savic (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier. The decision comes after persistent fouling, disrupting the opposition's rhythm.",
+            "query_ano": "[PLAYER] ([TEAM]) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "35:45",
+            "game_time": "35:00",
+            "query": "Lucas (Real Madrid) takes a first-time shot from inside the box, but his poor effort flies way wide of the right post.",
+            "short-term": "Lucas (Real Madrid) takes a first-time shot from inside the box, but his poor effort flies way wide of the right post. The build-up showed promise, but the finish lacked precision.",
+            "query_ano": "[PLAYER] ([TEAM]) takes a first-time shot from inside the box, but his poor effort flies way wide of the right post."
+        },
+        {
+            "gameTime": "31:59",
+            "game_time": "31:59",
+            "query": "Today's match ends for Karim Benzema who will be replaced by Lucas (Real Madrid).",
+            "short-term": "Today's match ends for Karim Benzema who will be replaced by Lucas (Real Madrid). The substitution is met with applause from the crowd, acknowledging Benzema’s contribution.",
+            "query_ano": "Today's match ends for [PLAYER] who will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "27:54",
+            "game_time": "27:42",
+            "query": "Goal! That was a fantastic finish by Cristiano Ronaldo (Real Madrid) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net.",
+            "short-term": "Goal! That was a fantastic finish by Cristiano Ronaldo (Real Madrid) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net. The stadium erupted as Madrid extended their lead, with he showcasing his lethal finishing ability.",
+            "query_ano": "Goal! That was a fantastic finish by [PLAYER] ([TEAM]) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net."
+        },
+        {
+            "gameTime": "26:31",
+            "game_time": "26:06",
+            "query": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",
+            "short-term": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul. Madrid’s defensive line held firm, forcing Atletico’s attackers into physical duels.",
+            "query_ano": "[PLAYER] ([TEAM]) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "23:58",
+            "game_time": "23:38",
+            "query": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle.",
+            "short-term": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle. Atletico is pressing high but struggles to regain control in midfield.",
+            "query_ano": "[PLAYER] ([TEAM]) makes a reckless foul in order to win the ball from his opponent. [REFEREE] has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "22:40",
+            "game_time": "22:15",
+            "query": "Diego Simeone decides to make a substitution. Yannick Carrasco will be replaced by Angel Correa (Atl. Madrid).",
+            "short-term": "Diego Simeone decides to make a substitution. Yannick Carrasco will be replaced by Angel Correa (Atl. Madrid). Carrasco, who had been pushing forward aggressively, is replaced by Correa to inject fresh energy into Atletico’s attack.",
+            "query_ano": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "22:05",
+            "game_time": "22:05",
+            "query": "Isco will be replaced by Marco Asensio (Real Madrid).",
+            "short-term": "Isco will be replaced by Marco Asensio (Real Madrid). The crowd applauds as Asensio enters, bringing fresh legs to Madrid’s midfield.",
+            "query_ano": "[PLAYER] will be replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "17:31",
+            "game_time": "17:18",
+            "query": "Antoine Griezmann (Atl. Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+            "short-term": "Antoine Griezmann (Atl. Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle. His defensive effort was notable, but his overzealous tackle resulted in a foul.",
+            "query_ano": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "14:37",
+            "game_time": "14:25",
+            "query": "Koke (Atl. Madrid) unleashes a shot from 25 metres out but is unable to find the target and it goes well wide of the left post.",
+            "short-term": "Koke (Atl. Madrid) unleashes a shot from 25 metres out but is unable to find the target and it goes well wide of the left post. The attempt lacked precision, as Atletico struggled to break Madrid’s defensive structure.",
+            "query_ano": "[PLAYER] ([TEAM]) unleashes a shot from 25 metres out but is unable to find the target and it goes well wide of the left post."
+        },
+        {
+            "gameTime": "12:34",
+            "game_time": "12:14",
+            "query": "Diego Simeone has decided to make a change. Nicolas Gaitan (Atl. Madrid) replaces Saul.",
+            "short-term": "Diego Simeone has decided to make a change. Nicolas Gaitan (Atl. Madrid) replaces Saul. Gaitan is introduced to provide more creativity and one-on-one ability in Atletico’s attack.",
+            "query_ano": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+        },
+        {
+            "gameTime": "11:53",
+            "game_time": "11:53",
+            "query": "It's time for a substitution. That's the last involvement from Kevin Gameiro as he is replaced by Fernando Torres (Atl. Madrid).",
+            "short-term": "It's time for a substitution. That's the last involvement from Kevin Gameiro as he is replaced by Fernando Torres (Atl. Madrid). Gameiro, who had a great chance earlier, makes way for Torres to add a stronger presence in Atletico's attack.",
+            "query_ano": "It's time for a substitution. That's the last involvement from [PLAYER] as he is replaced by [PLAYER] ([TEAM])."
+        },
+        {
+            "gameTime": "11:40",
+            "game_time": "11:29",
+            "query": "Yannick Carrasco (Atl. Madrid) gets the ball and drives a shot high over the bar from the edge of the area.",
+            "short-term": "Yannick Carrasco (Atl. Madrid) gets the ball and drives a shot high over the bar from the edge of the area. Atletico struggled to find accuracy in front of goal as they continued to search for a way back into the match.",
+            "query_ano": "[PLAYER] ([TEAM]) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "gameTime": "07:30",
+            "game_time": "7:20",
+            "query": "Martin Atkinson shows a yellow card to Saul (Atl. Madrid) for a tough tackle.",
+            "short-term": "Martin Atkinson shows a yellow card to Saul (Atl. Madrid) for a tough tackle. The Atletico midfielder's aggressive play draws protests from the crowd, while Simeone gestures from the sidelines in frustration.",
+            "query_ano": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle."
+        },
+        {
+            "gameTime": "06:09",
+            "game_time": "6:09",
+            "query": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates.",
+            "short-term": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates. Atletico's defense remains disciplined, clearing the danger before Madrid could capitalize.",
+            "query_ano": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "05:37",
+            "game_time": "5:31",
+            "query": "Cristiano Ronaldo (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal.",
+            "short-term": "Cristiano Ronaldo (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes behind for a corner. Madrid's attack continues to press, looking for another breakthrough.",
+            "query_ano": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "04:43",
+            "game_time": "4:43",
+            "query": "Sergio Ramos (Real Madrid) is penalised after knocking an opponent down.",
+            "short-term": "Sergio Ramos (Real Madrid) is penalised after knocking an opponent down. The referee immediately signals the foul, as Atletico players call for stricter action.",
+            "query_ano": "[PLAYER] ([TEAM]) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "02:51",
+            "game_time": "2:56",
+            "query": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge.",
+            "short-term": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge. The midfielder arrived late, bringing down his opponent, prompting quick intervention from the referee.",
+            "query_ano": "[REFEREE] shows the yellow card to [PLAYER] ([TEAM]) for a heavy challenge."
+        },
+        {
+            "gameTime": "02:00",
+            "game_time": "1:53",
+            "query": "Referee Martin Atkinson sees the trip by Stefan Savic (Atl. Madrid) and doesn't hesitate to blow his whistle.",
+            "short-term": "Referee Martin Atkinson sees the trip by Stefan Savic (Atl. Madrid) and doesn't hesitate to blow his whistle. Madrid players appeal for a booking, but the referee keeps his cards in his pocket.",
+            "query_ano": "Referee [REFEREE] sees the trip by [PLAYER] ([TEAM]) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "00:01",
+            "game_time": "0:01",
+            "query": "Zinedine Zidane is forced to make a change. Daniel Carvajal is unable to continue due to injury, Nacho (Real Madrid) comes on.",
+            "short-term": "Zinedine Zidane is forced to make a change. Daniel Carvajal is unable to continue due to injury, Nacho (Real Madrid) comes on. He appeared to be struggling after a previous challenge, leaving coach with no choice but to adjust the defense.",
+            "query_ano": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+        }
+    ]
+}
