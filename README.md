@@ -7,6 +7,7 @@ check Agumentation_Pipeline
 ![dataset](https://github.com/user-attachments/assets/0abc5f97-3ce3-44ac-a198-06001e2b9cf6)
 
 check Dataset
+
 ## Generation
 ### For initial commentary generation
 Please refer to [MatchTime](https://github.com/jyrao/MatchTime)
@@ -15,5 +16,8 @@ Check Context-aware_Generation
 ## Training
 For training, you should implement prepared video or video features.
 Details at [SoccerNet](https://www.soccer-net.org/data) and  [SoccerNet-v2](https://silviogiancola.github.io/SoccerNetv2/).
+## Case Study
+![case_study](https://github.com/user-attachments/assets/f5bde3a9-7de7-4431-9154-5a160e14be83)
 
+## NAN
 coming soon ... !
