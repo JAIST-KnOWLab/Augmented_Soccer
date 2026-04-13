@@ -1,6 +1,7 @@
-# Visual_and_Memory-Augmented_Soccer_Commentary_Generation
+# [ACL 2026] Visual_and_Memory-Augmented_Soccer_Commentary_Generation
+
 ## Commentary Agumentation Pipeline
-check Aumentation_Pipeline
+check Agumentation_Pipeline 
 ## Dataset
 check Dataset
 ## Generation
