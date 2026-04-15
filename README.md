@@ -10,14 +10,20 @@ check Dataset
 
 ## Generation
 ### For initial commentary generation
-Please refer to [MatchTime](https://github.com/jyrao/MatchTime)
+We follow the same step and settings as previous work.
+Please refer to [MatchTime](https://github.com/jyrao/MatchTime).
+
 ### For context-aware commentary generation
 Check Context-aware_Generation
 ## Training
 For training, you should implement prepared video or video features.
 Details at [SoccerNet](https://www.soccer-net.org/data) and  [SoccerNet-v2](https://silviogiancola.github.io/SoccerNetv2/).
+For baidu feature, please refer to [baidu_feature](https://github.com/baidu-research/Soccernet-features)
 ## Case Study
 ![case_study](https://github.com/user-attachments/assets/f5bde3a9-7de7-4431-9154-5a160e14be83)
+
+## Reference
+coming soon ... !
 
 ## NAN
 coming soon ... !
